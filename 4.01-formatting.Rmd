@@ -1,0 +1,52 @@
+# Formatting your thesis  {#formatting}
+
+Let’s face it, after spending so much time writing your thesis, having it formatted so that it looks very smart for submission is gratifying. 
+
+If you chose [Bookdown](bookdown.org) or [thesisdown](thesisdown.org) to write your thesis in, then you'll simply be able to download the correct style file (cls) and bibliography formatting file (bib) and press the build book button in [RStudio](www.rstudio.com) and you'll have your formatted thesis in the time that it takes your computer to render the pdf. You'll still need to look through it and make sure that the output is what you want.
+
+For other, mere mortals, using word-processing packages, you will likely need to invest a lot more time trying to pull together the chapters of your thesis into the correct format. (I'd suggest that right now is not the time to learn Bookdown - unless you are way ahead of schedule!) Try to make it a fun event by listening to your favourite music (very loudly) or having some of your banned tipple (do both if you dare!). It doesn’t require the same level of creative concentration required when writing your thesis, but it does need great attention to detail. 
+
+Be patient and don't try to build mega-big files in word-processing documents, they tend to crash. Instead, copy the template file and compile one chapter at a time, placing them together only at the end for a final build.
+
+Your university will have their own stipulation for exactly how they want the thesis formatted. Here, I provide a check-list for the last things to do before you submit. The chances are that your university will have a bunch of helpful links. Make sure that you follow the guidelines of your own institution well in advance of submitting your thesis. 
+
+
+### Must do check-list before submitting your thesis:
+The following points are based on what may irritate or annoy your examiner (and you really don’t want to do that!):
+
+- Spell check - yes, it sounds obvious but doing a final spell check is a good idea. Not only this, but take the time to have your word processor ignore or add all of the special words (e.g. species or site names) that it doesn’t otherwise recognise. This will ensure their consistency throughout (within and between chapters).
+- Make sure that your language settings are set to ‘UK English’ (or the English setting for where you are based. 
+- Look out especially for words that have different accepted spellings like those ending in -ise or -ize. Decide which you want and be consistent. Consistency is king!
+- Capitalisation of [common names](taxonomy.html), place names and not adjectives. For example, ‘South Africa’ has two capitals, but ‘southern Africa’ only has one.
+- Grammar check - always good to take a final look, especially for chapters that you wrote some time ago. 
+ + Use the word processor automated options to help you. 
+- Have your computer or another device read the text so that you can hear anything obviously wrong.
+- Pay attention if you have used “we” or “I” and make sure they are consistent in your thesis. As a rule I encourage “I” in a thesis, unless the chapter is also a manuscript, in which case “we” is usually correct.
+- Page layout. Really important to get this right in your template. Make sure that your template has:
+  + Correct paper size (A4 and not US letter - or visa versa!)
+  + Margins
+  + Line spacing
+  + Page numbers
+  + Line numbers (really helps your examiners)
+- Headers and Footers. If you can manage a chapter specific header, it’s useful to show your name and a short chapter title.
+- Sections and subheadings. I’ve encouraged you to use subheadings throughout your thesis. Here you have a chance to number them sequentially. This is very useful for your examiners and may be a requirement for the university. Using the [word processor’s](software.html) built in functions will make this task consistent and easy.
+- I dislike writing within a formatted document (as word processors can start getting weird), so my preference is to cut and paste written text into a template at the end. 
+- Remember to give them a check through before handing it in. If you’ve done the sections correctly, then the contents page will come out right.
+- [Title page](title:html) - prescribed very strictly by the university. The librarians place the SU watermark after final submission to the library. It may be tempting to change your title now that you know what's in the thesis, but many universities have strict policies about this. If you want to change the title, make sure that you are able to do so.
+- Content page - word processors can do this automatically if your thesis is formatted correctly throughout (see sections and subheadings above). 
+  + You can check this to make sure that you’ve done all of your sections and subheadings correctly.
+- [Acknowledgements](acknowledgements.html) - this is your time to say thank you to all the special people that have helped during your study. There are probably more than you realise, but in addition to your friends and family (who most people don’t forget), think about the people who administered the work, lab mates (past and present) who were always there to help, and people who gave permission at study sites. 
+- [References](references.html) - probably one of the most dreaded sections of any thesis preparation, but they do have to be done. If you’re one of these people that has everything in a [database](database.html), then you’ll be laughing or cursing your database throughout. While it might be tempting to only look through the data within the database, spend some time to see how it’s displayed in the thesis. A mistake in the reference database will be multiplied many times in the thesis. Remember that examiners love to take a random look through the reference section to make sure that it’s all good. After years of painfully entering references themselves, they know just what to look for. 
+
+
+### Mistakes people make:
+Other than the obvious things, all mentioned above, here are some of the mistakes I’ve seen.
+
+- Submitting the wrong version (yes this does happen!). Probably worse if having a mixture of right and wrong versions for different chapters (worse because it takes longer to sort out)
+- Last minute additions to text with incorrect spelling and or grammar
+- Two correctly spelled synonyms sitting next to each other when only one is desired (probably came about when editing)
+- Forgetting to check for plagiarism (see here)
+- Comments and or edited text (especially when it’s marked as being by someone other than the student).
+- Page numbers that start again and again at different sections
+- Lots of blank pages or spaces (avoid blank pages if you can, and try to limit the amount of blank space (never >half a page).
+- Leaving important people out of the acknowledgements (e.g. advisor, administrators, funders, etc.)

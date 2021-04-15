@@ -1,0 +1,60 @@
+# Writing the sections that make up your chapter  {#part3}
+
+Getting over the cognitive inertia of starting to write is top of the list for most of us. The approach provided here is to present you with a formula that breaks down each section into smaller more reasonably sized chunks. However, you still need to make a start. Procrastinating starting to write is normal. It seems a massive task, even if you’ve done it lots of times before. You want to write the best manuscript that you can, but you aren’t feeling on top form today, so doesn’t it seem a better idea to wait until tomorrow? It’s not. You must start today and start now. Don’t set the bar so high for your first draft. In fact, don’t set any bar other than a personal goal of getting the first draft done. 
+
+For the first draft, type away confident in the knowledge that 90% of the first draft will get junked or changed so much that you won’t recognise it. That’s ok, and it’s not a waste of your time. In fact, the first draft is invaluable in getting your ideas and perspective down on paper, allowing you to better organise and sift through your thoughts to bring clarity to your manuscript. Allow yourself a reward for finishing your first draft, something that you won’t do until it’s done. Now make life easy for yourself by changing the order of what you write.
+
+Although I have placed the contents of this chapter as you’d expect to see them in a typical paper, this is not the order I would suggest that you write them in. The most important part of writing up your chapter or paper is to have your hypothesis or question clearly stated. Once you have this, it will help you to know the literature that is already there and so writing the introduction next seems logical. Of course, you may already have [your proposal](proposal.html) to work with, in which case you can start by reviewing what you already have and deciding whether or not you need to tweak this, or if you need a fresh start. 
+
+The methods and materials are the easiest section to write first, especially if you've already done the practical work. This section will also help you focus on the analysis that you are doing for the results. Again you should review your proposal and see whether there were any significant changes to your planned methodology and note them down. This will not be an issue even if you have [preregistered your proposal](transparency.html), you simply need to provide a rational explanation for why things changed.
+
+Next write the results. Remember that you are only looking to respond to your hypotheses, preferably using your (preregistered) proposal plans. Tables and figures are compiled along with the results. Now you have the materials and methods together with the results in full. I suggest that you make a list of all the relevant discussion points you want to make and then turn your attention to the introduction. Begin with an outline, before you flesh it out. 
+
+Lastly, write the abstract. Populate your article with references as you write. While you can leave the formatting of references until the end, it’s dangerous to not put citations in as you write as you are likely to forget which paper is which by the end.
+
+
+## Title page {#title}
+
+Most of the following information in this section on the title pertain to getting a manuscript ready for submission to a journal. For your thesis, I would recommend that you have a title page for each chapter that lists any collaborators and their contributions so that this is transparent for the examiners. It also helps break up the document and can be a good spot for a non-academic illustration (if your institution permits).
+
+Nearly all journals will require you to have a title page for your manuscript. This may or may not include authors. Check to see whether the journal that you are submitting to conducts double-blind review. If they do, they will require a title page without any indication of authors or institutions (they will also likely ask you to remove the acknowledgements section). This should be clearly specified in the instructions to authors of your chosen journal.
+
+### Names and addresses are important {#ORCID}
+
+Getting authors' names correct, their correct addresses (many people have more than one affiliation), can be tricky. Check that you have all of the information required of a title page before you submit. While you need the names of your co-authors to be displayed correctly, you do not need their titles (no Dr. or Prof., etc.).
+
+Indicate clearly who is the corresponding author. Normally, if you have done all of the rest of the work, the corresponding author should be you. You need to learn how to start this role at some point, so it might as well be now. Having the correct name and address will be important to each author. Along with the author names and addresses you should record the ORCID [see part 3](ORCID.html) of each author. The ORCID is simply a unique identification code for individual researchers. ORCID is a non-profit organisation and there’s nothing sinister in signing up. If they (or you) don’t have one, then you should ask them to create one before the submission. It takes less than 5 minutes. Go to www.orcid.org
+
+Note that the same information given in the title page will also be needed when you enter the information into the journal submission site.
+
+Work closely with your advisor, and make sure that your co-authors are aware of the correspondence that arrives from the journal. Use an address for correspondence that you know you check regularly. It;s also worth checking the spam of your email regularly so that you catch any correspondence that might have been misclassified. The golden rule for the corresponding author is the timely communication with the other authors when decisions have to be made. 
+
+### The Title
+
+The title of your paper, chapter or book is the first thing that any reader will read, and so should be well considered. If your reader cannot quickly understand your title, the chances are that they won’t bother reading any further. Your title will be your selling point, and your aim is to use it to draw your readership in. Once you’ve managed to invegle your readers to download your paper, your title is also their hook for remembering your paper in their database of thousands of others. Having their key word in your title will help here, and as ever with writing your challenge is to think like your reader. The best titles are those that sum up the entire study in five to seven words. This is best done in a narrative that tells the story ([see part 2](storytelling.html)) of your manuscript in its entirety. This may sound daunting, but you should get into the habit of summing up your story quickly (for friends, relatives and work colleagues). Then it’s a question of refining this story into the short single sentence that makes up the title. While the narrative approach may not work for you, you do want the title to provide enough information so that the potential reader knows what they will find before they open it. Your title doesn’t just have to work for you, it needs to work for a wide audience. 
+
+Some people are excellent at writing titles that contain puns of well known phrases or sayings. These can be brilliant, working both to inform what’s in the paper as well as providing some familiar input that helps retain them in memory. However, many fail to do either and are simply a waste of space. If you are tempted to use a pun as your title, make sure that it is widely appreciated, and not just among your co-authors and lab.
+
+You don’t have to come up with a killer title from day one. Most of my manuscripts have a working title that gets revised as I write, and is always open for change before submission. If you have great ideas for a title, do note them down. I find that the more options I have, the more likely I am to come up with something that works for everyone. It also helps to mix and match from a set of candidate titles. Once you have come up with something that looks good to you and your colleagues, test it by entering it into your database of choice (with the default being Google Scholar - see Part 2). Your first 10 results should include a set of papers that you have likely cited in the upper area of your introduction. If you don’t recognise any out of the top 10, it’s time to look at another of your candidate titles.
+
+
+#### Some title ideas to start you off
+- Don’t start by looking for the best title
+  + Write a number of candidate titles and ask your co-authors to vote for their favorites.
+- The shorter and catchier your title can be the better: 6 words (±1) is an ideal.
+  + Allow yourself a longer subtitle if needed, but don’t go over 20 words total (some journals may limit your total to less). 
+  + Consider the (former) 120 character limit of a Tweet as an upper limit
+- Do include your principal finding if possible
+- Include as many key words as you can
+
+#### Things to avoid in your title
+ - Don’t feel obliged to include [taxonomic terms](taxonomy.html) unless it is relevant or compulsory
+   + Some (taxonomically minded) journals will insist on the species name followed by the taxonomic authority, and/or the family and order, in your title
+ - Avoid obscure or specialist words that won’t be understood by your readership
+   + There are times when key words are necessarily specialised and your readership will expect this, but simpler words in your title will open up your readership which will otherwise remain narrow
+ - Don’t simply define the scope of your work without including your content.
+ - Don’t have your title as a question. Rather provide the answer!
+
+
+### Key Words
+The key words are a way for readers to find your content with searches. Typically, the advice is to use words that are not in the title or abstract. This is because many databases have combined searching facilities for title, abstract and key words. I struggle to think of appropriate key words. Some of the big idea words and short phrases from the introduction. Then I tend to look at articles in the same genre, and see what key words they have used. As with the title, I suggest that you enter your chosen key words into your literature database of choice [see part 2](database.html) and see what comes back. You should see a group of papers that look wholly familiar and preferably those that are already cited in your manuscript. If not, it’s time to look again.

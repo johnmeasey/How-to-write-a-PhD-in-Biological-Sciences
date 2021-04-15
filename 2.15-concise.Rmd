@@ -1,0 +1,70 @@
+## Writing concisely {#concise}
+
+So far, I have put an emphasis on a writing formula in order to get started writing. Many students have a problem in knowing where and how to get started with what seems to be a daunting prospect: writing a proposal or writing the entire thesis. I still feel that getting started quickly and efficiently with some confidence is one of your most important steps. But once you've made it through your first draft, you'll begin to find that you need to start refining your writing. That is saying what you need to say in less words and space.
+
+In an ideal world, what goes into your thesis will be of the same quality as the accepted manuscript. The reality is that the thesis is often more wordy, with the result that reviewers and/or editors will ask you to be more concise. How can we achieve this?
+
+Someone else has written a great essay with 10 top rules to help you be concise. The essay is Open Access, and there's no need for me to repeat the words of Scott Hotaling [-@hotaling2020simple]. However, I am going to write some comments of my own on his rules. There are some other posts that are also worth a second look along with this one: see here and here.
+
+Here, the rules are Scott's, the comments are mine:
+
+### Rule 1. Take writing seriously
+
+It is likely, that like me, you chose to do science at school instead of useful subjects such as English and/or other languages. It might have also occurred to you that it was a really bad idea not to have done more earnest work in languages now that you are expected to write like a professional. Certainly, if you did pay more attention in languages in school, you may not be suffering with the rest of us now. Personally, I never received tuition in the grammatical construction of English. Thus I'm left in the dark most of the time about exactly what is wrong. Instead, I simply try to rework a sentence into what I know is correct [and I often don't achieve that]. The lesson then is that should you come across an opportunity to learn more about writing, do take it. 
+Although we talk about writing science here, the grammatical rules of writing (in English) are fairly universal (with some local exceptions), so do practice your writing. Maybe write a letter (or long email) instead of making a call sometimes. It'll also help you to read (see here). If you are a keen reader, then you could do worse than reading some Kurt Vonnegut. Scott provided this link to an article I hadn't seen before. Go on, give it a read!
+
+### Rule 2: Identify and stick to your message
+
+It's important to avoid distracting your reader (see [Part II](part2.html)). Your aim is to be thorough, which will mean including all relevant information, but don't allow your writing to sideline them into taking the wrong direction. You need to stick to your narrative like a highway. The highway analogy is useful as although you will see signs to other places that you can point out (to the reader), you shouldn't turn off the highway. The best of highways will also be free of traffic jams (think long, complex sentences here). and toll free ([no paywall](paywall.html)).
+
+This will mean that you may need to delete some of what you've written, and that can be hard (especially when they are the best bits). You can always keep a file with all the best bits that you've never used. Maybe one day you'll use them. Or maybe one day you'll see that they weren't quite as good as you thought they were.
+
+### Rule 3: Get to the point
+
+If the highway is 'your message' then getting to the point is the big sign that states the destination. 
+
+Some of the best papers I've read manage to encapsulate the whole point in the first sentence, or better still in the title. Our formula has you getting to the main question in the last paragraph of the introduction, but you should have already 'got to the point' in the first paragraph - i.e. the point that is the bigger picture. 
+
+### Rule 4: Keep your Methods and Results contained
+
+You can find a guide to writing your methods in [Part III](part3.html). This rule is about not allowing the methods to creep out of this section and into the results, or even the discussion. Similarly with the Results. There are some specific times when this is permitted (such as a post-hoc test), but generally you shouldn't expect to do this. 
+
+### Rule 5: Do not repeat yourself (too often)
+
+Redundancy is often rife in proposals, theses and manuscripts. If you've produced a table with all of the results, then they don't need to be in the text. The same with a figure, especially Figure 1 which is often a descriptive map or diagram of apparatus. Have it once, but you don't need it twice.
+
+Copy and pasting is very easy, and a good way of suddenly producing vast quantities of text. But repeated text is quickly recognised by the reader and appears very boring and cumbersome. This is likely to happen in the Methods and Results sections. If you find yourself deciding that you can simply cut and paste this paragraph while changing the variable names and the numbers, then you are wrong. Don't ever do it. 
+
+Also, please don't cut and paste sections of methods from one part of your thesis to another. Just don't do it.
+
+People also have a tendency to build the abstract by copying and pasting text from the main sections. Don't do it. The reader will quickly see the repetitions and become bored. Similarly, the conclusion/summary section is also often copied from lines above. If it's not worth writing again, then it wasn't worth writing before. Make it fresh, and keep it interesting!
+
+### Rule 6: Avoid unnecessary or inefficient “lead‐ins”
+
+Interesting. I'd say that you need some practice and a critical eye to spot these kinds of errors. Having your advisor help or someone who has edited a lot of text. Scott's got some great examples, and so I'll let you peruse them here. 
+
+### Rule 7: Use first‐person, active voice
+
+For some reason, most students avoid this at all cost. There appears to be the idea that saying "I" or "we" isn't correct for scientific writing. In fact, it can be the easiest way to avoid the passive voice. I've written more on this elsewhere... see here.
+
+### Rule 8: Remove unnecessary words
+
+This is really getting down to the nitty gritty. It's hard to do this yourself. It's much easier for someone else to show you. Typically I only do this level of word-smithing for abstracts or when the imposed word limit means that you really need to remove excess words. However, Scott is correct that if you can learn to do this yourself, it will improve your writing. 
+
+Personally, I like to slip in the odd 'as well as' instead of 'and', just to ring the changes. Scott would remove them, and you can see where he'd edit out other examples. Do we really have to be so hardline? I'd say that there are times when it helps.
+
+### Rule 9: Simplify your language
+
+This is always a good idea. Making three short sentences instead of one very long one is much better. It also helps you avoid complicated grammatical clauses. 
+
+### Rule 10: Seek and embrace feedback
+
+I spend a lot of my time reading and commenting on the writing of my students. Every comment is made to improve the document. I do get mad when I find that this help is ignored without an indication why. My suggestions or comments are simply deleted. Certain students become very hard work when they don't even explain why they refuse to change something. You should have noted by now that it's all about being flexible, and being stubborn about anything you've written isn't going to work. Reading the work of these students quickly becomes a chore. 
+
+### Rule 11: Read it yourself
+
+Here's a rule that Scott didn't have. Perhaps it should have been inserted higher up the list. As I've said elsewhere (here for example), it would help you to have your work read through by one of your colleagues before you give it to your advisor. But above all, you must be prepared to read __all of your work__ yourself. Not just the first time you write it, but for **every** version. Please don't ever expect your advisor to read something through when you can't be bothered to read it yourself. 
+
+Being concise is a great way to write well, and the abstract is a case in point.
+
+Please don't forget to read Scott's 10 rules as written by Scott [@hotaling2020simple].

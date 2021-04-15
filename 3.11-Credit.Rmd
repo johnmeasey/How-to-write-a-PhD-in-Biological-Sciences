@@ -1,0 +1,41 @@
+## Who did what? {#credit}
+
+More and more journals are asking authors to supply information about who did what. This is an attempt to increase transparency and reduce the incidence of ghost authorship.
+
+There are a lot of politics around authorship. How do you decide whether or not someone did enough to be included on an author line. This is a very important point that we cover elsewhere. All that I will say here is that this should have been decided early on in the study. Everyone should know whether or not they are going to be an author at the time that they participate. No one should ever find out but they were not an author by reading their name in the acknowledgements.  
+
+### CRediT where it’s due
+
+After many iterations, there is now a widely recognised list of 14 different ways in which authors can contribute towards a study (Table \@ref(tab:CRediT)). Even when the study is a chapter in your PhD thesis, it's unlikely that you can put your name next to every role in the CRediT taxonomy. This does give you some realistic perspective about the collaborative nature of science.
+
+Table: (\#tab:CRediT) **There is now a recognised list of different ways in which authors contribute to publications.** The CRediT taxonomy allows you to ascribe contributions from each of the authors into one or more of 14 different roles.
+
+| **Ways in which authors contribute to studies** |
+|------|
+| Conceptualisation | 
+| Data curation |
+| Formal Analysis |
+| Funding acquisition |
+| Investigation |
+| Methodology |
+| Project administration |
+| Resources |
+| Software |
+| Supervision |
+| Validation |
+| Visualisation |
+| Writing – original draft |
+| Writing – review and editing |
+
+If you want to know more about each of these roles and how they Are defined in the CRediT taxonomy then please visit the site. You can also ‘claim’ these roles under your [Rescognito profile](https://rescognito.com/), linked to your ORCID account. 
+
+Even if the journal that you are submitting to does not use the credit taxonomy I would suggest that you use this as the basis for your saying who did what in the publication. See a blog article on this [here](http://crosstalk.cell.com/blog/giving-authors-the-credit-they-deserve). Otherwise you could end up with what is known as hyperauthorship, a phenomenon evidenced by massive co-authorship levels [@cronin2001hyperauthorship].
+
+### Ordering the author line up 
+In Biological Sciences it is traditional for the author who did most of the work to take the first position. For you and your thesis you are most likely to be the first author, certainly for all of your thesis chapters. 
+
+The last position is normally for the head of the laboratory in which the work was undertaken. This would usually be your advisor, but could be another collaborator, if for example, you went to do some work in their laboratory. Funding also plays a role here, and if you are unsure about who should be listed last, then ask your advisor.
+
+In between the first and last authors is a bit of a no-man's land. Some people order it by who did most (closest to first), but then there is also a push to be closest to last place (closest to being more senior). Alphabetical also works, but that often benefits or penalises those who have names that regularly appear higher up or lower down in the alphabet. One colleague is always first to suggest alphabetical order as he regularly ends up as last author. If it isn’t part of your thesis, should you still be an author? 
+
+There is such a thing as shared first (and even last) authorship. You see these appearing with increasing regularity, marked with an asterisk or other symbol. Hence, there can be several top spots, and these should work just fine for your CV. 

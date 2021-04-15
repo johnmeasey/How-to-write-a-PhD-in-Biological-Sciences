@@ -1,0 +1,104 @@
+## Making a presentation from your chapter, paper or proposal {#proposal-presentation}
+
+In theory, it couldn’t be easier to take your written work, be it a research proposal, paper or chapter, and turn it into a presentation. Many people find presenting ideas easier than writing about them, as writing is inherently difficult. On the other hand, standing up in front of a room of strangers, or worse those you know, is also a bewildering task. In this section, the aim is to break down the task of making a presentation into a number of smaller steps so that you can tackle each one in turn and make sure that you are ready.
+
+1. **Give yourself plenty of time to prepare**
+Although your presentation might be weeks away, you are going to need ~4 weeks to get the presentation ready, run it past your advisor (and potentially other co-authors), and practice your talk. As usual, my advice is not to leave it until the last minute to prepare as you'll get out what you put in. 
+2. **Know who your audience is and what they expect**
+If you have no idea of who your audience will be and what they will be expecting, then attend some other talks in the same seminar series, or ask your advisor and/or other lab colleagues for input. The more cross-disciplinary your audience is, the more general you should make your talk. If you've still no idea, pitch it for a very broad audience at last year undergraduate level.
+3. **Be sure of exactly how much time you will have to talk**
+Be aware that your time slot might include time for questions, and so find out exactly how much talking time you have. If there is a long time set aside for discussion, you might want to throw some extra slides in that can help facilitate answering expected questions.
+4. **Make sure you know the format of the presentation**
+If you don't know, then you can't make any assumptions about what might be present in the room where you give your presentation. I turned up to give my talk with a presentation on a USB drive only to find that there is no computer, no projector and a room of people expecting me to entertain them for an hour. Even if you know that a projector is present, it's good to have some extra context: 
+  + for example is the computer Mac, PC or Linux; 
+  + should you bring your own laptop; 
+  + is there a pointer; 
+  + can it advance slides
+  + If in doubt then bring your own accessories.
+5. **Know exactly where you are giving your talk and plan for plenty of travel time**
+Hopefully, you will be very familiar with the venue, and travelling to the venue will only involve a brief walk. I've made some rookie errors in the past, including deciding to cycle to the venue, getting caught in a cloudburst and arriving literally dripping wet (it was in the UK). The more comfortable you are with the whole setup, and the more organised you can be about getting yourself there without incidents, the better the talk will go for you.
+
+Essentially, you have a story to tell, but does not mean you are story telling. It means that your presentation will require you to talk continuously for your allotted period of time, and that the sentences must follow on from each other in a logical narrative; i.e. a story. 
+
+### So where do you start?
+
+#### Here are some simple rules to help guide you to build your presentation:
+
+- One slide per minute: However many minutes you have to present, that’s your total number of slides. Don’t be tempted to slip in more.
+- Keep the format clear: There are lots of templates available to use, but you’d do best to keep your presentation very clean and simple.
+- Be careful with animations: You can build your slide with animations (by adding images, words or graphics). But do not flash, bounce, rotate or roll. No animated little clipart characters. - No goofy cartoons – they’ll be too small for the audience to read. No sounds (unless you are talking about sounds). Your audience has seen it all before, and that’s not what they’ve come for. They have come to hear about your research proposal.
+- Don’t be a comedian: Everyone appreciates that occasional light-hearted comment, but it is not stand-up. If you feel that you must make a joke, make only one and be ready to push on when no-one reacts. Sarcasm simply won’t be understood by the majority of your audience, so don’t bother: unless you’re a witless Brit who can’t string three or more sentences together without [in which case you have my empathy].
+
+#### A formula for presenting a proposal 
+
+1. You need a title slide (with your name, that of your advisor and institution)
+1. Several slides of introduction
+  + that put your study into the big picture
+  + explain variables in the context of existing literature
+  + explain the relevance of your study organisms
+  + give the context of your own study
+1. Your aims and hypotheses
+1. Methods and Materials
+  + Images of apparatus or diagrams of how apparatus are supposed to work. If you can’t find anything, draw it simply yourself.
+  + Your methods can be abbreviated but the methods are important for a proposal, especially the numbers of replicates and the variables that you plan to measure from them. 
+  + Analyses are important. Make sure that you understand how they work, otherwise you won’t be able to present them to others. Importantly, explain where each of the variables that you introduced, and explained how to measure, fit into the analyses. There shouldn’t be anything new or unexpected that pops up here.
+1. Expected results
+I like to see what the results might look like, even if you have to draw graphs with your own lines on it. Use arrows to show predictions under different assumptions.
+1. Budget
+1. Timeline
+
+
+#### A formula for presenting a chapter or paper
+
+1. You need a title slide (with your name, that of your advisor and/or co-authors and institution). Most institutions have logos, and they like you to use them.
+1. Several slides of introduction
+  + that put your study into the big picture
+  + explain variables in the context of existing literature
+  + explain the relevance of your study organisms
+  + give the context of your own study
+1. Your aims and hypotheses
+1. Methods and Materials
+  + You are going to have to skip details of the methods
+  + Be prepared to pare this down to the important stuff
+  ++ variables
+  ++ replicates
+  ++ analyses
+  + Use diagrams and images if you can
+1.Results & Discussion
+  + If you have a lot of results, then it makes sense to discuss them while they are still fresh in the minds of your audience. 
+  + If you had several hypotheses, then place reminders of what they are when you respond to them with the results
+1. Summary 
+  + state initial hypotheses and whether or not you accept them
+  + give some ideas for next steps
+
+### Know your story first, and then make your presentation
+
+Despite previous sections [of this book](storytelling.html) cautioning you against storytelling, you really need to have turn your study into a story in order to present it well. This means that you know what the message you want to reveal to the audience is.  When you develop your story, be imaginative and creative. There are plenty of different styles to telling stories, and you should feel free to borrow styles that best fit your scenario. For example, you can reveal the punch line right at the beginning, and then work back through the presentation to show how you arrive there (but always try to keep something to reveal on the way there). Props are also excellent to produce in talks, something that you can bring with you, and show to an audience, that reveals more about your study. You want your audience to understand your story, but you also want them to remember it. Anything that will help them remember is likely to be a good prop. 
+
+In order to keep your audience with you, you need to produce reminders throughout the presentation. This could be themed images or colours that correspond to particular concepts, questions or ideas. If you get confused and can't work out how to present all of the information, then the chances are that your audience won't be able to keep track either. Slim down your study to something that will be easier to put to a story. Just like a real story, some things can't be left out, like characters (i.e. variables) that you rely on to answer your questions. Don't take time to talk about anything off the prepared storyline, as you'll likely lose the audience or confuse them. Treat your main variables like characters that appear with some regularity and consist characteristics throughout the story.
+
+Remember that you don't need to include every detail in your slides or your talk. If the audience can follow your story, but wants to know the details at the end, then they can ask questions about the details. Indeed, you can tell your audience precisely this as a way of side-stepping chunks of (especially) methodologies.
+
+The audience is there to listen to you tell your story, and your slides (if you decide to use them), should be props that help you tell your story. Talk and interact with the audience to tell your story. Point to the slides to help you illustrate the points that you can't otherwise make, or to underline important points in your story. Above all, you need to make sure that the audience is listening to you tell your story. 
+
+__Fewer words are better. Tell the story yourself using the props on the slide__
+
+### Slide layout
+
+1. Your aim is to have your audience listen to you, and only look at the slides when you indicate their relevance. 
+1. You’d be better off having slides without words, then your audience will listen instead of trying to read. As long as they are reading, they aren't listening. Really try to limit the words you have on any single slide (<30). Don’t have full sentences, but write just enough to remind you of what to say and so that your audience can follow when you are moving from point to point.
+1. Use bullet pointed lists if you have several points to make (Font 28 pt)
+1. If you only have words on a slide, then add a picture that will help illustrate your point. This is especially useful to illustrate your organism. At the same time, don’t have anything on a slide that has no meaning or relevance. Make sure that any illustration is large enough for your audience to see and understand what it is that you are trying to show.
+1. Everything on your slide must be mentioned in your presentation, so remove anything that becomes irrelevant to your story when you practice.
+1. Tables: you are unlikely to have large complex tables in a presentation, but presenting raw data or small words in a table is a way to lose your audience. Make your point in another way.
+1. Use citations (these can go in a smaller font: 20 pt). I like to cut out the title and authors of the paper from the pdf and show it on the slide.
+1. If you can, have some banner that states where you are in your presentation (e.g. Methods, or 5 of 13). It helps members of the audience who might have been daydreaming.
+
+__Large font, symbols that are consistent, familiar themes and photos all make for a good slide__
+
+### Practice, practice, practice
+
+1. It can’t be said enough that you must practice your presentation. Do it in front of a mirror in your bathroom. In front of your friends. It's the best way of making sure you'll do a good job.
+1. If you can't remember what you need to say, write flash cards with prompts. Include the text on your slide and expand. When you learn what’s on the cards, relate it to what’s on the slide so that you can look at the slides and get enough hints on what to say. Don’t bring flashcards with you to your talk. Instead be confident enough that you know them front to back and back to front.
+1. Practice with a pointer and slide advancer (or whatever you will use in the presentation). You should be pointing out to your audience what you have on your slides; use the pointer to do this.
+1. Avoid taking anything with you that you might fiddle with.

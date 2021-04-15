@@ -1,0 +1,288 @@
+\contentsline {fm}{List of Tables}{xiii}{chapter*.1}%
+\contentsline {fm}{List of Figures}{xv}{chapter*.2}%
+\contentsline {fm}{Welcome}{xix}{chapter*.3}%
+\contentsline {fm}{About the Author}{xxv}{chapter*.9}%
+\contentsline {fm}{Do you have something to contribute?}{xxvii}{chapter*.10}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}So you are doing a PhD?}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}What is a PhD?}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Is a PhD more than a thesis?}{2}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Criteria used to judge PhD studies}{3}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Who are the examiners?}{4}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}What will you do after your PhD?}{4}{subsection.1.1.5}%
+\contentsline {subsubsection}{\numberline {1.1.5.1}Doing a PhD actually reduces your chance of employment and lowers your pay}{5}{subsubsection.1.1.5.1}%
+\contentsline {subsection}{\numberline {1.1.6}Think about your career before you start your PhD}{7}{subsection.1.1.6}%
+\contentsline {subsection}{\numberline {1.1.7}Don't rely on becoming an academic}{7}{subsection.1.1.7}%
+\contentsline {subsection}{\numberline {1.1.8}Doing a PhD is really hard work}{8}{subsection.1.1.8}%
+\contentsline {subsection}{\numberline {1.1.9}Your mental health will likely suffer}{8}{subsection.1.1.9}%
+\contentsline {subsection}{\numberline {1.1.10}Any PhD has to be yours}{8}{subsection.1.1.10}%
+\contentsline {subsection}{\numberline {1.1.11}Does it matter where you do your PhD?}{8}{subsection.1.1.11}%
+\contentsline {subsection}{\numberline {1.1.12}What to look for in an advisor}{9}{subsection.1.1.12}%
+\contentsline {subsection}{\numberline {1.1.13}What to avoid in an advisor}{11}{subsection.1.1.13}%
+\contentsline {subsection}{\numberline {1.1.14}What makes a good project?}{12}{subsection.1.1.14}%
+\contentsline {subsection}{\numberline {1.1.15}Funding your PhD studies}{12}{subsection.1.1.15}%
+\contentsline {subsubsection}{\numberline {1.1.15.1}The funding that you need to live}{12}{subsubsection.1.1.15.1}%
+\contentsline {subsubsection}{\numberline {1.1.15.2}The cost associated with your studies.}{13}{subsubsection.1.1.15.2}%
+\contentsline {section}{\numberline {1.2}Reconciling yourself to doing things you've been avoiding}{14}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}And learning lots of other stuff\ldots {}}{15}{subsection.1.2.1}%
+\contentsline {section}{\numberline {1.3}The scientific project and scientific living}{15}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Example: Invasive species}{16}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Should society lead the sciences or sciences lead society?}{18}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Carl Sagan's ``Baloney detection kit''}{18}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Live your life scientific}{20}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Citizen science}{21}{subsection.1.3.5}%
+\contentsline {section}{\numberline {1.4}A healthy body to go with your PhD mind}{21}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Being physically active improves concentration}{21}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Time to think}{22}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Balancing work with life}{22}{subsection.1.4.3}%
+\contentsline {chapter}{\numberline {2}How to get started with writing}{23}{chapter.2}%
+\contentsline {section}{\numberline {2.1}How to write a hypothesis}{24}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}What is a hypothesis?}{25}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}What a hypothesis isn't}{26}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}A formulaic way to start writing your hypothesis:}{26}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.1}Endogenous causal explanations}{27}{subsubsection.2.1.3.1}%
+\contentsline {subsubsection}{\numberline {2.1.3.2}Exogenous causal explanations}{27}{subsubsection.2.1.3.2}%
+\contentsline {subsubsection}{\numberline {2.1.3.3}Evolutionary causal explanations}{27}{subsubsection.2.1.3.3}%
+\contentsline {subsection}{\numberline {2.1.4}Teleological versus Causal Hypotheses}{28}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}How to evaluate your hypothesis}{28}{subsection.2.1.5}%
+\contentsline {section}{\numberline {2.2}Being aware that you can get it wrong}{29}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Changing the likelihood of a hypothesis}{31}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Increasing the statistical power}{33}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}What happens if you don't have a hypothesis?}{34}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Central problematic}{34}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Does it matter that you don't have a hypothesis?}{35}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Avoid HARKing}{35}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}What's the big idea?}{36}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}The funnel introduction}{36}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}So where would we find all of these big ideas?}{37}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Writing a paragraph}{38}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Topic sentence}{39}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Supporting sentences}{39}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}The magic of threes}{40}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Use an example}{41}{subsection.2.5.4}%
+\contentsline {subsection}{\numberline {2.5.5}Avoid lists}{41}{subsection.2.5.5}%
+\contentsline {subsection}{\numberline {2.5.6}The last sentence of the paragraph: the clincher}{41}{subsection.2.5.6}%
+\contentsline {subsection}{\numberline {2.5.7}Above all - read it!}{42}{subsection.2.5.7}%
+\contentsline {subsection}{\numberline {2.5.8}How does the paragraph fit into the flow?}{42}{subsection.2.5.8}%
+\contentsline {subsection}{\numberline {2.5.9}Seeding ideas}{43}{subsection.2.5.9}%
+\contentsline {subsection}{\numberline {2.5.10}Breaking the rules}{43}{subsection.2.5.10}%
+\contentsline {subsection}{\numberline {2.5.11}Some common paragraph mistakes}{43}{subsection.2.5.11}%
+\contentsline {section}{\numberline {2.6}Construct a logical argument in your writing}{44}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Arguments in Latin}{46}{subsection.2.6.1}%
+\contentsline {section}{\numberline {2.7}Storytelling in science?}{48}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}The danger of a teleological argument}{49}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}SCience is the very opposite of storytelling. Or is it?}{50}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}Can storytelling help memory of science?}{51}{subsection.2.7.3}%
+\contentsline {section}{\numberline {2.8}Why do you need to cite?}{52}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}Research is built on existing work and ideas}{53}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2}Your citations say a lot about you}{54}{subsection.2.8.2}%
+\contentsline {subsection}{\numberline {2.8.3}Cite while you write (not afterwards)}{54}{subsection.2.8.3}%
+\contentsline {subsection}{\numberline {2.8.4}Citation Styles}{55}{subsection.2.8.4}%
+\contentsline {subsubsection}{\numberline {2.8.4.1}Vancouver Style}{56}{subsubsection.2.8.4.1}%
+\contentsline {subsubsection}{\numberline {2.8.4.2}Harvard Style}{57}{subsubsection.2.8.4.2}%
+\contentsline {subsection}{\numberline {2.8.5}Moving from Harvard to Vancouver}{58}{subsection.2.8.5}%
+\contentsline {subsection}{\numberline {2.8.6}Where within a sentence should the citation come?}{59}{subsection.2.8.6}%
+\contentsline {subsection}{\numberline {2.8.7}What about the order of the citations in a string?}{60}{subsection.2.8.7}%
+\contentsline {subsection}{\numberline {2.8.8}What about citations as taxonomic authorities?}{60}{subsection.2.8.8}%
+\contentsline {subsection}{\numberline {2.8.9}Is it possible to mis-cite?}{60}{subsection.2.8.9}%
+\contentsline {subsection}{\numberline {2.8.10}Should I cite without reading the paper?}{61}{subsection.2.8.10}%
+\contentsline {subsection}{\numberline {2.8.11}What should I not cite?}{61}{subsection.2.8.11}%
+\contentsline {subsection}{\numberline {2.8.12}Do I cite the review or the primary literature?}{62}{subsection.2.8.12}%
+\contentsline {subsection}{\numberline {2.8.13}What is primacy and why does it matter?}{62}{subsection.2.8.13}%
+\contentsline {subsection}{\numberline {2.8.14}How many citations is enough?}{63}{subsection.2.8.14}%
+\contentsline {subsection}{\numberline {2.8.15}Should I cite myself?}{63}{subsection.2.8.15}%
+\contentsline {subsection}{\numberline {2.8.16}Should I cite my friends?}{64}{subsection.2.8.16}%
+\contentsline {subsection}{\numberline {2.8.17}Does the impact factor of the cited article matter?}{64}{subsection.2.8.17}%
+\contentsline {section}{\numberline {2.9}Literature databases}{65}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}Searching the literature using a database}{65}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.2}Keywords}{66}{subsection.2.9.2}%
+\contentsline {subsubsection}{\numberline {2.9.2.1}Boolean terms or operators}{66}{subsubsection.2.9.2.1}%
+\contentsline {subsubsection}{\numberline {2.9.2.2}Proximity operators and parentheses}{67}{subsubsection.2.9.2.2}%
+\contentsline {subsubsection}{\numberline {2.9.2.3}Wildcards}{67}{subsubsection.2.9.2.3}%
+\contentsline {subsubsection}{\numberline {2.9.2.4}Combining searches}{67}{subsubsection.2.9.2.4}%
+\contentsline {subsubsection}{\numberline {2.9.2.5}Citations}{68}{subsubsection.2.9.2.5}%
+\contentsline {subsection}{\numberline {2.9.3}Administrators want metrics}{69}{subsection.2.9.3}%
+\contentsline {subsection}{\numberline {2.9.4}Google Scholar, Web of Science or Scopus?}{69}{subsection.2.9.4}%
+\contentsline {subsection}{\numberline {2.9.5}What's the difference between indices?}{70}{subsection.2.9.5}%
+\contentsline {section}{\numberline {2.10}What software should I use to write my PhD?}{71}{section.2.10}%
+\contentsline {subsection}{\numberline {2.10.1}Alternatives to conventional word processors}{72}{subsection.2.10.1}%
+\contentsline {subsection}{\numberline {2.10.2}Naming versions of files}{73}{subsection.2.10.2}%
+\contentsline {subsection}{\numberline {2.10.3}How many versions of each file should you keep?}{73}{subsection.2.10.3}%
+\contentsline {section}{\numberline {2.11}How to get around the paywall}{74}{section.2.11}%
+\contentsline {subsection}{\numberline {2.11.1}Go to your library}{74}{subsection.2.11.1}%
+\contentsline {subsection}{\numberline {2.11.2}Look for links from Google Scholar}{74}{subsection.2.11.2}%
+\contentsline {subsection}{\numberline {2.11.3}Google the title in quotes}{74}{subsection.2.11.3}%
+\contentsline {subsection}{\numberline {2.11.4}Go to the author websites and look for links}{74}{subsection.2.11.4}%
+\contentsline {subsection}{\numberline {2.11.5}Go to an academic social media site}{75}{subsection.2.11.5}%
+\contentsline {subsection}{\numberline {2.11.6}Go into the black open access}{75}{subsection.2.11.6}%
+\contentsline {subsection}{\numberline {2.11.7}Use your contacts at other universities}{75}{subsection.2.11.7}%
+\contentsline {subsection}{\numberline {2.11.8}Go back to you librarian and ask them for help}{75}{subsection.2.11.8}%
+\contentsline {subsection}{\numberline {2.11.9}Get an interlibrary loan}{75}{subsection.2.11.9}%
+\contentsline {section}{\numberline {2.12}Scientific names and taxonomic authorities}{76}{section.2.12}%
+\contentsline {subsection}{\numberline {2.12.1}Scientific names}{76}{subsection.2.12.1}%
+\contentsline {subsubsection}{\numberline {2.12.1.1}Consider this example:}{76}{subsubsection.2.12.1.1}%
+\contentsline {subsection}{\numberline {2.12.2}Different codes for the nomenclature of different taxa}{79}{subsection.2.12.2}%
+\contentsline {subsubsection}{\numberline {2.12.2.1}Peculiarities of plant taxonomy}{79}{subsubsection.2.12.2.1}%
+\contentsline {subsection}{\numberline {2.12.3}Common names}{80}{subsection.2.12.3}%
+\contentsline {subsection}{\numberline {2.12.4}Should common names have capitals?}{81}{subsection.2.12.4}%
+\contentsline {subsubsection}{\numberline {2.12.4.1}View 1.}{81}{subsubsection.2.12.4.1}%
+\contentsline {subsubsection}{\numberline {2.12.4.2}View 2.}{82}{subsubsection.2.12.4.2}%
+\contentsline {section}{\numberline {2.13}Writing style}{82}{section.2.13}%
+\contentsline {subsection}{\numberline {2.13.1}Don't bamboozle}{83}{subsection.2.13.1}%
+\contentsline {section}{\numberline {2.14}When is it possible to retain your own voice when writing?}{84}{section.2.14}%
+\contentsline {subsection}{\numberline {2.14.1}Does writing ``I'' or ``we'' help people to understand who you are?}{85}{subsection.2.14.1}%
+\contentsline {subsection}{\numberline {2.14.2}The Vonnegut advice}{85}{subsection.2.14.2}%
+\contentsline {section}{\numberline {2.15}Writing concisely}{86}{section.2.15}%
+\contentsline {subsection}{\numberline {2.15.1}Rule 1. Take writing seriously}{86}{subsection.2.15.1}%
+\contentsline {subsection}{\numberline {2.15.2}Rule 2: Identify and stick to your message}{87}{subsection.2.15.2}%
+\contentsline {subsection}{\numberline {2.15.3}Rule 3: Get to the point}{87}{subsection.2.15.3}%
+\contentsline {subsection}{\numberline {2.15.4}Rule 4: Keep your Methods and Results contained}{87}{subsection.2.15.4}%
+\contentsline {subsection}{\numberline {2.15.5}Rule 5: Do not repeat yourself (too often)}{88}{subsection.2.15.5}%
+\contentsline {subsection}{\numberline {2.15.6}Rule 6: Avoid unnecessary or inefficient ``lead‐ins''}{88}{subsection.2.15.6}%
+\contentsline {subsection}{\numberline {2.15.7}Rule 7: Use first‐person, active voice}{88}{subsection.2.15.7}%
+\contentsline {subsection}{\numberline {2.15.8}Rule 8: Remove unnecessary words}{88}{subsection.2.15.8}%
+\contentsline {subsection}{\numberline {2.15.9}Rule 9: Simplify your language}{89}{subsection.2.15.9}%
+\contentsline {subsection}{\numberline {2.15.10}Rule 10: Seek and embrace feedback}{89}{subsection.2.15.10}%
+\contentsline {subsection}{\numberline {2.15.11}Rule 11: Read it yourself}{89}{subsection.2.15.11}%
+\contentsline {section}{\numberline {2.16}Writing a PhD if English is not your first language}{90}{section.2.16}%
+\contentsline {subsection}{\numberline {2.16.1}Message from an editor}{90}{subsection.2.16.1}%
+\contentsline {subsection}{\numberline {2.16.2}Must a `native English speaker' check your work?}{92}{subsection.2.16.2}%
+\contentsline {subsection}{\numberline {2.16.3}So if not a native English speaker, who should do it?}{92}{subsection.2.16.3}%
+\contentsline {subsection}{\numberline {2.16.4}But surely my native tongue can be used for something?}{93}{subsection.2.16.4}%
+\contentsline {section}{\numberline {2.17}Making sure that you don't plagiarise}{93}{section.2.17}%
+\contentsline {subsection}{\numberline {2.17.1}How to know if you have plagiarised}{93}{subsection.2.17.1}%
+\contentsline {subsection}{\numberline {2.17.2}What to do if plagiarism is detected in your work}{95}{subsection.2.17.2}%
+\contentsline {subsection}{\numberline {2.17.3}How can you make sure that you never plagiarise?}{95}{subsection.2.17.3}%
+\contentsline {subsection}{\numberline {2.17.4}What is grey plagiarism?}{95}{subsection.2.17.4}%
+\contentsline {subsection}{\numberline {2.17.5}Manuscript recycling}{96}{subsection.2.17.5}%
+\contentsline {subsection}{\numberline {2.17.6}Overall - just don't plagiarise}{96}{subsection.2.17.6}%
+\contentsline {section}{\numberline {2.18}Academic phrasebank}{97}{section.2.18}%
+\contentsline {subsection}{\numberline {2.18.1}How to find the phrase that you need:}{97}{subsection.2.18.1}%
+\contentsline {subsection}{\numberline {2.18.2}Getting started}{98}{subsection.2.18.2}%
+\contentsline {section}{\numberline {2.19}Why critical reading is crucial for improving your writing}{98}{section.2.19}%
+\contentsline {subsection}{\numberline {2.19.1}Making notes on good and bad styles}{98}{subsection.2.19.1}%
+\contentsline {subsubsection}{\numberline {2.19.1.1}Some examples}{100}{subsubsection.2.19.1.1}%
+\contentsline {subsection}{\numberline {2.19.2}Make handwritten notes}{100}{subsection.2.19.2}%
+\contentsline {subsection}{\numberline {2.19.3}Recognising good or bad in what you read}{101}{subsection.2.19.3}%
+\contentsline {section}{\numberline {2.20}What is needed for your research proposal?}{102}{section.2.20}%
+\contentsline {subsection}{\numberline {2.20.1}Structure}{103}{subsection.2.20.1}%
+\contentsline {subsection}{\numberline {2.20.2}Proposal introduction}{103}{subsection.2.20.2}%
+\contentsline {subsection}{\numberline {2.20.3}Methods and Materials}{103}{subsection.2.20.3}%
+\contentsline {subsection}{\numberline {2.20.4}Hypothetical Results}{104}{subsection.2.20.4}%
+\contentsline {subsection}{\numberline {2.20.5}Your Proposal - what is it good for?}{104}{subsection.2.20.5}%
+\contentsline {subsubsection}{\numberline {2.20.5.1}Copy and paste directly into your thesis}{104}{subsubsection.2.20.5.1}%
+\contentsline {subsubsection}{\numberline {2.20.5.2}Use it to raise money to do your studies.}{104}{subsubsection.2.20.5.2}%
+\contentsline {subsubsection}{\numberline {2.20.5.3}Deposit the proposal to conform to Design and Analysis Transparency}{104}{subsubsection.2.20.5.3}%
+\contentsline {section}{\numberline {2.21}Making a presentation from your chapter, paper or proposal}{105}{section.2.21}%
+\contentsline {subsection}{\numberline {2.21.1}So where do you start?}{106}{subsection.2.21.1}%
+\contentsline {subsubsection}{\numberline {2.21.1.1}Here are some simple rules to help guide you to build your presentation:}{106}{subsubsection.2.21.1.1}%
+\contentsline {subsubsection}{\numberline {2.21.1.2}A formula for presenting a proposal}{106}{subsubsection.2.21.1.2}%
+\contentsline {subsubsection}{\numberline {2.21.1.3}A formula for presenting a chapter or paper}{107}{subsubsection.2.21.1.3}%
+\contentsline {subsection}{\numberline {2.21.2}Know your story first, and then make your presentation}{108}{subsection.2.21.2}%
+\contentsline {subsection}{\numberline {2.21.3}Slide layout}{109}{subsection.2.21.3}%
+\contentsline {subsection}{\numberline {2.21.4}Practice, practice, practice}{110}{subsection.2.21.4}%
+\contentsline {section}{\numberline {2.22}Starting out transparent}{110}{section.2.22}%
+\contentsline {subsection}{\numberline {2.22.1}Preregistration}{111}{subsection.2.22.1}%
+\contentsline {subsubsection}{\numberline {2.22.1.1}Does this mean that you can't perform any data exploration?}{113}{subsubsection.2.22.1.1}%
+\contentsline {subsubsection}{\numberline {2.22.1.2}Will preregistration of research eliminate the bias from science?}{113}{subsubsection.2.22.1.2}%
+\contentsline {subsubsection}{\numberline {2.22.1.3}What Platform should you use?}{114}{subsubsection.2.22.1.3}%
+\contentsline {subsection}{\numberline {2.22.2}Transparency as you move forwards}{115}{subsection.2.22.2}%
+\contentsline {section}{\numberline {2.23}Generating funding for your PhD research}{115}{section.2.23}%
+\contentsline {subsection}{\numberline {2.23.1}Funding databases}{115}{subsection.2.23.1}%
+\contentsline {subsection}{\numberline {2.23.2}Reasons you might want to apply for funding:}{116}{subsection.2.23.2}%
+\contentsline {subsubsection}{\numberline {2.23.2.1}Mendeley:\url {https://www.mendeley.com/}}{116}{subsubsection.2.23.2.1}%
+\contentsline {subsubsection}{\numberline {2.23.2.2}Open 4 Research: \url {https://www.open4research.eu}}{116}{subsubsection.2.23.2.2}%
+\contentsline {subsubsection}{\numberline {2.23.2.3}Research Professional:\url {https://www.researchprofessional.com/}}{116}{subsubsection.2.23.2.3}%
+\contentsline {subsubsection}{\numberline {2.23.2.4}Opportunities in your department or societies:}{117}{subsubsection.2.23.2.4}%
+\contentsline {section}{\numberline {2.24}Fear of submitting written work}{117}{section.2.24}%
+\contentsline {subsection}{\numberline {2.24.1}What is impostor syndrome?}{117}{subsection.2.24.1}%
+\contentsline {subsection}{\numberline {2.24.2}Think of it this way}{118}{subsection.2.24.2}%
+\contentsline {subsection}{\numberline {2.24.3}What can you do to help yourself overcome the fear of submitting written work?}{119}{subsection.2.24.3}%
+\contentsline {section}{\numberline {2.25}Why use a formula to structure each chapter or paper?}{120}{section.2.25}%
+\contentsline {subsection}{\numberline {2.25.1}So what is the formula?}{121}{subsection.2.25.1}%
+\contentsline {subsubsection}{\numberline {2.25.1.1}My take on how to write a formula paper}{121}{subsubsection.2.25.1.1}%
+\contentsline {subsubsection}{\numberline {2.25.1.2}Start with an outline}{121}{subsubsection.2.25.1.2}%
+\contentsline {subsubsection}{\numberline {2.25.1.3}Next flesh out the outline with citations}{124}{subsubsection.2.25.1.3}%
+\contentsline {subsubsection}{\numberline {2.25.1.4}Lastly it's time to write the text}{124}{subsubsection.2.25.1.4}%
+\contentsline {section}{\numberline {2.26}When is it good enough to submit to my advisor?}{124}{section.2.26}%
+\contentsline {section}{\numberline {2.27}Data Management}{125}{section.2.27}%
+\contentsline {subsection}{\numberline {2.27.1}Should the cloud be the only copy of your data?}{125}{subsection.2.27.1}%
+\contentsline {subsection}{\numberline {2.27.2}Backing up in the field}{126}{subsection.2.27.2}%
+\contentsline {subsection}{\numberline {2.27.3}Make a data management plan, and stick to it}{126}{subsection.2.27.3}%
+\contentsline {chapter}{\numberline {3}Writing the sections that make up your chapter}{129}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Title page}{130}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Names and addresses are important}{130}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}The Title}{131}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.2.1}Some title ideas to start you off}{132}{subsubsection.3.1.2.1}%
+\contentsline {subsubsection}{\numberline {3.1.2.2}Things to avoid in your title}{132}{subsubsection.3.1.2.2}%
+\contentsline {subsection}{\numberline {3.1.3}Key Words}{133}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}The Abstract}{133}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}What is the abstract?}{133}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}So what would a good abstract contain?}{134}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Where do you start?}{134}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}When do you write your abstract?}{135}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Do abstracts for conferences differ?}{135}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Where do people go wrong in writing the abstract?}{135}{subsection.3.2.6}%
+\contentsline {section}{\numberline {3.3}The Introduction}{136}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Why do we need an introduction?}{136}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}So what do we put into the introduction?}{136}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}And the construction\ldots ?}{137}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}The Materials and Methods}{138}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Sections or subheadings}{139}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Study organism or study system}{140}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Animal husbandry / Growing Conditions / Culturing Techniques}{141}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Repetitive methodology}{141}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Do you need to include formulae?}{141}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}Experimental manipulations and data collection}{142}{subsection.3.4.6}%
+\contentsline {subsubsection}{\numberline {3.4.6.1}Equipment}{142}{subsubsection.3.4.6.1}%
+\contentsline {subsection}{\numberline {3.4.7}Data analysis}{143}{subsection.3.4.7}%
+\contentsline {subsection}{\numberline {3.4.8}Did you leave anything out?}{143}{subsection.3.4.8}%
+\contentsline {section}{\numberline {3.5}The Results}{144}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}The correct approach - responding to your hypotheses}{144}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}When to have a table or graph?}{145}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Descriptive results}{145}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Responding to hypotheses}{146}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Common Mistakes}{146}{subsection.3.5.5}%
+\contentsline {section}{\numberline {3.6}The Discussion}{146}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}First paragraph of the discussion}{148}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}To sub-section or not to sub-section the discussion?}{148}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Caveats and limitations}{150}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Should you speculate in the discussion?}{150}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}Don't beat up on others}{151}{subsection.3.6.5}%
+\contentsline {subsection}{\numberline {3.6.6}Where next?}{151}{subsection.3.6.6}%
+\contentsline {subsection}{\numberline {3.6.7}Last paragraph}{152}{subsection.3.6.7}%
+\contentsline {subsubsection}{\numberline {3.6.7.1}Never repeat text}{152}{subsubsection.3.6.7.1}%
+\contentsline {section}{\numberline {3.7}The Acknowledgements}{152}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Thank your funders}{152}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}People and organisations to thank}{153}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}Who not to thank (in your manuscript acknowledgements)}{153}{subsection.3.7.3}%
+\contentsline {section}{\numberline {3.8}The References}{154}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Digital Object Identifiers (DOIs)}{155}{subsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.1.1}DOI Tools}{156}{subsubsection.3.8.1.1}%
+\contentsline {section}{\numberline {3.9}Tables}{156}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Figures}{157}{section.3.10}%
+\contentsline {subsection}{\numberline {3.10.1}Graphs}{158}{subsection.3.10.1}%
+\contentsline {subsection}{\numberline {3.10.2}Maps}{159}{subsection.3.10.2}%
+\contentsline {subsubsection}{\numberline {3.10.2.1}Maximising the content of your figure}{160}{subsubsection.3.10.2.1}%
+\contentsline {subsection}{\numberline {3.10.3}Conceptual diagram}{160}{subsection.3.10.3}%
+\contentsline {subsection}{\numberline {3.10.4}The composite figure}{162}{subsection.3.10.4}%
+\contentsline {subsubsection}{\numberline {3.10.4.1}Ideas for composite figures:}{162}{subsubsection.3.10.4.1}%
+\contentsline {subsection}{\numberline {3.10.5}Sending your graphics file to the publisher}{163}{subsection.3.10.5}%
+\contentsline {subsubsection}{\numberline {3.10.5.1}Vectors vs bitmaps}{163}{subsubsection.3.10.5.1}%
+\contentsline {subsubsection}{\numberline {3.10.5.2}Sizing your figure}{163}{subsubsection.3.10.5.2}%
+\contentsline {subsection}{\numberline {3.10.6}The figure legend}{164}{subsection.3.10.6}%
+\contentsline {section}{\numberline {3.11}Who did what?}{165}{section.3.11}%
+\contentsline {subsection}{\numberline {3.11.1}CRediT where it's due}{165}{subsection.3.11.1}%
+\contentsline {subsection}{\numberline {3.11.2}Ordering the author line up}{166}{subsection.3.11.2}%
+\contentsline {section}{\numberline {3.12}Supplementary Material}{166}{section.3.12}%
+\contentsline {subsection}{\numberline {3.12.1}What can go into Supplementary Material?}{167}{subsection.3.12.1}%
+\contentsline {subsection}{\numberline {3.12.2}There has been a big movement toward transparency and repeatability of scientific studies}{167}{subsection.3.12.2}%
+\contentsline {subsection}{\numberline {3.12.3}Why stop with just depositing your data and analyses online?}{168}{subsection.3.12.3}%
+\contentsline {chapter}{\numberline {4}Formatting your thesis}{169}{chapter.4}%
+\contentsline {subsection}{\numberline {4.0.1}Must do check-list before submitting your thesis:}{169}{subsection.4.0.1}%
+\contentsline {subsection}{\numberline {4.0.2}Mistakes people make:}{171}{subsection.4.0.2}%
+\contentsline {fm}{The obligatoin to publish your work}{173}{chapter*.41}%
+\contentsline {fm}{Last note}{175}{chapter*.42}%
+\contentsline {fm}{Bibliography}{177}{chapter*.43}%
+\contentsline {chapter}{Index}{187}{chapter*.43}%
+\contentsline {section}{}{187}{section*.44}%

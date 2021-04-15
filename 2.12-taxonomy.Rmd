@@ -1,0 +1,105 @@
+## Scientific names and taxonomic authorities {#taxonomy}
+
+There are quite a few conventions that it's worth being aware of when it comes to using names. When talking about common names, it is a bit of a quagmire as there are few standards that are followed by all journals. Scientific names can also be in great (taxonomic) flux, but at least there is definitive help. Here I will outline my interpretation of what's what in using names.
+
+
+### Scientific names
+
+There is only one valid scientific name for a species. This is expressed in a binomial: two names, first the genus (with an initial capital letter) and then the species name (lower case). This name is italicised by convention (or in some cases underlined). Note that no other taxonomic names (e.g. Family, Order, Class, Phylum) are written with italics (although they all get capital first letters), only the genus and species are italicised. The single name is a hard rule as taxonomy can't survive in any other way. The most recently published version is the one to use, but happily with many vertebrates [mammals](https://www.mammaldiversity.org/), [birds](https://avibase.bsc-eoc.org/avibase.jsp?lang=EN), [fish](https://www.fishbase.se/search.php), [reptiles](http://www.reptile-database.org/) and [amphibians](http://research.amnh.org/vz/herpetology/amphibia/) there are well curated databases to which you can refer for the latest taxonomic treatments. Also see [WoRMS](http://www.marinespecies.org/) for marine species. My suggestion is that you defer to these (with citation) and you won't go far wrong. If you do this early on in your thesis, remember that you may need to update it later.
+
+#### Consider this example:
+
+When my former student, Mohlamatsane Mokhatla, started his PhD in 2013 he worked on three species, and over time these changed so that at various points in his thesis. You can see the combinations he had to contend with in Table \@ref(tab:taxonomy).
+
+Table: (\#tab:taxonomy) **Taxonomy is dynamic which means that species names change over time.** The way in which genus and species names can change in only a period of 5 years.
+
+| ![](figures/S-capensis.png) | ![](figures/A-quecketti.png) | ![](figures/X-laevis.png) |
+| ---- | ---- | ---- |
+| *Amietophrynus rangeri* | *Amietia angolensis* | *Xenopus laevis* |
+| *Amietophrynus rangeri* | *Amietia quecketti* | *Xenopus laevis* |
+| [*Sclerophrys capensis*](https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Bufonidae/Sclerophrys/Sclerophrys-capensis) | [*Amietia delalandii*](https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Pyxicephalidae/Cacosterninae/Amietia/Amietia-delalandii) | [*Xenopus laevis*](https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Pipidae/Xenopus/Xenopus-laevis) |
+
+The taxonomy of two species changed such that he had to constantly revise the names in his thesis. Luckily, he could simply conduct a "replace all", but it did become quite confusing. There's a chance that they've changed again, so I've provided hyperlinks for you to check out what the current name is. The lesson is that if you want to avoid this, work on *Xenopus laevis* or conduct your PhD in as short a time as possible!
+
+In taxonomic papers, and certain journals with a taxonomic focus, there is an insistence that you cite the "taxonomic authority" after the species name when used for the first time. This is essentially a citation in which you acknowledge the original description that accompanies the name. Let's take Mohlamatsane's examples again:
+
+> *Sclerophrys capensis* Tschudi, 1838             
+> *Amietia delalandii* (Duméril and Bibron, 1841)     
+> *Xenopus laevis* (Daudin, 1802)       
+
+It might seem that there's a mistake above, because Tschudi, 1838 isn't in brackets. This is actually deliberate. Tschudi, 1838 isn't in brackets because the genus name hasn't changed since the description by Tschudi [1838](tschudi1838classification) placed *S. capensis* in *Sclerophrys* in 1838. But it is clear in the table above that the genus name did change to *Amietophrynus*, and it was recognised under a different species name (*A. rangeri*). Unlikely as it may seem, the original description of the species was by Tschudi in 1838, but this was long forgotten (or ignored because the type specimen was so poorly preserved), and the species was regularly referred to as *Bufo rangeri*. When the genus *Bufo* was broken up into lots of newly named genera by Frost et al [-@frost2006amphibian], Tschudi's description was once again disregarded [@ohler2016identity]. However, in 2016 new work on the type specimen revealed that it was the same as *Amietophrynus rangeri,* but because Tschudi's description was older, the taxonomy deferred to the rule of precedence. If you want to read more about it, you can look at all the changes on the AMNH amphibian database.
+
+To clarify, the use of brackets around the taxonomic authority only happens when the species is no longer in the genus in which it was originally placed by the person who described the species. Daudin [-@daudin1802histoire] originally described *Bufo laevis*, and Duméril and Bibron [-@dumeril1841erpetologie] originally described *Rana delalandii*. Hence you will see that both of these authors are within brackets after the names of their respective species.
+
+The generic name of a Latin binomial is often abbreviated to the first letter (e.g. *X. laevis*). This should only be done once it is well established in your writing what the full name is. Or, in other words, you should refer to the species in full on the first mention, and then switch to the abbreviation. Because sentences shouldn't start with an abbreviation, you might need to relax this from time to time. You also need to treat the abstract as a stand-alone document in this respect. You might find that you have two species, which belong to different genera that share the same first letter. In this case, most authors use a different abbreviation: for example *Ap. rangeri* and *At. angolensis*. This is exasperated when both species names are the same. Keen readers would have noticed that Mohlamatsane doesn't have this problem any more!
+
+I have seen some comments that suggest that once a generic name is abbreviated in a paper, it shouldn't be written in full again. In my opinion, this is rather a silly idea. It is up to you (the writer) to avoid ambiguity. If there is no ambiguity, then you may write the genus and species in full to increase the readability of your piece.
+
+You should not start a sentence with an abbreviated genus. *X. laevis* would not be good, because your first word of the sentence is abbreviated (*X.* ). *Xenopus laevis* is a perfectly admissible way to start a sentence.
+
+Lastly, there is a convention that when referring to the generic name alone you should always mention that it is a genus. So you shouldn't write about those *Bufo* that hop around the house, but instead about those members **of the genus** *Bufo* that hop around the house.
+
+### Different codes for the nomenclature of different taxa
+
+Nomenclatural codes exist to ensure stability in names. At first glance, this might seem like quite a trivial (academic) matter. But think about what happens when a particular species is named in law. That name could (in theory) be changed by some unscrupulous biologist to open up a legal loophole, or at least some ambiguity. Once you are aware what can go wrong with taxonomy and the implications that it can have on many lives, you will understand the need for stability. Happily, there are associations of very serious people who guard the stability of taxonomy through the codes. It is important to realise that there are codes governing the naming of different levels of taxa. 
+
+ - Viruses – [International Code of Virus Classification and Nomenclature](https://talk.ictvonline.org/information/w/ictv-information/383/ictv-code)
+ - Bacteria & Archaea [International Code of Nomenclature of Prokaryotes](https://www.the-icsp.org/bacterial-code)
+ - Algae, Fungi & Plants [International Code of Nomenclature for algae, fungi, and plants](https://www.iapt-taxon.org/nomen/main.php)
+ - Animals [International Code of Zoological Nomenclature](https://www.iczn.org/the-code/the-international-code-of-zoological-nomenclature/)
+
+There are many peculiarities for each taxon, and if your PhD involves taxonomy explicitly you should consult the specific code. Otherwise, it's unlikely that you'll need to be aware of the contents of each or any code. 
+
+#### Peculiarities of plant taxonomy
+
+Plant taxonomy is considered the taxonomic mother discipline as the work of Linneaus in 1753 was the first botanical work that consistently used Linneus' binomial (two names: Genus species) nomeclatural system [@linnaeus1753species] which pre-dated the more inclusive (and better known) landmark publication in 1758 [@linnaeus1758systema]. In addition to the Latin binomial name (Genus and species), plants (and some other taxa) often require further descriptors or **ranks** that denote subspecies, varieties, subvareties, etc. I have included a (non-exhaustive) list of these in Table \@ref(tab:plantrank), together with some examples. 
+
+Because Linneaus named so many plant species is his landmark publications, instead of writing out the full taxonomic authority after the species names, botanists abbreviate this to "L.". Like Linneaus, other prolific plant taxonomists can have their names abbreviated, but plant taxonomists became so numerous that there needed to be some standardisation of names and their abbreviations. A database of these **Standard Forms** can be found at [the International Plant Names Index database](https://www.kew.org/data/authors.html). Note that Standard Forms in plant taxonomy can include initials.
+
+Table: (\#tab:plantrank) **Plants often need more information than the simple Latin biomial.** This table provides the required abbreviations that you will need to add in order to properly describe the rank of your plant taxa.
+
+
+| Rank | Abbreviation	| Example |
+|-----|-----|-----|
+| Subfamily | subf. | Poaceae subf. Pooideae |
+| Subgenus | subg. | _Metrosideros_ subg. _Metrosideros_ (Myrtaceae) |
+| Section | sect. | _Senecio_ sect. _Senecio_ (Asteraceae) |
+| Subsection | subsect. | _Stachys_ subsect. _Swainsonianeae_ (Labiatae) |
+| Series | ser. | _Mimosa_ ser. _Paucifoliolatae_ |
+| Subseries | subser. | _Palicourea_ subser. _subcymosae_ |
+| Subspecies | subsp. | _Trichophorum cespitosum_ subsp. _germanicum_ |
+| Variety | var. | _Closterium acerosum_ var. _elongatum_ |
+| Subvariety | subvar. | _Hieracium vulgatum_ subvar. _oblongatum_ |
+| Form | f. | _Prunus cerasifera_ f. _atropurpurea_ |
+
+
+Some plants exist in associations (such as lichens which are an association between an algae or cyanobacteria and one or more fungi. For these associations there is a specific code for their nomenclature: International Code of Phytosociological Nomenclature [@theurillat2021international].
+
+There is also a code for cultivated plants, and if you study any kind of agronomical system, you will be familiar with not just the normal binomial name, but also a specific cultivar or variety (*var.*) that follows the binomial: [The International Code of Nomenclature for Cultivated Plants](https://www.ishs.org/scripta-horticulturae/international-code-nomenclature-cultivated-plants-ninth-edition). 
+
+### Common names 
+
+Common names have a different set of problems to those that we've seen for scientific names. These are largely focussed on: what name to use, and whether or not to capitalise the common name.
+
+What name to use - This is tricky. My suggestion would be to take the most commonly used common name, as that's likely to be the one that most people will recognise. However, it's not always that simple and because there's no "correct" common name, you have some leeway to choose the one you prefer.
+
+Let's take an example: The African Clawed Frog is a very widely used name for *Xenopus laevis* which is used all over the world as the model amphibian. However, African Clawed Frogs is also the commonly accepted name for the entire genus, *Xenopus*. Thus, shouldn't we avoid using this for the species *X. laevis*? So, let's look at the alternatives. Frost [-@frost2020amphibian] lists 13 common names for this species. Names such as Platanna and Common Platanna are difficult to use in scientific papers as they are only regularly used in South Africa. Clawed Toad is not appropriate, as it is not a toad (reserved for members of the family Bufonidae), a confusion that dates right back to Daudin's 1802 description. Clawed Frog has the same problem as African Clawed Frog, and other variants such as Upland Clawed Frog and Smooth Clawed Frog also seem inappropriate as this species is neither confined to uplands, nor the only member of the genus which is smooth (although 'laevis', the species name, does mean 'smooth').
+
+There has been a recent movement to formulate common names into genera (or even families) such that the specific common name takes on a specific epithet of the generic or familial common name. In a world of stable taxonomy (such as that enjoyed by ornithologists), I can understand that this is possible. But imagine the requirements in common name changes for Mohlamatsane in his thesis over only a few years. Surely the useful thing about common names is that they are used commonly by normal people who don't worry about taxonomy? If we insist on common names constantly changing, don't we risk alienating the public?
+
+I eventually decided to use 'African Clawed Frog' as this is the most widely recognised common name for this species. It does become an issue when writing about *X. laevis* and other *Xenopus* species (as we have), but we've managed to resolve this without too much difficulty.
+
+### Should common names have capitals? 
+
+**Warning: lots of people get very upset about this point and there are two views:**
+
+
+#### View 1. 
+
+Common names are proper nouns and proper nouns start with capitals. The Western Leopard Toad is not any toad, and the African Clawed Frog isn't any frog. The Cape platanna is any platanna living in the Cape, but the Cape Platanna is *Xenopus gilli*! In this last example, you can see how capitalisation reduces ambiguity and differentiates between adjectives and nouns.
+
+#### View 2. 
+
+Common names are not formal names (like scientific names) so why does it matter? Many journals do not capitalise common names and insist on lower case unless they are proper nouns, like African in African clawed frogs. This seems to have arisen from editors who dislike superfluous capitalisation.
+
+On balance, I'd say that it's likely that your usage will be dictated by the policies of your faculty, advisor or journal.

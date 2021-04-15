@@ -1,0 +1,13 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+# About the Author {- #author}
+
+John Measey is Associate Professor of Biological Sciences at Stellenbosch University. He has authored or co-authored more than 200 peer reviewed scientific papers and book chapters, and five books. He has been the Editor-in-Chief of an ISI journal for 9 years, and currently serves as Associate Editor for 4 other journals. He has graduated more than 20 postgraduate students, and his blog on writing and publishing in biological sciences is read by thousands globally. British born and educated, he lives and works in the beautiful Western Cape, South Africa.
+
+# Do you have something to contribute? {- #contribute}
+
+This book is written in bookdown [@xie2016bookdown] specifically to make it a 'live project' that will be open to anyone who wants to contribute, improve, or use as the basis for your own book in a different language, or for a different region on the world. It would be impossible to cover every aspect of writing a PhD in Biological Sciences, and it may be that I have missed out ones that are very important to you. Equally, what is currently written will become obsolete very quickly as new initiatives are begun, and old problems are resolved. For this reason, this guide needs to be a 'living document', and anyone who wants to provide feedback or contribute new sections is more than welcome. Please feel free to open an issue, or make a Pull Request if you spot a typo.

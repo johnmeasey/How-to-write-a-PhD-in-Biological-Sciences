@@ -1,0 +1,19 @@
+## Tables {#tables}
+
+If you think that tables are just about displaying a series of boring numbers, then it’s time to free your mind. Tables are an amazing vehicle to display information that can be numeric, written or pictorial. From the simplest of two by two tables with several levels of organisation, the reason for putting your information in a table is that you can provide it in a simpler and easier way to the reader than if you were to put all the information in full into a paragraph of text. There are few rules on Tables, but you'll find some guidelines in this Table \@ref(tab:tables). 
+
+Most journals want tables formatted so that there are only horizontal lines. This makes them easier to print, but it can make following text across a large table difficult. Shading every other row really helps with this, and if you have the option of using this in your thesis then I'd recommend it.
+
+As a biologist, I first started to use tables to provide large quantities of numbers. Tables of morphological measurements or meristics (counts). These were always tricky to put together in word processors, until they became better integrated with spreadsheets, and now it’s really easy to put these tables together and even format them in a spreadsheet and then cut and paste them into your word processor. 
+
+Table: (\#tab:tables) **Some general dos and don'ts for tables**. There are exceptions for all of these, but if you can stick to them you are unlikely to go far wrong.
+
+| **Do** | **Don't** |
+|------|------|
+| Use a table as a means of reducing the length of your text. |  Merge cells, especially in irregular ways, as this makes formatting and copy/paste of your table prone to errors. |
+| Make your headings clear and concise. | Omit units of measurement |
+| Summarise extensive data. | Try to include every data point (that's what [Supp Info](SuppInfo.html) is for). |
+| Use tables to provide repeated statistical information on tests or models. | Feel the need to include all of these in the ms  (that's what [Supp Info](SuppInfo.html) is for). |
+| Provide a full table legend that explains exactly what is in it (see [figures](figures.html)). | Make tables so large that they have to run over several pages. If this can go into [Supp Info](SuppInfo.html) then it should. |
+| Be adventurous by using tables to produces ideas, even with entire paragraphs of text or photographs. | Feel obliged to stick to using tables only for numbers. |
+| Use shading for every other row. | Have rows or columns so close together that you can't tell them apart. |

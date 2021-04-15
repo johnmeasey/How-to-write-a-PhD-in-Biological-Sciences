@@ -1,0 +1,8 @@
+# Last note {- #lastnote}
+
+I really hope that this book has been helpful and that it has achieved what I set out to do: provide you with the guide on how to write a PhD in biological sciences. If you feel that this book has important items missing, out-of-date or simply wrong, then please help. Any good guide relies upon the people that use it to keep it viable.
+
+You can contribute to the project at the Github pages for this book, using bookdown. 
+
+
+If I could emphasise one really important aspect of all of your PhD studies; that is to enjoy them! 

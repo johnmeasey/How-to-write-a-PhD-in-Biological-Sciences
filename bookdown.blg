@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: bookdown.aux
+The style file: apalike.bst
+Database file #1: book.bib
+Database file #2: packages.bib
+Warning--empty institution in britton2020earnings
+Warning--can't use both volume and number fields in linnaeus1758systema
+Warning--empty institution in vanraan2007scoping
+You've used 107 entries,
+            1935 wiz_defined-function locations,
+            1084 strings with 22972 characters,
+and the built_in function-call counts, 41779 in all, are:
+= -- 4114
+> -- 1696
+< -- 75
++ -- 624
+- -- 572
+* -- 3602
+:= -- 7420
+add.period$ -- 381
+call.type$ -- 107
+change.case$ -- 802
+chr.to.int$ -- 107
+cite$ -- 110
+duplicate$ -- 1468
+empty$ -- 2877
+format.name$ -- 713
+if$ -- 7984
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 119
+newline$ -- 596
+num.names$ -- 321
+pop$ -- 596
+preamble$ -- 1
+purify$ -- 821
+quote$ -- 0
+skip$ -- 1105
+stack$ -- 0
+substring$ -- 3031
+swap$ -- 105
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 598
+warning$ -- 3
+while$ -- 344
+width$ -- 0
+write$ -- 1483
+(There were 3 warnings)

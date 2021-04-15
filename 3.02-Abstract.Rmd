@@ -1,0 +1,41 @@
+## The Abstract {#abstract}
+
+A good abstract is very important as, like a good title, it advertises the content of the paper and draws readers in. In a world where the quantity of scientific literature is increasing, it is more likely that someone will read your abstract but not your paper. Actually, it’s far more likely that someone will read your title and use that to decide whether or not to look at the abstract. Moreover, when you submit your work to the journal, your editor may decide whether or not to immediately reject your manuscript based on the content of the abstract. Therefore, it had better be good!
+
+### What is the abstract?
+The abstract is a concise paragraph that sums up the major points of your manuscript so that the potential reader will be able to assess whether or not they want to read the entire paper. It is an abstract of the entire document. It should not be abstract!
+
+### So what would a good abstract contain?
+A good abstract is a summary of the highlights of the paper. You can’t hope to include all of the results, but you should include sample sizes, variables and relevant statistics when they support your major hypotheses. You must include the broader subject area that your study fits into, and show how your results are relevant to this.
+
+None of this is easy, and you should not expect to write your abstract in a single sitting. It will likely require multiple iterations, and some intense word-smithing to make it as good as it can be. Abstracts almost always have a word limit, and that makes it challenging and means that you have to be concise [see part 2](concise.html).
+
+Increasingly, you’ll hear that a good abstract is citable. This means that it contains enough information that someone knows that it can be used to cite for a specific fact. Of course, these people should download and read the entire study, but there is no guarentee that they will.
+
+### Where do you start?
+Just like planning your writing in general, I’d suggest starting your abstract with an outline. Use bullet points to make a list of things that you feel that you should include. Rearrange your list until you have all the introduction points at the start, results in the middle and discussion at the end. 
+
+There’s no need for detailed methodology, but it is useful to know the approach. For example, ‘we used a common garden experimental approach’ or ‘we sampled 85 animals from three invasive populations’. 
+Although many abstracts are provided as a single paragraph, some are structured into the sections of the paper, or as numbered points. Using this formula is a good way to get disciplined about boiling your paper down into a small amount of concise words. It’s worth keeping a copy of any abstract that you compose like this in case you decide to submit to a journal that requires it. 
+
+Starting with this framework will ensure that the abstract is well balanced. 
+
+At this point, I’d circulate it to your advisor to ask whether there are other key points that should be included. As a rule, it’s easier to start with everything present, and only then cut the words down to something within the abstract word limit. If you wordsmith your abstract and then try and add a key point later, it’ll never come out so well.
+
+### When do you write your abstract?
+Although the abstract comes on page 1 of your manuscript, only try to write it once you’ve got to the end of the process of writing your manuscript so that you are aware of all the major points that you need to include. Maybe once you've [submitted your second draft](goodenough.html) of the manuscript to your advisor (given that you are both happy with the content), you can formulate the abstract.
+
+### Do abstracts for conferences differ?
+Yes. It’s likely that an abstract for a talk will not be the same, unless you have already published the study: but even then it’s probably worth re-writing it. I’d suggest that your conference abstract be more descriptive and thought provoking, such that it is aimed toward the specific audience of the conference. Pose questions that you will answer in your talk. 
+
+### Where do people go wrong in writing the abstract?
+- The most common mistake is getting the balance wrong. I often see an abstract that gets to the results, runs out of space and simply stops. It is important to have a statement about your interpretation of the results which relates back to your hypothesis.
+- Another common mistake is to have a very simply worded abstract that conveys very little information. There is definitely going to be a lot to put in, so expect to write something too long with too much content, and then cut it down by discussing with your advisor what can be left out.
+- Text from the main document is copied into the abstract. I’ve written about this [elsewhere](plagiarism.html), but you should never copy parts of your writing. You could start like this, but wordsmithing must change the words and their order substantially. Otherwise, when the first sentence of the abstract is the same as the first sentence of the manuscript, it will really turn off your readers.
+- Too many statistics or no numbers are also common mistakes. Adding numbers and statistics are important, especially when they take the place of more words. 
+- There is only time for one or two comments on the discussion, so pick out something important. Look through your written discussion and rank the points that you make in terms of interest to others. Can you combine two or more points into a single sentence?
+- The introduction of the abstract must frame the bigger question, and the discussion must show how your data responds to this. 
+- Don’t be tempted to overreach with your claims in the abstract (or the main text). Include major caveats when they are relevant.
+- Finish with something conclusive and strong, preferably how this study changes the understanding, and not a caveat or suggested further study.
+- The abstract does not contain citations (or very rarely and only if unavoidable), so don’t put any in!
+  + If you have to have a citation in your abstract, then it must include sufficient information that it can be found without opening up the paper: _first author, abbreviated journal name, volume, first page_

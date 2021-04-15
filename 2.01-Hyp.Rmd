@@ -1,0 +1,93 @@
+# How to get started with writing  {#part2}
+
+__Before you start writing__
+
+The writing part of the PhD is often the most difficult for many students. I think that there are several reasons for this. Writing well comes with practice, and most PhD students have had little experience with academic writing - even if they have already completed a MSc. The same could be said of most early career scientists (even after their PhDs), because writing takes practice and we shouldn't expect that it'll come automatically or immediately. In order to get this practice you need to get started, and (again) many students find starting to write challenging. Here is where this guide will help. 
+
+However, before you start writing, it's a good idea to understand some of the ways in which academic writing differs from other writing styles. Good planning is the key here, along with knowing exactly what it is that you'll be writing about. That sounds facile, but at the foundation of each scientific study lies the hypothesis, which is central to being able to build the rest of the chapter.
+
+In this part of the book, I start with an explanation of the hypothesis. As you will see in [Part III](hypothesis.html), the hypothesis is central to all of the writing in each chapter or paper, and you need to have a very good idea of how to formulate your research question into a hypothesis before you begin. Then I build on helping you think through lots of different aspects of writing in science: style, citations, writing concisely, scientific names, and lots more. Finally, I introduce you to the idea of using a formula to structure your writing. 
+
+Before you start writing in earnest, it’d be good to read this part of the book and make sure that you are familiar with the ideas therein. Later, you may need to refer back to sections once you’ve started writing.
+
+
+## How to write a hypothesis  {#hypothesis}
+
+When you read about the formula of writing a chapter (see end of part 2) you will see that everything in your chapter or paper revolves around the hypothesis or questions that you ask, normally at the end of your introduction. In this chapter, we will take a look at how to write a hypothesis. This is a sticking point for many students. We are used to using and writing questions and statements in day to day communications, as well as reading popular media. But hypotheses (the plural of hypothesis) only rarely float across our desks. So how do we write one, and how do we know if our hypothesis is good?
+
+In addition to this chapter, there is some good information out there on the web, and it's worth looking at this too: (e.g. [Wikihow](https://www.wikihow.com/Write-a-Hypothesis), [Wikipedia](https://en.wikipedia.org/wiki/Hypothesis), etc.). There's also some less good stuff out there, so read critically.
+
+(ref:Hypothesis) **Generating a good hypothesis for your PhD chapter isn't easy.** A good hypothesis will be invaluable in helping you write the chapter. It is important to start working with hypotheses
+
+```{r Hypothesis, echo=FALSE, fig.align='center', out.width='90%', fig.cap="(ref:Hypothesis)"}
+knitr::include_graphics('figures/hypothesis.jpg')
+```
+
+### What is a hypothesis?  {#whathypothesis}
+
+A hypothesis is a statement of your research intent. It tells the reader (because just like all of your other written work, it is intended for an audience who will read it), what you plan to do in your research. But there's a little more to it than this. The hypothesis becomes a part of the scientific method if it is testable and (importantly) falsifiable, as well as being informed from previous published work on the subject.
+
+Yes, your hypothesis must be informed by the literature, which is why you spent so much time and effort crafting your introduction to inform your reader of the same. This is also why your hypothesis usually comes at the end of your introduction, because you spend all of the introduction telling your reader about it. There's not much point in writing more after the hypothesis, because once your reader has read that, they are ready to learn about how you went about testing it (in the Materials & Methods). The other important point to make is that the literature should dictate how you write your hypothesis, and the variables that you include. If, for example, you know that temperature is the most important variable, but all of the literature suggests that it is oxygen, you can't ignore oxygen and you should also frame your hypothesis using this variable (you can have more than one hypothesis after all!). In this case, you will also need to provide a sufficient introduction to temperature as a variable to justify its inclusion in your hypothesis. Perversely, your aim is not to prove that your idea is right, but to show that the hypothesis can be refuted.
+
+We try to write a hypothesis that is falsifiable: i.e. you can prove (usually using statistical tests) that it is not correct (or at least show that the likelihood that it is correct is very low). That's why it is conventional to provide the 'null hypothesis' that is the falsified version of the statement, suggesting that there is no relationship between the variables you have proposed to measure. The convention is to label this 'null hypothesis' H0, while the 'alternative hypothesis' (the one that says your variables are related as you suggested) is written as H1. When you formulate your hypothesis, it is traditional to write your alternative hypothesis to indicate the directionality of your tested variables. This way the reader can simply imply that the null hypothesis is when there is a relationship, but this will need to be stated if the null hypothesis is more complex.
+
+Karl Popper [-@popper2005logic] was the philosopher who proposed that without being able to refute or falsify a scientific problem, it ceases to be scientific. This is the reason for our null hypothesis. If the null is not available as a possible outcome, then logically, there is no science.
+
+> Karl Popper [-@popper2005logic]:  
+> **"...it must be possible for an empirical scientific system to be refuted by experience". **
+
+Most importantly, your hypothesis must come first, before you do the experiment or study. Hence the reason why this chapter comes at the start of part 2. Setting the hypothesis after the work is already done is fraudulent, and goes against the scientific method. Obviously, it isn't fair to pose the hypothesis once you already know the answer. This is why there is so much emphasis put on formulating your hypothesis during your research proposal. Getting it right will determine what you do and how you test it. If you think of an extra hypothesis that would be really useful to test once you've already done your study, you can conduct a post hoc test, but this should have more stringent levels of statistical assessment.
+
+Writing a hypothesis isn't easy, but it is essential and once you've understood what to do most of the rest of what you are writing for should make sense.
+
+### What a hypothesis isn't
+
+It is not a question and so should never have a question mark after it.
+
+It isn't really a simple prediction: if this then that. You will see on the internet that hypotheses are explained in this simple predictive framework. I say that a hypothesis is not a simple prediction because it lacks the mechanistic and scholarly aspect of a good hypothesis, which is what we want to achieve.
+
+### A formulaic way to start writing your hypothesis: 
+
+__"If. then. because."__
+
+Later in the book, I will emphasise that you must have introduced all the variables that you plan to use to test your hypothesis in your introduction. This usually comes in the second paragraph of your introduction, where you emphasise the utility of the dependent variable/s (what you are planning to measure) and your independent variable (what you will manipulate). Both of these variables should then feature in your hypothesis. Next, by paragraph four you will have identified the problem that you are interested in tackling. In addition, your introduction will provide all of the pertinent literature that has relevance to this hypothesis, giving the all important context.
+
+A simple way to consider making your hypothesis is to adopt an **"If. then. because."** construction where you add in your problem statement using your independent variable after 'if', and your prediction using your dependent variable after 'then', and finally the expected mechanism after 'because'. Using our example above with the "If. then. because." construction, we would say: "If environmental temperatures in which tadpoles develop are increased then tadpole development rate is faster because they follow the classic metabolism of ectotherms". Both independent variable (temperature) and dependent variable (tadpole development rate) are present in this hypothesis, and the predicted relationship between them is clear. In addition, the causal mechanism is stated. You can watch a video about using the "If. then. because." construction here, or read more here. I say that this is a formulaic way to start writing your hypothesis, because it usually ends up as an inelegant statement, which can be better refined for a reader. A citation for your stated mechanism might also help clarify exactly where the justification for this comes from.
+
+Mechanisms (or causal explanations) fall into three main areas: endogenous, exogenous and evolutionary [@allen2017scientific].
+
+#### Endogenous causal explanations
+
+Endogenous causal explanations focus on the mechanisms happening inside an organism, such as physiological processes, hormones, reproductive state, etc.
+
+#### Exogenous causal explanations
+
+Exogenous causal explanations concern mechanisms that are outside the body of individuals. Common exogenous mechanisms are climatic factors (temperature, humidity, precipitation, etc.), or may relate to the availability of food, predators or mates. 
+
+#### Evolutionary causal explanations
+
+These mechanisms have evolved through time, and often relate to exogenous mechanisms triggering endogenous processes over multiple generations.
+
+Note then that the above mechanisms are not mutually exclusive in their nature, and it may be useful to combine different approaches within biology to ask hypotheses across all of these levels. Mechanisms in biological sciences are rarely simple or act on multiple organismal levels, so designing a controlled experiment in order to test a specific mechanism thoroughly can be very demanding. In other words, can you be sure that the cause is really responsible for the effect that you are measuring? 
+
+A good hypothesis will often take an existing hypothesis further, to try to better refine the knowledge on a subject. Hence, it is perfectly acceptable to state that you are building on existing hypotheses (and giving the appropriate statement) when making your own.
+
+### Teleological versus Causal Hypotheses
+
+A teleological argument refers to the reason or a purpose of a particular process. For example, you may measure vertical migration of water fleas and suggest that diurnal migrations are made because the water fleas want to avoid predation. This is a teleological hypothesis because you are suggesting that the reason behind a process is the desire by water fleas to avoid predators. Although a reduction of predation may be a consequence of vertical migration in water fleas, each water flea does not think about predation and then starts it’s upward movement as a result. A common mistake made in biology is to apply teleological arguments to processes that have no purpose or region. Evolution is often mistakenly suggested to have a purpose (e.g. to evolve to a more advanced state), but in fact evolution is not a goal-orientated process. There is no end-point to evolution, and evolution did not start in order to meet some predetermined form or function. On the other hand, a causal hypothesis focuses on the factors about A that cause B. 
+
+You should have realised that biologists are principally interested in causal hypotheses, because most mechanisms that are studied in biological sciences have no predetermined goal. If you are a behavioural ecologist, then you will need to be particularly aware of these two types of hypotheses, and when teleological explanations may be appropriate: many types of behaviour are goal orientated.
+
+### How to evaluate your hypothesis
+
+Once you've written your hypothesis, how do you decide whether or not it is good? To do this, you might think that you need plenty of experience (and yes, that does help). But really, you just need to look for the elements that are discussed above. So once you've written your hypothesis, try to objectively answer the questions below (for more see [here](https://youtu.be/9KoSGQlIFkM)):
+
+- Is there a clear prediction (if. then. statement)?
+- Does the prediction use independent and dependent variables correctly?
+- Is the mechanism supported by the literature?
+- Is the hypothesis testable/falsifiable?
+- Does the hypothesis use concise wording and precise terminology?
+
+If your hypothesis meets all of the criteria above, then you've done a good job!
+
+Probably one of the hardest issues that you will face in biological sciences is to determine whether your dependent variable is reliant only on your independent variable of choice. For example, a lot of variance in biological sciences will relate to the climate (especially with global change studies), but if your independent variable is temperature, this means that you will need to keep all other climatic variables the same. That is, if temperature is your independent variable, it is the only variable that can change in your experiment. This type of experiment is challenging as temperature often affects other variables (especially that they may vary in an unpredictable way). As soon as you have more than one independent variables, you can no longer test your dependent variable because you don't know which independent variable it is reacting to.  Isolating variables is notoriously difficult, especially when we move from the laboratory to the field. You will need to think very carefully about what variables other than those of interest are potentially impacted by your experimental design. If you cannot control for them, this will likely mean that you need to change your hypothesis, or change your experimental design. If you are unsure, then I would encourage you to look carefully at the experiments that others have conducted in the literature. 

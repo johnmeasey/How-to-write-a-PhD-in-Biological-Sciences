@@ -1,11 +1,15 @@
-# A bookdown example for Chapman & Hall books
+# How to write a PhD in Biological Sciences: A guide for the uninitiated 
 
-This is a minimal example for those who plan to write books for Chapman & Hall. Basically you download this repository from Github, fill out the content in R Markdown files, and add more Rmd files as necessary.
+This is an Open Access book by John Measey, under contract with CRC Press
 
-Since this example is minimal, it does not cover all technical details (e.g. the Markdown syntax), and you need to read the [**bookdown** book](https://bookdown.org/yihui/bookdown) before you write anything that is slightly complicated.
+You can read this book for free online at http://john.measey.com/Publications, or purchase print or ebook edition from CRC (at some point in the future).
 
-For a full example, you may take a look at [the source](https://github.com/rstudio/bookdown/tree/master/inst/examples) of the **bookdown** book, or any books on https://bookdown.org that have public source repositories.
+View open-source code for source text and templates at https://github.com/johnmeasey/How-to-write-a-PhD-in-Biological-Sciences
 
-![front page](https://user-images.githubusercontent.com/163582/43735138-808971fe-997f-11e8-987a-180b5baacefd.png)
+Please send corrections or suggestions for this book-in-progress to johnmeasey@gmail.com, or open an issue or submit a pull request on the GitHub repository at https://github.com/johnmeasey/How-to-write-a-PhD-in-Biological-Sciences. If you submit a GitHub pull request, in your commit message, please add the sentence “I assign the copyright of this contribution to John Measey” so that I retain the option of publishing this book in other forms.
 
-![contents page](https://user-images.githubusercontent.com/163582/43735153-8e6c9f94-997f-11e8-92e3-9fcb8db321c6.png)
+
+# About the book
+You don’t have to be a genius to write a PhD. It will always involve a lot of hard work and dedication, but the process of writing up is a whole lot easier if you understand the basic ground rules. This book is a guide specifically for writing a PhD in the *biological sciences*. It will guide you from deciding whether or not you should actually do a PhD, provide practical, up-to-the-minute guides to getting started with planning and writing, and consolidate this with the nuts and bolts of writing for the biological sciences. The book guides you through the do’s and don’ts of writing a thesis, and taking your thesis chapters to publication in peer-reviewed journals. Whether you are a student just starting your studies, or a supervisor struggling to cope, this book will provide the insider information you need to get ahead.
+
+This book was written with http://bookdown.org and https://www.rstudio.com

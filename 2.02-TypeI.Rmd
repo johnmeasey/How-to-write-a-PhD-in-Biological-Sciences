@@ -1,4 +1,4 @@
-## Being aware that you can get it wrong {#TypeI}
+# Being aware that you can get it wrong {#TypeI}
 
 **Type I and Type II errors **
 
@@ -22,7 +22,7 @@ In the following figures (Figures \@ref(fig:HighlyUnlikely), \@ref(fig:Unlikely)
 knitr::include_graphics('figures/HighlyUnlikely.png')
 ```
 
-### Changing the likelihood of a hypothesis
+## Changing the likelihood of a hypothesis
 
 The difference between Figure \@ref(fig:HighlyUnlikely) and Figures \@ref(fig:Unlikely) and \@ref(fig:Likely) is the likelihood that the hypotheses are correct changes. In the first one (Figure \@ref(fig:HighlyUnlikely)) we see highly unlikely hypotheses that will only be correct one in a hundred times. The blue squares denote the proportion of times in which the hypotheses are tested and found to be true. The black squares denote false negative findings, i.e a Type II error. The red squares denote false positive findings, i.e. a Type I error. Because the hypothesis is highly unlikely to be correct the majority of squares are light grey denoting that it was correctly found to be untrue. Because α is set at 0.05, we can expect that 5% of the 990 incorrect hypotheses will give us a false positive (49 or 50 times). Although it might seem unlikely that anyone would test such highly unlikely hypotheses, there are increasing numbers of governments around the world that create incentives for researchers to investigate what they term blue skies research, which might be better termed high risk research or investigations into highly unlikely hypotheses. The real problem with such hypotheses is that you are more likely to get a Type I error than actually find that your hypothesis is truly correct. 
 
@@ -42,7 +42,7 @@ knitr::include_graphics('figures/Likely.png')
 
 Now imagine some groundbreaking research (probably published in a high impact factor journal) that finds a highly unlikely (but presumably desirable) hypothesis is correct (our first scenario of 1 in 100). Researchers from other labs try to repeat the experiment, and some of them also find that they get positive results and get these published. None of the negative results get published, or the investigators don’t bother to submit them and move onto other areas of science. The positive results are written into text books and future generations of scientists test these types of hypotheses expecting them to be correct (our last scenario of 1 in 2). When the negative result is produced, a reasonable assumption is that a Type II error has been found, and that these scientists need to increase the power of their tests, inevitably increasing the cost of the experiment. But there are plenty of other ways that researchers could end up finding that their negative result is in fact positive, especially if this is what they are expecting. Simmons et al [-@simmons2011false] refer to this as the ‘researcher degrees of freedom’ in which researchers inadvertently or deliberately end up getting positive results because of the way in which they treat either their hypothesis or analyse their data. It is easy to see how a false scientific culture can be erected in these mistaken beliefs, and it is important to be aware of this possibility.
 
-### Increasing the statistical power
+## Increasing the statistical power
 
 In all of these figures the power of the analysis is set at 40%. The statistical power of any analysis depends on the sample size (or number of replicates) you're able to use. Some research has suggested that in most ecological and evolutionary studies this is actually more like 20% [see references in @forstmeier2017detecting]. What is important to notice in the next figure \@ref(fig:20PowerHyp) is that when we change the power of the analysis (in this case from 40% to 20%) we influence the proportion of Type II errors over finding that the hypothesis is correct. While the overall numbers of Type I errors does not change, if your analysis tells you to accept your alternative hypothesis, there is now a 1 in 5 chance (20%) that it will be a false positive (Type I error).
 

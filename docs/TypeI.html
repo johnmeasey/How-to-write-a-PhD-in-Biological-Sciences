@@ -24,7 +24,7 @@
 <meta name="author" content="John Measey" />
 
 
-<meta name="date" content="2021-04-15" />
+<meta name="date" content="2021-04-17" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -32,16 +32,16 @@
   
   
 <link rel="prev" href="part2.html"/>
-<link rel="next" href="part3.html"/>
-<script src="libs/header-attrs-2.7/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
-<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+<link rel="next" href="nohypothesis.html"/>
+<script src="libs/header-attrs/header-attrs.js"></script>
+<script src="libs/jquery/jquery.min.js"></script>
+<link href="libs/gitbook/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook/css/plugin-clipboard.css" rel="stylesheet" />
 
 
 
@@ -53,6 +53,70 @@
 
 
 
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
 
 <link rel="stylesheet" href="css/style.css" type="text/css" />
 </head>
@@ -139,275 +203,345 @@
 <ul>
 <li class="chapter" data-level="6.1" data-path="TypeI.html"><a href="TypeI.html#changing-the-likelihood-of-a-hypothesis"><i class="fa fa-check"></i><b>6.1</b> Changing the likelihood of a hypothesis</a></li>
 <li class="chapter" data-level="6.2" data-path="TypeI.html"><a href="TypeI.html#increasing-the-statistical-power"><i class="fa fa-check"></i><b>6.2</b> Increasing the statistical power</a></li>
-<li class="chapter" data-level="6.3" data-path="TypeI.html"><a href="TypeI.html#nohypothesis"><i class="fa fa-check"></i><b>6.3</b> What happens if you don’t have a hypothesis?</a>
-<ul>
-<li class="chapter" data-level="6.3.1" data-path="TypeI.html"><a href="TypeI.html#central-problematic"><i class="fa fa-check"></i><b>6.3.1</b> Central problematic</a></li>
-<li class="chapter" data-level="6.3.2" data-path="TypeI.html"><a href="TypeI.html#does-it-matter-that-you-dont-have-a-hypothesis"><i class="fa fa-check"></i><b>6.3.2</b> Does it matter that you don’t have a hypothesis?</a></li>
-<li class="chapter" data-level="6.3.3" data-path="TypeI.html"><a href="TypeI.html#avoid-harking"><i class="fa fa-check"></i><b>6.3.3</b> Avoid HARKing</a></li>
 </ul></li>
-<li class="chapter" data-level="6.4" data-path="TypeI.html"><a href="TypeI.html#bigidea"><i class="fa fa-check"></i><b>6.4</b> What’s the big idea?</a>
+<li class="chapter" data-level="7" data-path="nohypothesis.html"><a href="nohypothesis.html"><i class="fa fa-check"></i><b>7</b> What happens if you don’t have a hypothesis?</a>
 <ul>
-<li class="chapter" data-level="6.4.1" data-path="TypeI.html"><a href="TypeI.html#the-funnel-introduction"><i class="fa fa-check"></i><b>6.4.1</b> The funnel introduction</a></li>
-<li class="chapter" data-level="6.4.2" data-path="TypeI.html"><a href="TypeI.html#so-where-would-we-find-all-of-these-big-ideas"><i class="fa fa-check"></i><b>6.4.2</b> So where would we find all of these big ideas?</a></li>
+<li class="chapter" data-level="7.1" data-path="nohypothesis.html"><a href="nohypothesis.html#central-problematic"><i class="fa fa-check"></i><b>7.1</b> Central problematic</a></li>
+<li class="chapter" data-level="7.2" data-path="nohypothesis.html"><a href="nohypothesis.html#does-it-matter-that-you-dont-have-a-hypothesis"><i class="fa fa-check"></i><b>7.2</b> Does it matter that you don’t have a hypothesis?</a></li>
+<li class="chapter" data-level="7.3" data-path="nohypothesis.html"><a href="nohypothesis.html#avoid-harking"><i class="fa fa-check"></i><b>7.3</b> Avoid HARKing</a></li>
 </ul></li>
-<li class="chapter" data-level="6.5" data-path="TypeI.html"><a href="TypeI.html#paragraph"><i class="fa fa-check"></i><b>6.5</b> Writing a paragraph</a>
+<li class="chapter" data-level="8" data-path="bigidea.html"><a href="bigidea.html"><i class="fa fa-check"></i><b>8</b> What’s the big idea?</a>
 <ul>
-<li class="chapter" data-level="6.5.1" data-path="TypeI.html"><a href="TypeI.html#topic-sentence"><i class="fa fa-check"></i><b>6.5.1</b> Topic sentence</a></li>
-<li class="chapter" data-level="6.5.2" data-path="TypeI.html"><a href="TypeI.html#supporting-sentences"><i class="fa fa-check"></i><b>6.5.2</b> Supporting sentences</a></li>
-<li class="chapter" data-level="6.5.3" data-path="TypeI.html"><a href="TypeI.html#the-magic-of-threes"><i class="fa fa-check"></i><b>6.5.3</b> The magic of threes</a></li>
-<li class="chapter" data-level="6.5.4" data-path="TypeI.html"><a href="TypeI.html#use-an-example"><i class="fa fa-check"></i><b>6.5.4</b> Use an example</a></li>
-<li class="chapter" data-level="6.5.5" data-path="TypeI.html"><a href="TypeI.html#avoid-lists"><i class="fa fa-check"></i><b>6.5.5</b> Avoid lists</a></li>
-<li class="chapter" data-level="6.5.6" data-path="TypeI.html"><a href="TypeI.html#the-last-sentence-of-the-paragraph-the-clincher"><i class="fa fa-check"></i><b>6.5.6</b> The last sentence of the paragraph: the clincher</a></li>
-<li class="chapter" data-level="6.5.7" data-path="TypeI.html"><a href="TypeI.html#above-all---read-it"><i class="fa fa-check"></i><b>6.5.7</b> Above all - read it!</a></li>
-<li class="chapter" data-level="6.5.8" data-path="TypeI.html"><a href="TypeI.html#how-does-the-paragraph-fit-into-the-flow"><i class="fa fa-check"></i><b>6.5.8</b> How does the paragraph fit into the flow?</a></li>
-<li class="chapter" data-level="6.5.9" data-path="TypeI.html"><a href="TypeI.html#seeding-ideas"><i class="fa fa-check"></i><b>6.5.9</b> Seeding ideas</a></li>
-<li class="chapter" data-level="6.5.10" data-path="TypeI.html"><a href="TypeI.html#breaking-the-rules"><i class="fa fa-check"></i><b>6.5.10</b> Breaking the rules</a></li>
-<li class="chapter" data-level="6.5.11" data-path="TypeI.html"><a href="TypeI.html#some-common-paragraph-mistakes"><i class="fa fa-check"></i><b>6.5.11</b> Some common paragraph mistakes</a></li>
+<li class="chapter" data-level="8.1" data-path="bigidea.html"><a href="bigidea.html#the-funnel-introduction"><i class="fa fa-check"></i><b>8.1</b> The funnel introduction</a></li>
+<li class="chapter" data-level="8.2" data-path="bigidea.html"><a href="bigidea.html#so-where-would-we-find-all-of-these-big-ideas"><i class="fa fa-check"></i><b>8.2</b> So where would we find all of these big ideas?</a></li>
 </ul></li>
-<li class="chapter" data-level="6.6" data-path="TypeI.html"><a href="TypeI.html#argument"><i class="fa fa-check"></i><b>6.6</b> Construct a logical argument in your writing</a>
+<li class="chapter" data-level="9" data-path="paragraph.html"><a href="paragraph.html"><i class="fa fa-check"></i><b>9</b> Writing a paragraph</a>
 <ul>
-<li class="chapter" data-level="6.6.1" data-path="TypeI.html"><a href="TypeI.html#arguments-in-latin"><i class="fa fa-check"></i><b>6.6.1</b> Arguments in Latin</a></li>
+<li class="chapter" data-level="9.1" data-path="paragraph.html"><a href="paragraph.html#topic-sentence"><i class="fa fa-check"></i><b>9.1</b> Topic sentence</a></li>
+<li class="chapter" data-level="9.2" data-path="paragraph.html"><a href="paragraph.html#supporting-sentences"><i class="fa fa-check"></i><b>9.2</b> Supporting sentences</a></li>
+<li class="chapter" data-level="9.3" data-path="paragraph.html"><a href="paragraph.html#the-magic-of-threes"><i class="fa fa-check"></i><b>9.3</b> The magic of threes</a></li>
+<li class="chapter" data-level="9.4" data-path="paragraph.html"><a href="paragraph.html#use-an-example"><i class="fa fa-check"></i><b>9.4</b> Use an example</a></li>
+<li class="chapter" data-level="9.5" data-path="paragraph.html"><a href="paragraph.html#avoid-lists"><i class="fa fa-check"></i><b>9.5</b> Avoid lists</a></li>
+<li class="chapter" data-level="9.6" data-path="paragraph.html"><a href="paragraph.html#the-last-sentence-of-the-paragraph-the-clincher"><i class="fa fa-check"></i><b>9.6</b> The last sentence of the paragraph: the clincher</a></li>
+<li class="chapter" data-level="9.7" data-path="paragraph.html"><a href="paragraph.html#above-all---read-it"><i class="fa fa-check"></i><b>9.7</b> Above all - read it!</a></li>
+<li class="chapter" data-level="9.8" data-path="paragraph.html"><a href="paragraph.html#how-does-the-paragraph-fit-into-the-flow"><i class="fa fa-check"></i><b>9.8</b> How does the paragraph fit into the flow?</a></li>
+<li class="chapter" data-level="9.9" data-path="paragraph.html"><a href="paragraph.html#seeding-ideas"><i class="fa fa-check"></i><b>9.9</b> Seeding ideas</a></li>
+<li class="chapter" data-level="9.10" data-path="paragraph.html"><a href="paragraph.html#breaking-the-rules"><i class="fa fa-check"></i><b>9.10</b> Breaking the rules</a></li>
+<li class="chapter" data-level="9.11" data-path="paragraph.html"><a href="paragraph.html#some-common-paragraph-mistakes"><i class="fa fa-check"></i><b>9.11</b> Some common paragraph mistakes</a></li>
 </ul></li>
-<li class="chapter" data-level="6.7" data-path="TypeI.html"><a href="TypeI.html#storytelling"><i class="fa fa-check"></i><b>6.7</b> Storytelling in science?</a>
+<li class="chapter" data-level="10" data-path="argument.html"><a href="argument.html"><i class="fa fa-check"></i><b>10</b> Construct a logical argument in your writing</a>
 <ul>
-<li class="chapter" data-level="6.7.1" data-path="TypeI.html"><a href="TypeI.html#the-danger-of-a-teleological-argument"><i class="fa fa-check"></i><b>6.7.1</b> The danger of a teleological argument</a></li>
-<li class="chapter" data-level="6.7.2" data-path="TypeI.html"><a href="TypeI.html#science-is-the-very-opposite-of-storytelling.-or-is-it"><i class="fa fa-check"></i><b>6.7.2</b> SCience is the very opposite of storytelling. Or is it?</a></li>
-<li class="chapter" data-level="6.7.3" data-path="TypeI.html"><a href="TypeI.html#can-storytelling-help-memory-of-science"><i class="fa fa-check"></i><b>6.7.3</b> Can storytelling help memory of science?</a></li>
+<li class="chapter" data-level="10.1" data-path="argument.html"><a href="argument.html#arguments-in-latin"><i class="fa fa-check"></i><b>10.1</b> Arguments in Latin</a></li>
+<li class="chapter" data-level="10.2" data-path="argument.html"><a href="argument.html#other-arguments-in-english"><i class="fa fa-check"></i><b>10.2</b> Other arguments in English</a></li>
 </ul></li>
-<li class="chapter" data-level="6.8" data-path="TypeI.html"><a href="TypeI.html#citations"><i class="fa fa-check"></i><b>6.8</b> Why do you need to cite?</a>
+<li class="chapter" data-level="11" data-path="storytelling.html"><a href="storytelling.html"><i class="fa fa-check"></i><b>11</b> Storytelling in science?</a>
 <ul>
-<li class="chapter" data-level="6.8.1" data-path="TypeI.html"><a href="TypeI.html#research-is-built-on-existing-work-and-ideas"><i class="fa fa-check"></i><b>6.8.1</b> Research is built on existing work and ideas</a></li>
-<li class="chapter" data-level="6.8.2" data-path="TypeI.html"><a href="TypeI.html#your-citations-say-a-lot-about-you"><i class="fa fa-check"></i><b>6.8.2</b> Your citations say a lot about you</a></li>
-<li class="chapter" data-level="6.8.3" data-path="TypeI.html"><a href="TypeI.html#cite-while-you-write-not-afterwards"><i class="fa fa-check"></i><b>6.8.3</b> Cite while you write (not afterwards)</a></li>
-<li class="chapter" data-level="6.8.4" data-path="TypeI.html"><a href="TypeI.html#citation-styles"><i class="fa fa-check"></i><b>6.8.4</b> Citation Styles</a></li>
-<li class="chapter" data-level="6.8.5" data-path="TypeI.html"><a href="TypeI.html#moving-from-harvard-to-vancouver"><i class="fa fa-check"></i><b>6.8.5</b> Moving from Harvard to Vancouver</a></li>
-<li class="chapter" data-level="6.8.6" data-path="TypeI.html"><a href="TypeI.html#where-within-a-sentence-should-the-citation-come"><i class="fa fa-check"></i><b>6.8.6</b> Where within a sentence should the citation come?</a></li>
-<li class="chapter" data-level="6.8.7" data-path="TypeI.html"><a href="TypeI.html#what-about-the-order-of-the-citations-in-a-string"><i class="fa fa-check"></i><b>6.8.7</b> What about the order of the citations in a string?</a></li>
-<li class="chapter" data-level="6.8.8" data-path="TypeI.html"><a href="TypeI.html#what-about-citations-as-taxonomic-authorities"><i class="fa fa-check"></i><b>6.8.8</b> What about citations as taxonomic authorities?</a></li>
-<li class="chapter" data-level="6.8.9" data-path="TypeI.html"><a href="TypeI.html#is-it-possible-to-mis-cite"><i class="fa fa-check"></i><b>6.8.9</b> Is it possible to mis-cite?</a></li>
-<li class="chapter" data-level="6.8.10" data-path="TypeI.html"><a href="TypeI.html#should-i-cite-without-reading-the-paper"><i class="fa fa-check"></i><b>6.8.10</b> Should I cite without reading the paper?</a></li>
-<li class="chapter" data-level="6.8.11" data-path="TypeI.html"><a href="TypeI.html#what-should-i-not-cite"><i class="fa fa-check"></i><b>6.8.11</b> What should I not cite?</a></li>
-<li class="chapter" data-level="6.8.12" data-path="TypeI.html"><a href="TypeI.html#do-i-cite-the-review-or-the-primary-literature"><i class="fa fa-check"></i><b>6.8.12</b> Do I cite the review or the primary literature?</a></li>
-<li class="chapter" data-level="6.8.13" data-path="TypeI.html"><a href="TypeI.html#what-is-primacy-and-why-does-it-matter"><i class="fa fa-check"></i><b>6.8.13</b> What is primacy and why does it matter?</a></li>
-<li class="chapter" data-level="6.8.14" data-path="TypeI.html"><a href="TypeI.html#how-many-citations-is-enough"><i class="fa fa-check"></i><b>6.8.14</b> How many citations is enough?</a></li>
-<li class="chapter" data-level="6.8.15" data-path="TypeI.html"><a href="TypeI.html#should-i-cite-myself"><i class="fa fa-check"></i><b>6.8.15</b> Should I cite myself?</a></li>
-<li class="chapter" data-level="6.8.16" data-path="TypeI.html"><a href="TypeI.html#should-i-cite-my-friends"><i class="fa fa-check"></i><b>6.8.16</b> Should I cite my friends?</a></li>
-<li class="chapter" data-level="6.8.17" data-path="TypeI.html"><a href="TypeI.html#does-the-impact-factor-of-the-cited-article-matter"><i class="fa fa-check"></i><b>6.8.17</b> Does the impact factor of the cited article matter?</a></li>
+<li class="chapter" data-level="11.1" data-path="storytelling.html"><a href="storytelling.html#the-danger-of-a-teleological-argument"><i class="fa fa-check"></i><b>11.1</b> The danger of a teleological argument</a></li>
+<li class="chapter" data-level="11.2" data-path="storytelling.html"><a href="storytelling.html#science-is-the-very-opposite-of-storytelling.-or-is-it"><i class="fa fa-check"></i><b>11.2</b> SCience is the very opposite of storytelling. Or is it?</a></li>
+<li class="chapter" data-level="11.3" data-path="storytelling.html"><a href="storytelling.html#can-storytelling-help-memory-of-science"><i class="fa fa-check"></i><b>11.3</b> Can storytelling help memory of science?</a></li>
 </ul></li>
-<li class="chapter" data-level="6.9" data-path="TypeI.html"><a href="TypeI.html#databases"><i class="fa fa-check"></i><b>6.9</b> Literature databases</a>
+<li class="chapter" data-level="12" data-path="citations.html"><a href="citations.html"><i class="fa fa-check"></i><b>12</b> Why do you need to cite?</a>
 <ul>
-<li class="chapter" data-level="6.9.1" data-path="TypeI.html"><a href="TypeI.html#searching-the-literature-using-a-database"><i class="fa fa-check"></i><b>6.9.1</b> Searching the literature using a database</a></li>
-<li class="chapter" data-level="6.9.2" data-path="TypeI.html"><a href="TypeI.html#keywords"><i class="fa fa-check"></i><b>6.9.2</b> Keywords</a></li>
-<li class="chapter" data-level="6.9.3" data-path="TypeI.html"><a href="TypeI.html#administrators-want-metrics"><i class="fa fa-check"></i><b>6.9.3</b> Administrators want metrics</a></li>
-<li class="chapter" data-level="6.9.4" data-path="TypeI.html"><a href="TypeI.html#google-scholar-web-of-science-or-scopus"><i class="fa fa-check"></i><b>6.9.4</b> Google Scholar, Web of Science or Scopus?</a></li>
-<li class="chapter" data-level="6.9.5" data-path="TypeI.html"><a href="TypeI.html#whats-the-difference-between-indices"><i class="fa fa-check"></i><b>6.9.5</b> What’s the difference between indices?</a></li>
+<li class="chapter" data-level="12.1" data-path="citations.html"><a href="citations.html#research-is-built-on-existing-work-and-ideas"><i class="fa fa-check"></i><b>12.1</b> Research is built on existing work and ideas</a></li>
+<li class="chapter" data-level="12.2" data-path="citations.html"><a href="citations.html#your-citations-say-a-lot-about-you"><i class="fa fa-check"></i><b>12.2</b> Your citations say a lot about you</a></li>
+<li class="chapter" data-level="12.3" data-path="citations.html"><a href="citations.html#cite-while-you-write-not-afterwards"><i class="fa fa-check"></i><b>12.3</b> Cite while you write (not afterwards)</a></li>
+<li class="chapter" data-level="12.4" data-path="citations.html"><a href="citations.html#citation-styles"><i class="fa fa-check"></i><b>12.4</b> Citation Styles</a>
+<ul>
+<li class="chapter" data-level="12.4.1" data-path="citations.html"><a href="citations.html#vancouver-style"><i class="fa fa-check"></i><b>12.4.1</b> Vancouver Style</a></li>
+<li class="chapter" data-level="12.4.2" data-path="citations.html"><a href="citations.html#harvard-style"><i class="fa fa-check"></i><b>12.4.2</b> Harvard Style</a></li>
 </ul></li>
-<li class="chapter" data-level="6.10" data-path="TypeI.html"><a href="TypeI.html#software"><i class="fa fa-check"></i><b>6.10</b> What software should I use to write my PhD?</a>
-<ul>
-<li class="chapter" data-level="6.10.1" data-path="TypeI.html"><a href="TypeI.html#alternatives-to-conventional-word-processors"><i class="fa fa-check"></i><b>6.10.1</b> Alternatives to conventional word processors</a></li>
-<li class="chapter" data-level="6.10.2" data-path="TypeI.html"><a href="TypeI.html#naming-versions-of-files"><i class="fa fa-check"></i><b>6.10.2</b> Naming versions of files</a></li>
-<li class="chapter" data-level="6.10.3" data-path="TypeI.html"><a href="TypeI.html#how-many-versions-of-each-file-should-you-keep"><i class="fa fa-check"></i><b>6.10.3</b> How many versions of each file should you keep?</a></li>
+<li class="chapter" data-level="12.5" data-path="citations.html"><a href="citations.html#moving-from-harvard-to-vancouver"><i class="fa fa-check"></i><b>12.5</b> Moving from Harvard to Vancouver</a></li>
+<li class="chapter" data-level="12.6" data-path="citations.html"><a href="citations.html#where-within-a-sentence-should-the-citation-come"><i class="fa fa-check"></i><b>12.6</b> Where within a sentence should the citation come?</a></li>
+<li class="chapter" data-level="12.7" data-path="citations.html"><a href="citations.html#what-about-the-order-of-the-citations-in-a-string"><i class="fa fa-check"></i><b>12.7</b> What about the order of the citations in a string?</a></li>
+<li class="chapter" data-level="12.8" data-path="citations.html"><a href="citations.html#what-about-citations-as-taxonomic-authorities"><i class="fa fa-check"></i><b>12.8</b> What about citations as taxonomic authorities?</a></li>
+<li class="chapter" data-level="12.9" data-path="citations.html"><a href="citations.html#is-it-possible-to-mis-cite"><i class="fa fa-check"></i><b>12.9</b> Is it possible to mis-cite?</a></li>
+<li class="chapter" data-level="12.10" data-path="citations.html"><a href="citations.html#should-i-cite-without-reading-the-paper"><i class="fa fa-check"></i><b>12.10</b> Should I cite without reading the paper?</a></li>
+<li class="chapter" data-level="12.11" data-path="citations.html"><a href="citations.html#what-should-i-not-cite"><i class="fa fa-check"></i><b>12.11</b> What should I not cite?</a></li>
+<li class="chapter" data-level="12.12" data-path="citations.html"><a href="citations.html#do-i-cite-the-review-or-the-primary-literature"><i class="fa fa-check"></i><b>12.12</b> Do I cite the review or the primary literature?</a></li>
+<li class="chapter" data-level="12.13" data-path="citations.html"><a href="citations.html#what-is-primacy-and-why-does-it-matter"><i class="fa fa-check"></i><b>12.13</b> What is primacy and why does it matter?</a></li>
+<li class="chapter" data-level="12.14" data-path="citations.html"><a href="citations.html#how-many-citations-is-enough"><i class="fa fa-check"></i><b>12.14</b> How many citations is enough?</a></li>
+<li class="chapter" data-level="12.15" data-path="citations.html"><a href="citations.html#should-i-cite-myself"><i class="fa fa-check"></i><b>12.15</b> Should I cite myself?</a></li>
+<li class="chapter" data-level="12.16" data-path="citations.html"><a href="citations.html#should-i-cite-my-friends"><i class="fa fa-check"></i><b>12.16</b> Should I cite my friends?</a></li>
+<li class="chapter" data-level="12.17" data-path="citations.html"><a href="citations.html#does-the-impact-factor-of-the-cited-article-matter"><i class="fa fa-check"></i><b>12.17</b> Does the impact factor of the cited article matter?</a></li>
 </ul></li>
-<li class="chapter" data-level="6.11" data-path="TypeI.html"><a href="TypeI.html#paywall"><i class="fa fa-check"></i><b>6.11</b> How to get around the paywall</a>
+<li class="chapter" data-level="13" data-path="databases.html"><a href="databases.html"><i class="fa fa-check"></i><b>13</b> Literature databases</a>
 <ul>
-<li class="chapter" data-level="6.11.1" data-path="TypeI.html"><a href="TypeI.html#go-to-your-library"><i class="fa fa-check"></i><b>6.11.1</b> Go to your library</a></li>
-<li class="chapter" data-level="6.11.2" data-path="TypeI.html"><a href="TypeI.html#look-for-links-from-google-scholar"><i class="fa fa-check"></i><b>6.11.2</b> Look for links from Google Scholar</a></li>
-<li class="chapter" data-level="6.11.3" data-path="TypeI.html"><a href="TypeI.html#google-the-title-in-quotes"><i class="fa fa-check"></i><b>6.11.3</b> Google the title in quotes</a></li>
-<li class="chapter" data-level="6.11.4" data-path="TypeI.html"><a href="TypeI.html#go-to-the-author-websites-and-look-for-links"><i class="fa fa-check"></i><b>6.11.4</b> Go to the author websites and look for links</a></li>
-<li class="chapter" data-level="6.11.5" data-path="TypeI.html"><a href="TypeI.html#go-to-an-academic-social-media-site"><i class="fa fa-check"></i><b>6.11.5</b> Go to an academic social media site</a></li>
-<li class="chapter" data-level="6.11.6" data-path="TypeI.html"><a href="TypeI.html#go-into-the-black-open-access"><i class="fa fa-check"></i><b>6.11.6</b> Go into the black open access</a></li>
-<li class="chapter" data-level="6.11.7" data-path="TypeI.html"><a href="TypeI.html#use-your-contacts-at-other-universities"><i class="fa fa-check"></i><b>6.11.7</b> Use your contacts at other universities</a></li>
-<li class="chapter" data-level="6.11.8" data-path="TypeI.html"><a href="TypeI.html#go-back-to-you-librarian-and-ask-them-for-help"><i class="fa fa-check"></i><b>6.11.8</b> Go back to you librarian and ask them for help</a></li>
-<li class="chapter" data-level="6.11.9" data-path="TypeI.html"><a href="TypeI.html#get-an-interlibrary-loan"><i class="fa fa-check"></i><b>6.11.9</b> Get an interlibrary loan</a></li>
+<li class="chapter" data-level="13.1" data-path="databases.html"><a href="databases.html#searching-the-literature-using-a-database"><i class="fa fa-check"></i><b>13.1</b> Searching the literature using a database</a></li>
+<li class="chapter" data-level="13.2" data-path="databases.html"><a href="databases.html#keywords"><i class="fa fa-check"></i><b>13.2</b> Keywords</a>
+<ul>
+<li class="chapter" data-level="13.2.1" data-path="databases.html"><a href="databases.html#boolean-terms-or-operators"><i class="fa fa-check"></i><b>13.2.1</b> Boolean terms or operators</a></li>
+<li class="chapter" data-level="13.2.2" data-path="databases.html"><a href="databases.html#proximity-operators-and-parentheses"><i class="fa fa-check"></i><b>13.2.2</b> Proximity operators and parentheses</a></li>
+<li class="chapter" data-level="13.2.3" data-path="databases.html"><a href="databases.html#wildcards"><i class="fa fa-check"></i><b>13.2.3</b> Wildcards</a></li>
+<li class="chapter" data-level="13.2.4" data-path="databases.html"><a href="databases.html#combining-searches"><i class="fa fa-check"></i><b>13.2.4</b> Combining searches</a></li>
+<li class="chapter" data-level="13.2.5" data-path="databases.html"><a href="databases.html#citations-1"><i class="fa fa-check"></i><b>13.2.5</b> Citations</a></li>
 </ul></li>
-<li class="chapter" data-level="6.12" data-path="TypeI.html"><a href="TypeI.html#taxonomy"><i class="fa fa-check"></i><b>6.12</b> Scientific names and taxonomic authorities</a>
-<ul>
-<li class="chapter" data-level="6.12.1" data-path="TypeI.html"><a href="TypeI.html#scientific-names"><i class="fa fa-check"></i><b>6.12.1</b> Scientific names</a></li>
-<li class="chapter" data-level="6.12.2" data-path="TypeI.html"><a href="TypeI.html#different-codes-for-the-nomenclature-of-different-taxa"><i class="fa fa-check"></i><b>6.12.2</b> Different codes for the nomenclature of different taxa</a></li>
-<li class="chapter" data-level="6.12.3" data-path="TypeI.html"><a href="TypeI.html#common-names"><i class="fa fa-check"></i><b>6.12.3</b> Common names</a></li>
-<li class="chapter" data-level="6.12.4" data-path="TypeI.html"><a href="TypeI.html#should-common-names-have-capitals"><i class="fa fa-check"></i><b>6.12.4</b> Should common names have capitals?</a></li>
+<li class="chapter" data-level="13.3" data-path="databases.html"><a href="databases.html#administrators-want-metrics"><i class="fa fa-check"></i><b>13.3</b> Administrators want metrics</a></li>
+<li class="chapter" data-level="13.4" data-path="databases.html"><a href="databases.html#google-scholar-web-of-science-or-scopus"><i class="fa fa-check"></i><b>13.4</b> Google Scholar, Web of Science or Scopus?</a></li>
+<li class="chapter" data-level="13.5" data-path="databases.html"><a href="databases.html#whats-the-difference-between-indices"><i class="fa fa-check"></i><b>13.5</b> What’s the difference between indices?</a></li>
 </ul></li>
-<li class="chapter" data-level="6.13" data-path="TypeI.html"><a href="TypeI.html#style"><i class="fa fa-check"></i><b>6.13</b> Writing style</a>
+<li class="chapter" data-level="14" data-path="software.html"><a href="software.html"><i class="fa fa-check"></i><b>14</b> What software should I use to write my PhD?</a>
 <ul>
-<li class="chapter" data-level="6.13.1" data-path="TypeI.html"><a href="TypeI.html#dont-bamboozle"><i class="fa fa-check"></i><b>6.13.1</b> Don’t bamboozle</a></li>
+<li class="chapter" data-level="14.1" data-path="software.html"><a href="software.html#alternatives-to-conventional-word-processors"><i class="fa fa-check"></i><b>14.1</b> Alternatives to conventional word processors</a></li>
+<li class="chapter" data-level="14.2" data-path="software.html"><a href="software.html#naming-versions-of-files"><i class="fa fa-check"></i><b>14.2</b> Naming versions of files</a></li>
+<li class="chapter" data-level="14.3" data-path="software.html"><a href="software.html#how-many-versions-of-each-file-should-you-keep"><i class="fa fa-check"></i><b>14.3</b> How many versions of each file should you keep?</a></li>
+<li class="chapter" data-level="14.4" data-path="software.html"><a href="software.html#go-to-your-library"><i class="fa fa-check"></i><b>14.4</b> Go to your library</a></li>
+<li class="chapter" data-level="14.5" data-path="software.html"><a href="software.html#look-for-links-from-google-scholar"><i class="fa fa-check"></i><b>14.5</b> Look for links from Google Scholar</a></li>
+<li class="chapter" data-level="14.6" data-path="software.html"><a href="software.html#google-the-title-in-quotes"><i class="fa fa-check"></i><b>14.6</b> Google the title in quotes</a></li>
+<li class="chapter" data-level="14.7" data-path="software.html"><a href="software.html#go-to-the-author-websites-and-look-for-links"><i class="fa fa-check"></i><b>14.7</b> Go to the author websites and look for links</a></li>
+<li class="chapter" data-level="14.8" data-path="software.html"><a href="software.html#go-to-an-academic-social-media-site"><i class="fa fa-check"></i><b>14.8</b> Go to an academic social media site</a></li>
+<li class="chapter" data-level="14.9" data-path="software.html"><a href="software.html#go-into-the-black-open-access"><i class="fa fa-check"></i><b>14.9</b> Go into the black open access</a></li>
+<li class="chapter" data-level="14.10" data-path="software.html"><a href="software.html#use-your-contacts-at-other-universities"><i class="fa fa-check"></i><b>14.10</b> Use your contacts at other universities</a></li>
+<li class="chapter" data-level="14.11" data-path="software.html"><a href="software.html#go-back-to-you-librarian-and-ask-them-for-help"><i class="fa fa-check"></i><b>14.11</b> Go back to you librarian and ask them for help</a></li>
+<li class="chapter" data-level="14.12" data-path="software.html"><a href="software.html#get-an-interlibrary-loan"><i class="fa fa-check"></i><b>14.12</b> Get an interlibrary loan</a></li>
 </ul></li>
-<li class="chapter" data-level="6.14" data-path="TypeI.html"><a href="TypeI.html#voice"><i class="fa fa-check"></i><b>6.14</b> When is it possible to retain your own voice when writing?</a>
+<li class="chapter" data-level="15" data-path="taxonomy.html"><a href="taxonomy.html"><i class="fa fa-check"></i><b>15</b> Scientific names and taxonomic authorities</a>
 <ul>
-<li class="chapter" data-level="6.14.1" data-path="TypeI.html"><a href="TypeI.html#does-writing-i-or-we-help-people-to-understand-who-you-are"><i class="fa fa-check"></i><b>6.14.1</b> Does writing “I” or “we” help people to understand who you are?</a></li>
-<li class="chapter" data-level="6.14.2" data-path="TypeI.html"><a href="TypeI.html#the-vonnegut-advice"><i class="fa fa-check"></i><b>6.14.2</b> The Vonnegut advice</a></li>
+<li class="chapter" data-level="15.1" data-path="taxonomy.html"><a href="taxonomy.html#scientific-names"><i class="fa fa-check"></i><b>15.1</b> Scientific names</a>
+<ul>
+<li class="chapter" data-level="15.1.1" data-path="taxonomy.html"><a href="taxonomy.html#consider-this-example"><i class="fa fa-check"></i><b>15.1.1</b> Consider this example:</a></li>
 </ul></li>
-<li class="chapter" data-level="6.15" data-path="TypeI.html"><a href="TypeI.html#concise"><i class="fa fa-check"></i><b>6.15</b> Writing concisely</a>
+<li class="chapter" data-level="15.2" data-path="taxonomy.html"><a href="taxonomy.html#different-codes-for-the-nomenclature-of-different-taxa"><i class="fa fa-check"></i><b>15.2</b> Different codes for the nomenclature of different taxa</a>
 <ul>
-<li class="chapter" data-level="6.15.1" data-path="TypeI.html"><a href="TypeI.html#rule-1.-take-writing-seriously"><i class="fa fa-check"></i><b>6.15.1</b> Rule 1. Take writing seriously</a></li>
-<li class="chapter" data-level="6.15.2" data-path="TypeI.html"><a href="TypeI.html#rule-2-identify-and-stick-to-your-message"><i class="fa fa-check"></i><b>6.15.2</b> Rule 2: Identify and stick to your message</a></li>
-<li class="chapter" data-level="6.15.3" data-path="TypeI.html"><a href="TypeI.html#rule-3-get-to-the-point"><i class="fa fa-check"></i><b>6.15.3</b> Rule 3: Get to the point</a></li>
-<li class="chapter" data-level="6.15.4" data-path="TypeI.html"><a href="TypeI.html#rule-4-keep-your-methods-and-results-contained"><i class="fa fa-check"></i><b>6.15.4</b> Rule 4: Keep your Methods and Results contained</a></li>
-<li class="chapter" data-level="6.15.5" data-path="TypeI.html"><a href="TypeI.html#rule-5-do-not-repeat-yourself-too-often"><i class="fa fa-check"></i><b>6.15.5</b> Rule 5: Do not repeat yourself (too often)</a></li>
-<li class="chapter" data-level="6.15.6" data-path="TypeI.html"><a href="TypeI.html#rule-6-avoid-unnecessary-or-inefficient-leadins"><i class="fa fa-check"></i><b>6.15.6</b> Rule 6: Avoid unnecessary or inefficient “lead‐ins”</a></li>
-<li class="chapter" data-level="6.15.7" data-path="TypeI.html"><a href="TypeI.html#rule-7-use-firstperson-active-voice"><i class="fa fa-check"></i><b>6.15.7</b> Rule 7: Use first‐person, active voice</a></li>
-<li class="chapter" data-level="6.15.8" data-path="TypeI.html"><a href="TypeI.html#rule-8-remove-unnecessary-words"><i class="fa fa-check"></i><b>6.15.8</b> Rule 8: Remove unnecessary words</a></li>
-<li class="chapter" data-level="6.15.9" data-path="TypeI.html"><a href="TypeI.html#rule-9-simplify-your-language"><i class="fa fa-check"></i><b>6.15.9</b> Rule 9: Simplify your language</a></li>
-<li class="chapter" data-level="6.15.10" data-path="TypeI.html"><a href="TypeI.html#rule-10-seek-and-embrace-feedback"><i class="fa fa-check"></i><b>6.15.10</b> Rule 10: Seek and embrace feedback</a></li>
-<li class="chapter" data-level="6.15.11" data-path="TypeI.html"><a href="TypeI.html#rule-11-read-it-yourself"><i class="fa fa-check"></i><b>6.15.11</b> Rule 11: Read it yourself</a></li>
+<li class="chapter" data-level="15.2.1" data-path="taxonomy.html"><a href="taxonomy.html#peculiarities-of-plant-taxonomy"><i class="fa fa-check"></i><b>15.2.1</b> Peculiarities of plant taxonomy</a></li>
 </ul></li>
-<li class="chapter" data-level="6.16" data-path="TypeI.html"><a href="TypeI.html#foreign"><i class="fa fa-check"></i><b>6.16</b> Writing a PhD if English is not your first language</a>
+<li class="chapter" data-level="15.3" data-path="taxonomy.html"><a href="taxonomy.html#common-names"><i class="fa fa-check"></i><b>15.3</b> Common names</a></li>
+<li class="chapter" data-level="15.4" data-path="taxonomy.html"><a href="taxonomy.html#should-common-names-have-capitals"><i class="fa fa-check"></i><b>15.4</b> Should common names have capitals?</a>
 <ul>
-<li class="chapter" data-level="6.16.1" data-path="TypeI.html"><a href="TypeI.html#message-from-an-editor"><i class="fa fa-check"></i><b>6.16.1</b> Message from an editor</a></li>
-<li class="chapter" data-level="6.16.2" data-path="TypeI.html"><a href="TypeI.html#must-a-native-english-speaker-check-your-work"><i class="fa fa-check"></i><b>6.16.2</b> Must a ‘native English speaker’ check your work?</a></li>
-<li class="chapter" data-level="6.16.3" data-path="TypeI.html"><a href="TypeI.html#so-if-not-a-native-english-speaker-who-should-do-it"><i class="fa fa-check"></i><b>6.16.3</b> So if not a native English speaker, who should do it?</a></li>
-<li class="chapter" data-level="6.16.4" data-path="TypeI.html"><a href="TypeI.html#but-surely-my-native-tongue-can-be-used-for-something"><i class="fa fa-check"></i><b>6.16.4</b> But surely my native tongue can be used for something?</a></li>
-</ul></li>
-<li class="chapter" data-level="6.17" data-path="TypeI.html"><a href="TypeI.html#plagiarise"><i class="fa fa-check"></i><b>6.17</b> Making sure that you don’t plagiarise</a>
-<ul>
-<li class="chapter" data-level="6.17.1" data-path="TypeI.html"><a href="TypeI.html#how-to-know-if-you-have-plagiarised"><i class="fa fa-check"></i><b>6.17.1</b> How to know if you have plagiarised</a></li>
-<li class="chapter" data-level="6.17.2" data-path="TypeI.html"><a href="TypeI.html#what-to-do-if-plagiarism-is-detected-in-your-work"><i class="fa fa-check"></i><b>6.17.2</b> What to do if plagiarism is detected in your work</a></li>
-<li class="chapter" data-level="6.17.3" data-path="TypeI.html"><a href="TypeI.html#how-can-you-make-sure-that-you-never-plagiarise"><i class="fa fa-check"></i><b>6.17.3</b> How can you make sure that you never plagiarise?</a></li>
-<li class="chapter" data-level="6.17.4" data-path="TypeI.html"><a href="TypeI.html#what-is-grey-plagiarism"><i class="fa fa-check"></i><b>6.17.4</b> What is grey plagiarism?</a></li>
-<li class="chapter" data-level="6.17.5" data-path="TypeI.html"><a href="TypeI.html#manuscript-recycling"><i class="fa fa-check"></i><b>6.17.5</b> Manuscript recycling</a></li>
-<li class="chapter" data-level="6.17.6" data-path="TypeI.html"><a href="TypeI.html#overall---just-dont-plagiarise"><i class="fa fa-check"></i><b>6.17.6</b> Overall - just don’t plagiarise</a></li>
-</ul></li>
-<li class="chapter" data-level="6.18" data-path="TypeI.html"><a href="TypeI.html#phrasebank"><i class="fa fa-check"></i><b>6.18</b> Academic phrasebank</a>
-<ul>
-<li class="chapter" data-level="6.18.1" data-path="TypeI.html"><a href="TypeI.html#how-to-find-the-phrase-that-you-need"><i class="fa fa-check"></i><b>6.18.1</b> How to find the phrase that you need:</a></li>
-<li class="chapter" data-level="6.18.2" data-path="TypeI.html"><a href="TypeI.html#getting-started"><i class="fa fa-check"></i><b>6.18.2</b> Getting started</a></li>
-</ul></li>
-<li class="chapter" data-level="6.19" data-path="TypeI.html"><a href="TypeI.html#critical"><i class="fa fa-check"></i><b>6.19</b> Why critical reading is crucial for improving your writing</a>
-<ul>
-<li class="chapter" data-level="6.19.1" data-path="TypeI.html"><a href="TypeI.html#making-notes-on-good-and-bad-styles"><i class="fa fa-check"></i><b>6.19.1</b> Making notes on good and bad styles</a></li>
-<li class="chapter" data-level="6.19.2" data-path="TypeI.html"><a href="TypeI.html#make-handwritten-notes"><i class="fa fa-check"></i><b>6.19.2</b> Make handwritten notes</a></li>
-<li class="chapter" data-level="6.19.3" data-path="TypeI.html"><a href="TypeI.html#recognising-good-or-bad-in-what-you-read"><i class="fa fa-check"></i><b>6.19.3</b> Recognising good or bad in what you read</a></li>
-</ul></li>
-<li class="chapter" data-level="6.20" data-path="TypeI.html"><a href="TypeI.html#proposal"><i class="fa fa-check"></i><b>6.20</b> What is needed for your research proposal?</a>
-<ul>
-<li class="chapter" data-level="6.20.1" data-path="TypeI.html"><a href="TypeI.html#structure"><i class="fa fa-check"></i><b>6.20.1</b> Structure</a></li>
-<li class="chapter" data-level="6.20.2" data-path="TypeI.html"><a href="TypeI.html#proposal-introduction"><i class="fa fa-check"></i><b>6.20.2</b> Proposal introduction</a></li>
-<li class="chapter" data-level="6.20.3" data-path="TypeI.html"><a href="TypeI.html#methods-and-materials"><i class="fa fa-check"></i><b>6.20.3</b> Methods and Materials</a></li>
-<li class="chapter" data-level="6.20.4" data-path="TypeI.html"><a href="TypeI.html#hypothetical-results"><i class="fa fa-check"></i><b>6.20.4</b> Hypothetical Results</a></li>
-<li class="chapter" data-level="6.20.5" data-path="TypeI.html"><a href="TypeI.html#your-proposal---what-is-it-good-for"><i class="fa fa-check"></i><b>6.20.5</b> Your Proposal - what is it good for?</a></li>
-</ul></li>
-<li class="chapter" data-level="6.21" data-path="TypeI.html"><a href="TypeI.html#proposal-presentation"><i class="fa fa-check"></i><b>6.21</b> Making a presentation from your chapter, paper or proposal</a>
-<ul>
-<li class="chapter" data-level="6.21.1" data-path="TypeI.html"><a href="TypeI.html#so-where-do-you-start"><i class="fa fa-check"></i><b>6.21.1</b> So where do you start?</a></li>
-<li class="chapter" data-level="6.21.2" data-path="TypeI.html"><a href="TypeI.html#know-your-story-first-and-then-make-your-presentation"><i class="fa fa-check"></i><b>6.21.2</b> Know your story first, and then make your presentation</a></li>
-<li class="chapter" data-level="6.21.3" data-path="TypeI.html"><a href="TypeI.html#slide-layout"><i class="fa fa-check"></i><b>6.21.3</b> Slide layout</a></li>
-<li class="chapter" data-level="6.21.4" data-path="TypeI.html"><a href="TypeI.html#practice-practice-practice"><i class="fa fa-check"></i><b>6.21.4</b> Practice, practice, practice</a></li>
-</ul></li>
-<li class="chapter" data-level="6.22" data-path="TypeI.html"><a href="TypeI.html#transparency"><i class="fa fa-check"></i><b>6.22</b> Starting out transparent</a>
-<ul>
-<li class="chapter" data-level="6.22.1" data-path="TypeI.html"><a href="TypeI.html#preregistration"><i class="fa fa-check"></i><b>6.22.1</b> Preregistration</a></li>
-<li class="chapter" data-level="6.22.2" data-path="TypeI.html"><a href="TypeI.html#transparency-as-you-move-forwards"><i class="fa fa-check"></i><b>6.22.2</b> Transparency as you move forwards</a></li>
-</ul></li>
-<li class="chapter" data-level="6.23" data-path="TypeI.html"><a href="TypeI.html#funding"><i class="fa fa-check"></i><b>6.23</b> Generating funding for your PhD research</a>
-<ul>
-<li class="chapter" data-level="6.23.1" data-path="TypeI.html"><a href="TypeI.html#funding-databases"><i class="fa fa-check"></i><b>6.23.1</b> Funding databases</a></li>
-<li class="chapter" data-level="6.23.2" data-path="TypeI.html"><a href="TypeI.html#reasons-you-might-want-to-apply-for-funding"><i class="fa fa-check"></i><b>6.23.2</b> Reasons you might want to apply for funding:</a></li>
-</ul></li>
-<li class="chapter" data-level="6.24" data-path="TypeI.html"><a href="TypeI.html#fear"><i class="fa fa-check"></i><b>6.24</b> Fear of submitting written work</a>
-<ul>
-<li class="chapter" data-level="6.24.1" data-path="TypeI.html"><a href="TypeI.html#impostorsyndrome"><i class="fa fa-check"></i><b>6.24.1</b> What is impostor syndrome?</a></li>
-<li class="chapter" data-level="6.24.2" data-path="TypeI.html"><a href="TypeI.html#think-of-it-this-way"><i class="fa fa-check"></i><b>6.24.2</b> Think of it this way</a></li>
-<li class="chapter" data-level="6.24.3" data-path="TypeI.html"><a href="TypeI.html#what-can-you-do-to-help-yourself-overcome-the-fear-of-submitting-written-work"><i class="fa fa-check"></i><b>6.24.3</b> What can you do to help yourself overcome the fear of submitting written work?</a></li>
-</ul></li>
-<li class="chapter" data-level="6.25" data-path="TypeI.html"><a href="TypeI.html#formula"><i class="fa fa-check"></i><b>6.25</b> Why use a formula to structure each chapter or paper?</a>
-<ul>
-<li class="chapter" data-level="6.25.1" data-path="TypeI.html"><a href="TypeI.html#so-what-is-the-formula"><i class="fa fa-check"></i><b>6.25.1</b> So what is the formula?</a></li>
-</ul></li>
-<li class="chapter" data-level="6.26" data-path="TypeI.html"><a href="TypeI.html#goodenough"><i class="fa fa-check"></i><b>6.26</b> When is it good enough to submit to my advisor?</a></li>
-<li class="chapter" data-level="6.27" data-path="TypeI.html"><a href="TypeI.html#data"><i class="fa fa-check"></i><b>6.27</b> Data Management</a>
-<ul>
-<li class="chapter" data-level="6.27.1" data-path="TypeI.html"><a href="TypeI.html#should-the-cloud-be-the-only-copy-of-your-data"><i class="fa fa-check"></i><b>6.27.1</b> Should the cloud be the only copy of your data?</a></li>
-<li class="chapter" data-level="6.27.2" data-path="TypeI.html"><a href="TypeI.html#backing-up-in-the-field"><i class="fa fa-check"></i><b>6.27.2</b> Backing up in the field</a></li>
-<li class="chapter" data-level="6.27.3" data-path="TypeI.html"><a href="TypeI.html#make-a-data-management-plan-and-stick-to-it"><i class="fa fa-check"></i><b>6.27.3</b> Make a data management plan, and stick to it</a></li>
+<li class="chapter" data-level="15.4.1" data-path="taxonomy.html"><a href="taxonomy.html#view-1."><i class="fa fa-check"></i><b>15.4.1</b> View 1.</a></li>
+<li class="chapter" data-level="15.4.2" data-path="taxonomy.html"><a href="taxonomy.html#view-2."><i class="fa fa-check"></i><b>15.4.2</b> View 2.</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="7" data-path="part3.html"><a href="part3.html"><i class="fa fa-check"></i><b>7</b> Writing the sections that make up your chapter</a>
+<li class="chapter" data-level="16" data-path="style.html"><a href="style.html"><i class="fa fa-check"></i><b>16</b> Writing style</a>
 <ul>
-<li class="chapter" data-level="7.1" data-path="part3.html"><a href="part3.html#title"><i class="fa fa-check"></i><b>7.1</b> Title page</a>
-<ul>
-<li class="chapter" data-level="7.1.1" data-path="part3.html"><a href="part3.html#ORCID"><i class="fa fa-check"></i><b>7.1.1</b> Names and addresses are important</a></li>
-<li class="chapter" data-level="7.1.2" data-path="part3.html"><a href="part3.html#the-title"><i class="fa fa-check"></i><b>7.1.2</b> The Title</a></li>
-<li class="chapter" data-level="7.1.3" data-path="part3.html"><a href="part3.html#key-words"><i class="fa fa-check"></i><b>7.1.3</b> Key Words</a></li>
+<li class="chapter" data-level="16.1" data-path="style.html"><a href="style.html#dont-bamboozle"><i class="fa fa-check"></i><b>16.1</b> Don’t bamboozle</a></li>
 </ul></li>
-<li class="chapter" data-level="7.2" data-path="part3.html"><a href="part3.html#abstract"><i class="fa fa-check"></i><b>7.2</b> The Abstract</a>
+<li class="chapter" data-level="17" data-path="voice.html"><a href="voice.html"><i class="fa fa-check"></i><b>17</b> When is it possible to retain your own voice when writing?</a>
 <ul>
-<li class="chapter" data-level="7.2.1" data-path="part3.html"><a href="part3.html#what-is-the-abstract"><i class="fa fa-check"></i><b>7.2.1</b> What is the abstract?</a></li>
-<li class="chapter" data-level="7.2.2" data-path="part3.html"><a href="part3.html#so-what-would-a-good-abstract-contain"><i class="fa fa-check"></i><b>7.2.2</b> So what would a good abstract contain?</a></li>
-<li class="chapter" data-level="7.2.3" data-path="part3.html"><a href="part3.html#where-do-you-start"><i class="fa fa-check"></i><b>7.2.3</b> Where do you start?</a></li>
-<li class="chapter" data-level="7.2.4" data-path="part3.html"><a href="part3.html#when-do-you-write-your-abstract"><i class="fa fa-check"></i><b>7.2.4</b> When do you write your abstract?</a></li>
-<li class="chapter" data-level="7.2.5" data-path="part3.html"><a href="part3.html#do-abstracts-for-conferences-differ"><i class="fa fa-check"></i><b>7.2.5</b> Do abstracts for conferences differ?</a></li>
-<li class="chapter" data-level="7.2.6" data-path="part3.html"><a href="part3.html#where-do-people-go-wrong-in-writing-the-abstract"><i class="fa fa-check"></i><b>7.2.6</b> Where do people go wrong in writing the abstract?</a></li>
+<li class="chapter" data-level="17.1" data-path="voice.html"><a href="voice.html#does-writing-i-or-we-help-people-to-understand-who-you-are"><i class="fa fa-check"></i><b>17.1</b> Does writing “I” or “we” help people to understand who you are?</a></li>
+<li class="chapter" data-level="17.2" data-path="voice.html"><a href="voice.html#the-vonnegut-advice"><i class="fa fa-check"></i><b>17.2</b> The Vonnegut advice</a></li>
 </ul></li>
-<li class="chapter" data-level="7.3" data-path="part3.html"><a href="part3.html#introduction"><i class="fa fa-check"></i><b>7.3</b> The Introduction</a>
+<li class="chapter" data-level="18" data-path="concise.html"><a href="concise.html"><i class="fa fa-check"></i><b>18</b> Writing concisely</a>
 <ul>
-<li class="chapter" data-level="7.3.1" data-path="part3.html"><a href="part3.html#why-do-we-need-an-introduction"><i class="fa fa-check"></i><b>7.3.1</b> Why do we need an introduction?</a></li>
-<li class="chapter" data-level="7.3.2" data-path="part3.html"><a href="part3.html#so-what-do-we-put-into-the-introduction"><i class="fa fa-check"></i><b>7.3.2</b> So what do we put into the introduction?</a></li>
-<li class="chapter" data-level="7.3.3" data-path="part3.html"><a href="part3.html#and-the-construction"><i class="fa fa-check"></i><b>7.3.3</b> And the construction…?</a></li>
+<li class="chapter" data-level="18.1" data-path="concise.html"><a href="concise.html#rule-1.-take-writing-seriously"><i class="fa fa-check"></i><b>18.1</b> Rule 1. Take writing seriously</a></li>
+<li class="chapter" data-level="18.2" data-path="concise.html"><a href="concise.html#rule-2-identify-and-stick-to-your-message"><i class="fa fa-check"></i><b>18.2</b> Rule 2: Identify and stick to your message</a></li>
+<li class="chapter" data-level="18.3" data-path="concise.html"><a href="concise.html#rule-3-get-to-the-point"><i class="fa fa-check"></i><b>18.3</b> Rule 3: Get to the point</a></li>
+<li class="chapter" data-level="18.4" data-path="concise.html"><a href="concise.html#rule-4-keep-your-methods-and-results-contained"><i class="fa fa-check"></i><b>18.4</b> Rule 4: Keep your Methods and Results contained</a></li>
+<li class="chapter" data-level="18.5" data-path="concise.html"><a href="concise.html#rule-5-do-not-repeat-yourself-too-often"><i class="fa fa-check"></i><b>18.5</b> Rule 5: Do not repeat yourself (too often)</a></li>
+<li class="chapter" data-level="18.6" data-path="concise.html"><a href="concise.html#rule-6-avoid-unnecessary-or-inefficient-leadins"><i class="fa fa-check"></i><b>18.6</b> Rule 6: Avoid unnecessary or inefficient “lead‐ins”</a></li>
+<li class="chapter" data-level="18.7" data-path="concise.html"><a href="concise.html#rule-7-use-firstperson-active-voice"><i class="fa fa-check"></i><b>18.7</b> Rule 7: Use first‐person, active voice</a></li>
+<li class="chapter" data-level="18.8" data-path="concise.html"><a href="concise.html#rule-8-remove-unnecessary-words"><i class="fa fa-check"></i><b>18.8</b> Rule 8: Remove unnecessary words</a></li>
+<li class="chapter" data-level="18.9" data-path="concise.html"><a href="concise.html#rule-9-simplify-your-language"><i class="fa fa-check"></i><b>18.9</b> Rule 9: Simplify your language</a></li>
+<li class="chapter" data-level="18.10" data-path="concise.html"><a href="concise.html#rule-10-seek-and-embrace-feedback"><i class="fa fa-check"></i><b>18.10</b> Rule 10: Seek and embrace feedback</a></li>
+<li class="chapter" data-level="18.11" data-path="concise.html"><a href="concise.html#rule-11-read-it-yourself"><i class="fa fa-check"></i><b>18.11</b> Rule 11: Read it yourself</a></li>
 </ul></li>
-<li class="chapter" data-level="7.4" data-path="part3.html"><a href="part3.html#methods"><i class="fa fa-check"></i><b>7.4</b> The Materials and Methods</a>
+<li class="chapter" data-level="19" data-path="foreign.html"><a href="foreign.html"><i class="fa fa-check"></i><b>19</b> Writing a PhD if English is not your first language</a>
 <ul>
-<li class="chapter" data-level="7.4.1" data-path="part3.html"><a href="part3.html#sections-or-subheadings"><i class="fa fa-check"></i><b>7.4.1</b> Sections or subheadings</a></li>
-<li class="chapter" data-level="7.4.2" data-path="part3.html"><a href="part3.html#study-organism-or-study-system"><i class="fa fa-check"></i><b>7.4.2</b> Study organism or study system</a></li>
-<li class="chapter" data-level="7.4.3" data-path="part3.html"><a href="part3.html#animal-husbandry-growing-conditions-culturing-techniques"><i class="fa fa-check"></i><b>7.4.3</b> Animal husbandry / Growing Conditions / Culturing Techniques</a></li>
-<li class="chapter" data-level="7.4.4" data-path="part3.html"><a href="part3.html#repetitive-methodology"><i class="fa fa-check"></i><b>7.4.4</b> Repetitive methodology</a></li>
-<li class="chapter" data-level="7.4.5" data-path="part3.html"><a href="part3.html#do-you-need-to-include-formulae"><i class="fa fa-check"></i><b>7.4.5</b> Do you need to include formulae?</a></li>
-<li class="chapter" data-level="7.4.6" data-path="part3.html"><a href="part3.html#experimental-manipulations-and-data-collection"><i class="fa fa-check"></i><b>7.4.6</b> Experimental manipulations and data collection</a></li>
-<li class="chapter" data-level="7.4.7" data-path="part3.html"><a href="part3.html#data-analysis"><i class="fa fa-check"></i><b>7.4.7</b> Data analysis</a></li>
-<li class="chapter" data-level="7.4.8" data-path="part3.html"><a href="part3.html#did-you-leave-anything-out"><i class="fa fa-check"></i><b>7.4.8</b> Did you leave anything out?</a></li>
+<li class="chapter" data-level="19.1" data-path="foreign.html"><a href="foreign.html#message-from-an-editor"><i class="fa fa-check"></i><b>19.1</b> Message from an editor</a></li>
+<li class="chapter" data-level="19.2" data-path="foreign.html"><a href="foreign.html#must-a-native-english-speaker-check-your-work"><i class="fa fa-check"></i><b>19.2</b> Must a ‘native English speaker’ check your work?</a></li>
+<li class="chapter" data-level="19.3" data-path="foreign.html"><a href="foreign.html#so-if-not-a-native-english-speaker-who-should-do-it"><i class="fa fa-check"></i><b>19.3</b> So if not a native English speaker, who should do it?</a></li>
+<li class="chapter" data-level="19.4" data-path="foreign.html"><a href="foreign.html#but-surely-my-native-tongue-can-be-used-for-something"><i class="fa fa-check"></i><b>19.4</b> But surely my native tongue can be used for something?</a></li>
 </ul></li>
-<li class="chapter" data-level="7.5" data-path="part3.html"><a href="part3.html#results"><i class="fa fa-check"></i><b>7.5</b> The Results</a>
+<li class="chapter" data-level="20" data-path="plagiarise.html"><a href="plagiarise.html"><i class="fa fa-check"></i><b>20</b> Making sure that you don’t plagiarise</a>
 <ul>
-<li class="chapter" data-level="7.5.1" data-path="part3.html"><a href="part3.html#the-correct-approach---responding-to-your-hypotheses"><i class="fa fa-check"></i><b>7.5.1</b> The correct approach - responding to your hypotheses</a></li>
-<li class="chapter" data-level="7.5.2" data-path="part3.html"><a href="part3.html#when-to-have-a-table-or-graph"><i class="fa fa-check"></i><b>7.5.2</b> When to have a table or graph?</a></li>
-<li class="chapter" data-level="7.5.3" data-path="part3.html"><a href="part3.html#descriptive-results"><i class="fa fa-check"></i><b>7.5.3</b> Descriptive results</a></li>
-<li class="chapter" data-level="7.5.4" data-path="part3.html"><a href="part3.html#responding-to-hypotheses"><i class="fa fa-check"></i><b>7.5.4</b> Responding to hypotheses</a></li>
-<li class="chapter" data-level="7.5.5" data-path="part3.html"><a href="part3.html#common-mistakes"><i class="fa fa-check"></i><b>7.5.5</b> Common Mistakes</a></li>
+<li class="chapter" data-level="20.1" data-path="plagiarise.html"><a href="plagiarise.html#how-to-know-if-you-have-plagiarised"><i class="fa fa-check"></i><b>20.1</b> How to know if you have plagiarised</a></li>
+<li class="chapter" data-level="20.2" data-path="plagiarise.html"><a href="plagiarise.html#what-to-do-if-plagiarism-is-detected-in-your-work"><i class="fa fa-check"></i><b>20.2</b> What to do if plagiarism is detected in your work</a></li>
+<li class="chapter" data-level="20.3" data-path="plagiarise.html"><a href="plagiarise.html#how-can-you-make-sure-that-you-never-plagiarise"><i class="fa fa-check"></i><b>20.3</b> How can you make sure that you never plagiarise?</a></li>
+<li class="chapter" data-level="20.4" data-path="plagiarise.html"><a href="plagiarise.html#what-is-grey-plagiarism"><i class="fa fa-check"></i><b>20.4</b> What is grey plagiarism?</a></li>
+<li class="chapter" data-level="20.5" data-path="plagiarise.html"><a href="plagiarise.html#manuscript-recycling"><i class="fa fa-check"></i><b>20.5</b> Manuscript recycling</a></li>
+<li class="chapter" data-level="20.6" data-path="plagiarise.html"><a href="plagiarise.html#overall---just-dont-plagiarise"><i class="fa fa-check"></i><b>20.6</b> Overall - just don’t plagiarise</a></li>
 </ul></li>
-<li class="chapter" data-level="7.6" data-path="part3.html"><a href="part3.html#discussion"><i class="fa fa-check"></i><b>7.6</b> The Discussion</a>
+<li class="chapter" data-level="21" data-path="phrasebank.html"><a href="phrasebank.html"><i class="fa fa-check"></i><b>21</b> Academic phrasebank</a>
 <ul>
-<li class="chapter" data-level="7.6.1" data-path="part3.html"><a href="part3.html#first-paragraph-of-the-discussion"><i class="fa fa-check"></i><b>7.6.1</b> First paragraph of the discussion</a></li>
-<li class="chapter" data-level="7.6.2" data-path="part3.html"><a href="part3.html#to-sub-section-or-not-to-sub-section-the-discussion"><i class="fa fa-check"></i><b>7.6.2</b> To sub-section or not to sub-section the discussion?</a></li>
-<li class="chapter" data-level="7.6.3" data-path="part3.html"><a href="part3.html#caveats-and-limitations"><i class="fa fa-check"></i><b>7.6.3</b> Caveats and limitations</a></li>
-<li class="chapter" data-level="7.6.4" data-path="part3.html"><a href="part3.html#speculation"><i class="fa fa-check"></i><b>7.6.4</b> Should you speculate in the discussion?</a></li>
-<li class="chapter" data-level="7.6.5" data-path="part3.html"><a href="part3.html#dont-beat-up-on-others"><i class="fa fa-check"></i><b>7.6.5</b> Don’t beat up on others</a></li>
-<li class="chapter" data-level="7.6.6" data-path="part3.html"><a href="part3.html#where-next"><i class="fa fa-check"></i><b>7.6.6</b> Where next?</a></li>
-<li class="chapter" data-level="7.6.7" data-path="part3.html"><a href="part3.html#last-paragraph"><i class="fa fa-check"></i><b>7.6.7</b> Last paragraph</a></li>
+<li class="chapter" data-level="21.1" data-path="phrasebank.html"><a href="phrasebank.html#how-to-find-the-phrase-that-you-need"><i class="fa fa-check"></i><b>21.1</b> How to find the phrase that you need:</a></li>
+<li class="chapter" data-level="21.2" data-path="phrasebank.html"><a href="phrasebank.html#getting-started"><i class="fa fa-check"></i><b>21.2</b> Getting started</a></li>
 </ul></li>
-<li class="chapter" data-level="7.7" data-path="part3.html"><a href="part3.html#acknowledgements"><i class="fa fa-check"></i><b>7.7</b> The Acknowledgements</a>
+<li class="chapter" data-level="22" data-path="critical.html"><a href="critical.html"><i class="fa fa-check"></i><b>22</b> Why critical reading is crucial for improving your writing</a>
 <ul>
-<li class="chapter" data-level="7.7.1" data-path="part3.html"><a href="part3.html#thank-your-funders"><i class="fa fa-check"></i><b>7.7.1</b> Thank your funders</a></li>
-<li class="chapter" data-level="7.7.2" data-path="part3.html"><a href="part3.html#people-and-organisations-to-thank"><i class="fa fa-check"></i><b>7.7.2</b> People and organisations to thank</a></li>
-<li class="chapter" data-level="7.7.3" data-path="part3.html"><a href="part3.html#who-not-to-thank-in-your-manuscript-acknowledgements"><i class="fa fa-check"></i><b>7.7.3</b> Who not to thank (in your manuscript acknowledgements)</a></li>
+<li class="chapter" data-level="22.1" data-path="critical.html"><a href="critical.html#making-notes-on-good-and-bad-styles"><i class="fa fa-check"></i><b>22.1</b> Making notes on good and bad styles</a></li>
+<li class="chapter" data-level="22.2" data-path="critical.html"><a href="critical.html#some-examples"><i class="fa fa-check"></i><b>22.2</b> Some examples</a></li>
+<li class="chapter" data-level="22.3" data-path="critical.html"><a href="critical.html#make-handwritten-notes"><i class="fa fa-check"></i><b>22.3</b> Make handwritten notes</a></li>
+<li class="chapter" data-level="22.4" data-path="critical.html"><a href="critical.html#recognising-good-or-bad-in-what-you-read"><i class="fa fa-check"></i><b>22.4</b> Recognising good or bad in what you read</a></li>
 </ul></li>
-<li class="chapter" data-level="7.8" data-path="part3.html"><a href="part3.html#references"><i class="fa fa-check"></i><b>7.8</b> The References</a>
+<li class="chapter" data-level="23" data-path="proposal.html"><a href="proposal.html"><i class="fa fa-check"></i><b>23</b> What is needed for your research proposal?</a>
 <ul>
-<li class="chapter" data-level="7.8.1" data-path="part3.html"><a href="part3.html#DOI"><i class="fa fa-check"></i><b>7.8.1</b> Digital Object Identifiers (DOIs)</a></li>
-</ul></li>
-<li class="chapter" data-level="7.9" data-path="part3.html"><a href="part3.html#tables"><i class="fa fa-check"></i><b>7.9</b> Tables</a></li>
-<li class="chapter" data-level="7.10" data-path="part3.html"><a href="part3.html#figures"><i class="fa fa-check"></i><b>7.10</b> Figures</a>
+<li class="chapter" data-level="23.1" data-path="proposal.html"><a href="proposal.html#structure"><i class="fa fa-check"></i><b>23.1</b> Structure</a></li>
+<li class="chapter" data-level="23.2" data-path="proposal.html"><a href="proposal.html#proposal-introduction"><i class="fa fa-check"></i><b>23.2</b> Proposal introduction</a></li>
+<li class="chapter" data-level="23.3" data-path="proposal.html"><a href="proposal.html#methods-and-materials"><i class="fa fa-check"></i><b>23.3</b> Methods and Materials</a></li>
+<li class="chapter" data-level="23.4" data-path="proposal.html"><a href="proposal.html#hypothetical-results"><i class="fa fa-check"></i><b>23.4</b> Hypothetical Results</a></li>
+<li class="chapter" data-level="23.5" data-path="proposal.html"><a href="proposal.html#your-proposal---what-is-it-good-for"><i class="fa fa-check"></i><b>23.5</b> Your Proposal - what is it good for?</a>
 <ul>
-<li class="chapter" data-level="7.10.1" data-path="part3.html"><a href="part3.html#graphs"><i class="fa fa-check"></i><b>7.10.1</b> Graphs</a></li>
-<li class="chapter" data-level="7.10.2" data-path="part3.html"><a href="part3.html#maps"><i class="fa fa-check"></i><b>7.10.2</b> Maps</a></li>
-<li class="chapter" data-level="7.10.3" data-path="part3.html"><a href="part3.html#conceptual-diagram"><i class="fa fa-check"></i><b>7.10.3</b> Conceptual diagram</a></li>
-<li class="chapter" data-level="7.10.4" data-path="part3.html"><a href="part3.html#the-composite-figure"><i class="fa fa-check"></i><b>7.10.4</b> The composite figure</a></li>
-<li class="chapter" data-level="7.10.5" data-path="part3.html"><a href="part3.html#sending-your-graphics-file-to-the-publisher"><i class="fa fa-check"></i><b>7.10.5</b> Sending your graphics file to the publisher</a></li>
-<li class="chapter" data-level="7.10.6" data-path="part3.html"><a href="part3.html#the-figure-legend"><i class="fa fa-check"></i><b>7.10.6</b> The figure legend</a></li>
-</ul></li>
-<li class="chapter" data-level="7.11" data-path="part3.html"><a href="part3.html#credit"><i class="fa fa-check"></i><b>7.11</b> Who did what?</a>
-<ul>
-<li class="chapter" data-level="7.11.1" data-path="part3.html"><a href="part3.html#credit-where-its-due"><i class="fa fa-check"></i><b>7.11.1</b> CRediT where it’s due</a></li>
-<li class="chapter" data-level="7.11.2" data-path="part3.html"><a href="part3.html#ordering-the-author-line-up"><i class="fa fa-check"></i><b>7.11.2</b> Ordering the author line up</a></li>
-</ul></li>
-<li class="chapter" data-level="7.12" data-path="part3.html"><a href="part3.html#suppinfo"><i class="fa fa-check"></i><b>7.12</b> Supplementary Material</a>
-<ul>
-<li class="chapter" data-level="7.12.1" data-path="part3.html"><a href="part3.html#what-can-go-into-supplementary-material"><i class="fa fa-check"></i><b>7.12.1</b> What can go into Supplementary Material?</a></li>
-<li class="chapter" data-level="7.12.2" data-path="part3.html"><a href="part3.html#there-has-been-a-big-movement-toward-transparency-and-repeatability-of-scientific-studies"><i class="fa fa-check"></i><b>7.12.2</b> There has been a big movement toward transparency and repeatability of scientific studies</a></li>
-<li class="chapter" data-level="7.12.3" data-path="part3.html"><a href="part3.html#why-stop-with-just-depositing-your-data-and-analyses-online"><i class="fa fa-check"></i><b>7.12.3</b> Why stop with just depositing your data and analyses online?</a></li>
+<li class="chapter" data-level="23.5.1" data-path="proposal.html"><a href="proposal.html#copy-and-paste-directly-into-your-thesis"><i class="fa fa-check"></i><b>23.5.1</b> Copy and paste directly into your thesis</a></li>
+<li class="chapter" data-level="23.5.2" data-path="proposal.html"><a href="proposal.html#use-it-to-raise-money-to-do-your-studies."><i class="fa fa-check"></i><b>23.5.2</b> Use it to raise money to do your studies.</a></li>
+<li class="chapter" data-level="23.5.3" data-path="proposal.html"><a href="proposal.html#deposit-the-proposal-to-conform-to-design-and-analysis-transparency"><i class="fa fa-check"></i><b>23.5.3</b> Deposit the proposal to conform to Design and Analysis Transparency</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="8" data-path="formatting.html"><a href="formatting.html"><i class="fa fa-check"></i><b>8</b> Formatting your thesis</a>
+<li class="chapter" data-level="24" data-path="proposal-presentation.html"><a href="proposal-presentation.html"><i class="fa fa-check"></i><b>24</b> Making a presentation from your chapter, paper or proposal</a>
 <ul>
-<li class="chapter" data-level="8.0.1" data-path="formatting.html"><a href="formatting.html#must-do-check-list-before-submitting-your-thesis"><i class="fa fa-check"></i><b>8.0.1</b> Must do check-list before submitting your thesis:</a></li>
-<li class="chapter" data-level="8.0.2" data-path="formatting.html"><a href="formatting.html#mistakes-people-make"><i class="fa fa-check"></i><b>8.0.2</b> Mistakes people make:</a></li>
+<li class="chapter" data-level="24.1" data-path="proposal-presentation.html"><a href="proposal-presentation.html#so-where-do-you-start"><i class="fa fa-check"></i><b>24.1</b> So where do you start?</a>
+<ul>
+<li class="chapter" data-level="24.1.1" data-path="proposal-presentation.html"><a href="proposal-presentation.html#here-are-some-simple-rules-to-help-guide-you-to-build-your-presentation"><i class="fa fa-check"></i><b>24.1.1</b> Here are some simple rules to help guide you to build your presentation:</a></li>
+<li class="chapter" data-level="24.1.2" data-path="proposal-presentation.html"><a href="proposal-presentation.html#a-formula-for-presenting-a-proposal"><i class="fa fa-check"></i><b>24.1.2</b> A formula for presenting a proposal</a></li>
+<li class="chapter" data-level="24.1.3" data-path="proposal-presentation.html"><a href="proposal-presentation.html#a-formula-for-presenting-a-chapter-or-paper"><i class="fa fa-check"></i><b>24.1.3</b> A formula for presenting a chapter or paper</a></li>
+</ul></li>
+<li class="chapter" data-level="24.2" data-path="proposal-presentation.html"><a href="proposal-presentation.html#know-your-story-first-and-then-make-your-presentation"><i class="fa fa-check"></i><b>24.2</b> Know your story first, and then make your presentation</a></li>
+<li class="chapter" data-level="24.3" data-path="proposal-presentation.html"><a href="proposal-presentation.html#slide-layout"><i class="fa fa-check"></i><b>24.3</b> Slide layout</a></li>
+<li class="chapter" data-level="24.4" data-path="proposal-presentation.html"><a href="proposal-presentation.html#practice-practice-practice"><i class="fa fa-check"></i><b>24.4</b> Practice, practice, practice</a></li>
+</ul></li>
+<li class="chapter" data-level="25" data-path="transparency.html"><a href="transparency.html"><i class="fa fa-check"></i><b>25</b> Starting out transparent</a>
+<ul>
+<li class="chapter" data-level="25.1" data-path="transparency.html"><a href="transparency.html#preregistration"><i class="fa fa-check"></i><b>25.1</b> Preregistration</a>
+<ul>
+<li class="chapter" data-level="25.1.1" data-path="transparency.html"><a href="transparency.html#does-this-mean-that-you-cant-perform-any-data-exploration"><i class="fa fa-check"></i><b>25.1.1</b> Does this mean that you can’t perform any data exploration?</a></li>
+<li class="chapter" data-level="25.1.2" data-path="transparency.html"><a href="transparency.html#will-preregistration-of-research-eliminate-the-bias-from-science"><i class="fa fa-check"></i><b>25.1.2</b> Will preregistration of research eliminate the bias from science?</a></li>
+<li class="chapter" data-level="25.1.3" data-path="transparency.html"><a href="transparency.html#what-platform-should-you-use"><i class="fa fa-check"></i><b>25.1.3</b> What Platform should you use?</a></li>
+</ul></li>
+<li class="chapter" data-level="25.2" data-path="transparency.html"><a href="transparency.html#transparency-as-you-move-forwards"><i class="fa fa-check"></i><b>25.2</b> Transparency as you move forwards</a></li>
+</ul></li>
+<li class="chapter" data-level="26" data-path="funding.html"><a href="funding.html"><i class="fa fa-check"></i><b>26</b> Generating funding for your PhD research</a>
+<ul>
+<li class="chapter" data-level="26.1" data-path="funding.html"><a href="funding.html#funding-databases"><i class="fa fa-check"></i><b>26.1</b> Funding databases</a></li>
+<li class="chapter" data-level="26.2" data-path="funding.html"><a href="funding.html#reasons-you-might-want-to-apply-for-funding"><i class="fa fa-check"></i><b>26.2</b> Reasons you might want to apply for funding:</a>
+<ul>
+<li class="chapter" data-level="26.2.1" data-path="funding.html"><a href="funding.html#mendeleyhttpswww.mendeley.com"><i class="fa fa-check"></i><b>26.2.1</b> Mendeley:<span>https://www.mendeley.com/</span></a></li>
+<li class="chapter" data-level="26.2.2" data-path="funding.html"><a href="funding.html#open-4-research-httpswww.open4research.eu"><i class="fa fa-check"></i><b>26.2.2</b> Open 4 Research: <span>https://www.open4research.eu</span></a></li>
+<li class="chapter" data-level="26.2.3" data-path="funding.html"><a href="funding.html#research-professionalhttpswww.researchprofessional.com"><i class="fa fa-check"></i><b>26.2.3</b> Research Professional:<span>https://www.researchprofessional.com/</span></a></li>
+<li class="chapter" data-level="26.2.4" data-path="funding.html"><a href="funding.html#opportunities-in-your-department-or-societies"><i class="fa fa-check"></i><b>26.2.4</b> Opportunities in your department or societies:</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="27" data-path="fear.html"><a href="fear.html"><i class="fa fa-check"></i><b>27</b> Fear of submitting written work</a>
+<ul>
+<li class="chapter" data-level="27.1" data-path="fear.html"><a href="fear.html#impostorsyndrome"><i class="fa fa-check"></i><b>27.1</b> What is impostor syndrome?</a></li>
+<li class="chapter" data-level="27.2" data-path="fear.html"><a href="fear.html#think-of-it-this-way"><i class="fa fa-check"></i><b>27.2</b> Think of it this way</a></li>
+<li class="chapter" data-level="27.3" data-path="fear.html"><a href="fear.html#what-can-you-do-to-help-yourself-overcome-the-fear-of-submitting-written-work"><i class="fa fa-check"></i><b>27.3</b> What can you do to help yourself overcome the fear of submitting written work?</a></li>
+</ul></li>
+<li class="chapter" data-level="28" data-path="formula.html"><a href="formula.html"><i class="fa fa-check"></i><b>28</b> Why use a formula to structure each chapter or paper?</a>
+<ul>
+<li class="chapter" data-level="28.1" data-path="formula.html"><a href="formula.html#so-what-is-the-formula"><i class="fa fa-check"></i><b>28.1</b> So what is the formula?</a>
+<ul>
+<li class="chapter" data-level="28.1.1" data-path="formula.html"><a href="formula.html#my-take-on-how-to-write-a-formula-paper"><i class="fa fa-check"></i><b>28.1.1</b> My take on how to write a formula paper</a></li>
+<li class="chapter" data-level="28.1.2" data-path="formula.html"><a href="formula.html#start-with-an-outline"><i class="fa fa-check"></i><b>28.1.2</b> Start with an outline</a></li>
+<li class="chapter" data-level="28.1.3" data-path="formula.html"><a href="formula.html#next-flesh-out-the-outline-with-citations"><i class="fa fa-check"></i><b>28.1.3</b> Next flesh out the outline with citations</a></li>
+<li class="chapter" data-level="28.1.4" data-path="formula.html"><a href="formula.html#lastly-its-time-to-write-the-text"><i class="fa fa-check"></i><b>28.1.4</b> Lastly it’s time to write the text</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="29" data-path="goodenough.html"><a href="goodenough.html"><i class="fa fa-check"></i><b>29</b> When is it good enough to submit to my advisor?</a></li>
+<li class="chapter" data-level="30" data-path="data.html"><a href="data.html"><i class="fa fa-check"></i><b>30</b> Data Management</a>
+<ul>
+<li class="chapter" data-level="30.1" data-path="data.html"><a href="data.html#should-the-cloud-be-the-only-copy-of-your-data"><i class="fa fa-check"></i><b>30.1</b> Should the cloud be the only copy of your data?</a></li>
+<li class="chapter" data-level="30.2" data-path="data.html"><a href="data.html#backing-up-in-the-field"><i class="fa fa-check"></i><b>30.2</b> Backing up in the field</a></li>
+<li class="chapter" data-level="30.3" data-path="data.html"><a href="data.html#make-a-data-management-plan-and-stick-to-it"><i class="fa fa-check"></i><b>30.3</b> Make a data management plan, and stick to it</a></li>
+</ul></li>
+<li class="chapter" data-level="31" data-path="part3.html"><a href="part3.html"><i class="fa fa-check"></i><b>31</b> Writing the sections that make up your chapter</a>
+<ul>
+<li class="chapter" data-level="31.1" data-path="part3.html"><a href="part3.html#title"><i class="fa fa-check"></i><b>31.1</b> Title page</a>
+<ul>
+<li class="chapter" data-level="31.1.1" data-path="part3.html"><a href="part3.html#ORCID"><i class="fa fa-check"></i><b>31.1.1</b> Names and addresses are important</a></li>
+</ul></li>
+<li class="chapter" data-level="31.2" data-path="part3.html"><a href="part3.html#the-title"><i class="fa fa-check"></i><b>31.2</b> The Title</a>
+<ul>
+<li class="chapter" data-level="31.2.1" data-path="part3.html"><a href="part3.html#some-title-ideas-to-start-you-off"><i class="fa fa-check"></i><b>31.2.1</b> Some title ideas to start you off</a></li>
+<li class="chapter" data-level="31.2.2" data-path="part3.html"><a href="part3.html#things-to-avoid-in-your-title"><i class="fa fa-check"></i><b>31.2.2</b> Things to avoid in your title</a></li>
+</ul></li>
+<li class="chapter" data-level="31.3" data-path="part3.html"><a href="part3.html#key-words"><i class="fa fa-check"></i><b>31.3</b> Key Words</a></li>
+</ul></li>
+<li class="chapter" data-level="32" data-path="abstract.html"><a href="abstract.html"><i class="fa fa-check"></i><b>32</b> The Abstract</a>
+<ul>
+<li class="chapter" data-level="32.1" data-path="abstract.html"><a href="abstract.html#what-is-the-abstract"><i class="fa fa-check"></i><b>32.1</b> What is the abstract?</a></li>
+<li class="chapter" data-level="32.2" data-path="abstract.html"><a href="abstract.html#so-what-would-a-good-abstract-contain"><i class="fa fa-check"></i><b>32.2</b> So what would a good abstract contain?</a></li>
+<li class="chapter" data-level="32.3" data-path="abstract.html"><a href="abstract.html#where-do-you-start"><i class="fa fa-check"></i><b>32.3</b> Where do you start?</a></li>
+<li class="chapter" data-level="32.4" data-path="abstract.html"><a href="abstract.html#when-do-you-write-your-abstract"><i class="fa fa-check"></i><b>32.4</b> When do you write your abstract?</a></li>
+<li class="chapter" data-level="32.5" data-path="abstract.html"><a href="abstract.html#do-abstracts-for-conferences-differ"><i class="fa fa-check"></i><b>32.5</b> Do abstracts for conferences differ?</a></li>
+<li class="chapter" data-level="32.6" data-path="abstract.html"><a href="abstract.html#where-do-people-go-wrong-in-writing-the-abstract"><i class="fa fa-check"></i><b>32.6</b> Where do people go wrong in writing the abstract?</a></li>
+</ul></li>
+<li class="chapter" data-level="33" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>33</b> The Introduction</a>
+<ul>
+<li class="chapter" data-level="33.1" data-path="introduction.html"><a href="introduction.html#why-do-we-need-an-introduction"><i class="fa fa-check"></i><b>33.1</b> Why do we need an introduction?</a></li>
+<li class="chapter" data-level="33.2" data-path="introduction.html"><a href="introduction.html#so-what-do-we-put-into-the-introduction"><i class="fa fa-check"></i><b>33.2</b> So what do we put into the introduction?</a></li>
+<li class="chapter" data-level="33.3" data-path="introduction.html"><a href="introduction.html#and-the-construction"><i class="fa fa-check"></i><b>33.3</b> And the construction…?</a></li>
+</ul></li>
+<li class="chapter" data-level="34" data-path="methods.html"><a href="methods.html"><i class="fa fa-check"></i><b>34</b> The Materials and Methods</a>
+<ul>
+<li class="chapter" data-level="34.1" data-path="methods.html"><a href="methods.html#sections-or-subheadings"><i class="fa fa-check"></i><b>34.1</b> Sections or subheadings</a></li>
+<li class="chapter" data-level="34.2" data-path="methods.html"><a href="methods.html#study-organism-or-study-system"><i class="fa fa-check"></i><b>34.2</b> Study organism or study system</a></li>
+<li class="chapter" data-level="34.3" data-path="methods.html"><a href="methods.html#animal-husbandry-growing-conditions-culturing-techniques"><i class="fa fa-check"></i><b>34.3</b> Animal husbandry / Growing Conditions / Culturing Techniques</a></li>
+<li class="chapter" data-level="34.4" data-path="methods.html"><a href="methods.html#repetitive-methodology"><i class="fa fa-check"></i><b>34.4</b> Repetitive methodology</a></li>
+<li class="chapter" data-level="34.5" data-path="methods.html"><a href="methods.html#do-you-need-to-include-formulae"><i class="fa fa-check"></i><b>34.5</b> Do you need to include formulae?</a></li>
+<li class="chapter" data-level="34.6" data-path="methods.html"><a href="methods.html#experimental-manipulations-and-data-collection"><i class="fa fa-check"></i><b>34.6</b> Experimental manipulations and data collection</a>
+<ul>
+<li class="chapter" data-level="34.6.1" data-path="methods.html"><a href="methods.html#equipment"><i class="fa fa-check"></i><b>34.6.1</b> Equipment</a></li>
+</ul></li>
+<li class="chapter" data-level="34.7" data-path="methods.html"><a href="methods.html#data-analysis"><i class="fa fa-check"></i><b>34.7</b> Data analysis</a></li>
+<li class="chapter" data-level="34.8" data-path="methods.html"><a href="methods.html#did-you-leave-anything-out"><i class="fa fa-check"></i><b>34.8</b> Did you leave anything out?</a></li>
+</ul></li>
+<li class="chapter" data-level="35" data-path="results.html"><a href="results.html"><i class="fa fa-check"></i><b>35</b> The Results</a>
+<ul>
+<li class="chapter" data-level="35.1" data-path="results.html"><a href="results.html#the-correct-approach---responding-to-your-hypotheses"><i class="fa fa-check"></i><b>35.1</b> The correct approach - responding to your hypotheses</a></li>
+<li class="chapter" data-level="35.2" data-path="results.html"><a href="results.html#when-to-have-a-table-or-graph"><i class="fa fa-check"></i><b>35.2</b> When to have a table or graph?</a></li>
+<li class="chapter" data-level="35.3" data-path="results.html"><a href="results.html#descriptive-results"><i class="fa fa-check"></i><b>35.3</b> Descriptive results</a></li>
+<li class="chapter" data-level="35.4" data-path="results.html"><a href="results.html#responding-to-hypotheses"><i class="fa fa-check"></i><b>35.4</b> Responding to hypotheses</a></li>
+<li class="chapter" data-level="35.5" data-path="results.html"><a href="results.html#common-mistakes"><i class="fa fa-check"></i><b>35.5</b> Common Mistakes</a></li>
+</ul></li>
+<li class="chapter" data-level="36" data-path="discussion.html"><a href="discussion.html"><i class="fa fa-check"></i><b>36</b> The Discussion</a>
+<ul>
+<li class="chapter" data-level="36.1" data-path="discussion.html"><a href="discussion.html#first-paragraph-of-the-discussion"><i class="fa fa-check"></i><b>36.1</b> First paragraph of the discussion</a></li>
+<li class="chapter" data-level="36.2" data-path="discussion.html"><a href="discussion.html#to-sub-section-or-not-to-sub-section-the-discussion"><i class="fa fa-check"></i><b>36.2</b> To sub-section or not to sub-section the discussion?</a></li>
+<li class="chapter" data-level="36.3" data-path="discussion.html"><a href="discussion.html#caveats-and-limitations"><i class="fa fa-check"></i><b>36.3</b> Caveats and limitations</a></li>
+<li class="chapter" data-level="36.4" data-path="discussion.html"><a href="discussion.html#speculation"><i class="fa fa-check"></i><b>36.4</b> Should you speculate in the discussion?</a></li>
+<li class="chapter" data-level="36.5" data-path="discussion.html"><a href="discussion.html#dont-beat-up-on-others"><i class="fa fa-check"></i><b>36.5</b> Don’t beat up on others</a></li>
+<li class="chapter" data-level="36.6" data-path="discussion.html"><a href="discussion.html#where-next"><i class="fa fa-check"></i><b>36.6</b> Where next?</a></li>
+<li class="chapter" data-level="36.7" data-path="discussion.html"><a href="discussion.html#last-paragraph"><i class="fa fa-check"></i><b>36.7</b> Last paragraph</a>
+<ul>
+<li class="chapter" data-level="36.7.1" data-path="discussion.html"><a href="discussion.html#never-repeat-text"><i class="fa fa-check"></i><b>36.7.1</b> Never repeat text</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="37" data-path="acknowledgements.html"><a href="acknowledgements.html"><i class="fa fa-check"></i><b>37</b> The Acknowledgements</a>
+<ul>
+<li class="chapter" data-level="37.1" data-path="acknowledgements.html"><a href="acknowledgements.html#thank-your-funders"><i class="fa fa-check"></i><b>37.1</b> Thank your funders</a></li>
+<li class="chapter" data-level="37.2" data-path="acknowledgements.html"><a href="acknowledgements.html#people-and-organisations-to-thank"><i class="fa fa-check"></i><b>37.2</b> People and organisations to thank</a></li>
+<li class="chapter" data-level="37.3" data-path="acknowledgements.html"><a href="acknowledgements.html#who-not-to-thank-in-your-manuscript-acknowledgements"><i class="fa fa-check"></i><b>37.3</b> Who not to thank (in your manuscript acknowledgements)</a></li>
+</ul></li>
+<li class="chapter" data-level="38" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i><b>38</b> The References</a>
+<ul>
+<li class="chapter" data-level="38.1" data-path="references.html"><a href="references.html#DOI"><i class="fa fa-check"></i><b>38.1</b> Digital Object Identifiers (DOIs)</a>
+<ul>
+<li class="chapter" data-level="38.1.1" data-path="references.html"><a href="references.html#doi-tools"><i class="fa fa-check"></i><b>38.1.1</b> DOI Tools</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="39" data-path="tables.html"><a href="tables.html"><i class="fa fa-check"></i><b>39</b> Tables</a></li>
+<li class="chapter" data-level="40" data-path="figures.html"><a href="figures.html"><i class="fa fa-check"></i><b>40</b> Figures</a>
+<ul>
+<li class="chapter" data-level="40.1" data-path="figures.html"><a href="figures.html#graphs"><i class="fa fa-check"></i><b>40.1</b> Graphs</a></li>
+<li class="chapter" data-level="40.2" data-path="figures.html"><a href="figures.html#maps"><i class="fa fa-check"></i><b>40.2</b> Maps</a>
+<ul>
+<li class="chapter" data-level="40.2.1" data-path="figures.html"><a href="figures.html#maximising-the-content-of-your-figure"><i class="fa fa-check"></i><b>40.2.1</b> Maximising the content of your figure</a></li>
+</ul></li>
+<li class="chapter" data-level="40.3" data-path="figures.html"><a href="figures.html#conceptual-diagram"><i class="fa fa-check"></i><b>40.3</b> Conceptual diagram</a></li>
+<li class="chapter" data-level="40.4" data-path="figures.html"><a href="figures.html#the-composite-figure"><i class="fa fa-check"></i><b>40.4</b> The composite figure</a>
+<ul>
+<li class="chapter" data-level="40.4.1" data-path="figures.html"><a href="figures.html#ideas-for-composite-figures"><i class="fa fa-check"></i><b>40.4.1</b> Ideas for composite figures:</a></li>
+</ul></li>
+<li class="chapter" data-level="40.5" data-path="figures.html"><a href="figures.html#sending-your-graphics-file-to-the-publisher"><i class="fa fa-check"></i><b>40.5</b> Sending your graphics file to the publisher</a>
+<ul>
+<li class="chapter" data-level="40.5.1" data-path="figures.html"><a href="figures.html#vector"><i class="fa fa-check"></i><b>40.5.1</b> Vectors vs bitmaps</a></li>
+<li class="chapter" data-level="40.5.2" data-path="figures.html"><a href="figures.html#sizing-your-figure"><i class="fa fa-check"></i><b>40.5.2</b> Sizing your figure</a></li>
+</ul></li>
+<li class="chapter" data-level="40.6" data-path="figures.html"><a href="figures.html#the-figure-legend"><i class="fa fa-check"></i><b>40.6</b> The figure legend</a></li>
+</ul></li>
+<li class="chapter" data-level="41" data-path="credit.html"><a href="credit.html"><i class="fa fa-check"></i><b>41</b> Who did what?</a>
+<ul>
+<li class="chapter" data-level="41.1" data-path="credit.html"><a href="credit.html#credit-where-its-due"><i class="fa fa-check"></i><b>41.1</b> CRediT where it’s due</a></li>
+<li class="chapter" data-level="41.2" data-path="credit.html"><a href="credit.html#ordering-the-author-line-up"><i class="fa fa-check"></i><b>41.2</b> Ordering the author line up</a></li>
+</ul></li>
+<li class="chapter" data-level="42" data-path="suppinfo.html"><a href="suppinfo.html"><i class="fa fa-check"></i><b>42</b> Supplementary Material</a>
+<ul>
+<li class="chapter" data-level="42.1" data-path="suppinfo.html"><a href="suppinfo.html#what-can-go-into-supplementary-material"><i class="fa fa-check"></i><b>42.1</b> What can go into Supplementary Material?</a></li>
+<li class="chapter" data-level="42.2" data-path="suppinfo.html"><a href="suppinfo.html#there-has-been-a-big-movement-toward-transparency-and-repeatability-of-scientific-studies"><i class="fa fa-check"></i><b>42.2</b> There has been a big movement toward transparency and repeatability of scientific studies</a></li>
+<li class="chapter" data-level="42.3" data-path="suppinfo.html"><a href="suppinfo.html#why-stop-with-just-depositing-your-data-and-analyses-online"><i class="fa fa-check"></i><b>42.3</b> Why stop with just depositing your data and analyses online?</a></li>
+</ul></li>
+<li class="chapter" data-level="43" data-path="formatting.html"><a href="formatting.html"><i class="fa fa-check"></i><b>43</b> Formatting your thesis</a>
+<ul>
+<li class="chapter" data-level="43.1" data-path="formatting.html"><a href="formatting.html#must-do-check-list-before-submitting-your-thesis"><i class="fa fa-check"></i><b>43.1</b> Must do check-list before submitting your thesis:</a></li>
+<li class="chapter" data-level="43.2" data-path="formatting.html"><a href="formatting.html#mistakes-people-make"><i class="fa fa-check"></i><b>43.2</b> Mistakes people make:</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="publish.html"><a href="publish.html"><i class="fa fa-check"></i>The obligatoin to publish your work</a></li>
 <li class="chapter" data-level="" data-path="lastnote.html"><a href="lastnote.html"><i class="fa fa-check"></i>Last note</a></li>
@@ -487,588 +621,6 @@ FIGURE 6.5: <strong>The likelihood that likely hypotheses you test are accepted 
 <p>If your appetite is piqued by this subject, be sure to read the references cited, and read around this subject.</p>
 
 </div>
-<div id="nohypothesis" class="section level2" number="6.3">
-<h2><span class="header-section-number">6.3</span> What happens if you don’t have a hypothesis?</h2>
-<p>So far we have concentrated on thesis chapters or manuscripts that have hypotheses to test. I have emphasised that there is a need to focus all of the sections of your writing to helping frame and understand the hypothesis (in the Introduction), explain your approach in collecting and testing the variables (in the Materials and Methods), provide the results of your tests (in the Results), and respond to the hypothesis (in the Discussion) together with placing it in context. But what, I hear you cry, if you don’t have a hypothesis to test?</p>
-<p>There are lots of reasons why manuscripts don’t have hypotheses, and the chances are that in a PhD thesis (for example) you will have at least one chapter where there isn’t a hypothesis tested. So, given all the emphasis above, what can be done?</p>
-<div id="central-problematic" class="section level3" number="6.3.1">
-<h3><span class="header-section-number">6.3.1</span> Central problematic</h3>
-<p>If you have a particular problem that your research is trying to solve, this may result in a new methodology or perspective rather than testing a hypothesis. This work is still suitable for a journal manuscript (and there are specific journals dedicated to new methodologies). Instead of introducing your hypothesis, you can simply introduce the problem that your methodology applies to. A new methodology will probably best fill an existing gap, and so your introduction will likely point out what this gap is, provide evidence for why existing methodologies don’t fill the gap, and outline the variables in your novel approach.</p>
-<p>Similarly, if you have a question but not a hypothesis, that your research tries to answer, you can take exactly the same approach to introduce your question.</p>
-<p>Hence, no matter what your central problem is, you still need to identify this and put it at the heart of your manuscript so that all of your sections address this point. Of course, there may be more than one, and if so you will need to clearly articulate each one and explain how they are related to each other. If you are unsure about how to move forward, the best thing to do is to look to the literature for other examples of what you’re trying to do. Someone has very likely done something similar before. Don’t forget to chat about it with your advisor, as they may have ideas about where to look.</p>
-</div>
-<div id="does-it-matter-that-you-dont-have-a-hypothesis" class="section level3" number="6.3.2">
-<h3><span class="header-section-number">6.3.2</span> Does it matter that you don’t have a hypothesis?</h3>
-<p>Having a hypothesis makes your work stronger than if you only have a question or prediction. In each case, while your results might help answer your question or confirm your prediction, they won’t test the mechanism (so that you can’t explain why you have the results that you do), and they may not be falsifiable/refutable. Of course, Popper would argue that if you don’t have a null hypothesis, then your methodology isn’t scientific.</p>
-<p>To me, it is important for you to know exactly what your study is before you start writing about it, or even before you do the experiments. It is essential for you to frame the context of your study. The central reason why you are writing the study will lie at the heart of the manuscript. In the formulaic approach, it will be verbalised at the end of the introduction. All parts of the methodology will explain how you approached this central aim. So if you can’t pin down what this is, then make sure you discuss it with your advisor.</p>
-</div>
-<div id="avoid-harking" class="section level3" number="6.3.3">
-<h3><span class="header-section-number">6.3.3</span> Avoid HARKing</h3>
-<p>Hypothesising After Results Known (HARKing) is the practice of creating your hypothesis once the results are in and you’ve done some preliminary data analyses to see what is significant <span class="citation">(<a href="references-1.html#ref-forstmeier2017detecting" role="doc-biblioref">Forstmeier, Wagenmakers, and Parker 2017</a>)</span>. HARKing has become prevalent in science because of the confirmation bias by journals (only accepting papers that can statistically accept the alternative hypothesis), especially those with higher impact factor.</p>
-
-</div>
-</div>
-<div id="bigidea" class="section level2" number="6.4">
-<h2><span class="header-section-number">6.4</span> What’s the big idea?</h2>
-<div id="the-funnel-introduction" class="section level3" number="6.4.1">
-<h3><span class="header-section-number">6.4.1</span> The funnel introduction</h3>
-</div>
-<div id="so-where-would-we-find-all-of-these-big-ideas" class="section level3" number="6.4.2">
-<h3><span class="header-section-number">6.4.2</span> So where would we find all of these big ideas?</h3>
-
-</div>
-</div>
-<div id="paragraph" class="section level2" number="6.5">
-<h2><span class="header-section-number">6.5</span> Writing a paragraph</h2>
-<div id="topic-sentence" class="section level3" number="6.5.1">
-<h3><span class="header-section-number">6.5.1</span> Topic sentence</h3>
-</div>
-<div id="supporting-sentences" class="section level3" number="6.5.2">
-<h3><span class="header-section-number">6.5.2</span> Supporting sentences</h3>
-</div>
-<div id="the-magic-of-threes" class="section level3" number="6.5.3">
-<h3><span class="header-section-number">6.5.3</span> The magic of threes</h3>
-</div>
-<div id="use-an-example" class="section level3" number="6.5.4">
-<h3><span class="header-section-number">6.5.4</span> Use an example</h3>
-</div>
-<div id="avoid-lists" class="section level3" number="6.5.5">
-<h3><span class="header-section-number">6.5.5</span> Avoid lists</h3>
-</div>
-<div id="the-last-sentence-of-the-paragraph-the-clincher" class="section level3" number="6.5.6">
-<h3><span class="header-section-number">6.5.6</span> The last sentence of the paragraph: the clincher</h3>
-</div>
-<div id="above-all---read-it" class="section level3" number="6.5.7">
-<h3><span class="header-section-number">6.5.7</span> Above all - read it!</h3>
-</div>
-<div id="how-does-the-paragraph-fit-into-the-flow" class="section level3" number="6.5.8">
-<h3><span class="header-section-number">6.5.8</span> How does the paragraph fit into the flow?</h3>
-</div>
-<div id="seeding-ideas" class="section level3" number="6.5.9">
-<h3><span class="header-section-number">6.5.9</span> Seeding ideas</h3>
-</div>
-<div id="breaking-the-rules" class="section level3" number="6.5.10">
-<h3><span class="header-section-number">6.5.10</span> Breaking the rules</h3>
-</div>
-<div id="some-common-paragraph-mistakes" class="section level3" number="6.5.11">
-<h3><span class="header-section-number">6.5.11</span> Some common paragraph mistakes</h3>
-
-</div>
-</div>
-<div id="argument" class="section level2" number="6.6">
-<h2><span class="header-section-number">6.6</span> Construct a logical argument in your writing</h2>
-<div id="arguments-in-latin" class="section level3" number="6.6.1">
-<h3><span class="header-section-number">6.6.1</span> Arguments in Latin</h3>
-
-</div>
-</div>
-<div id="storytelling" class="section level2" number="6.7">
-<h2><span class="header-section-number">6.7</span> Storytelling in science?</h2>
-<div id="the-danger-of-a-teleological-argument" class="section level3" number="6.7.1">
-<h3><span class="header-section-number">6.7.1</span> The danger of a teleological argument</h3>
-</div>
-<div id="science-is-the-very-opposite-of-storytelling.-or-is-it" class="section level3" number="6.7.2">
-<h3><span class="header-section-number">6.7.2</span> SCience is the very opposite of storytelling. Or is it?</h3>
-</div>
-<div id="can-storytelling-help-memory-of-science" class="section level3" number="6.7.3">
-<h3><span class="header-section-number">6.7.3</span> Can storytelling help memory of science?</h3>
-
-</div>
-</div>
-<div id="citations" class="section level2" number="6.8">
-<h2><span class="header-section-number">6.8</span> Why do you need to cite?</h2>
-<div id="research-is-built-on-existing-work-and-ideas" class="section level3" number="6.8.1">
-<h3><span class="header-section-number">6.8.1</span> Research is built on existing work and ideas</h3>
-</div>
-<div id="your-citations-say-a-lot-about-you" class="section level3" number="6.8.2">
-<h3><span class="header-section-number">6.8.2</span> Your citations say a lot about you</h3>
-</div>
-<div id="cite-while-you-write-not-afterwards" class="section level3" number="6.8.3">
-<h3><span class="header-section-number">6.8.3</span> Cite while you write (not afterwards)</h3>
-</div>
-<div id="citation-styles" class="section level3" number="6.8.4">
-<h3><span class="header-section-number">6.8.4</span> Citation Styles</h3>
-<div id="vancouver-style" class="section level4" number="6.8.4.1">
-<h4><span class="header-section-number">6.8.4.1</span> Vancouver Style</h4>
-</div>
-<div id="harvard-style" class="section level4" number="6.8.4.2">
-<h4><span class="header-section-number">6.8.4.2</span> Harvard Style</h4>
-</div>
-</div>
-<div id="moving-from-harvard-to-vancouver" class="section level3" number="6.8.5">
-<h3><span class="header-section-number">6.8.5</span> Moving from Harvard to Vancouver</h3>
-</div>
-<div id="where-within-a-sentence-should-the-citation-come" class="section level3" number="6.8.6">
-<h3><span class="header-section-number">6.8.6</span> Where within a sentence should the citation come?</h3>
-</div>
-<div id="what-about-the-order-of-the-citations-in-a-string" class="section level3" number="6.8.7">
-<h3><span class="header-section-number">6.8.7</span> What about the order of the citations in a string?</h3>
-</div>
-<div id="what-about-citations-as-taxonomic-authorities" class="section level3" number="6.8.8">
-<h3><span class="header-section-number">6.8.8</span> What about citations as taxonomic authorities?</h3>
-</div>
-<div id="is-it-possible-to-mis-cite" class="section level3" number="6.8.9">
-<h3><span class="header-section-number">6.8.9</span> Is it possible to mis-cite?</h3>
-</div>
-<div id="should-i-cite-without-reading-the-paper" class="section level3" number="6.8.10">
-<h3><span class="header-section-number">6.8.10</span> Should I cite without reading the paper?</h3>
-</div>
-<div id="what-should-i-not-cite" class="section level3" number="6.8.11">
-<h3><span class="header-section-number">6.8.11</span> What should I not cite?</h3>
-</div>
-<div id="do-i-cite-the-review-or-the-primary-literature" class="section level3" number="6.8.12">
-<h3><span class="header-section-number">6.8.12</span> Do I cite the review or the primary literature?</h3>
-</div>
-<div id="what-is-primacy-and-why-does-it-matter" class="section level3" number="6.8.13">
-<h3><span class="header-section-number">6.8.13</span> What is primacy and why does it matter?</h3>
-</div>
-<div id="how-many-citations-is-enough" class="section level3" number="6.8.14">
-<h3><span class="header-section-number">6.8.14</span> How many citations is enough?</h3>
-</div>
-<div id="should-i-cite-myself" class="section level3" number="6.8.15">
-<h3><span class="header-section-number">6.8.15</span> Should I cite myself?</h3>
-</div>
-<div id="should-i-cite-my-friends" class="section level3" number="6.8.16">
-<h3><span class="header-section-number">6.8.16</span> Should I cite my friends?</h3>
-</div>
-<div id="does-the-impact-factor-of-the-cited-article-matter" class="section level3" number="6.8.17">
-<h3><span class="header-section-number">6.8.17</span> Does the impact factor of the cited article matter?</h3>
-
-</div>
-</div>
-<div id="databases" class="section level2" number="6.9">
-<h2><span class="header-section-number">6.9</span> Literature databases</h2>
-<div id="searching-the-literature-using-a-database" class="section level3" number="6.9.1">
-<h3><span class="header-section-number">6.9.1</span> Searching the literature using a database</h3>
-</div>
-<div id="keywords" class="section level3" number="6.9.2">
-<h3><span class="header-section-number">6.9.2</span> Keywords</h3>
-<div id="boolean-terms-or-operators" class="section level4" number="6.9.2.1">
-<h4><span class="header-section-number">6.9.2.1</span> Boolean terms or operators</h4>
-</div>
-<div id="proximity-operators-and-parentheses" class="section level4" number="6.9.2.2">
-<h4><span class="header-section-number">6.9.2.2</span> Proximity operators and parentheses</h4>
-</div>
-<div id="wildcards" class="section level4" number="6.9.2.3">
-<h4><span class="header-section-number">6.9.2.3</span> Wildcards</h4>
-</div>
-<div id="combining-searches" class="section level4" number="6.9.2.4">
-<h4><span class="header-section-number">6.9.2.4</span> Combining searches</h4>
-</div>
-<div id="citations-1" class="section level4" number="6.9.2.5">
-<h4><span class="header-section-number">6.9.2.5</span> Citations</h4>
-</div>
-</div>
-<div id="administrators-want-metrics" class="section level3" number="6.9.3">
-<h3><span class="header-section-number">6.9.3</span> Administrators want metrics</h3>
-</div>
-<div id="google-scholar-web-of-science-or-scopus" class="section level3" number="6.9.4">
-<h3><span class="header-section-number">6.9.4</span> Google Scholar, Web of Science or Scopus?</h3>
-</div>
-<div id="whats-the-difference-between-indices" class="section level3" number="6.9.5">
-<h3><span class="header-section-number">6.9.5</span> What’s the difference between indices?</h3>
-
-</div>
-</div>
-<div id="software" class="section level2" number="6.10">
-<h2><span class="header-section-number">6.10</span> What software should I use to write my PhD?</h2>
-<div id="alternatives-to-conventional-word-processors" class="section level3" number="6.10.1">
-<h3><span class="header-section-number">6.10.1</span> Alternatives to conventional word processors</h3>
-</div>
-<div id="naming-versions-of-files" class="section level3" number="6.10.2">
-<h3><span class="header-section-number">6.10.2</span> Naming versions of files</h3>
-</div>
-<div id="how-many-versions-of-each-file-should-you-keep" class="section level3" number="6.10.3">
-<h3><span class="header-section-number">6.10.3</span> How many versions of each file should you keep?</h3>
-
-</div>
-</div>
-<div id="paywall" class="section level2" number="6.11">
-<h2><span class="header-section-number">6.11</span> How to get around the paywall</h2>
-<div id="go-to-your-library" class="section level3" number="6.11.1">
-<h3><span class="header-section-number">6.11.1</span> Go to your library</h3>
-</div>
-<div id="look-for-links-from-google-scholar" class="section level3" number="6.11.2">
-<h3><span class="header-section-number">6.11.2</span> Look for links from Google Scholar</h3>
-</div>
-<div id="google-the-title-in-quotes" class="section level3" number="6.11.3">
-<h3><span class="header-section-number">6.11.3</span> Google the title in quotes</h3>
-</div>
-<div id="go-to-the-author-websites-and-look-for-links" class="section level3" number="6.11.4">
-<h3><span class="header-section-number">6.11.4</span> Go to the author websites and look for links</h3>
-</div>
-<div id="go-to-an-academic-social-media-site" class="section level3" number="6.11.5">
-<h3><span class="header-section-number">6.11.5</span> Go to an academic social media site</h3>
-</div>
-<div id="go-into-the-black-open-access" class="section level3" number="6.11.6">
-<h3><span class="header-section-number">6.11.6</span> Go into the black open access</h3>
-</div>
-<div id="use-your-contacts-at-other-universities" class="section level3" number="6.11.7">
-<h3><span class="header-section-number">6.11.7</span> Use your contacts at other universities</h3>
-</div>
-<div id="go-back-to-you-librarian-and-ask-them-for-help" class="section level3" number="6.11.8">
-<h3><span class="header-section-number">6.11.8</span> Go back to you librarian and ask them for help</h3>
-</div>
-<div id="get-an-interlibrary-loan" class="section level3" number="6.11.9">
-<h3><span class="header-section-number">6.11.9</span> Get an interlibrary loan</h3>
-
-</div>
-</div>
-<div id="taxonomy" class="section level2" number="6.12">
-<h2><span class="header-section-number">6.12</span> Scientific names and taxonomic authorities</h2>
-<div id="scientific-names" class="section level3" number="6.12.1">
-<h3><span class="header-section-number">6.12.1</span> Scientific names</h3>
-<div id="consider-this-example" class="section level4" number="6.12.1.1">
-<h4><span class="header-section-number">6.12.1.1</span> Consider this example:</h4>
-</div>
-</div>
-<div id="different-codes-for-the-nomenclature-of-different-taxa" class="section level3" number="6.12.2">
-<h3><span class="header-section-number">6.12.2</span> Different codes for the nomenclature of different taxa</h3>
-<div id="peculiarities-of-plant-taxonomy" class="section level4" number="6.12.2.1">
-<h4><span class="header-section-number">6.12.2.1</span> Peculiarities of plant taxonomy</h4>
-</div>
-</div>
-<div id="common-names" class="section level3" number="6.12.3">
-<h3><span class="header-section-number">6.12.3</span> Common names</h3>
-</div>
-<div id="should-common-names-have-capitals" class="section level3" number="6.12.4">
-<h3><span class="header-section-number">6.12.4</span> Should common names have capitals?</h3>
-<div id="view-1." class="section level4" number="6.12.4.1">
-<h4><span class="header-section-number">6.12.4.1</span> View 1.</h4>
-</div>
-<div id="view-2." class="section level4" number="6.12.4.2">
-<h4><span class="header-section-number">6.12.4.2</span> View 2.</h4>
-
-</div>
-</div>
-</div>
-<div id="style" class="section level2" number="6.13">
-<h2><span class="header-section-number">6.13</span> Writing style</h2>
-<p><strong>Did you ever feel that reading a paper was like trying to solve a puzzle?</strong></p>
-<p>During my PhD I read a lot. My study species was the subject of tens of thousands of papers, and I was convinced that I’d find what I’d need somewhere in those musty old reprints and heavy volumes that came from the library shelves. It was easy to believe that the authors of those papers had set great puzzles for me to try to understand their content. The realisation that this is not the best form of communication came as a personal epiphany some years ago.</p>
-<blockquote>
-<p>“The goal of good writing is straightforward: to make your reader’s job as easy as possible”
-Kevin W. Plaxco <span class="citation">(<a href="references-1.html#ref-plaxco2010art" role="doc-biblioref">2010</a>)</span>.</p>
-</blockquote>
-<p>This great quote from a paper by Plaxco <span class="citation">(<a href="references-1.html#ref-plaxco2010art" role="doc-biblioref">2010</a>)</span> cuts to the heart of why it’s essential to write well. As an editor, I once experienced an author who thought the opposite, and for me this was an epiphany. The submitted manuscript was an impenetrable mess. I could tell that there was good work in there, but as an editor I felt that the information had been made so obscure by the authors that my readers were unlikely to get much out of it. The author was a colleague, and so I decided to phone him and chat about the need for much greater clarity in his manuscript. Experience with email has taught me that they can often be taken in the wrong way; usually in the worst possible way.</p>
-<p>The response I got surprised me. The author recognised that his text was dense and was unapologetic. “Let the reader work to make sense of my data,” he said. My epiphany came not because this was a totally alien concept, but because during my PhD days this was exactly how I had thought scientific writing should be done. I had spent so many hours slogging through dense and dreary papers by well-respected figures. The reward when I finally understood what it was that they were trying to communicate felt so great that I believed the puzzle they had set me was what I should set my own readers. Happily, my advisor didn’t feel the same way, but for years I continued to believe that a paper should be a decent puzzle for my readers to crack. This might seem a crazy concept, but it’s not an uncommon problem. For a great take on this in Chemistry, see this great article by Murray <span class="citation">(<a href="references-1.html#ref-murray2011skillful" role="doc-biblioref">2011</a>)</span>.</p>
-<p>This has led to a general perception that “academics stink at writing” - as Steven Pinker put it. But, I think that Pinker is outdated. Certainly, as Plaxco <span class="citation">(<a href="references-1.html#ref-plaxco2010art" role="doc-biblioref">2010</a>)</span> has it, there are a lot of ways that academics can improve their writing, for each other. But the belief that all academic writing is going to be accessible to the general public is far fetched. This is because there are a lot of terms when writing journal articles that are there for precision and brevity. These terms will exclude a larger audience, especially when they get so dense that looking them up is simply too arduous. What Plaxco <span class="citation">(<a href="references-1.html#ref-plaxco2010art" role="doc-biblioref">2010</a>)</span> urges us to do is to make the rest of the text as accessible and easy as possible.</p>
-<p>Any good writing is an artform, and that includes good academic writing. You can’t expect to be the best until you’ve spent some time at it.</p>
-<p>There are still authors out there who attempt to set puzzles for their readers, but they aren’t in the mainstream any more. Instead, biological sciences has some inspiring writers, and many more are taught how to inspire future generations towards communicating great science. That’s not to say that there are no puzzles left. Much of what we do requires great puzzle solving abilities. However, let’s keep the puzzles away from communicating with our audience, make their job as reader easy or even pleasurable, and they’ll keep coming back for more.</p>
-<div id="dont-bamboozle" class="section level3" number="6.13.1">
-<h3><span class="header-section-number">6.13.1</span> Don’t bamboozle</h3>
-<p>It’s easy to use jargon. The whole point of jargon is to convey a (usually complex) idea in a short amount of space. Using a word (or two) instead of using several sentences clearly has some advantages. However, there is such a thing as too much jargon. Simply put, it’s unnecessary to use jargon when you can use plain English in the same amount of space. My old tutor at Liverpool University, the late, great Brian Moss, shared the following example of too much jargon <span class="citation">(<a href="references-1.html#ref-bump2009large" role="doc-biblioref">Bump et al. 2009</a>)</span>, when plain English would have been much shorter. Do yourself a favor and read the abstract of Bump et al <span class="citation">(<a href="references-1.html#ref-bump2009large" role="doc-biblioref">2009</a>)</span>. The fact that it gave Moss a chance to write about moose wasn’t lost on anyone (see Figure <a href="TypeI.html#fig:moss">6.6</a>)!</p>
-
-<div class="figure"><span id="fig:moss"></span>
-<img src="figures/moss.png" alt="Bamboozled Moss takes on the moose. Brian was so unhappy after reading Bump et al (2009) the above that he felt compelled to write a letter to the British Ecological Society Bulletin." width="95%" />
-<p class="caption">
-FIGURE 6.6: <strong>Bamboozled Moss takes on the moose.</strong> Brian was so unhappy after reading Bump et al (2009) the above that he felt compelled to write a letter to the British Ecological Society Bulletin.
-</p>
-</div>
-
-</div>
-</div>
-<div id="voice" class="section level2" number="6.14">
-<h2><span class="header-section-number">6.14</span> When is it possible to retain your own voice when writing?</h2>
-<p>Should one use “I” or “we” when writing a scientific paper? Although there was a tradition not to use first-person pronouns when writing scientific articles, this has fallen by the wayside in recent years as the use of I or we makes writing simpler for writers and readers. Use “I” if you are the sole author (or in your thesis) and “we” for two or more authors.</p>
-<p>You will regularly see “I” or “we” being used in the last paragraph of the introduction and the first paragraph of the discussion. It’s also quite common to use this in the methods section. The reason why these sections have “I” or “we” is quite obvious, as it allows you to place your own voice on actions and decisions. After all, it is your aim and hypothesis for your study, so you should own it. Using first-person pronouns also allow you to be more concise, and there are some great examples here where you can see what happens when you don’t use them.</p>
-<p>The first use of “I” or “we” at the end of the introduction is powerful. Up to that point, the reader has read four or five paragraphs of logical arguments outlining the background information that makes up the reasoning for your study. Using the first-person pronoun now makes the reader sit up as they have you communicating directly with them what you aimed to do. But that power is lost with repetition. So if you were to continuously use it throughout the methodology, the reader may get tired of reading a string of statements stating that you did this, then you did that, and so on. The power of using “I” or “we” is to use it sparingly to boost clarity.</p>
-<div id="does-writing-i-or-we-help-people-to-understand-who-you-are" class="section level3" number="6.14.1">
-<h3><span class="header-section-number">6.14.1</span> Does writing “I” or “we” help people to understand who you are?</h3>
-<p>Actually, all of your writing will do this. As long as you are using your own words (and not plagiarising), your writing is likely to be unique to you and hence recognisable as you. It never ceases to amaze me that it is possible to convey the same information in so many different ways. Your way will likely change with time and experience, but remain yours throughout your writing life. If you keep writing, people will be able to recognise your distinct style.</p>
-</div>
-<div id="the-vonnegut-advice" class="section level3" number="6.14.2">
-<h3><span class="header-section-number">6.14.2</span> The Vonnegut advice</h3>
-<p>Kurt Vonnegut <span class="citation">(<a href="references-1.html#ref-vonnegut1980how" role="doc-biblioref">1980</a>)</span>, infamous novelist, provided some advice for writers. First, he made an impassioned plea for technical writers (yes, you) to use your own writing style. The easiest way, Vonnegut argues, is to write about a subject that you care about. He’s totally correct on this, and I’m hoping that after all your research you care passionately about your subject. Next, not to ramble, but to keep your writing simple.</p>
-<p>What is most impressive about Vonnegut’s advice is that he argues from the readers’ standpoint. His parting advice:</p>
-<blockquote>
-<p>“Our audience requires us to be sympathetic and patient teachers, ever willing to simplify and clarify - whereas we would rather soar high above the crowd, singing like nightingales.”
-Kurt Vonnegut</p>
-</blockquote>
-<p>Having said that you should write about subjects that you feel passionately about, this does not mean that you should write with unsubstantiated passion. For example, it makes no sense to write: “The threats to this spectacular species surpass any mechanism known to humankind” …unless you have substantive citations or results to back this up. Yes, it’s passionate, but that should be balanced by the need to keep what you write factual.</p>
-
-</div>
-</div>
-<div id="concise" class="section level2" number="6.15">
-<h2><span class="header-section-number">6.15</span> Writing concisely</h2>
-<div id="rule-1.-take-writing-seriously" class="section level3" number="6.15.1">
-<h3><span class="header-section-number">6.15.1</span> Rule 1. Take writing seriously</h3>
-</div>
-<div id="rule-2-identify-and-stick-to-your-message" class="section level3" number="6.15.2">
-<h3><span class="header-section-number">6.15.2</span> Rule 2: Identify and stick to your message</h3>
-</div>
-<div id="rule-3-get-to-the-point" class="section level3" number="6.15.3">
-<h3><span class="header-section-number">6.15.3</span> Rule 3: Get to the point</h3>
-</div>
-<div id="rule-4-keep-your-methods-and-results-contained" class="section level3" number="6.15.4">
-<h3><span class="header-section-number">6.15.4</span> Rule 4: Keep your Methods and Results contained</h3>
-</div>
-<div id="rule-5-do-not-repeat-yourself-too-often" class="section level3" number="6.15.5">
-<h3><span class="header-section-number">6.15.5</span> Rule 5: Do not repeat yourself (too often)</h3>
-</div>
-<div id="rule-6-avoid-unnecessary-or-inefficient-leadins" class="section level3" number="6.15.6">
-<h3><span class="header-section-number">6.15.6</span> Rule 6: Avoid unnecessary or inefficient “lead‐ins”</h3>
-</div>
-<div id="rule-7-use-firstperson-active-voice" class="section level3" number="6.15.7">
-<h3><span class="header-section-number">6.15.7</span> Rule 7: Use first‐person, active voice</h3>
-</div>
-<div id="rule-8-remove-unnecessary-words" class="section level3" number="6.15.8">
-<h3><span class="header-section-number">6.15.8</span> Rule 8: Remove unnecessary words</h3>
-</div>
-<div id="rule-9-simplify-your-language" class="section level3" number="6.15.9">
-<h3><span class="header-section-number">6.15.9</span> Rule 9: Simplify your language</h3>
-</div>
-<div id="rule-10-seek-and-embrace-feedback" class="section level3" number="6.15.10">
-<h3><span class="header-section-number">6.15.10</span> Rule 10: Seek and embrace feedback</h3>
-</div>
-<div id="rule-11-read-it-yourself" class="section level3" number="6.15.11">
-<h3><span class="header-section-number">6.15.11</span> Rule 11: Read it yourself</h3>
-
-</div>
-</div>
-<div id="foreign" class="section level2" number="6.16">
-<h2><span class="header-section-number">6.16</span> Writing a PhD if English is not your first language</h2>
-<div id="message-from-an-editor" class="section level3" number="6.16.1">
-<h3><span class="header-section-number">6.16.1</span> Message from an editor</h3>
-</div>
-<div id="must-a-native-english-speaker-check-your-work" class="section level3" number="6.16.2">
-<h3><span class="header-section-number">6.16.2</span> Must a ‘native English speaker’ check your work?</h3>
-</div>
-<div id="so-if-not-a-native-english-speaker-who-should-do-it" class="section level3" number="6.16.3">
-<h3><span class="header-section-number">6.16.3</span> So if not a native English speaker, who should do it?</h3>
-</div>
-<div id="but-surely-my-native-tongue-can-be-used-for-something" class="section level3" number="6.16.4">
-<h3><span class="header-section-number">6.16.4</span> But surely my native tongue can be used for something?</h3>
-
-</div>
-</div>
-<div id="plagiarise" class="section level2" number="6.17">
-<h2><span class="header-section-number">6.17</span> Making sure that you don’t plagiarise</h2>
-<div id="how-to-know-if-you-have-plagiarised" class="section level3" number="6.17.1">
-<h3><span class="header-section-number">6.17.1</span> How to know if you have plagiarised</h3>
-</div>
-<div id="what-to-do-if-plagiarism-is-detected-in-your-work" class="section level3" number="6.17.2">
-<h3><span class="header-section-number">6.17.2</span> What to do if plagiarism is detected in your work</h3>
-</div>
-<div id="how-can-you-make-sure-that-you-never-plagiarise" class="section level3" number="6.17.3">
-<h3><span class="header-section-number">6.17.3</span> How can you make sure that you never plagiarise?</h3>
-</div>
-<div id="what-is-grey-plagiarism" class="section level3" number="6.17.4">
-<h3><span class="header-section-number">6.17.4</span> What is grey plagiarism?</h3>
-</div>
-<div id="manuscript-recycling" class="section level3" number="6.17.5">
-<h3><span class="header-section-number">6.17.5</span> Manuscript recycling</h3>
-</div>
-<div id="overall---just-dont-plagiarise" class="section level3" number="6.17.6">
-<h3><span class="header-section-number">6.17.6</span> Overall - just don’t plagiarise</h3>
-
-</div>
-</div>
-<div id="phrasebank" class="section level2" number="6.18">
-<h2><span class="header-section-number">6.18</span> Academic phrasebank</h2>
-<p>It can be really tough to get started writing especially if you are writing in English as a foreign language. It could be that the academic phrasebank is just what you’re looking for.</p>
-<p>When reading papers, I often come across the same phrases time and again. They seem so well honed to the situation that I’m envious about how the writer dreamt them up. Stealing them isn’t quite <a href="plagiarism.html">plagiarism</a>, but then they don’t regularly fit the exact situation that I’m looking for.</p>
-<p>Imagine cutting and pasting them into a file, or even better a database that’s ready for any eventuality. Banking them over time so that they are always available.</p>
-<p>Then imagine that you did this and made it available to everyone…
-<a href="http://www.phrasebank.manchester.ac.uk/" class="uri">http://www.phrasebank.manchester.ac.uk/</a></p>
-<p>Well, John Morley has already done it, and he’s made it available to everyone. The academic phrasebank is a fantastic resource:</p>
-<p>the academic phrasebank</p>
-<div id="how-to-find-the-phrase-that-you-need" class="section level3" number="6.18.1">
-<h3><span class="header-section-number">6.18.1</span> How to find the phrase that you need:</h3>
-<ul>
-<li>Look across the top for different sections of text that you are currently writing.</li>
-<li>Then look down the left hand side to see the type of language function that you need. Click on something that looks applicable and watch the database open up.</li>
-</ul>
-</div>
-<div id="getting-started" class="section level3" number="6.18.2">
-<h3><span class="header-section-number">6.18.2</span> Getting started</h3>
-<p>It strikes me that this is going to be a fantastic resource for those of you who are not writing in English as your home language. And for those of you who just need a few words to get started. It’ll also be useful when you are wanting to wordsmith your introduction or abstract.</p>
-<p>Is it plagiarism? Given that the chapter before is all about not copying and pasting, am I now telling you that it’s ok to copy and paste? Most of these phrases are less than five words or you will find that they are non-consecutive parts of a sentence. I don’t think that most of these would constitute plagiarism if you pasted them into your document. However, I would suggest that you spend some time refining what you’ve written and that when you do that, some of these phrases may then come out.</p>
-
-</div>
-</div>
-<div id="critical" class="section level2" number="6.19">
-<h2><span class="header-section-number">6.19</span> Why critical reading is crucial for improving your writing</h2>
-<div id="making-notes-on-good-and-bad-styles" class="section level3" number="6.19.1">
-<h3><span class="header-section-number">6.19.1</span> Making notes on good and bad styles</h3>
-<div id="some-examples" class="section level4" number="6.19.1.1">
-<h4><span class="header-section-number">6.19.1.1</span> Some examples</h4>
-</div>
-</div>
-<div id="make-handwritten-notes" class="section level3" number="6.19.2">
-<h3><span class="header-section-number">6.19.2</span> Make handwritten notes</h3>
-</div>
-<div id="recognising-good-or-bad-in-what-you-read" class="section level3" number="6.19.3">
-<h3><span class="header-section-number">6.19.3</span> Recognising good or bad in what you read</h3>
-
-</div>
-</div>
-<div id="proposal" class="section level2" number="6.20">
-<h2><span class="header-section-number">6.20</span> What is needed for your research proposal?</h2>
-<div id="structure" class="section level3" number="6.20.1">
-<h3><span class="header-section-number">6.20.1</span> Structure</h3>
-</div>
-<div id="proposal-introduction" class="section level3" number="6.20.2">
-<h3><span class="header-section-number">6.20.2</span> Proposal introduction</h3>
-</div>
-<div id="methods-and-materials" class="section level3" number="6.20.3">
-<h3><span class="header-section-number">6.20.3</span> Methods and Materials</h3>
-</div>
-<div id="hypothetical-results" class="section level3" number="6.20.4">
-<h3><span class="header-section-number">6.20.4</span> Hypothetical Results</h3>
-</div>
-<div id="your-proposal---what-is-it-good-for" class="section level3" number="6.20.5">
-<h3><span class="header-section-number">6.20.5</span> Your Proposal - what is it good for?</h3>
-<div id="copy-and-paste-directly-into-your-thesis" class="section level4" number="6.20.5.1">
-<h4><span class="header-section-number">6.20.5.1</span> Copy and paste directly into your thesis</h4>
-</div>
-<div id="use-it-to-raise-money-to-do-your-studies." class="section level4" number="6.20.5.2">
-<h4><span class="header-section-number">6.20.5.2</span> Use it to raise money to do your studies.</h4>
-</div>
-<div id="deposit-the-proposal-to-conform-to-design-and-analysis-transparency" class="section level4" number="6.20.5.3">
-<h4><span class="header-section-number">6.20.5.3</span> Deposit the proposal to conform to Design and Analysis Transparency</h4>
-
-</div>
-</div>
-</div>
-<div id="proposal-presentation" class="section level2" number="6.21">
-<h2><span class="header-section-number">6.21</span> Making a presentation from your chapter, paper or proposal</h2>
-<div id="so-where-do-you-start" class="section level3" number="6.21.1">
-<h3><span class="header-section-number">6.21.1</span> So where do you start?</h3>
-<div id="here-are-some-simple-rules-to-help-guide-you-to-build-your-presentation" class="section level4" number="6.21.1.1">
-<h4><span class="header-section-number">6.21.1.1</span> Here are some simple rules to help guide you to build your presentation:</h4>
-</div>
-<div id="a-formula-for-presenting-a-proposal" class="section level4" number="6.21.1.2">
-<h4><span class="header-section-number">6.21.1.2</span> A formula for presenting a proposal</h4>
-</div>
-<div id="a-formula-for-presenting-a-chapter-or-paper" class="section level4" number="6.21.1.3">
-<h4><span class="header-section-number">6.21.1.3</span> A formula for presenting a chapter or paper</h4>
-</div>
-</div>
-<div id="know-your-story-first-and-then-make-your-presentation" class="section level3" number="6.21.2">
-<h3><span class="header-section-number">6.21.2</span> Know your story first, and then make your presentation</h3>
-</div>
-<div id="slide-layout" class="section level3" number="6.21.3">
-<h3><span class="header-section-number">6.21.3</span> Slide layout</h3>
-</div>
-<div id="practice-practice-practice" class="section level3" number="6.21.4">
-<h3><span class="header-section-number">6.21.4</span> Practice, practice, practice</h3>
-
-</div>
-</div>
-<div id="transparency" class="section level2" number="6.22">
-<h2><span class="header-section-number">6.22</span> Starting out transparent</h2>
-<div id="preregistration" class="section level3" number="6.22.1">
-<h3><span class="header-section-number">6.22.1</span> Preregistration</h3>
-<div id="does-this-mean-that-you-cant-perform-any-data-exploration" class="section level4" number="6.22.1.1">
-<h4><span class="header-section-number">6.22.1.1</span> Does this mean that you can’t perform any data exploration?</h4>
-</div>
-<div id="will-preregistration-of-research-eliminate-the-bias-from-science" class="section level4" number="6.22.1.2">
-<h4><span class="header-section-number">6.22.1.2</span> Will preregistration of research eliminate the bias from science?</h4>
-</div>
-<div id="what-platform-should-you-use" class="section level4" number="6.22.1.3">
-<h4><span class="header-section-number">6.22.1.3</span> What Platform should you use?</h4>
-</div>
-</div>
-<div id="transparency-as-you-move-forwards" class="section level3" number="6.22.2">
-<h3><span class="header-section-number">6.22.2</span> Transparency as you move forwards</h3>
-
-</div>
-</div>
-<div id="funding" class="section level2" number="6.23">
-<h2><span class="header-section-number">6.23</span> Generating funding for your PhD research</h2>
-<div id="funding-databases" class="section level3" number="6.23.1">
-<h3><span class="header-section-number">6.23.1</span> Funding databases</h3>
-</div>
-<div id="reasons-you-might-want-to-apply-for-funding" class="section level3" number="6.23.2">
-<h3><span class="header-section-number">6.23.2</span> Reasons you might want to apply for funding:</h3>
-<div id="mendeleyhttpswww.mendeley.com" class="section level4" number="6.23.2.1">
-<h4><span class="header-section-number">6.23.2.1</span> Mendeley:<a href="https://www.mendeley.com/" class="uri">https://www.mendeley.com/</a></h4>
-</div>
-<div id="open-4-research-httpswww.open4research.eu" class="section level4" number="6.23.2.2">
-<h4><span class="header-section-number">6.23.2.2</span> Open 4 Research: <a href="https://www.open4research.eu" class="uri">https://www.open4research.eu</a></h4>
-</div>
-<div id="research-professionalhttpswww.researchprofessional.com" class="section level4" number="6.23.2.3">
-<h4><span class="header-section-number">6.23.2.3</span> Research Professional:<a href="https://www.researchprofessional.com/" class="uri">https://www.researchprofessional.com/</a></h4>
-</div>
-<div id="opportunities-in-your-department-or-societies" class="section level4" number="6.23.2.4">
-<h4><span class="header-section-number">6.23.2.4</span> Opportunities in your department or societies:</h4>
-
-</div>
-</div>
-</div>
-<div id="fear" class="section level2" number="6.24">
-<h2><span class="header-section-number">6.24</span> Fear of submitting written work</h2>
-<div id="impostorsyndrome" class="section level3" number="6.24.1">
-<h3><span class="header-section-number">6.24.1</span> What is impostor syndrome?</h3>
-</div>
-<div id="think-of-it-this-way" class="section level3" number="6.24.2">
-<h3><span class="header-section-number">6.24.2</span> Think of it this way</h3>
-</div>
-<div id="what-can-you-do-to-help-yourself-overcome-the-fear-of-submitting-written-work" class="section level3" number="6.24.3">
-<h3><span class="header-section-number">6.24.3</span> What can you do to help yourself overcome the fear of submitting written work?</h3>
-
-</div>
-</div>
-<div id="formula" class="section level2" number="6.25">
-<h2><span class="header-section-number">6.25</span> Why use a formula to structure each chapter or paper?</h2>
-<div id="so-what-is-the-formula" class="section level3" number="6.25.1">
-<h3><span class="header-section-number">6.25.1</span> So what is the formula?</h3>
-<div id="my-take-on-how-to-write-a-formula-paper" class="section level4" number="6.25.1.1">
-<h4><span class="header-section-number">6.25.1.1</span> My take on how to write a formula paper</h4>
-</div>
-<div id="start-with-an-outline" class="section level4" number="6.25.1.2">
-<h4><span class="header-section-number">6.25.1.2</span> Start with an outline</h4>
-</div>
-<div id="next-flesh-out-the-outline-with-citations" class="section level4" number="6.25.1.3">
-<h4><span class="header-section-number">6.25.1.3</span> Next flesh out the outline with citations</h4>
-</div>
-<div id="lastly-its-time-to-write-the-text" class="section level4" number="6.25.1.4">
-<h4><span class="header-section-number">6.25.1.4</span> Lastly it’s time to write the text</h4>
-
-</div>
-</div>
-</div>
-<div id="goodenough" class="section level2" number="6.26">
-<h2><span class="header-section-number">6.26</span> When is it good enough to submit to my advisor?</h2>
-<p>Once you’ve read and revised the draft text three times yourself, and you feel that you can’t really improve it any more, hand it over. Personally, I need to wait a day or more between drafts when I work on something else, or do some reading. I find that it really helps to think about writing while not writing. Run through the arguments in your head when you are doing something else. That could be time in the gym, out running, cycling or swimming. Or talk through the logic of your argument with a friend or colleague while having coffee. You’ll find that spending time thinking away from sitting in front of your word-processor will be really valuable in promoting productivity once you sit down again.</p>
-<p>If possible, hand it to an office mate or other friend first. Your reader shouldn’t have to be an expert in your field, but only needs to have a loose grasp on scientific writing to follow any paper. As a guide, any recent graduate of a biological sciences degree (BSc) should be able to understand. This makes it easy to find lots of potential readers for your manuscript before handing it in.</p>
-<p><strong>In summary</strong></p>
-<p>Writing a paper as a formula is not the only way of writing a scientific manuscript, but it has two really important qualities which I recommend:</p>
-<ol style="list-style-type: decimal">
-<li>it makes writing easier, and</li>
-<li>readers will be familiar with the style and this will help them understand your work.</li>
-</ol>
-
-</div>
-<div id="data" class="section level2" number="6.27">
-<h2><span class="header-section-number">6.27</span> Data Management</h2>
-<p>Almost everyone has had the experience of having written some really excellent work, and then had some terrible technology malfunction meaning that they lose everything. Some failure to backup stories are truly horrific. However, they all represent a failure on the part of the person involved to properly backup their work.</p>
-<p>At the time of writing, it is very easy to keep copies of documents on the cloud, or even write straight onto the cloud. Talk to your advisor about what options are available in your institution for backing up your work. Make a plan early on, before you start with your study, and then stick with that backup plan as you move through your PhD. A really good option is to start working in one of the Open Science platforms. For example, OSF allows you to create a project where you can continue to use lots of different cloud based resources, and provides an integrated home for them (for an introductory video see here). OSF is also a great platform as it is free to use, and as long as individual files are less than 5 Gb, OSF will host them. This means that for most projects, raw data files can be stored on the cloud at no cost to the project.</p>
-<div id="should-the-cloud-be-the-only-copy-of-your-data" class="section level3" number="6.27.1">
-<h3><span class="header-section-number">6.27.1</span> Should the cloud be the only copy of your data?</h3>
-<p>No. I suggest that you keep a hard drive with a copy of your data that you regularly deposit on a monthly basis, or after significant bouts of data collection such as field trips or experiments. A hard drive has the advantage that in the case of an internet outage, you always have access to your data.</p>
-<p>Don’t try to store data on a laptop or desktop computer. These are for working files only. Backup is a separate operation where you store files. While computers are good for computation, they are frail and much more likely to suffer from catastrophic failures. They are also objects that are prone to being stolen.</p>
-</div>
-<div id="backing-up-in-the-field" class="section level3" number="6.27.2">
-<h3><span class="header-section-number">6.27.2</span> Backing up in the field</h3>
-<p>If you are going to be doing lots of field work, then you might want to make a specific plan about backing up data to the cloud during the field time. It may seem expensive, but I’m sure that it won’t be as expensive as losing the data. Alternatively, or in addition, you may want to take a portable storage option.</p>
-<p>I still prefer field notes and data to be written into a book (preferably with waterproof paper such as <a href="https://www.riteintherain.com/">rite in the rain</a>). This allows you to make a photographic backup of the hard copy. Similarly, you can design datasheets that you use in the field with a pencil, and then photograph them to make a hard copy. I don’t like entering data directly into a laptop or other device. For me, the advantage is that it is too easy to mis-type a data point into a device, and then there is no record about what it should have been. These days there are multiple different ways to enter data into devices (including dictation), and so you should make your own plan about what you feel most comfortable with. If you do make a hard copy, you will then have to transcribe it later. If you make mistakes, you can go back to the hard copy.</p>
-</div>
-<div id="make-a-data-management-plan-and-stick-to-it" class="section level3" number="6.27.3">
-<h3><span class="header-section-number">6.27.3</span> Make a data management plan, and stick to it</h3>
-<p>However you decide to manage your data, make sure that you have a plan and that you stick to it. Don’t become a victim of some unexpected event that will lose your data. These events will still happen, but at least your existing data will be safe. Creating a secure data management plan (Figure <a href="TypeI.html#fig:Data-management">6.7</a>) is something that you should design and then talk through with your advisor. There is much more to data management than simply backing up your data. A great start is to read through the <a href="https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Data-Management-2019.pdf">British Ecological Society’s guide to Data Management</a>. <a href="SuppInfo.html">See part 3</a> for information about how to archive and distribute your data.</p>
-
-<div class="figure"><span id="fig:Data-management"></span>
-<img src="figures/Data-management.png" alt="The data management cycle. It is possible to see your data as a cycle between creation and distribution. Your plan should aim to cover each of these steps (redrawn from the British Ecological Society’s guide to Data Management)." width="95%" />
-<p class="caption">
-FIGURE 6.7: <strong>The data management cycle.</strong> It is possible to see your data as a cycle between creation and distribution. Your plan should aim to cover each of these steps (redrawn from the British Ecological Society’s guide to Data Management).
-</p>
-</div>
-<p>You probably won’t be able to think about all the potential pitfalls that may happen during your PhD, but if there are some obvious ones, then do consider them and see whether you can mitigate the circumstances should they occur.</p>
-
-</div>
-</div>
 </div>
             </section>
 
@@ -1076,18 +628,18 @@ FIGURE 6.7: <strong>The data management cycle.</strong> It is possible to see yo
         </div>
       </div>
 <a href="part2.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="part3.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="nohypothesis.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
-<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
-<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
-<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script src="libs/gitbook/js/app.min.js"></script>
+<script src="libs/gitbook/js/lunr.js"></script>
+<script src="libs/gitbook/js/clipboard.min.js"></script>
+<script src="libs/gitbook/js/plugin-search.js"></script>
+<script src="libs/gitbook/js/plugin-sharing.js"></script>
+<script src="libs/gitbook/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook/js/jquery.highlight.js"></script>
+<script src="libs/gitbook/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({

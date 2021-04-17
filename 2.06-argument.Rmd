@@ -1,4 +1,4 @@
-## Construct a logical argument in your writing {#argument}
+# Construct a logical argument in your writing {#argument}
 
 Writing is not straightforward. Your objective is to communicate with a reader, someone who you’ve likely never met and will never meet. You need to communicate highly complex information. But more than that you need them to see things as you do. You need to provide them with your reasoning and your argument, and have it make sense to them; preferably to the point where they agree with you. 
 
@@ -24,7 +24,7 @@ If your logical argument doesn’t arrive immediately, don’t force it. Give it
 
 There are other shorter forms that might suit you better. Consider another classic form of the scientific argument: “compare and contrast” which allows you as a writer to quickly familiarise your reader with some key examples. Another sentence structure to consider is explaining cause and effect. For practical wording examplesof both of these classic arguments, [see part 2](phrasebank.html).
 
-### Arguments in Latin
+## Arguments in Latin
 From time to time you may come across comments about arguments that you’ve made in your work made in Latin. Why do people use Latin and not simply say it in English? What do these phrases actually mean? While you may think that these people are being pompous or trying to demonstrate some scholarly superiority by quoting Latin at you (and you might be right), there is some important reasoning to consider both in the meanings of these argumentum (as they are known in Latin), and the fact that they are as old as Roman scholars, and often much older. This then is the point, that some arguments are faulty, and that this has been known for thousands of years. 
 
 Here I have provided some of these arguments, and the reasons why they may appear in your thesis in writing biological sciences. 
@@ -37,8 +37,9 @@ _Post hoc, ergo propter hoc_ - “it happened after, so it was caused by”: mis
 
 _Reductio ad absurdum_ - “reduction to absurdity”: attempts to establish a claim by comparing it to an absurd opposite. 
 
-_Novacula Occami_ - "Occam’s razor": The idea that the simplest hypothesis, or argument is most likely to be correct. Another way to think of this is if you have two models that you test are equally likely (e.g. within 2 dAICs), the one with the least number of variables should be considered superior. This is also known as the priciple or law of parsimony: _lex parsimoniae_.
+_Novacula Occami_ - "Occam’s razor": The idea that the simplest hypothesis, or argument is most likely to be correct. Another way to think of this is if you have two models that you test are equally likely (e.g. within 2 δAICs), the one with the least number of variables should be considered superior. This is also known as the priciple or law of parsimony: _lex parsimoniae_.
 
+## Other arguments in English
 
 Likewise, there are some arguments in English that you will hear time and again. I take the opportunity to also list these here:
 

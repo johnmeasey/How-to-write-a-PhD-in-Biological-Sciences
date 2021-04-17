@@ -1,19 +1,30 @@
 --- 
-title: "How to write a PhD in Biological Sciences: a guide for the uninitiated"
+title: 'How to write a PhD in Biological Sciences: a guide for the uninitiated'
 author: "John Measey"
 date: "`r Sys.Date()`"
 documentclass: krantz
-bibliography: [book.bib, packages.bib]
+bibliography:
+- book.bib
+- packages.bib
 biblio-style: apalike
 link-citations: yes
 colorlinks: yes
 lot: yes
 lof: yes
 site: bookdown::bookdown_site
-description: "You don’t have to be a genius to write a PhD. It will always involve a lot of hard work and dedication, but the process of writing up is a whole lot easier if you understand the basic ground rules. This book is a guide specifically for writing a PhD in the *biological sciences*. It will guide you from deciding whether or not you should actually do a PhD, provide practical, up-to-the-minute guides to getting started with planning and writing, and consolidate this with the nuts and bolts of writing for the biological sciences. The book guides you through the do’s and don’ts of writing a thesis, and taking your thesis chapters to publication in peer-reviewed journals. Whether you are a student just starting your studies, or a supervisor struggling to cope, this book will provide the insider information you need to get ahead."
+description: You don’t have to be a genius to write a PhD. It will always involve
+  a lot of hard work and dedication, but the process of writing up is a whole lot
+  easier if you understand the basic ground rules. This book is a guide specifically
+  for writing a PhD in the *biological sciences*. It will guide you from deciding
+  whether or not you should actually do a PhD, provide practical, up-to-the-minute
+  guides to getting started with planning and writing, and consolidate this with the
+  nuts and bolts of writing for the biological sciences. The book guides you through
+  the do’s and don’ts of writing a thesis, and taking your thesis chapters to publication
+  in peer-reviewed journals. Whether you are a student just starting your studies,
+  or a supervisor struggling to cope, this book will provide the insider information
+  you need to get ahead.
 github-repo: yihui/bookdown-crc
 graphics: yes
-#cover-image: images/cover.png
 ---
 
 ```{r setup, include=FALSE}
@@ -47,18 +58,21 @@ This book is intended to be a guide. Don't sit down and read it from cover to co
 
 None of the topics is explored in any great depth. This is deliberate as this guide is here to provide you with a starting point for you to explore if you think it is necessary. I have provided literature (where possible), and you should use this in the standard way to research the topic yourself should you need or want to know any more. In the same way, none of the advice provided in this book should override what you decide for yourself or with your advisor. Take your decisions from an informed position. 
 
-**The book is divided into three main parts:**
+**The book is divided into four main parts:**
 
 [**Part 1**](part1.html)
 Part one is written as something that you should read early on in the process, once you’ve committed to doing a PhD. This shortest section of the book deals with what a PhD is, how it’s examined, with whom, where and when to do it. At the start of your PhD is the time to be thinking of the bigger questions both in your study area, and your life, and this section provides some pointers and things to consider.
 
-[**Part 2**](part2.html)  
-Part two of the book sets out a practical guide to getting started with writing. The approach I've taken here is describing the production of a PhD in biological sciences which is made up of data chapters, and where each chapter is essentially a potential publication in a science journal. If you didn't want to do a PhD but just wanted to write a publication, then most of what is here (and in Part 3) will be of use as you could take the same formulaic approach as given in this book. Similarly, if you were writing a MSc project, this section would also be useful. There is a lot of technical stuff involved in writing science, and in part 2 I cover as much as I can while still remaining general to the subject area.
+[**Part 2**](part2.html)
+Part two of the book sets out a practical guide to getting started with writing. The approach I've taken here is describing the production of a PhD in biological sciences which is made up of data chapters, and where each chapter is essentially a potential publication in a science journal. If you didn't want to do a PhD but just wanted to write a publication, then most of what is here (and in [Part 3](part3.html)) will be of use as you could take the same formulaic approach as given in this book. Similarly, if you were writing a MSc project, this section would also be useful. There is a lot of technical stuff involved in writing science, and in part 2 I cover as much as I can while still remaining general to the subject area.
 
 [**Part 3**](part3.html)
 A typical PhD will consist of five data chapters where each data chapter is a publication. There is a shortish introductory chapter (sometimes a literature review) that comes before these data chapters, and a concluding synthesis chapter at the end. That's not to say that this is the only way of writing a PhD. There are many different ways and it is a good idea for you and your advisor to talk about this together before you start. 
 
 This part covers how to write the core sections of a paper: abstract, introduction, methods and materials, results, discussion and references. 
+
+[**Part 4**](part4.html)
+The concluding part of this book is written to cover the things that remain after you have finished writing all of your data chapters. Most importantly, these include the introductory and concluding chapters that sit as bookends to the data chapters that you have already produced. These chapters make your thesis into a 'body of work', and allow you space to reflect on what you have achieved in your PhD studies.
 
 Throughout this guide you will find links and references of things to read elsewhere. The reality is that there is a lot out there for you to read. I am not the only person to write a guide, and I can't pretend that all the answers are here in this book. You will find that in your particular situation you need to look around. What I aim to do in this book is provide you with enough background information to help in your onward search, and provide you with enough inside knowledge to do a PhD. 
 
@@ -69,11 +83,6 @@ I think that most people with doctorates would agree that a PhD is not awarded t
 So, this guide is my practical attempt to help you to get the most that you can out of your PhD time. After all, it should be an amazing journey that culminates with you achieving academic maturity: the ability to conceive and carry out scientific investigations. When you have a PhD, you become a scientist. Too often, however, it's a nightmare journey of cul-de-sacs, and groping in the dark. 
 
 You should be aware from the outset that doing a PhD is a major undertaking. It will take several years of your life and will impact heavily on your day to day life, to the extent that your mental health may suffer. A PhD represents the culmination of an incredible amount of work, not to mention that you've already had to complete one to three previous degrees beforehand. It may not be something that you ever finish to your own satisfaction. But finish it you must.
-
-
-## Software information and conventions {-}
-
-I used the **knitr**\index{knitr} package [@xie2015dynamic] and the **bookdown**\index{bookdown} package [@R-bookdown] to compile my book. 
 
 
 ## Acknowledgments {-}

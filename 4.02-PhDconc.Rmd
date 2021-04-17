@@ -1,0 +1,23 @@
+# How to conclude your PhD {#PhDconc}
+
+By the time you come to write your concluding chapter of your PhD, you should have written all of the [data chapters](part3.html) and the [introductory chapter](PhDintro.html). Firstly, I should congratulate you for getting this far. You've almost finished, and there's just one final push required to complete the document. You are now the best placed person to tell yourself what should be in the concluding chapter.
+
+## Using the funnel structure
+In principle, you can use the same funnel structure that we described for the [discussion](discussion.html) as a way of structuring your concluding chapter (see figure \@ref(fig:discussion)). This would include starting with a synopsis of what your thesis is trying to achieve. Clearly, this starting section may be more than a paragraph (as it was in the [data chapters](part3.html)), and the precise structure will be dictated by the complexity of your thesis structure (Figure \@ref(fig:thesis-construction)). 
+
+
+## What to include in the concluding chapter?
+
+I suggest that you take your conceptual outline (from the [introductory chapter](PhDintro.html)), and use this to being thinking about how best to construct the outline of your concluding chapter. If your data chapters are used to feed into a final output, then consider using the approach of a [logical argument](argument.html) as the outline.
+
+The main body should review the concluding findings of each of the data chapters, and especially the way in whcih they interact - as these are the aspects that are least likely to have been touched on already in the individual data chapters. It is hoped that the thesis represents a body of work, and not a series of unconnected works. Thus your task in this final chapter is to present to the examiner (and any other reader) exactly how the chapters fit together into a body of work. 
+
+Your concluding chapter should provide all of the highlights and insights that have been gained from your PhD thesis. It is unlikely to you need to dwell on individuals caveats from the chapters, unless there are general caveats from your approach that span chapters - in which case these probably deserve attention. 
+
+Your concluding chapter will cite the data chapters of your thesis quite heavily, as it essentially pulls them all together, along with the objectives that they aimed to achieve, in the overarching concepts of your study area. 
+
+You also have an opportunity to point to where, in your opionion, the direction of your particular field should move next. **Do provide your opinion**. Remember that you are now one of the most qualified people in this particular area to be pronouncing on what should be done. Your opinion is therefore valid, and your concluding chapter is a good place to provide a reasoned argument about your own ideas.
+
+## Concluding section
+
+Your PhD may not have one overriding simple conclusion, indeed it will likely not have, so don't try to force one if there isn't one. Instead, attempt to sum up your findings in a way that explains how they have added to and changed the existing body of knowledge in your subject area. 

@@ -1,4 +1,4 @@
-# Writing the sections that make up your chapter  {#part3}
+# Writing the sections that make up your data chapter  {#part3}
 
 Getting over the cognitive inertia of starting to write is top of the list for most of us. The approach provided here is to present you with a formula that breaks down each section into smaller more reasonably sized chunks. However, you still need to make a start. Procrastinating starting to write is normal. It seems a massive task, even if you’ve done it lots of times before. You want to write the best manuscript that you can, but you aren’t feeling on top form today, so doesn’t it seem a better idea to wait until tomorrow? It’s not. You must start today and start now. Don’t set the bar so high for your first draft. In fact, don’t set any bar other than a personal goal of getting the first draft done. 
 
@@ -29,7 +29,7 @@ Note that the same information given in the title page will also be needed when 
 
 Work closely with your advisor, and make sure that your co-authors are aware of the correspondence that arrives from the journal. Use an address for correspondence that you know you check regularly. It;s also worth checking the spam of your email regularly so that you catch any correspondence that might have been misclassified. The golden rule for the corresponding author is the timely communication with the other authors when decisions have to be made. 
 
-### The Title
+## The Title
 
 The title of your paper, chapter or book is the first thing that any reader will read, and so should be well considered. If your reader cannot quickly understand your title, the chances are that they won’t bother reading any further. Your title will be your selling point, and your aim is to use it to draw your readership in. Once you’ve managed to invegle your readers to download your paper, your title is also their hook for remembering your paper in their database of thousands of others. Having their key word in your title will help here, and as ever with writing your challenge is to think like your reader. The best titles are those that sum up the entire study in five to seven words. This is best done in a narrative that tells the story ([see part 2](storytelling.html)) of your manuscript in its entirety. This may sound daunting, but you should get into the habit of summing up your story quickly (for friends, relatives and work colleagues). Then it’s a question of refining this story into the short single sentence that makes up the title. While the narrative approach may not work for you, you do want the title to provide enough information so that the potential reader knows what they will find before they open it. Your title doesn’t just have to work for you, it needs to work for a wide audience. 
 
@@ -38,7 +38,7 @@ Some people are excellent at writing titles that contain puns of well known phra
 You don’t have to come up with a killer title from day one. Most of my manuscripts have a working title that gets revised as I write, and is always open for change before submission. If you have great ideas for a title, do note them down. I find that the more options I have, the more likely I am to come up with something that works for everyone. It also helps to mix and match from a set of candidate titles. Once you have come up with something that looks good to you and your colleagues, test it by entering it into your database of choice (with the default being Google Scholar - see Part 2). Your first 10 results should include a set of papers that you have likely cited in the upper area of your introduction. If you don’t recognise any out of the top 10, it’s time to look at another of your candidate titles.
 
 
-#### Some title ideas to start you off
+### Some title ideas to start you off
 - Don’t start by looking for the best title
   + Write a number of candidate titles and ask your co-authors to vote for their favorites.
 - The shorter and catchier your title can be the better: 6 words (±1) is an ideal.
@@ -47,7 +47,7 @@ You don’t have to come up with a killer title from day one. Most of my manuscr
 - Do include your principal finding if possible
 - Include as many key words as you can
 
-#### Things to avoid in your title
+### Things to avoid in your title
  - Don’t feel obliged to include [taxonomic terms](taxonomy.html) unless it is relevant or compulsory
    + Some (taxonomically minded) journals will insist on the species name followed by the taxonomic authority, and/or the family and order, in your title
  - Avoid obscure or specialist words that won’t be understood by your readership
@@ -56,5 +56,5 @@ You don’t have to come up with a killer title from day one. Most of my manuscr
  - Don’t have your title as a question. Rather provide the answer!
 
 
-### Key Words
+## Key Words
 The key words are a way for readers to find your content with searches. Typically, the advice is to use words that are not in the title or abstract. This is because many databases have combined searching facilities for title, abstract and key words. I struggle to think of appropriate key words. Some of the big idea words and short phrases from the introduction. Then I tend to look at articles in the same genre, and see what key words they have used. As with the title, I suggest that you enter your chosen key words into your literature database of choice [see part 2](database.html) and see what comes back. You should see a group of papers that look wholly familiar and preferably those that are already cited in your manuscript. If not, it’s time to look again.

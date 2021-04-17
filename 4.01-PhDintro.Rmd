@@ -1,0 +1,41 @@
+# How to introduce your PhD chapters {#PhDintro}
+
+
+For each of your data chapters, you will have already written an [introduction section](introduction.html), and the same principles that you used to construct this will apply here. Instead of aiming to introduce any one of the hypotheses in the chapters, however, your introduction will aim to introduce the ideas and concepts explored inside the data chapters of the thesis. 
+
+My suggestion would be for you to start with the conceptual diagram of the thesis that you produced in your [proposal](proposal.html). If you didn't construct one then, you may be reluctant to do it now, but having a good conceptual idea of how the components of your thesis fit together will really aid you in putting together both this introduction and the final conclusion. For your [proposal](proposal.html), you may also have written a general introduction, and it would be worth revisiting this now, even if you don't actually use any of it. 
+
+Once you have a conceptual diagram of your thesis, my suggestion is that you formalise this into a diagram that you can present in the introductory chapter. Even if it's a very simple concept (like figure \@ref(fig:thesis-construction)), it will help your examiners (and any other readers) understand what to expect in your chapters and how they are interrelated. 
+
+Next produce a hierarchy of hypotheses for all of the chapters and concepts in your thesis (see figure \@ref(fig:JeschkeHagar61)). This will help you to make sure that you cover all of the [big ideas](bigidea.html) and concepts in the outline. Your outline should follow the standard funnel [formula](formula.html) (see Figure \@ref(fig:introduction)) this time with the highest level ideas in your hierarchy of hypotheses given full prominance in the first paragraph. 
+
+Although it's tempting, I'd urge you not to copy any text from any of the introductions in any of your chapters. By all means, draw upon their contents and references therein to give you inspiration, but this introductory chapter can't be a cut and paste job (Figure \@ref(fig:plagiarism)). The reason being that your examiners will spot this straight away, and it won't put your work in the best light. As before, if you can produce an outline of what you need to say in your introductory chapter, you should be well practised enough (by now) to write original text that will do the job of introducing all of the chapters.
+
+### Citing your chapters
+
+Your aim in this introduction is to introduce all of the chapters in your thesis, thus you will to cite them. My suggestion would be that you leave these citations to the final paragraphs (or subsection) of the introduction, and not have a structure that centres around introducing each chapter as a paragraph. Remember that you may well have this (in the form of abstracts) throughout the thesis, so it would be redundant to do that here. Instead, try to introduce chapters by concentrating on their themes and/or contributions to the bigger ideas that you address in your work. 
+
+The way in which to cite your chapters is most straightfoward here by using their chapter number (i.e. **Chapter n**). This will make it obvious to the examiner (or any other reader) that it is within the content of the thesis. If chapters are published, you could add a citation to the paper in addition, but not instead of.
+
+### Formulate the objectives of your study?
+
+At this point in your thesis writing, it is worth looking back to the [criteria used to judge a PhD at your institution](beforeyoustart.html). Yours may differ from those stated in this book, but it is clear that you should be able to formulate the objectives of your study, and that this includes not only the objectives of the individual data chapters, but of the study overall (here in the introductory chapter). 
+
+By the end of the introductory chapter, anyone reading should know what the thesis is about, and what it is that you aim to find out. This doesn't mean that they know what you found in each of the data chapters, but that they know the topics explored within the thesis and what was done to address them. Specifically
+
+
+### Review consistent thesis themes
+
+If your thesis has a study organism, experimental approach, or environmental system, then it would be appropriate to provide a reasonably comprehensive review of this in the introduction. The aim of this would be to explain why this theme was chosen. The extent of the review would depend entirely on how much time and energy you have to devote to this. 
+
+Ideally, you would aim for your first chapter to be a review of the literature in your study area, with the last section of the review rationalising the need for the particular approach that you have taken to address unexplored areas. However, as stated above, it may well be that you don't have the time to write a comprehensive review for your introductory chapter. If you do, then the most important aspect will be what to cover in the review (exactly what portion of the literature), and whether and how you want to publish it. Publications of reviews broadly fall into traditional reviews and systematic reviews (including meta-analyses). The latter require considerable amount of time and effort, and systematic reviews (i.e. those in which you assess an unbiased slice of literature on a topic) might be the only way to publish a review in some journals or subdisciplines.
+
+Although the review of consistent themes could be anything from two pages to an entire manuscript, you should make it clear to the examiner (or any other reader) why, out of all potential options, you have taken the particular approach you have. 
+
+### Removing the contents of chapters to place in the introduction
+
+You may decide that some of the contents of (particularly data chapter 1) might be more appropriate if it was moved to the introductory chapter. Before you do this I'd suggest that you discuss it with your advisor. Each of the data chapters should have already been signed off (by your advisor) and so it would be a mistake to start chopping them now without consultation. It is also perfectly legitimate to refer in the introduction to a section of the thesis where a particular topic is dealt with in detail. If you are unsure, you'd you best advised by your advisor.
+
+## How long should the introductory chapter be?
+
+This is probably the most common qestion I get asked, most often by students that have only days left in which to write it. Obviously, there is no simple answer (just as there is no particular length required for a PhD). Typically, I would suggest that the introductory chapter be longer than any of the introductions to any of the data chapters within your thesis, but not longer than the data chapters themselves - unless you've managed to pull off a stand-alone review.

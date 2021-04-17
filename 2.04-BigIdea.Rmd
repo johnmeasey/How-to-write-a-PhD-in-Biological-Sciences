@@ -1,7 +1,7 @@
-## What's the big idea? {#bigidea}
+# What's the big idea? {#bigidea}
 In the previous chapters, I've talked about the importance of having a hypothesis, and building that hypothesis in a logical framework within the introduction (see part 3). The introduction serves to inform the reader about why this particular hypothesis was chosen, introducing both the response and determinate variables, as well as the presumed mechanism by which the hypothesis can be falsified (or upheld).
 
-### The funnel introduction 
+## The funnel introduction 
 But so much of what you read doesn't have any clear hypothesis, and there doesn't seem to be any thought about building on bigger concepts or ideas. In this chapter, I suggest that this might not be true only of papers on herpetological invasions (my specialist area), but also of herpetology in general (although I concede that some areas, such as herpetological physiology are actually quite good). Further, I contend that using these wider hypotheses or theories would actually be good for the authors concerned, as it would likely garner them a wider audience. Moreover, a greater number of biologists might come to realise how valuable reptiles and amphibians are as models in biology.
 
 (ref:Introfunnel) **A framework for writing your introduction starts with the big idea and ends with the hypothesis.** The funnel introduction is so called because it resembles a funnel in which you channel the reader from their own interest in a wider subject area into the relevance of your particular study.
@@ -11,10 +11,10 @@ knitr::include_graphics('figures/Introduction.png')
 ```
 
 
-### So where would we find all of these big ideas?
-There are quite a few papers that synthesise hypotheses in various areas of biology. Here I provide two to get you started. Ask your advisor about relevant reviews of hypotheses in your area of biological sciences. The first is by Mark Velland [-@vellend2010conceptual] on theories in community ecology. The next is by Jane Catford and colleagues [-@catford2009reducing] on hypotheses in invasion biology, but I encourage you to look for more up to date versions. Each of these papers will give you a list of big ideas, together with the citations for seminal papers that have built them. You will note that many of these theories are very old with some dating back to Darwin. You can think of the way that such ideas are structured as a hierarchy of hypotheses (Figure \@ref(fig:JeschkeHagar61)).
+## So where would we find these big ideas?
+There are quite a few papers that synthesise hypotheses in various areas of biology. Here I provide a few to get you started. Ask your advisor about relevant reviews of hypotheses in your area of biological sciences. The first is by Mark Velland [-@vellend2010conceptual] on theories in community ecology. The next is by Jane Catford and colleagues [-@catford2009reducing] on hypotheses in invasion biology, but I encourage you to look for more up to date versions. Lastly, consider these wide ranging papers about so-called 'laws' in biology and ecology [@dhar2010laws; @lawton1999are]. Each of these papers will give you a list of big ideas, together with the citations for seminal papers that have built them. You will note that many of these theories are very old with some dating back to Darwin. You can think of the way that such ideas are structured as a hierarchy of hypotheses (Figure \@ref(fig:JeschkeHagar61)). Building such a hierarchy of ideas in your own specialist subject area is good reference material to prompt [critical reading](critical.html) and reflection. You may want to take this structure forward when thinking how to [introduce your PhD chapters](PhDreview.html).
 
-(ref:JeschkeHagar61) **A hierarchy of hypothses can be used to help determine your Big Idea.** A useful structure for thinking about how hypotheses are structured was presented by @heger2018hierarchy in what they termed the _Hierarchy of Hypotheses_
+(ref:JeschkeHagar61) **A hierarchy of hypothses can be used to help determine your Big Idea.** A useful structure for thinking about how hypotheses are structured was presented by @heger2018hierarchy in what they termed the _Hierarchy of Hypotheses_.
 
 ```{r JeschkeHagar61, echo=FALSE, fig.align='left', out.width='90%',  fig.cap="(ref:JeschkeHagar61)"}
 knitr::include_graphics('figures/JeschkeHagar61.png')

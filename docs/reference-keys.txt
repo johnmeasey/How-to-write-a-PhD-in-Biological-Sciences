@@ -34,6 +34,7 @@ tab:tables
 fig:not-fancy
 fig:fancy-map
 tab:CRediT
+fig:thesis-construction
 intro
 beforeyoustart
 what-is-a-phd
@@ -85,7 +86,7 @@ does-it-matter-that-you-dont-have-a-hypothesis
 avoid-harking
 bigidea
 the-funnel-introduction
-so-where-would-we-find-all-of-these-big-ideas
+so-where-would-we-find-these-big-ideas
 paragraph
 topic-sentence
 supporting-sentences
@@ -309,6 +310,17 @@ suppinfo
 what-can-go-into-supplementary-material
 there-has-been-a-big-movement-toward-transparency-and-repeatability-of-scientific-studies
 why-stop-with-just-depositing-your-data-and-analyses-online
+part4
+PhDintro
+citing-your-chapters
+formulate-the-objectives-of-your-study
+review-consistent-thesis-themes
+removing-the-contents-of-chapters-to-place-in-the-introduction
+how-long-should-the-introductory-chapter-be
+PhDconc
+using-the-funnel-structure
+what-to-include-in-the-concluding-chapter
+concluding-section
 formatting
 must-do-check-list-before-submitting-your-thesis
 mistakes-people-make

@@ -1,12 +1,12 @@
-## Writing a PhD if English is not your first language {#foreign}
+# Writing a PhD if English is not your first language {#foreign}
 
-Reading this book you will learn of the many biases in biological sciences and how you need to be aware of them in order to properly interpret your work. Be aware also that biological sciences is biased in where studies take place, and who publishes them [@culumber2019widespread; @nunez2021monolingual]. What we really need then are more studies from less studied parts of the world, and especially we need these to be researched and published by people from those countries. Why then do we insist that science be written in English? 
+Reading this book you will learn of some biases in biological sciences and how you need to be aware of them in order to properly interpret your work. Be aware also that biological sciences is biased in where studies take place, and who publishes them [@culumber2019widespread; @nunez2021monolingual]. What we really need then are more studies from less studied parts of the world, and especially we need these to be researched and published by people from those countries. Why then do we insist that science be written in English? 
 
 English may be one of the most difficult languages to learn how to write as a foreign language because rules are so inconsistent, and the vocabulary is so large. At 171476 words, English has an enormous vocabulary, followed closely by Russian (150000), Spanish (93000) and Chinese (85568: although you should note that counting words isn’t very accurate and as for counting dictionary entries, Korean wins). I cannot defend the use of English as the language of science, but I can assert that having a universal language for communicating science is massively helpful, and makes a large swathe of the literature available to those scientists who are prepared to become proficient in a second language. However, none of this really helps you to prepare writing in English as a second language.
 
 One of my 'pet hates' is that many non-English speaking editors seem to insist that you have your work checked by a 'native English speaker' (see Figure \@ref(fig:editor)). This suggests to me that some of the worst people to comment on whether or not something is written in good English, is another foreign language speaker. The lesson here is that you should be careful who you trust. Moreover, in my experience, having advice from a 'native English speaker' is no guarantee to getting a well written chapter or manuscript. Most of the world’s scientists did not grow up speaking English. Yet, rightly or wrongly, English is the language in which science is currently written. So, if English isn’t your mother tongue, should you expect to receive help during peer review?
 
-### Message from an editor 
+## Message from an editor 
 
 (ref:editor) **The message from the editor: "your work should be checked by a native English speaker"** Should you expect to receive help with your English when you submit a manuscript?
 
@@ -31,7 +31,7 @@ The more I struggle to read, the more negative the review becomes. I see this as
 
 But I've also got to admit that it's not easy. There are other places where you might be better to go to get advice on writing a paper or thesis as a second (or even more!) language [see @firth2017writing]. I'm full of admiration for those of you that have to do this. 
 
-### Must a ‘native English speaker’ check your work?
+## Must a ‘native English speaker’ check your work?
 
 Being a native English speaker, I am not above having people complain about my English. I do get it wrong, and my English can often be improved. I’m always happy to receive help, and see it as a sign of how I can improve the clarity of a manuscript. However, I hope that my manuscripts are never so poorly written that a reviewer or editor cannot make sense of them. So it is a matter of degrees.
 
@@ -41,13 +41,13 @@ Being a ‘native English speaker’ doesn’t automatically qualify you to writ
 
 That non-English speaking editors often comment that a ‘native English speaker’ should read my text, simply underlines the problem that many editors themselves are incapable of knowing whether or not something is well written. 
 
-### So if not a native English speaker, who should do it?
+## So if not a native English speaker, who should do it?
 
 Anyone you know who writes good English and is willing to help you. One option is the service offered by **AuthorAID** (http://www.authoraid.info/en/). Using AuthorAID, you can find a long term mentor who will help you with your English. You can read more about this approach here [@freeman2006publishing].
 
 Failing that, I’m afraid that the best route will be to pay for help. 
 
-### But surely my native tongue can be used for something?
+## But surely my native tongue can be used for something?
 
 Yes. It is essential that you use other languages to communicate your science with the wider community. Most of the world doesn't speak English, and so there is a real need for this to be done in your language. See a nice blog from the LSE on this subject here. 
 

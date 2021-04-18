@@ -1,35 +1,38 @@
-## Literature databases {#databases}
+# Literature databases {#databases}
 
-Databases of scientific literature have been around since the 1960s when the number of journals and papers started increasing so much that scholars simply couldn’t keep up. Quite simply, you should use one or more of these databases to look for relevant literature to read. The first database, and what continues to be one of the largest, was the Science Citation Index (now renamed [Web of Science](https://www.webofknowledge.com/)) that sought to record not only the contents of journals (titles, abstracts, authors and other metadata), but also the citations that each paper used. As we have seen in the last chapter, citations record the way in which people find the literature useful, and are therefore a highly effective way of finding related and pertinent literature in your field. 
+Databases of scientific literature have been around since the 1960s when the number of journals and papers started increasing so much that scholars simply couldn’t keep up. Quite simply, you should use one or more of these databases to look for relevant literature to read. The first database, and what continues to be one of the largest, was the Science Citation Index (now renamed [Web of Science](https://www.webofknowledge.com/)) that sought to record not only the contents of selected journals (titles, abstracts, authors and other metadata), but also the citations that each paper used. As we have seen in the last chapter, citations record the way in which people find the literature useful, and are therefore a highly effective way of finding related and pertinent literature in your field. 
 
 Before you start using a literature database, you will need to have some key literature with which you are familiar and that relates directly to your project. If you don’t have this, then check with your advisor. Often, this key literature is cited in the advert for the PhD, the grant application that funded it, or if this is a topic that your advisor has already conducted some research on, then their own publications may include part of the key literature. If you are not familiar with your advisor’s (including co-advisor’s where appropriate) papers, then a great first step is to search for them on a database and read through titles and abstracts that are relevant to your research topic. Once you have a set of key literature (this might only be 5 to 10 papers), then it is time to go to the literature databases to do your search.
 
-### Searching the literature using a database
+## Searching the literature using a database
 
-There are two typical ways in which you can search for literature about your area of interest. The first is to use keywords and the second is to use citations of key references. I suggest that you use both of these tactics when doing your initial literature search. Further, I’d suggest that it’s worth your time keeping a record of what you have searched for, how and when and then download the results. This is called a systematic literature review. Using this tactic from the outset of your interactions with literature databases will give you a good idea of what proportion of the literature you are reading, and you might then be able to convert your finding into an objective literature review - making a great first introductory chapter for your thesis.
+There are two typical ways in which you can search for literature about your area of interest. The first is to use keywords and the second is to use citations of key references. I suggest that you use both of these tactics when doing your initial literature search. Further, I’d suggest that it’s worth your time keeping a record of what you have searched for, how and when and then download the results. This is called a systematic literature review. Using this tactic from the outset of your interactions with literature databases will give you a good idea of what proportion of the literature you are reading, and you might then be able to convert your finding into an objective literature review - making a great first [introductory chapter](PhDintro.html) for your thesis.
 
-### Keywords
+## Keywords
 
-While searching for keywords sounds easy, picking the keywords that you should use is more difficult and requires a lot of practice with the databases and your key references. Remember that keywords are often not single words, but also include short phrases. Look at all of the key references and the keywords that they contain. Any keywords that they share are going to be important for you. Most literature databases have the option of using keywords or keywords and words in the title and abstract. I would start with the broader search term and see how well they work. However, these searches alone may return such a large amount of literature that you can’t possibly read it all. In this case, you will need to use more than a single keyword. The trick is to find the correct combination of keywords that will deliver all (or most) of your key references, while not delivering returns of thousands of papers that are not relevant to your study. Ideally, you want a search term that will deliver around one hundred papers at most, where the majority have relevance to your study area. Luckily, literature databases have some tricks for you to add to combine your keywords in ways that you can include or exclude certain topics.
+While searching for keywords sounds easy, picking the keywords that you should use is more difficult and requires a lot of practice with the databases and your key references. Remember that keywords are often not single words, but also include short phrases. Look at all of the key references and the keywords that they contain. Any keywords that they share are going to be important for you. Make a note of all relevant keywords for your searches, as ultimately this will help you when you need to determine the keywords for [your own chapters](title.html).
 
-#### Boolean terms or operators
+Most literature databases have the option of using just keywords, or keywords and words in the title and abstract. I would start with the broader search term and see how well they work. However, these searches alone may return such a large amount of literature that you can’t possibly read it all. In this case, you will need to use more than a single keyword. The trick is to find the correct combination of keywords that will deliver all (or most) of your key references, while not delivering returns of thousands of papers that are not relevant to your study. Ideally, you want a search term that will deliver around one hundred papers at most, where the majority have relevance to your study area. Luckily, literature databases have some tricks for you to add to combine your keywords in ways that you can include or exclude certain topics.
+
+### Boolean terms or operators
 
 There are three principle Boolean operators: AND, OR and NOT. 
 
 You should use these to combine a string of keywords. They are relatively straightforward to use:
 
 - Use AND when you want both terms included. For example, *performance AND lizards*. In this example, all papers that mention performance AND lizards in the title, abstract or keywords are returned. 
-- Use OR when you want to include both terms. For example, *performance AND lizards OR geckos*. This example should return more literature than the previous search as it will include, all papers that mention *performance AND lizards OR geckos* in the title, abstract or keywords are returned. You will note that geckos are lizards, but people who write about geckos might not mention that they are lizards in the title, abstract or keywords, so you may need to use these extra search terms in order to pick up all of the relevant literature on lizards. If your research requires you to cover all lizards, then you might need a lot of search terms in the OR string in order to pick up all of the literature that covers lizard performance.
+- Use OR when you want to include either term. For example, *performance AND lizards OR geckos*. This example should return more literature than the previous search as it will include, all papers that mention *performance AND lizards OR geckos* in the title, abstract or keywords are returned. You will note that geckos are lizards, but people who write about geckos might not mention that they are lizards in the title, abstract or keywords, so you may need to use these extra search terms in order to pick up all of the relevant literature on lizards. If your research requires you to cover all lizards, then you might need a lot of search terms in the OR string in order to pick up all of the literature that covers lizard performance.
 - Use NOT when you specifically want to exclude a keyword. Following our example above, the search term *performance AND reptiles NOT snakes* should give you all performance papers on lizards, but you may want to exclude turtles and crocodilians as well if they have a lot of hits. 
 
-#### Proximity operators and parentheses
+### Proximity operators and parentheses
 
-You can also use the term NEAR to indicate that two terms need to occur within a specified number of words. For example, performance NEAR/5 reptile will capture items where these occur within 5 words of each other, but no greater. This might be useful to exclude some papers that mention performance and reptiles in the abstract, but are not about reptile performance.
+You can also use the term NEAR to indicate that two terms need to occur within a specified number of words. For example, performance NEAR/5 reptile will capture items where these terms occur within 5 words of each other, but no greater. This might be useful to exclude some papers that mention performance and reptiles in the abstract, but are not about reptile performance.
+
 Once you start putting together search strings you will need to use brackets to make sure that the correct terms are grouped. For example, performance AND (lizards OR geckos) will get what we described above, whereas (performance AND lizards) OR geckos will give you all papers on lizards and performance plus all papers on geckos (not what we wanted). 
 
 Explore the advanced search options of the specific database that you are using to see the correct semantics needed for a search.
  
-#### Wildcards
+### Wildcards
 
 Most literature databases allow you to search using different wildcards. These are *, $ and ?. These can be placed at any point within a search term and help overcome differences in spelling, or families of words that you may want to capture or exclude in your search.
 
@@ -37,7 +40,7 @@ Most literature databases allow you to search using different wildcards. These a
 - Use ? when you want to search for any single letter at that place in a word. For example, _sterili?e_ will capture words with sterilize and sterilise.
 - Use $ when there is more than a single letter that might change within a word, or the omission of a letter. For example, _colo$r_ will return both US and UK spelling, color and colour, respectively.
 
-#### Combining searches
+### Combining searches
 
 Lastly, there is the option of combining searches, so that you can add search strings together or keep them apart. You will need to use the advanced search options in your database to do this.
 
@@ -46,7 +49,7 @@ You will need to carefully check your database for their precise semantics when 
 Your specific search term may end up having a long list of terms. Remember to save this whenever you make a search, especially if you refine it during your studies. Most literature databases will provide the search string that you used together with the results. Check your search string carefully for possible spelling errors that could influence your search.
 
 
-#### Citations
+### Citations
 
 In addition to using keywords, you should search citations of your key references. Typically, when you start reviewing the literature in your specific area you will have a few key references that have been given to you by your advisor. Having read these, you will already know that they cite other works of interest, and you should follow up to look at all that seem relevant. But that’s not all, these key publications are likely to have also been cited themselves by newer papers. Tracking citations of key papers can help you keep abreast of what is happening in your field. Indeed, given the prolific ever increasing nature of scientific publications, it might be the only way to keep on top of what is happening. Some literature databases allow you to receive alerts if a paper is cited, and you should set this up for all of your key citations, and perhaps for some of the most prominent authors in your field. 
 
@@ -54,31 +57,43 @@ You can’t search every paper for all the references that it cites, and its own
 
 The above section is a brief guide, and your library is likely to have in depth guides on how to use the specific databases that they house. They may also provide training sessions, or online videos to watch. It is worth becoming familiar with exactly how the databases that you will use work, so this is time well spent at the beginning of your studies.
 
-What else are literature databases used for?
-The Science Citation Index used to be published as a single volume that emerged each year and was available in the reference section of the library. By the time that I started at university as an undergraduate in the 1980s, it was several volumes large and my first task for my tutor (one Dr Dave Thompson) was to look up all of his citations. Within a couple of years, the database was digitised and available on CD, and eventually became accessible through the internet. 
+#### What else are literature databases used for?
+
+The Science Citation Index used to be published as a single volume that emerged each year and was available in the reference section of the library. By the time that I started at university as an undergraduate in the 1980s, it was several volumes large and my first task for my tutor (one Dr Dave J Thompson) was to look up all of his citations (thankfully not too many at that time). Within a couple of years, the database was digitised and available on CD, and eventually became accessible through the internet. 
+
+Citations provide an idea of how the literature is used. This can be used to assess not simply the productivity of a scientist (i.e. number of publications), but their usefulness by others (i.e. number of citations).
 
 Clearly, the Science Citation Index cost some money to put together, and universities paid annually to receive the books, and then the CDs and finally to access the online versions. They were not for profit organisations, but eventually they were bought out by the evil profit making parasites of science. Yes, publishers saw the dependency that scientists have on a resource and decided to own it for themselves and then radically increase the price to access it. 
 
-### Administrators want metrics
+## Administrators want metrics
 
 But it wasn’t just scientists that were interested in the databases of literature. Administrators became interested in the metrics that the databases produced on academics so that they could use them as a measure of performance, or potential in the case of hiring academics. The obsession with simplifying metrics by administrators who don’t understand the work that their academics produce, has driven the importance and proliferations of literature databases. However, it is widely acknowledged that the way in which journal metrics are used is unhealthy, and this has led to the [San Francisco Declaration on Research Assessment](https://sfdora.org/read/] (known as DORA)).
 
 In the life sciences, there are three prominent databases used: Google Scholar, Web of Science (owned by Clarivate Analytics aka Thomson Reuters) and Scopus (owned by Elsevier). But new players are entering the market all the time, and two of the newest are Dimensions from Digital Science and Microsoft Academic. 
 
-### Google Scholar, Web of Science or Scopus?
+
+## Searching by scientist's name
+
+Once you have found a scientist who works within your field and produces influential work that you are keen to read, then you may want to search for all of their other papers to determine whether there is more literature that you have missed. The databases make such searches easy, but you will need the (correct) spelling of your scientist's name, and also to be aware that they may have used different iterations of their name throughout their career.
+
+### Overcoming the difficulties of common names
+
+While Dave Thompson could always add his middle initial to specify his work, as time went by there were more and more scientists publishing as D J Thompson. This made it more difficult for administrators and scientits alike. This has begun to be a bigger global problem, such that the databases have begun to use profiles of particular scientists that they can 'own' and curate. Each database has its own way of doing this, and it can become rather a chore so that not many scientists have their own profiles, which makes it a problem particularly for those with common names. 
+
+The [ORCID](orcid.html) number has been errected to provide a common platform for [authors to curate](title.html), and now some journals and funding authorities won't allow you to submit or apply without one. 
+
+## Google Scholar, Web of Science or Scopus?
 
 Have you ever wondered why Google Scholar (GS) scores are so inflated compared to other citation databases like Web of Science (WoS) or Scopus? I've always noticed that Scopus has better coverage than WoS, and that GS is bigger than both (and a lot messier with lots of weird duplicates and poorly entered stuff), but is there anything more to it than that? 
 
 Well it seems that there are some people who have already thought about this, and come up with a good idea of exactly what's different. Martín-Martín et al [-@martin-martin2018google] have done a great job of analysing all this stuff from some 2.5 million citations. What they found inspired me to write this chapter, in which I've focussed on the results from the Life-Sciences. But I encourage you to go read the article for yourself.
 
-I have been known to take the odd peak at my Google Scholar profile over the year, and see how it's coming along. I rarely check on WoS or Scopus, 'cos it's a bit of a faff getting signed in and doing the search. Plus it looks so much smaller when one is habituated to seeing those double digits in GS! However, I've always been a bit uneasy about citing my GS citation rate, H-index or i10 (among others that they give) as I've never really known what all that extra represents. Something grey and unseemly? Well, it turns out that it's all good stuff, and perhaps GS is the better one to cite as it's a more inclusive index: more inclusive of different document types and different languages.
+I have been known to take the odd peak at my Google Scholar profile over the year, and see how the citations are accumulating. I rarely check on WoS or Scopus, because it's a bit of a faff getting signed in and doing the search. Plus it looks so much smaller when one is habituated to seeing those double digits in GS! However, I've always been a bit uneasy about citing my GS citation rate, H-index or i10 (among others that they give) as I've never really known what all that extra represents. Something grey and unseemly? Well, it turns out that it's all good stuff, and perhaps GS is the better one to cite as it's a more inclusive index: more inclusive of different document types and different languages.
 
-It is worth noting that of the three indices, Google Scholar seems to be the easiest to manipulate. Delgado López‐Cózar et al [-@delgadolopez-cozar2014google] show how it is possible to manipulate citations and therefore metrics of individual researchers by depositing false documents into institutional repositories (note that they did this as an experiment, and you may find that restrictions on doing this at your own institution are prohibitive or lax). The authors also note that a consistent problem with Google Scholar is the lack of transparency, and therefore verification, of how the bibliometrics are calculated. This will make a difference to what papers are found, as Google Scholar tends to report those with the greatest citations first on the first page of outputs. Hence once a paper is initially boosted by manipulation, it will be more likely to be found and increasingly cited. 
+However, it is worth noting that of the three indices, Google Scholar seems to be the easiest to manipulate. Delgado López‐Cózar et al [-@delgadolopez-cozar2014google] show how it is possible to manipulate citations and therefore metrics of individual researchers by depositing false documents into institutional repositories (note that they did this as an experiment, and you may find that restrictions on doing this at your own institution are prohibitive or lax). The authors also note that a consistent problem with Google Scholar is the lack of transparency, and therefore verification, of how the bibliometrics are calculated. This will make a difference to what papers are found, as Google Scholar tends to report those with the greatest citations first on the first page of outputs. Hence once a paper is initially boosted by manipulation, it will be more likely to be found and increasingly cited. 
 
 To directly compare your citation metrics from different platforms, and also to get more unbiased metrics than these platforms provide, consider using the software Publish or Perish [@harzing2007publish]. This also provides a great platform on which to harvest data from Google Scholar into a database, or put it directly into another database, like EndNote, Zotero or Mendelay. 
 
-### What’s the difference between indices?
+## What’s the difference between indices?
 
-Martín-Martín et al [-@martin-martin2018google] allows you to interpret your GS results as a more inclusive citation index. While WoS and Scopus aren't exclusively English or journal publications, they are mostly. But that extra third that GS gives you allows you to show the extra scope that your work is getting outside that English journal mainstream. Is your GS score more than a third higher than your WoS or Scopus score? If yes, then your work is having a greater impact elsewhere in the world, and there's nothing wrong with that.
-
-The excerpts from the two tables above show how well GS correlates with both WoS and Scopus in our area (Biological Sciences). It also tells you by how much the GS score is likely to be inflated - 1.90 for GS/WoS and 1.45 for GS/Scopus. Again, if you deviate from this with a higher score, you can give yourself a pat on the back for having work that's reaching more people in more parts of the world. 
+According to Martín-Martín et al [-@martin-martin2018google] The GS score is likely to be inflated - 1.90 for GS/WoS and 1.45 for GS/Scopus. If you deviate from this with a higher score, you can give yourself a pat on the back for having work that's reaching more people in more parts of the world. Google Scholar results reflect a more inclusive citation index [@martin-martin2018google]. While WoS and Scopus aren't exclusively English or journal publications, they are mostly. But that extra third that GS gives you allows you to show the extra scope that your work is getting outside that English journal mainstream. Is your GS score more than a third higher than your WoS or Scopus score? If yes, then your work is having a greater impact elsewhere in the world, and there's nothing wrong with that.

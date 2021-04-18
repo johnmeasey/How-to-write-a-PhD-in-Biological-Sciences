@@ -1,4 +1,4 @@
-## How to get around the paywall {#paywall}
+# How to get around the paywall {#paywall}
 
 Once you've understand where the money for science and publishing comes from, you will understand that there is no real shame in trying to access papers that are behind a paywall. Essentially, I’m going to recommend that you move from legitimate to illegitimate, and then if all else fails to get an interlibrary loan. This is last on the list as someone will have to pay for it. Your library may have an allocation that they can use before the bill comes to your advisor’s desk.
 
@@ -17,9 +17,13 @@ Sometimes, Google scholar won't show a pdf, but you can Google the title "in quo
 
 Authors often have official university websites, and sometimes their own home curated sites that may have pdfs of all their papers. Use the clues at your disposal, including a general search engine, and follow the trail.
 
+### Go to the intitutional repository of the author
+
+Most university libraries curate an institutional repository of pdfs of published final manuscripts accepted for publication, so-called Green Open Access copies. These are identical to the printed versions save for the typesetting and proof reading that is done after this accepted copy. 
+
 ### Go to an academic social media site
 
-Many academics also have accounts on academic social media sites (e.g. Academia.edu; ResearchGate.net). You will need to join the network and have your own account, but these house a lot of pdfs that you can’t get elsewhere.
+Many academics also have accounts on academic social media sites (e.g. Academia.edu; ResearchGate.net). You will need to join the network (using an email address from an academic institution) and have your own account, but these house a lot of pdfs that you can’t get elsewhere.
 
 ### Go into the black open access
 

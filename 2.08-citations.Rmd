@@ -1,4 +1,4 @@
-## Why do you need to cite? {#citations}
+# Why do you need to cite? {#citations}
 
 Citations are a means of recognising that your work is built on the work of others. They are part of the fundamental tenets of science that we don't start from scratch each time we conduct a study. 
 
@@ -23,7 +23,7 @@ You can download the first of those papers of 1665 and note that there are no ci
  knitr::include_graphics("figures/Boyle.png")
 ```
 
-### Research is built on existing work and ideas
+## Research is built on existing work and ideas
 
 It would therefore be very unlikely that your idea/ideas has no basis in existing literature. If you can’t find it, the chances are that you haven’t looked in the right way. Try Google Scholar, Scopus, Web of Science and vary the search terms or try searching for articles citing something similar.
 
@@ -31,11 +31,11 @@ Citations demonstrate to readers where your ideas have come from. Citations can 
 
 Citations need to be used to back up any statements of fact that you make in your PhD chapter. Any examples need citations for where the examples came from, and when you make [arguments](argument.html), you add credibility to your arguments from each side by citing that these are from published works. 
 
-### Your citations say a lot about you
+## Your citations say a lot about you
 
 When you choose to cite one paper over another, you are making a statement about what you find credible in the literature and what you don't. For example, if you choose to cite a poorly conducted study as the cornerstone for one of your arguments, then others may interpret that your arguments are built on shaky foundations. Experienced (often senior) readers who know the literature well will be able to judge the quality of your work not only by what you've written, but on what you've based your ideas through your citations. As we will see later on, there's a lot to think about when deciding what to cite, and what not to cite.
 
-### Cite while you write (not afterwards)
+## Cite while you write (not afterwards)
 
 Automatically, I'd suggest that you cite whenever you write. Using citations becomes habit forming, and you’ll end up wanting to use citations everywhere. Popular scientific writings tend not to have citations, but they can still be there but subtly different. 
 
@@ -49,14 +49,14 @@ I was planning to write that no-one would ever write an entire manuscript withou
 
 When you submit a draft of your chapter to your advisor, they may suggest additional citations that are known to them. Don't simply add blindly, but look them up and check their relevance to the statement concerned. They may require recrafting of the statement, or a query back to your advisor.
 
-### Citation Styles
+## Citation Styles
 
 There are a number of different styles, and this is likely to depend on the journal that you are writing for [see @pandey2020methods]. The two most prevalent styles in biological sciences are often referred to as Harvard (name, year) and Vancouver^1^ (superscript numbers that are listed in the reference section). Most universities and journals require Harvard style. The intricacies of how exactly this will get carried out will change from institution to institution and journal to journal. You will have to find out what is relevant to you.
 
 
-#### Vancouver Style
+### Vancouver Style
 
-Vancouver style dates back to medical journals in the 1970s and refer to conventions to avoid fraud in medical sciences. In biological sciences, they are not used as widely as Harvard style, but are chosen as they don’t impede the flow of the text for the reader. 
+Vancouver style dates back to medical journals in the 1970s and refer to conventions to avoid fraud in medical sciences. You are probably familiar with it even if you don't know the name. It is the convention that uses small superscript numbers to denote the place of citations in the main text, and the full reference given at the end of the document is provided in order of the citations (and their numbers), instead of alphabetical order. In biological sciences, Vancouver style is not used as widely as Harvard style, but is chosen as the superscript numbers tend not to impede the flow of the text for the reader. 
 
 Each style has its pros and cons. Vancouver style is more equitable and anonymous, as all cited people are represented only in the references and do not have their names plastered throughout the text. The diminutive numbers take up less space, allowing the reader and writer to concentrate more on their prose. On the other hand, if you are familiar with the literature, or you are interested in learning more about the literature, you’ll find that the little numbers take much more time to cross reference with the list at the end, than does Harvard style. Reference strings in Vancouver style can either be separate numbers, or numbers listed as a series. Because citations are numbered in the order in which they first mentioned, citation strings later in documents often end up as a list of non-sequential numbers separated by commas.
 
@@ -83,7 +83,7 @@ Here is an example of text [from @measey2016global] with citations in Vancouver 
 ^9^Wake DB, Vredenburg VT. Are we in the midst of the sixth mass extinction? A view from the world of amphibians. _Proceedings of the National Academy of Sciences_. 2008;105(Supplement 1):11466–73.
 
 
-#### Harvard Style
+### Harvard Style
 
 The standard way is to use the name and year in parentheses at the end of the statement to which the citation is relevant. Names of three or more authors are frequently reduced to “et al.” (often written in italics) which is short for the Latin et alia, meaning “and others”. References strings in Harvard style can go on for an entire line of text or more. Some journals have rules that mean on first mention the citation should have all authors (up to a certain number). This can become tedious when citations start taking up more space than text. 
 
@@ -114,12 +114,14 @@ From here on (and throughout the book - because the book uses a form of Harvard 
 
 
 
-### Moving from Harvard to Vancouver
+## Moving from Harvard to Vancouver
 
-Essentially, every time you would have had the year and date, you will replace this with a superscript denoting the number for that particular citation. However, Vancouver style does not allow for much variation in how you cite. You can’t use (e.g. ^1,2^) or (see ^3^ for a review). This means that when you originally wrote for a Harvard style journal, but then change the manuscript to submit it to a journal that uses Vancouver style, you’ll need to remove any explanations of citations. That doesn’t mean removing the citations themselves, but it may mean re-writing some sentences. Simply changing your reference manager to use the different referencing style will only be the start of your work.
+Moving within styles is always a hassle, especially as formatting the references can take a long time, but moving between these styles is especially tricky as it may require you to re-evaluate the way in which you use the citations. 
+
+Moving from Harvard to Vancouver style means that every time you would have had the year and date, you will replace this with a superscript denoting the number for that particular citation. However, Vancouver style does not allow for much variation in how you cite. You can’t use (e.g. ^1,2^) or (see ^3^ for a review). This means that when you originally wrote for a Harvard style journal, but then change the manuscript to submit it to a journal that uses Vancouver style, you’ll need to remove any explanations of citations. That doesn’t mean removing the citations themselves, but it may mean re-writing some sentences. Simply changing your reference manager to use the different referencing style will only be the start of your work.
 
 
-### Where within a sentence should the citation come?
+## Where within a sentence should the citation come?
 
 There are a number of different styles, and this is likely to depend on the journal that you are writing for. The standard way is to use the name and year in parentheses at the end of the statement to which the citation is relevant.
 
@@ -142,16 +144,16 @@ Sometimes you'll see a citation with a colon and page number after. This really 
 
 >Measey et al. [-@measey2016global: 976] proposed that using GISS scores could show that "some amphibians can have devastating impacts to the environment".
 
-### What about the order of the citations in a string?
+## What about the order of the citations in a string?
 
 A citation string is a list of two or more citations that all assert the statement given. When you provide a string of citations you will need to decide which one comes first. Normally, this is given in the order of precedence: the oldest citation comes first, the youngest last. However, journals have their own styles and these may dictate how citation strings are ordered. For example, they could be alphabetical. If your referencing software has a style then you can relax. Otherwise, you'll need to look it up!
 
 
-### What about citations as taxonomic authorities?
+## What about citations as taxonomic authorities?
 
 Taxonomists have special rules for this, and I'll do it in another chapter (see section on [Scientific names and taxonomic authorities](taxonomy.html)). These are not the same as regular citations (because they don't appear in the literature cited and you don't have to have read the descriptions), and only some journals ask for them.
 
-### Is it possible to mis-cite?
+## Is it possible to mis-cite?
 
 Yes. One of the most common ways in which students mis-cite a paper is to use statements made in the introduction (or discussion) which were not the subject of the study. For example, in the introduction of their paper, Measey et al. [-@measey2016global] make comments on amphibian decline.
 
@@ -161,11 +163,11 @@ However, it would be wrong to give a statement on amphibian decline and cite Mea
 
 Another common mistake is to forget which paper has which information. You can try to make sure that you don’t do this by taking better notes or a more accurate plan.
 
-### Should I cite without reading the paper?
+## Should I cite without reading the paper?
 
 No. When you are citing a study, you should be sufficiently familiar with the publication that you are endorsing the study in relation with the statement that you make (but see below). If you are not convinced by the nature of the study that you are tempted to cite, then rather don’t cite it and use another one. If you can't get hold of the paper, this is another reason why you might not cite it. This is a regular reason given for why Open Access journals attract more citations.
 
-### What should I not cite?
+## What should I not cite?
 
 This does depend on the journal you are writing for. Some journals don’t permit citations to unpublished data or web sites. My suggestion would be to avoid such sources anyway (with particular exceptions – see below), unless it is really important that you include it. Other examples of texts to avoid are: text books (use the original paper instead), newspapers or magazines, blog posts, facebook pages (or other social media sites), predatory journals (or any non-peer reviewed article). These are all examples of __grey literature__. 
 
@@ -177,15 +179,15 @@ One exception to the not citing websites relevant to our work is the IUCN Red Li
 
 You should not cite papers that have been retracted.
 
-### Do I cite the review or the primary literature?
+## Do I cite the review or the primary literature?
 
 The primary literature are studies or experiments that are done in order to test a hypothesis. Secondary literature includes reviews, syntheses or meta-analyses. Primacy (see below) is important, but this depends on the space you have and whether the review contains all the information you need to cite. Sometimes reviews (especially meta-analyses) provide more information. It’s preferable to use primary literature, but sometimes reviews (or meta-analyses) are actually more expedient to use, especially if they are not the focus of your study. You can even cite both when relevant.
 
-### What is primacy and why does it matter?
+## What is primacy and why does it matter?
 
 Primacy in the literature is the paper/s where the authors provide the original idea or concept that you are citing. It is important in that you should give credit to original ideas over those who copy or simply repeat them, or even those who review them. Sometimes primacy is less important, especially if the concept is well known and has changed substantially. Then you should cite the most recent work that shows the ideas that you are wanting to show. Other times, primacy is important - especially when few have built on ideas or concepts since they were put forward. If in doubt place a citation to the original study and the most recent study, then flag this using a comment for your advisor to consider. The important point here is for you to give credit where it's due and not to overlook those who put in the hard work to publish original content.
 
-### How many citations is enough?
+## How many citations is enough?
 
 Some journals have a word limit, or even a limit to the number of references that they allow. Others do not, and you should probably use what is recently published as a guide to what is acceptable. For the chapter of a thesis, you should err on the upper end; from 50 to 100 references. Note that citations may well be more as you may cite a paper more than once.
 
@@ -193,7 +195,7 @@ Obviously, everything you cite needs to be in the References (or [Literature Cit
 
 If you are looking for multiple examples of a statement that you’ve made and there are many possible, I’d suggest that you aim to produce three. Make sure that you use a suffix (like “e.g.”) to show that you are aware that these are examples of a widely reported phenomenon. You can choose these as you like, but may want to consider using what you consider to be ‘the best’ examples, and/or references that you are planning to use elsewhere in your paper/chapter. This can drive the total number down considerably, and helps to keep the citations more relevant to your work.
 
-### Should I cite myself?
+## Should I cite myself?
 
 If you are publishing relevant and appropriate papers, then there is no reason not to cite yourself. In many cases (such as with your thesis work), your own publications are likely to be more relevant to methodology and subject matter than much of the other work that is out there. However, if you’ve previously published on termite fungus and now you’re publishing on frog toes, it’s unlikely to be relevant. Choosing citations should include your comfort with being transparent. If you know when citing yourself that citing another article would be more correct in showing where an idea came from, but citing your own is more relevant to the application, then you should feel comfortable in citing both.
 
@@ -201,13 +203,13 @@ I would avoid citing your thesis if possible, rather put it all into papers. The
 
 Take a look at this article on self-citation. They claim that self-citations in the Natural Sciences run at 33% [@vanraan2007scoping], which provides you with a nice idea of what is acceptable. Remember that this would include not only your citations to your articles, but all citations to your co-authors articles too.
 
-### Should I cite my friends?
+## Should I cite my friends?
 
 It may be easier to cite your friends if you already know their work well. You may have heard them talk and know that the subject is relevant. They may be encouraging you to cite them, but should you?
 
 In these days of scientometrics, we do need to acknowledge that citations act as a kind of currency. They count towards your H-index [@hirsch2005index] and this can reflect on your prospects as a postdoc or employee. What’s also clear is that cited papers get cited more, so it could really help your friends if you cite them. Obviously, the inverse is also true, so beware of the politics of citing. However, the most important points have already been raised, but will be tackled [in detail later](impactfactor.html). The study must be relevant and appropriate before it gets included as a citation in your work.
 
-### Does the impact factor of the cited article matter?
+## Does the impact factor of the cited article matter?
 
 Papers in journals with high impact factors are more likely to be cited because their contents are already thought to be of interest to a wide range of people. Indeed, there is evidence that identical statements published in many journals, those with higher Impact Factors are cited more [@perneger2010citation]. That is something that the editors of that journal will have considered even before sending the manuscript to review. Sometimes (but not always) the impact factor of the journal can be an indication of the quality of the study. But you should judge this for yourself when you critically read the paper.
 

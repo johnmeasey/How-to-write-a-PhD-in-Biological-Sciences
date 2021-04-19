@@ -8,7 +8,7 @@ A series of statements that introduce a starting premise, provide evidence for a
 
 This logical argument style is most prominent in the early introduction of your manuscript, although the entire introduction could be seen as one long logical argument, with a few smaller more precise arguments being thrown in along the way. You might also use a logical argument in your discussion to explain how you deduce certain inferences from your results, or provide a logical extension for a future study. 
 
-The following science argumentation model (Table \@ref(tab:argument)) is modified from Cope et al [-@cope2013science]. Try using this model to guide your writing of a paragraph of your introduction (or discussion) where you attempt a logical argument.
+The following science argumentation model (Table \@ref(tab:argument)) is modified from Cope et al [-@cope2013science]. Try using this model to guide your writing of a paragraph of your introduction (or discussion) where you attempt a logical argument. For a more in depth treatment of using arguments in science see Toulmin [-@toulmin2003uses].
 
 Table: (\#tab:argument) **A framework for a scientific argument.** Modified from Cope et al (2013), this model argument can be followed to provide as a way of getting started.
 

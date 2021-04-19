@@ -1,6 +1,8 @@
-## The References {#references}
+# The References {#references}
 
 Putting together the reference section of your chapter or paper can take a very long time. There are quite a lot of different software packages out there to help you do this (e.g. [Endnote](https://endnote.com/), [Mendelay](https://www.mendeley.com/guides/desktop), [Zotero](https://www.zotero.org/) - see more about these [here](https://subjectguides.library.american.edu/c.php?g=479020&p=3323781)). These are a mixed blessing. Firstly, most of them are not free, so unless your university subscribes to their providers you would have to pay for the privilege of using them. Next, all of the ones that I've ever used are very demanding and do not necessarily work well with your word processor of choice. Given all the time I have invested in reference formatting software, I think I might have been better off just copying and pasting references I have at the end of a document and then formatting them by hand. This tends to be how I do it now. Having said this, I used Zotero as the referencing software for this book. It took very little time to learn how to use, it was painless to enter (most) of the references into the database, and it is free and works with [Bookdown](bookdown.org) and Google Docs. 
+
+Earlier in this book, I provided a guide to the differences between Vancouver and 
 
 Having the references at the end of your chapter or publication is actually very important because in-text citations are not sufficient to determine exactly which paper you are referring to. Once you become very familiar with your own specific field you will find that you do glance at the references to make sure that the authors are citing the papers you think they are. It's also a great place to learn about literature that you don't know about already, and for this you need the full citation in order to look up the paper.
 
@@ -12,16 +14,16 @@ There are lots of better things that you could be doing with your time instead o
 
 There are lots of anal academics out there who will delight in looking for every missing full-stop, comma and capital-letter missing from your references. Perhaps it's because they feel secure pointing out these errors, but are incapable of knowing whether or not you've written good or bad science. Please don't join them and if you can look for a better world where you spend your valuable time doing more important things. For me, at this moment, it does not include any referencing software that I know of.
 
-### Digital Object Identifiers (DOIs) {#DOI}
-A [DOI](https://www.doi.org/) is an [ISO](https://www.iso.org/) unique character string to identify physical, digital or abstract objects. Their beauty is that they are persistent over time, so once issued they will always be a way to reach a particular object. 
+## Digital Object Identifiers (DOIs) {#DOI}
+A [DOI](https://www.doi.org/) is an international standard ([ISO](https://www.iso.org/)) unique character string to identify physical, digital or abstract objects. Their beauty is that they are persistent over time, so once issued they will always be a way to reach a particular object. 
 
 DOIs are extremely useful as you can usually click on an active link DOI and go straight to the article in question. Therefore it is well worth adding the DOI to your references if you can. Some journals will allow this (and even demand it), while others have yet to come around to how useful they are.
 
 However, DOIs cannot replace references, otherwise we'd need to be able to click on every link all the time, and couldn't read any paper without a connection to the internet. It's still really useful to be able to read a formatted reference at the end of a paper.
 
-#### DOI Tools
+### DOI Tools
 
 If you are writing your references by hand and need a DOI for every reference then there is this very useful online software that will provide the DOI if there is one for every reference you enter:
 [doi.crossref.org](https://doi.crossref.org/simpleTextQuery)
 
-There's also an equally useful database that provides BibTex for DOIs that you enter: [doi2bib.org](https://doi2bib.org/)
+There's an equally useful database that provides BibTex for DOIs that you enter: [doi2bib.org](https://doi2bib.org/)

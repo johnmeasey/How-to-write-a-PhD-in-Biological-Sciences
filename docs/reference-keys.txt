@@ -1,6 +1,4 @@
 fig:Rlogo
-tab:taxonomy
-tab:plantrank
 fig:Data-management
 tab:tables
 fig:thesis-construction
@@ -298,3 +296,8 @@ concluding-section
 formatting
 must-do-check-list-before-submitting-your-thesis
 mistakes-people-make
+tab:taxonomy
+tab:plantrank
+fig:PhDMap
+fig:THEreseasrchcountry
+fig:preregistration

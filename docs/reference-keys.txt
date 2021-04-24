@@ -301,3 +301,11 @@ tab:plantrank
 fig:PhDMap
 fig:THEreseasrchcountry
 fig:preregistration
+referencesoftware
+vancouver
+harvard
+fig:Googlescholar
+fig:Boyle
+fig:Storytelling
+moving-items-into-your-reference-manager
+other-points-to-consider

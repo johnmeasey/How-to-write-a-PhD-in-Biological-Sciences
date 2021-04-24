@@ -1,0 +1,46 @@
+# Reference managers {#referencesoftware}
+
+Because published papers play such a fundamental role in your [reading and comprehension](critical.html) of a subject, and [citations](citations.html) are pivotal in chapter or paper writing, putting these elements together in a good reference manager makes a lot of sense. This is a piece of software in which you can store and view all of your papers (in pdf format or via links), make notes on them, and use them to make citations and build bibliographies. Unsurprisingly, they become something that you may well use a lot during the course of your PhD, and it is worth thinking carefully about which one you want to use.
+
+There are quite a lot of different software packages out there to help you do this (e.g. [Endnote](https://endnote.com/), [Mendelay](https://www.mendeley.com/guides/desktop), [Zotero](https://www.zotero.org/) - see more about these [here](https://subjectguides.library.american.edu/c.php?g=479020&p=3323781)). These are a mixed blessing. Firstly, most of them are not free, so unless your university subscribes to their providers you would have to pay for the privilege of using them. Next, all of the ones that I've ever used are very demanding and do not necessarily work well with your word processor of choice. Given all the time I have invested in reference formatting software, I think I might have been better off just copying and pasting references I have at the end of a document and then formatting them by hand. This tends to be how I do it now. Having said this, I used Zotero as the referencing software for this book. It took very little time to learn how to use, it was painless to enter (most) of the references into the database, and it is free and works with [Bookdown](bookdown.org) and Google Docs. 
+
+My advice here is (like software for [writing your PhD](software.html)) to pick the format that your references are going to be stored in carefully. For example, the BibTex format (see below) is a generic format that many of the software packages are capable of importing and exporting. Using a generic referencing format means that you will (in future) be able to change packages with minimum loss. Note that there is a difference between being able to output in BibTex and storage as BibTex files. In the case of the former, you will require a working piece of software in order to output from that format. If your software stores references as BibTex files, you are always able to take this file and use it elsewhere. 
+
+**An example of the way in which the generic BibTex format stores references** 
+```
+@article{measey2017counting,
+	title = {Counting chirps: acoustic monitoring of cryptic frogs},
+	volume = {54},
+	copyright = {© 2016 The Authors. Journal of Applied Ecology published by John Wiley \& Sons Ltd on behalf of British Ecological Society.},
+	issn = {1365-2664},
+	shorttitle = {Counting chirps},
+	url = {https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2664.12810},
+	doi = {https://doi.org/10.1111/1365-2664.12810},
+	abstract = {Global amphibian declines have resulted in a vital need for monitoring programmes that follow population trends. Monitoring using advertisement calls is ideal as choruses are undisturbed during data collection. However, methods currently employed by managers frequently rely on trained observers and/or do not provide density data on which to base trends. This study explores the utility of monitoring using acoustic spatially explicit capture–recapture (aSCR) with time of arrival (ToA) and signal strength (SS) as a quantitative monitoring technique to measure call density of a threatened but visually cryptic anuran, the Cape peninsula moss frog Arthroleptella lightfooti. The relationships between temporal and climatic variables (date, rainfall, temperature) and A. lightfooti call density at three study sites on the Cape peninsula, South Africa, were examined. Acoustic data, collected from an array of six microphones over 4 months during the winter breeding season, provided a time series of call density estimates. Model selection indicated that call density was primarily associated with seasonality fitted as a quadratic function. Call density peaked mid-breeding season. At the main study site, the lowest recorded mean call density (0·160 calls m−2 min−1) occurred in May and reached its peak mid-July (1·259 calls m−2 min−1). The sites differed in call density, but also the effective sampling area. Synthesis and applications. The monitoring technique, acoustic spatially explicit capture–recapture (aSCR), quantitatively estimates call density of calling animals without disturbing them or their environment. In addition, time of arrival (ToA) and signal strength (SS) data significantly add to the accuracy of call localization, which in turn increases precision of call density estimates without the need for specialist field staff. This technique appears ideally suited to aid the monitoring of visually cryptic, acoustically active species.},
+	language = {en},
+	number = {3},
+	urldate = {2021-03-28},
+	journal = {Journal of Applied Ecology},
+	author = {Measey, G. John and Stevenson, Ben C. and Scott, Tanya and Altwegg, Res and Borchers, David L.},
+	year = {2017},
+	note = {\_eprint: https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2664.12810},
+	keywords = {acoustic array, acoustic spatially explicit capture–recapture, anurans, call density, non-invasive sampling, population monitoring, sensor networks, signal strength, time of arrival, triangulation},
+	pages = {894--902},
+	file = {Full Text PDF:C\:\\Users\\Zotero\\storage\\****\\Measey et al. - 2017 - Counting chirps acoustic monitoring of cryptic fr.pdf:application/pdf;Snapshot:C\:\\Users\\****\\1365-2664.html:text/html},
+}
+```
+## Other points to consider
+
+When choosing a reference manager, here are some points that you may want to consider:
+
+ - Does it integrate with your [word processing package](software.html)?
+ - Does your university have a licence?
+ - Do other members of your lab use this software?
+   + is there a communal repository?
+ - Can you use it to read files and make notes on them?
+ - Does it output into referencing formats that will be useful to you?
+   + Or will it allow you to make a custom output format?
+ - How much time will it take you to learn to use it?
+ - Is there good support available?
+ 
+ 

@@ -15,7 +15,7 @@ site: bookdown::bookdown_site
 description: You don’t have to be a genius to write a PhD. It will always involve
   a lot of hard work and dedication, but the process of writing up is a whole lot
   easier if you understand the basic ground rules. This book is a guide specifically
-  for writing a PhD in the *biological sciences*. It will guide you from deciding
+  for writing a PhD in the biological sciences. It will guide you from deciding
   whether or not you should actually do a PhD, provide practical, up-to-the-minute
   guides to getting started with planning and writing, and consolidate this with the
   nuts and bolts of writing for the biological sciences. The book guides you through
@@ -38,15 +38,26 @@ lapply(c('xfun'), function(pkg) {
 })
 ```
 
+# Under Contract {-}
+This book is currently under contract with CRC Press. 
+```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://john.measey.com/Writing_Publishing'}
+knitr::include_graphics('figures/Cover.png', dpi = NA)
+```
+
+
 
 # Welcome {-}
 Welcome to this guide on how to write a PhD in biological sciences. I will not tell you what to write. My intention is to tell you how to approach writing with respect to style, format and formula (planning). 
+
+
 
 Writing a PhD is a daunting prospect. One does not put pen to paper, or, rather, finger to keyboard, only after finishing all of your experiments and/or labwork. Writing is actually something you should start from day one of your PhD, or even before day one, when you make the first initial pitch of big ideas to your advisor on what you want to do. If you can find the discipline to start writing from day one, then you are much more likely to make a much better go of it than waiting until the final, pressured, stretch. But to do this, you need to understand how to write a PhD thesis. You need to understand what you are aiming to achieve, and, crucially, you need to understand why you are doing your PhD. 
 
 This guide intends to demystify the writing process so that the eventual goal is clear, and provide the necessary information on how to get there. It takes you from those initial ideas, all the way through proposal writing, posing hypotheses, testing them, and then how to write it all up.
 
-This book started as a series of blog posts written by me for my students (john.measey.com/blog). I wrote them because I felt that I was repeating the same advice year after year. Instead of rewriting comments on manuscripts time after time, I thought I would consolidate them and put them all in one place. Later, I started looking for particular problems that students were having, and then writing blog posts to try to preempt those problems, and to provide solutions before tasks were completed. Finally, I have tried to fill in the missing gaps in the blog posts. But there are still plenty of gaps, and I regard this book as a work-in-progress. It is my intention that this book will always be added to, and improved by a community of practice, and I hope that this will include you.
+This book started as a series of blog posts written by me for my students ([john.measey.com/blog](john.measey.com/blog)). I wrote them because I felt that I was repeating the same advice year after year. Instead of rewriting comments on manuscripts time after time, I thought I would consolidate them and put them all in one place. Later, I started looking for particular problems that students were having, and then writing blog posts to try to preempt those problems, and to provide solutions before tasks were completed. Finally, I have tried to fill in the missing gaps in the blog posts. But there are still plenty of gaps, and I regard this book as a work-in-progress. It is my intention that this book will always be added to, and improved by a community of practice, and I hope that this will include you.
+
+
 
 ## Why read this book {-}
 
@@ -87,7 +98,7 @@ You should be aware from the outset that doing a PhD is a major undertaking. It 
 
 ## Acknowledgments {-}
 
-Before I go on, there are a great many people that I need to thank. First and foremost are my students, past and present, who have inspired me to put together first the blog posts and then the book. It is because you wanted more that I put this together. I have also been a student, and have been inspired by colleagues around the world who have been exemplary advisors. This book contains lots of links to blogs and articles written and posted freely on the internet by others who also aim to demystify and help. I thank this greater academic community for sharing and inspiring. Thanks go to the many reviewers and editors who have taken their time to improve my writing. I am still learning. Lots of the text in this book has been improved by feedback from my students and postdocs. A special mention must go to my brother, Richard, who has hosted my lab website for more than a decade, and especially for saving blog posts from hacking attacks. Thanks also to my wife, Thalassa, who proofread many of the blog posts after I had published them late at night, so that I could correct them over breakfast in the morning. James Baxter-Gilbert, Anthony Herrel,  Lisa O'Connell, Mark O'Connell, James Vonesh all read parts and commented. Thanks are also due to my colleagues at the Centre for Invasion Biology, the Department of Botany and Zoology, and Stellenbosch University. A special thanks to the librarians who have supported many of my more extreme rantings about publishers.
+Before I go on, there are a great many people that I need to thank. First and foremost are my students, past and present, who have inspired me to put together first the blog posts and then the book. It is because you wanted more that I put this together. I have also been a student, and have been inspired by colleagues around the world who have been exemplary advisors. This book contains lots of links to blogs and articles written and posted freely on the internet by others who also aim to demystify and help. I thank this greater academic community for sharing and inspiring. Thanks go to the many reviewers and editors who have taken their time to improve my writing. I am still learning. Lots of the text in this book has been improved by feedback from my students and postdocs. A special mention must go to my brother, Richard, who has hosted my lab website for more than a decade, and especially for saving blog posts from hacking attacks. Thanks also to my wife, Thalassa, who proofread many of the blog posts after I had published them late at night, so that I could correct them over breakfast in the morning. James Baxter-Gilbert, Anthony Herrel,  Allan Ellis, James Vonesh all read parts and commented. Thanks are also due to my colleagues at the Centre for Invasion Biology, the Department of Botany and Zoology, and Stellenbosch University. A special thanks to the librarians who have supported many of my more extreme rantings about publishers.
 
 ```{block2, type='flushright', html.tag='p'}
 John Measey  

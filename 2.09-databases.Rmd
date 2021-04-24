@@ -48,8 +48,12 @@ You will need to carefully check your database for their precise semantics when 
 
 Your specific search term may end up having a long list of terms. Remember to save this whenever you make a search, especially if you refine it during your studies. Most literature databases will provide the search string that you used together with the results. Check your search string carefully for possible spelling errors that could influence your search.
 
+## Moving items into your reference manager
 
-### Citations
+An invaluable way in which databases have become extremely useful is the ability to move items that you have found during your search directly into your [reference manager](referencesoftware.html). Beware that these regularly come with errors, and that the amount of errors is related to your database source (Scopus and WoS are much better than Google Scholar). This means that after importing the refrences, you will need to go back to your reference manager and edit them or they will come out incorrectly when you use them. Of particular note to biologists is the need to have all species names in [italics](taxonomy.html), and you'll need to do this yourself. 
+
+
+## Citations
 
 In addition to using keywords, you should search citations of your key references. Typically, when you start reviewing the literature in your specific area you will have a few key references that have been given to you by your advisor. Having read these, you will already know that they cite other works of interest, and you should follow up to look at all that seem relevant. But that’s not all, these key publications are likely to have also been cited themselves by newer papers. Tracking citations of key papers can help you keep abreast of what is happening in your field. Indeed, given the prolific ever increasing nature of scientific publications, it might be the only way to keep on top of what is happening. Some literature databases allow you to receive alerts if a paper is cited, and you should set this up for all of your key citations, and perhaps for some of the most prominent authors in your field. 
 
@@ -57,7 +61,7 @@ You can’t search every paper for all the references that it cites, and its own
 
 The above section is a brief guide, and your library is likely to have in depth guides on how to use the specific databases that they house. They may also provide training sessions, or online videos to watch. It is worth becoming familiar with exactly how the databases that you will use work, so this is time well spent at the beginning of your studies.
 
-#### What else are literature databases used for?
+### What else are literature databases used for?
 
 The Science Citation Index used to be published as a single volume that emerged each year and was available in the reference section of the library. By the time that I started at university as an undergraduate in the 1980s, it was several volumes large and my first task for my tutor (one Dr Dave J Thompson) was to look up all of his citations (thankfully not too many at that time). Within a couple of years, the database was digitised and available on CD, and eventually became accessible through the internet. 
 

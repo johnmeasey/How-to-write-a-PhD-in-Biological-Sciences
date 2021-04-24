@@ -1,4 +1,4 @@
-## Storytelling in science? {#storytelling}
+# Storytelling in science? {#storytelling}
 
 I started thinking about this topic some years back as I often need to write popular articles that make some of the science that we do more generally accessible. But then I came across an article by Nick Enfield [-@enfield2018our] that made me think again.
 
@@ -12,7 +12,7 @@ If we did science like we tell stories, we would decide on the way the system wo
  knitr::include_graphics("figures/Storytelling.jpg")
 ```
 
-### The danger of a teleological argument
+## The danger of a teleological argument
 
 Teleological arguments are those which have their end point as the aim. While it is generally acknowledged that this is a good way to tell a story, it can be a trap when it comes to conducting scientific inquiry. Here, we need to approach science in a very different way to storytelling. When I was doing my PhD I was very frustrated as I had the impression that my advisor knew what result he wanted and designed the study to show it. What probably happened is that he was displaying “motivated reasoning”, but the result is known as “confirmation bias”. When an experiment failed to meet the expected result, he declared that it had failed. As Frances Bacon so elegantly put it:
 
@@ -21,7 +21,7 @@ Teleological arguments are those which have their end point as the aim. While it
 
 In our work, we read other studies and observations to formulate a question that we frame as a hypothesis. We then devise an experiment that will test this hypothesis in the most objective way, so that we can fairly accept or reject our null hypothesis.
 
-### SCience is the very opposite of storytelling. Or is it?
+## Science is the very opposite of storytelling. Or is it?
 I often tend to think of the answer to the question as the goal of the study. That I don’t know what the answer is, doesn’t spoil the story for me. The important thing is asking the question. An unexpected answer might send us back to thinking more about the system that we are studying and result in a greater revelation.
 
 A good example of this is the study published by Becker et al [-@becker2018extreme]. Francois found a (spookily) strong relationship between probability that Rose’s dwarf toadlets survive and local rainfall in the breeding season. More rainfall equals greater survival is what one would automatically think (because frogs like rain), but that wasn’t the result obtained. Francois found that survival increased with less rainfall. It wasn’t until we made the connection between the fact that increased rainfall during the breeding season meant that the toadlets spent more time in puddles, that we understood why their survival was decreasing. As the toadlets aren’t feeding during this time they lose weight, and also expose themselves to increased predation pressure. In a dry year, the toadlets will head back to their subterranean refuges much earlier and continue to pursue ‘safer’ feeding and hiding habits. While we might intuitively feel that a ‘safe toadlet’ is a better life-strategy, reduced rainfall means reduced reproduction, and so results in a failure for toads that don’t manage to pass on their genes that year. The result is a variable life-history with the weather, something that was previously unknown. To me, that’s a great story!
@@ -34,5 +34,5 @@ I've taken the deterministic interpretation of storytelling (a story with a know
 
 There are other fundamentals in stories that are particularly useful and should not be ignored. One notable feature of stories is that they make facts easier to understand and remember. Indeed, there is even the idea that this is why storytelling evolved in human societies. For example, most religions are based on stories that are geared to understanding of societal morals and rules. Martin Angler’s [-@angler2020telling] excellent book about how to turn science into stories should be consulted to give you some deeper insight into why stories are more powerful than science. Or try the exercise described by Torres and Pruim [-@torres2019scientific].
 
-### Can storytelling help memory of science?
+## Can storytelling help memory of science?
 Some argue that it can, and should be an integral part of scientific writing. In her [blog post](https://www.annaclemens.com/blog/elements-of-a-story), Anna Clemens argues that stories should be used within the scientific context. I'll let you read this for yourselves, and ask you to make up your own minds. If you like this way of thinking, you can get deeper into the depths of story thinking with Angler [-@angler2020telling]. 

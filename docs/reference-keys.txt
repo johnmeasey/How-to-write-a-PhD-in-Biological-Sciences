@@ -37,7 +37,6 @@ fig:not-fancy
 fig:fancy-map
 tab:CRediT
 fig:thesis-construction
-acknowledgments---acknowledgements
 intro
 beforeyoustart
 what-is-a-phd
@@ -66,7 +65,7 @@ should-society-lead-the-sciences-or-sciences-lead-society
 carl-sagans-baloney-detection-kit
 live-your-life-scientific
 citizen-science
-mentalhealth
+healthy
 being-physically-active-improves-mental-wellbeing
 time-to-think
 balancing-work-with-life
@@ -337,4 +336,3 @@ concluding-section
 formatting
 must-do-check-list-before-submitting-your-thesis
 mistakes-people-make
-healthy

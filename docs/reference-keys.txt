@@ -170,7 +170,7 @@ should-common-names-have-capitals
 view-1.
 view-2.
 style
-dont-bamboozle
+bamboozle
 voice
 does-writing-i-or-we-help-people-to-understand-who-you-are
 the-vonnegut-advice

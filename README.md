@@ -2,6 +2,8 @@
 
 This is an Open Access book by John Measey, under contract with CRC Press
 
+<a href="https://bookdown.org/yihui/bookdown"><img src="https://github.com/johnmeasey/How-to-write-a-PhD-in-Biological-Sciences/tree/main/figures/Cover.png" alt="CRC cover" align="right" /></a>
+
 You can read this book for free online at http://www.howtowriteaphd.org/, or purchase print or ebook edition from CRC (at some point in the future).
 
 View open-source code for source text and templates at [here](https://github.com/johnmeasey/How-to-write-a-PhD-in-Biological-Sciences)

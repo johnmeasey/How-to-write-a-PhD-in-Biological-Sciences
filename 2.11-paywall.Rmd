@@ -1,6 +1,6 @@
 # How to get around the paywall {#paywall}
 
-Once you've understand where the money for science and publishing comes from, you will understand that there is no real shame in trying to access papers that are behind a paywall. Essentially, I’m going to recommend that you move from legitimate to illegitimate, and then if all else fails to get an interlibrary loan. This is last on the list as someone will have to pay for it. Your library may have an allocation that they can use before the bill comes to your advisor’s desk.
+Once you understand where the money for science and publishing comes from, you will understand that there is no real shame in trying to access papers that are behind a paywall. Essentially, I’m going to recommend that you move from legitimate to illegitimate means, and then if all else fails to get an interlibrary loan. This is last on the list as someone will have to pay for it and it will take some time. Your library may have an allocation that they can use before the bill comes to your advisor’s desk.
 
 ### Go to your library
 
@@ -8,7 +8,7 @@ Unsurprisingly, this should be your first port of call. It’s probable that you
 
 ### Look for links from Google Scholar
 
-Google scholar has lots of links (on the right) labelled with “[pdf]”, and these are often integrated with your library. If there’s nothing at first, click on the “All 9 versions” link (below and to the right). This may reveal that there is more than one version with a pdf, and you might have access to one of the others. Check for a link to the author on google scholar, and then look for a link to their website.
+Google Scholar has lots of links (on the right) labelled with “[pdf]”, and these are often integrated with your library. If there’s nothing at first, click on the “All 9 versions” link (below and to the right). This may reveal that there is more than one version with a pdf, and you might have access to one of the others. Check for a link to the author on google scholar, and then look for a link to their website.
 
 ### Google the title in quotes
 Sometimes, Google scholar won't show a pdf, but you can Google the title "in quotes" and get back a direct link to the pdf. Although rare, it's worth a try before moving on.
@@ -21,19 +21,22 @@ Authors often have official university websites, and sometimes their own home cu
 
 Most university libraries curate an institutional repository of pdfs of published final manuscripts accepted for publication, so-called Green Open Access copies. These are identical to the printed versions save for the typesetting and proof reading that is done after this accepted copy. 
 
+### Write to the author and request a pdf
+Some authors will respond very quickly to reprint requests, while you won't hear from others for sometime, or at all. However, this was the traditional way of obtaining a copy that you didn't have access to, and is definitely worth trying. You should be able to get the email address of the corresponding author from the journal website. Sometimes these are hidden and you need to jump through hoops to find them. You could also search for the email addresses of any co-authors, and also write to them.
+
 ### Go to an academic social media site
 
 Many academics also have accounts on academic social media sites (e.g. Academia.edu; ResearchGate.net). You will need to join the network (using an email address from an academic institution) and have your own account, but these house a lot of pdfs that you can’t get elsewhere.
 
 ### Go into the black open access
 
-There are a few of these, and some have plugins to web browsers. You may need to be away from campus and using your own machine, or in an internet cafe to access them (a lot are blocked by universities through pressure from publishers). For some, like [Sci-hub](https://sci-hub.se/), you will need the [DOI](DOI.html) (you can get this from the publisher’s website). At the time of writing, Sci-hub has >85,483,812 papers. [Unpaywall.org](https://unpaywall.org/) has >28,112,995 papers. [Open Access Button](https://openaccessbutton.org/) don’t say how many they can reach, but “millions” of papers. And [freefullpdf](http://www.freefullpdf.com/) is a website that searches the internet and indicates where you can download pdfs (but sometimes you might hit a paywall). 
+There are a few of these, and some have plugins to web browsers. You may need to be away from campus and using your own machine, or in an internet cafe to access them (a lot are blocked by universities through pressure from publishers). For some, like [Sci-hub](https://sci-hub.se/), you will need the [DOI](#DOI) (you can get this from the publisher’s website). At the time of writing, Sci-hub has >85,483,812 papers. [Unpaywall.org](https://unpaywall.org/) has >28,112,995 papers. [Library Genious](http://libgen.li/) or Libgen claim to have 3 million files. [Open Access Button](https://openaccessbutton.org/) don’t say how many they can reach, but “millions” of papers. And [freefullpdf](http://www.freefullpdf.com/) is a website that searches the internet and indicates where you can download pdfs (but sometimes you might hit a paywall). 
 
 ### Use your contacts at other universities
 
-The chances are that you have friends at other universities where the subscription you are looking for is not behind a paywall. If not then ask your advisor or labmates, or post it on your lab’s (electronic) notice board.
+The chances are that you have friends at other universities where the subscription you are looking for is not behind a paywall. If not, then ask your advisor or labmates, or post it on your lab’s (electronic) notice board.
 
-### Go back to you librarian and ask them for help
+### Go back to your librarian and ask them for help
 
 Librarians have contacts at other libraries. Some have had careers at other institutions or have met people at conferences who’ll be prepared to help them. Librarians are great people and well worth getting to know. Their job is to help you get stuff, so it’s always worth engaging with them.
 

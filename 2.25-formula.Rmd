@@ -1,20 +1,20 @@
 # Why use a formula to structure each chapter or paper? {#formula}
 
-Very few people can sit down at a desk and write an academic paper from beginning to end. For most of us it takes a lot of hard work over many weeks or even months to write something that can be submitted to peer review. In part two of this book I approach the writing of a chapter or a paper for peer review in the same formulaic way, and will refer to papers or chapters interchangeably. 
+Very few people can sit down at a desk and write an academic paper from beginning to end. For most of us, it takes a lot of hard work over many weeks or even months to write something that can be submitted for peer review. In the third part of this book, I approach the writing of a chapter or a paper for peer review in the same formulaic way, and will refer to papers or chapters interchangeably. 
 
 Sometimes it seems that every paper I read is just repeating the same formula over and over again. I even tend to forget that it's there until someone breaks the mould. Breaking the mould produces papers that really stand out, captivating the reader straight away. So why aren’t we writing those manuscripts every time we write a paper? Moreover, why don’t we teach students to write standout papers that will captivate everyone. Should we really be teaching formulaic writing?
 
 Here I argue that not only is writing to a formula good practice, but it’s the best way to learn scientific writing. When you look to see who is writing those knock-out articles (i.e. "broken mould"), the answer is that they are really experienced researchers who have written hundreds of papers, and (unlike some of us) in doing so have learnt the essence of great writing. Such greatness is not innate and comes rarely to any researchers (even those who have written hundreds of papers). That's why I suggest to my students that they follow the formulas that are by now well recorded in many blogs and websites on scientific writing.
 
-There is another reason why writing to a formula is recommended. Not only is it easier, but because it is so common and widespread, it also gives the reader a familiarity with reading your work. This means that editors are able to skim through and find exactly what makes your work worth publishing, and it means that those who are only semi-interested are more likely to cite your work.
+There is another reason why writing to a formula is recommended. Not only is it easier, but because it is so common and widespread, it also gives the reader a familiarity with reading your work. This means that editors are able to skim through and find exactly what makes your work worth publishing, and it means that those who are only semi-interested are more likely to find what they need to cite in your work.
 
 ## So what is the formula?
 
-If we were in my office, at this point in the meeting I usually go to my white board and start drawing funnels (as a metaphor) and blocks. However, others have much better diagrams and here I’ve adapted an idea from Brian McGill’s blog [@mcgill20165]. But you can also find other useful material in other papers [-@turbek2016scientific; @plaxco2010art @tomaska2007teaching]. If you are of the Twitter persuasion, you get lots of useful tips and links from WriteThatPhD and Write4Research.
+If we were in my office, at this point in the meeting I usually go to my white board and start drawing funnels (as a metaphor) and blocks. However, others have much better diagrams and here I’ve adapted an idea from Brian McGill’s blog [-@mcgill20165]. But you can also find other useful material in other papers [@turbek2016scientific; @plaxco2010art @tomaska2007teaching]. If you are of the Twitter persuasion, you get lots of useful tips and links from WriteThatPhD and Write4Research.
 
 The diagram below (Figure \@ref(fig:formula)) is supposed to show the movement of a liquid medium from one vessel to another. This is to make you think of your readers' understanding moving fluidly from one section to another. The introduction concentrates the ideas into your particular approach, while the discussion allows the reader to understand how your results fit into the larger body of knowledge. 
 
-(ref:formula) **Using a formulaic approach to writing your PhD chapter.** The formula of writing a paper or chapter that we will concentrate on in this book. 
+(ref:formula) **Using a formulaic approach to writing your PhD chapter.** This diagram represents the formula of writing a paper or chapter that we will concentrate on in this book. Imagine the flow of the reader being like a liquid that passes from one section to the next. 
 
 ```{r formula, echo=FALSE, out.width = '95%', fig.cap="(ref:formula)"}
  knitr::include_graphics("figures/formula.png")
@@ -29,50 +29,27 @@ My suggestion is that you now go and read 5 relevant papers in your field and an
 
 ### Start with an outline
 __So now that you've got the idea that writing to a formula is a good idea, what next? __
-Next, I suggest that you begin to plan out your formula as a bullet-point outline. Start by writing a general sentence for the subject of each paragraph. Then use sub-points to plan each sentence within the paragraph. Lastly, annotate these with citations that you want to use. Personally, I'd prefer to see the bare outline, and then a fleshed outline before you start the writing proper. This would allow the advisor and student to get on the same page to be sure that what is planned is thought out. 
+Next, I suggest that you begin to plan out your formula as a bullet-point outline (Figure \@ref(fig:outline)). Start by writing a general sentence for the subject of each paragraph. Then use sub-points to plan each sentence within the paragraph. Lastly, annotate these with citations that you want to use. Personally, I'd prefer to see the bare outline, and then a fleshed outline before you start the writing proper. This allows advisor and student to get on the same page to be sure that what is planned is thought out. 
 
-Example of an outline draft of the [introduction](introduction.html):
-This outline is taken from Measey et al [-@measey2020cost]:
+(ref:outline) **Example of an outline draft of the introduction.** In this outline taken from Measey et al. (2020), paragraphs are paragraphs are indicated by the solid dots, and points to make inside the paragraphs by hollow dots. Each paragraph has an argument sketched out within it.
 
-__Introduction__
+```{r outline, echo=FALSE, out.width = '95%', fig.cap="(ref:outline)"}
+ knitr::include_graphics("figures/outline.png")
+```
 
-* It is important to assess the impacts of invasive species from published studies in order to compare them
-  + Not all studies are equally rigorous
-  + Inferences from less robust studies should be treated with caution
-* More complex study designs tend to result in greater power to detect effect direction
-  + Increasingly complex designs are likely to cost more money to conduct
-  + Researchers are likely to conduct cheaper (small scale) experiments before large landscape scale ones
-* EICAT and SEICAT rely on studies carried out at scales that are appropriate to the invasive population
-  + Cheaper studies will result in impacts of lower magnitude, and/or confidence and not reflect the species’ true impact
-  + Poorer regions of the world might be expected to produce impacts of lower magnitude
-  + But EICAT is used to inform policy
-* There is evidence of inequality in existing impact assessments of birds and amphibians
-  + geographic disparity for birds
-  + This could come from funding disparities
-  + how can we achieve a representative impact level for all alien species, without enough peer reviewed studies?
-  + will the impact score of species be independent of research costs?
-* Aims
-  + Whether studies that result in higher impact scores cost more to conduct
-  + Whether impact is related to study complexity or time taken to conduct the study
-  + Whether EICAT and SEICAT scores demonstrate changes through time
-  + Whether different EICAT and SEICAT scores occur with equivalent confidence
-
-__Materials and Methods__
-
-Paragraphs are indicated by the solid dots, and points to make inside the paragraphs hollow dots. 
 
 In the above example, you may not know what EICAT and SEICAT are (they are scoring systems used for environmental - EICAT - or socio-economic - SEICAT - impacts of alien species), but I would hope that you can follow the broad argument of the introduction explaining why the study should be done. 
 
 ### Next flesh out the outline with citations
 
-In the next stage, fleshing out, I ask that citations for statements above be added along with any examples. Below is an example of the citations added to paragraph 4 above.
+In the next stage, 'fleshing out', I ask that citations for statements above be added along with any examples. Figure \@ref(fig:outline-fleshed) is an example of the citations added to paragraph 4 above.
 
-- There is evidence of inequality in existing impact assessments of birds, amphibians and plants with lots of DD species (30%; Evans et al. 2016; 38%; Kumschick et al. 2017; 79%; Rumlerová et al. 2016)
-  + Geographic disparity for birds (Evans and Blackburn 2020)
-  + Examples of birds from Evans et al (2020)
-  + This could come from funding disparities
-  + How can we achieve a representative impact level for all alien species, without enough peer reviewed studies?
-  + Will the impact score of species be independent of research costs?
+(ref:outline-fleshed) **Example of a fleshed out outline of a paragraph in the introduction.** In this outline taken from Measey et al. (2020), citations and relevant figures have been inserted for each of the statements. 
+
+```{r outline-fleshed, echo=FALSE, out.width = '95%', fig.cap="(ref:outline-fleshed)"}
+ knitr::include_graphics("figures/outline-fleshed.png")
+```
+
 
 ### Lastly it’s time to write the text
 

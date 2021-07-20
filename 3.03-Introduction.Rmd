@@ -1,23 +1,23 @@
-## The Introduction {#introduction}
+# The Introduction {#introduction}
 
-### Why do we need an introduction?
-The introduction and discussion appear to be two common stumbling points for students writing chapters or manuscripts. First, what to put in and what to leave out. And second how to construct it. They are complimentary, and if written well can be read without the Materials and Methods or Results, with the reader still gaining all of the major information of the manuscript.
+## Why do we need an introduction?
+The introduction and discussion appear to be two common stumbling points for students writing chapters or manuscripts. First, what to put in and what to leave out. And second how to construct it. They are complementary, and if written well can be read without the Materials and Methods or Results, with the reader still gaining all of the major information of the manuscript.
 
-The introduction is going to be the first part of your manuscript that anyone reads. Yes, they’ve already taken in the title and the abstract. These are almost like bait to draw readers in. The meat starts with the introduction. And it’s not only important to get all the correct content in there, it’s also important not to give misleading information that might distract the reader.
+The introduction is going to be the first part of your manuscript that anyone reads. Yes, they’ve already taken in the title and the abstract. These are almost like bait to draw readers in. The meat starts with the introduction. And it’s not only important to get all the correct content in there, but it’s also important not to give misleading information that might distract the reader.
 
-When you write the introduction to a paper you must not be tempted to stray away from what we are aiming to introduce. The aim of our introduction is to explain to the reader the hypothesis you are testing, and the approach you have taken to test it.
+When you write the introduction to a paper, you must not be tempted to stray away from what we are aiming to introduce. The aim of our introduction is to explain to the reader the hypothesis you are testing, and the approach you have taken to test it.
 
-### So what do we put into the introduction?
+## So what do we put into the introduction?
 
-As I’ve said elsewhere, the [hypothesis](hypothesis.html) itself is made up of different parts, and each of these must be explained in the introduction. We also need to understand the approach that you’ve decided to take in your study (e.g. experimental, lab or field approach, observations or natural history). All of these decisions that you made were informed by the literature, as is your general understanding of the subject that you are studying. So making sure that you cite ([read about citing](citations.html)) the relevant literature is a key ingredient of the introduction.
+The [hypothesis](#hypothesis) itself is made up of different parts, and each of these must be explained in the introduction. We also need to understand the approach that you’ve decided to take in your study (e.g. experimental, lab or field approach, observations or natural history). All of these decisions that you made were informed by the literature, as is your general understanding of the subject that you are studying. So making sure that you cite ([read about citing](#citations)) the relevant literature is a key ingredient of the introduction.
 
 However, this is where I think many people get side tracked. Researchers love reading, and it’s super easy to get sucked into all the amazing things that people have done in an ever expanding and increasingly interesting literature. We are often tempted to show exactly how well read we are. Or put in that fascinating tit-bit that we stumbled on by accident. However, you must keep focussed on the goal, to introduce the hypothesis to the reader, and try not to allow yourself (and consequently your reader) to get distracted. 
 
 Consider this analogy: You can think of the introduction as being a highway to your hypothesis. As you drive the highway, it's fine to see signposts that lead to other places, but don't be tempted to turn off the highway to visit them. You do need to take your reader to your question as efficiently as you can. Point out the relevant sites on the way, but don't stop until you get where you're going.
 
-### And the construction…?
+## And the construction…?
 
-Previously, I’ve described the introduction like a funnel (Figure \@ref(fig:introduction)), where we channel the reader into our hypothesis by starting broad and ending up narrow ([see the formula](formula.html)). This can draw criticism that journal articles are expected to fit a certain style, that this style is boring, and that what we really need is for people to write in a more exciting and varied way. Although I do not disagree with this, my objective here, is to try to demystify writing and enable you to get started. The easiest way to get started is, I believe, through a formula. But it is important to say that the funnel isn’t the only way, and I’ve read some great papers where the first sentence of the introduction is the hypothesis. However you do it, the hypothesis is at the heart of your introduction because it is the reason for your work.
+Previously, I’ve described the introduction like a funnel (Figure \@ref(fig:introduction)), where we channel the reader into our hypothesis by starting broad and ending up narrow ([see the formula](#formula)). This can draw criticism that journal articles are expected to fit a certain style, that this style is boring, and that what we really need is for people to write in a more exciting and varied way. Although I do not disagree with this, my objective here, is to try to demystify writing and enable you to get started. The easiest way to get started is, I believe, through a formula. But it is important to say that the funnel isn’t the only way, and I’ve read some great papers where the first sentence of the introduction is the hypothesis. However you do it, the hypothesis is at the heart of your introduction because it is the reason for your work.
 
 (ref:introduction) **The introduction funnel.** My suggestion is to keep to the funnel if you want to make life easier for yourself. Start by writing an outline of where you want your text to go. Then add in the references that are pertinent to each paragraph of the outline. Make sure that there aren’t any paragraphs with a single citation repeated over and again; it’s more likely that there is a lot more relevant information out there.
 
@@ -25,7 +25,7 @@ Previously, I’ve described the introduction like a funnel (Figure \@ref(fig:in
 knitr::include_graphics('figures/introduction.png')
 ```
 
-Table: (\#tab:introparagraphs) **Here is a guide to the contents of each paragraph of your introduction.** Although you should not feel constrained by this suggestion, it might help you get started when planning your bullet pointed structure of the introduction before you start writing.
+Table: (\#tab:introparagraphs) **Here is a guide to the contents of each paragraph of your introduction.** Although you should not feel constrained by this suggestion, it might help you get started when planning your bullet-pointed structure of the introduction before you start writing.
 
 | **Paragraph** | **Description of contents** |
 |--------|---------|
@@ -39,4 +39,4 @@ Note that you can shuffle your paragraphs in Table \@ref(tab:introparagraphs) to
 
 Now that you’ve fleshed out your outline with relevant citations, it’ll be time to pass it by your advisor to check that you are moving in the right direction before you start writing. My suggestion is always to use your advisor to get the advice that you need – that’s what they’re there for!
 
-Remember that while this section on writing the introduction is short, much of [Part II](part2.html) concerns writing style that is applicable to your introduction. In particular, sections on composing your [hypothesis](hypothesis.html), writing a [paragraph](paragraph.html), and an [argument](argument.html) should be referred to when you are writing your introduction. 
+Remember that while this section on writing the introduction is short, much of [Part II](#part2) concerns writing style that is applicable to your introduction. In particular, sections on composing your [hypothesis](#hypothesis), writing a [paragraph](#paragraph), and an [argument](#argument) should be referred to when you are writing your introduction. 

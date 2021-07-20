@@ -2,7 +2,7 @@
 
 I really hope that this book has been helpful and that it has achieved what I set out to do: provide you with the guide on how to write a PhD in biological sciences. If you feel that this book has important items missing, out-of-date or simply wrong, then please help. Any good guide relies upon the people that use it to keep it viable.
 
-If you have found this book useful, then please remember that you can contribute to the project at the Github pages for this book, using bookdown. If your contributions, no matter how small, improve the book, then you will be improving the experience of doing a PhD in Biological Sciences for future PhD students, and that has to be worth something. 
+If you have found this book useful, then please remember that you can [contribute to the project](#contribute) at the Github pages for this book, using bookdown. If your contributions, no matter how small, improve the book, then you will be improving the experience of doing a PhD in Biological Sciences for future PhD students, and that has to be worth something. 
 
 Remember that there is another book that starts off where this book ends: from thesis chapters to published papers. It also tackles some of the broader issues within academia, which are likely to be relevant if you are planning your career in this area.
 

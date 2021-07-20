@@ -9,49 +9,49 @@ Scott Hotaling has written a great essay with 10 top rules to help you be concis
 
 ## Rule 1. Take writing seriously
 
-It is likely, that like me, you chose to do science at school instead of useful subjects such as English and/or other languages. It might have also occurred to you that it was a really bad idea not to have done more earnest work in languages now that you are expected to write like a professional. Certainly, if you did pay more attention in languages in school, you may not be suffering with the rest of us now. Personally, I never received tuition in the grammatical construction of English (you may know this already). Thus I'm left in the dark most of the time about exactly what is wrong. Instead, I simply try to rework a sentence into what I know is correct (and I often don't achieve that). The lesson then is that should you come across an opportunity to learn more about writing, do take it. 
+It is likely, that like me, you chose to do science at school instead of useful subjects such as English and/or other languages. It might have also occurred to you that it was a really bad idea not to have done more earnest work in languages now that you are expected to write like a professional. Certainly, if you did pay more attention in languages in school, you may not be suffering with the rest of us now. Personally, I never received tuition in the grammatical construction of English (you may know this already). Thus I'm left in the dark most of the time about exactly what is wrong. Instead, I simply try to rework a sentence into what I know is correct (and I often don't achieve that). The lesson is that should you come across an opportunity to learn more about writing, do take it. Otherwise, try writing concisely in all that you do.
 
-Use writing professional emails (to your advisor, co-authors or collaborators) as an opportunity to write concise messages that communicate efficiently and precisely the aim of your message. As a PhD student, you should consider yourself a professional and these communications to colleagues will be received with more import if you can write concisely. A personal plea from me would be to ask that you don't start your email by enquiring after the health of your recipients. The fashion to to this has turned into a surge in recent years (the pandemic notwithstanding), and the reality is that this are simply superfluous and gratuitous words. You certainly don't expect them to write back starting with a paragraph about their health. Save this kind of correspondence for your friends and relatives, who may well appreciate you enquiring about their health. When your advisor, co-authors or collaborators become friends, you can move to a less formal style, but I'd argue that you always want to keep your email communication concise. 
+Use writing professional emails (to your advisor, co-authors or collaborators) as an opportunity to write concise messages that communicate efficiently and precisely the aim of your message. As a PhD student, you should consider yourself a professional and these communications to colleagues will be received with more import if you can write concisely. A personal plea from me would be to ask that you don't start your email by enquiring after the health of your recipients. The fashion to do this has turned into a surge in recent years (the pandemic notwithstanding), and the reality is that these are simply superfluous and gratuitous words. You certainly don't expect them to write back starting with a paragraph about their health. Save this kind of correspondence for your friends and relatives, who may well appreciate you enquiring about their health. When your advisor, co-authors or collaborators become friends, you can move to a less formal style, but I'd argue that you always want to keep your email communication concise. 
 
-Although we talk about writing science here, the grammatical rules of writing (in English) are fairly universal (with some local exceptions), so do practice your writing. Maybe write a letter (or long email) instead of making a call sometimes. It'll also help you to [read critically](critical.html). If you are a keen reader, then you could do worse than reading some Kurt Vonnegut [-@vonnegut1980how].
+Although we talk about writing science here, the grammatical rules of writing (in English) are fairly universal (with some local exceptions), so do practice your writing. Maybe write a letter (or long email) instead of making a call. It'll also help you to [read critically](critical.html). If you are a keen reader, then you could do worse than reading some Kurt Vonnegut [-@vonnegut1980how].
 
 ## Rule 2: Identify and stick to your message
 
-It's important to avoid distracting your reader (see [Part II](part2.html)). Your aim is to be thorough, which will mean including all relevant information, but don't allow your writing to sideline them into taking the wrong direction. You need to stick to your narrative like a highway. The highway analogy is useful as although you will see signs to other places that you can point out (to the reader), you shouldn't turn off the highway. The best of highways will also be free of traffic jams (think long, complex sentences here). and toll free ([no paywall](paywall.html)).
+It's important to avoid distracting your reader (see [Part II](part2.html)). Your aim is to be thorough, which will mean including all relevant information, but don't allow your writing to sideline them into taking the wrong direction. You need to stick to your narrative like a highway. The highway analogy is useful as although on a highway you will see signs to other places that you can point out to the reader, you shouldn't turn off the highway to get to your destination. The best of highways will also be free of traffic jams (think long, complex sentences here), and toll free ([no paywall](paywall.html)).
 
 This will mean that you may need to delete some of what you've written, and that can be hard (especially when they are the best bits). You can always keep a file with all the best bits that you've never used. Maybe one day you'll use them. Or maybe one day you'll see that they weren't quite as good as you thought they were.
 
 ## Rule 3: Get to the point
 
-If the highway is 'your message' then getting to the point is the big sign that states the destination. 
+If the highway is 'your message' then getting to the point is the big sign that states that you've arrived at your destination. 
 
-Some of the best papers I've read manage to encapsulate the whole point in the first sentence, or better still in the title. Our formula has you getting to the main question in the last paragraph of the introduction, but you should have already 'got to the point' in the first paragraph - i.e. the point that is the bigger picture. 
+Some of the best papers I've read manage to encapsulate the whole point in the first sentence, or better still, in the title. Our formula has you getting to the main question in the last paragraph of the introduction, but you should have already 'got to the point' in the first paragraph - i.e. the point that is the bigger picture. 
 
 ## Rule 4: Keep your Methods and Results contained
 
-You can find a guide to writing your methods in [Part III](part3.html). This rule is about not allowing the methods to creep out of this section and into the results, or even the discussion. Similarly with the Results. There are some specific times when this is permitted (such as a post-hoc test), but generally you shouldn't expect to do this. 
+You can find a guide to writing your methods in [Part III](#methods). This rule is about not allowing the methods to creep out of this section and into the results, or even the discussion. Similarly with the Results. There are some specific times when this is permitted (such as a post-hoc test), but generally, you shouldn't expect to do this. 
 
 ## Rule 5: Do not repeat yourself (too often)
 
 Redundancy is often rife in proposals, theses and manuscripts. If you've produced a table with all of the results, then they don't need to be in the text. The same with a figure, especially Figure 1 which is often a descriptive map or diagram of apparatus. Have it once, but you don't need it twice.
 
-Copy and pasting is very easy, and a good way of suddenly producing vast quantities of text (Figure \@ref(fig:plagiarism)). But repeated text is quickly recognised by the reader and appears very boring and cumbersome. This is likely to happen in the Methods and Results sections. If you find yourself deciding that you can simply cut and paste this paragraph while changing the variable names and the numbers, then you are wrong. Don't ever do it. 
+Copy and pasting are very easy, and a good way of suddenly producing vast quantities of text (Figure \@ref(fig:plagiarism)). But the repeated text is quickly recognised by the reader and appears very boring and cumbersome. This is likely to happen in the Methods and Results sections. If you find yourself deciding that you can simply cut and paste this paragraph while changing the variable names and the numbers, then you are wrong. Don't ever do it. 
 
 Also, please don't cut and paste sections of [methods](methods.html) from one part of your thesis to another. Just don't do it.
 
-People also have a tendency to build the [abstract](abstract.html) by copying and pasting text from the main sections. Don't do it. The reader will quickly see the repetitions and become bored. Similarly, the [conclusion/summary](discussion.html) section is also often copied from lines above. If it's not worth writing again, then it wasn't worth writing before. Make it fresh, and keep it interesting!
+People also have a tendency to build the [abstract](abstract.html) by copying and pasting text from the main sections. Don't do it. The reader will quickly see the repetitions and become bored. Similarly, the [conclusion/summary](discussion.html) section is also often copied from the lines above. If it's not worth writing again, then it wasn't worth writing before. Make it fresh, and keep it interesting!
 
 ## Rule 6: Avoid unnecessary or inefficient “lead‐ins”
 
-Interesting. I'd say that you need some practice and a critical eye to spot these kinds of errors. Having your advisor help or someone who has edited a lot of text. Scott's got some great examples [@hotaling2020simple]. 
+This rule relates to keeping your text concise, specifically at the start of a sentence. You may be tempted to reiterate your point, but this is not always needed. I'd say that you need some practice and a critical eye to spot these kinds of errors. Having your advisor help or someone who has edited a lot of text. Scott's got some great examples [@hotaling2020simple]. 
 
 ## Rule 7: Use first‐person, active voice
 
-For some reason, most students avoid this at all cost. There appears to be the idea that saying "I" or "we" isn't correct for scientific writing. In fact, it can be the easiest way to avoid the passive voice. There are other reasons why [using the first person](voice.html) is helpful.
+For some reason, most students avoid this at all cost. There appears to be the idea that saying 'I' or 'we' isn't correct for scientific writing. In fact, it can be the easiest way to avoid the passive voice. There are other reasons why [using the first person](#voice) is helpful.
 
 ## Rule 8: Remove unnecessary words
 
-This is really getting down to the nitty gritty. It's hard to do this yourself. It's much easier for someone else to show you. Typically I only do this level of word-smithing for abstracts or when the imposed word limit means that you really need to remove excess words. However, Scott is correct that if you can learn to do this yourself, it will improve your writing. 
+This is really getting down to the nitty-gritty. It's hard to do this yourself. It's much easier for someone else to show you. Typically I only do this level of word-smithing for abstracts or when the imposed word limit means that you really need to remove excess words. However, Scott is correct that if you can learn to do this yourself, it will improve your writing. 
 
 Personally, I like to slip in the odd 'as well as' instead of 'and', just to ring the changes. Scott would remove them, and you can see where he'd edit out other examples. Do we really have to be so hardline? I'd say that there are times when it helps.
 
@@ -61,7 +61,7 @@ This is always a good idea (see Figure \@ref(fig:moss)). Making three short sent
 
 ## Rule 10: Seek and embrace feedback
 
-I spend a lot of my time reading and commenting on the writing of my students. Every comment is made to improve the document. I do get mad when I find that this help is ignored without an indication why. My suggestions or comments are simply deleted. Certain students become very hard work when they don't even explain why they refuse to change something. Reading the work of these students quickly becomes a chore. You should have noted by now that it's all about being flexible, and being stubborn about anything you've written isn't going to work.
+I spend a lot of my time reading and commenting on the writing of my students. Every comment is made to improve the document. I do get mad when I find that this help is ignored without an indication why. Occasionally, my suggestions or comments are simply deleted. Certain students become very hard work when they don't explain why they refuse to change something. Reading the work of these students quickly becomes a chore. You should have noted by now that it's all about being flexible for your reader, and being stubborn about anything you've written isn't going to work.
 
 ## Rule 11: Read it yourself
 

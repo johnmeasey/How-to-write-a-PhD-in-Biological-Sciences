@@ -1,29 +1,29 @@
-## The Acknowledgements {#acknowledgements}
+# The Acknowledgements {#acknowledgements}
 
 This is the part of your manuscript where you get to thank all of the people who have helped you along the way. It is easy to forget people and so it is worth considering making notes about who has helped you along the entire time with your PhD. Then all you have to do is remember where you wrote it down!
 
-### Thank your funders
+## Thank your funders
 
-Any people or organisations that funded you or any component of your work. Check with them they may have specific wording that they want you to use. Remember that your institution may not have given you money but may have supported you in other ways you should probably thank them. There are registers of funders, and you should use to see whether your funder is present and exactly how they should be acknowledged. One example is the [Crossref Funder Registry](https://www.crossref.org/services/funder-registry/). Funders rely on being able to search [databases](databases.html) for their name and find all of the work that they have funded. This means that you should use the particular wording that they supplied, especially if they specify this in their funding letter.
+You should thank any people or organisations that funded you or any component of your work. Check with them they may have specific wording that they want you to use. Remember that your institution may not have given you money but may have supported you in other ways, and you should probably thank them. There are registers of funders, and you should use these to see whether your funder is present and exactly how they should be acknowledged. One example is the [Crossref Funder Registry](https://www.crossref.org/services/funder-registry/). Funders rely on being able to search [databases](#databases) for their name and find all of the work that they have funded. This means that you should use the particular wording that they supplied, especially if they specify this in their funding letter.
 
 If your funders aren't in the database, you might suggest that they get added. 
 
-### People and organisations to thank
+## People and organisations to thank
 
- - Try to remember all of those people who helped you doing fieldwork, or in the laboratory. Especially laboratory technicians without whom a lot of the work that we do isn’t possible.
+ - Try to remember all of those people who helped you doing fieldwork, or in the laboratory. Especially laboratory technicians (if they are not also authors) without whom a lot of the work that we do isn’t possible.
  - People that may have helped administer your funds or other office administration. 
- - Organisations that gave you permission to do your work. In some journals the acknowledgements is the correct place to put your permit numbers along with the names of the organisations who provided them. 
+ - Organisations that gave you permission to do your work. In some journals, the acknowledgements are the correct place to put your permit numbers along with the names of the organisations who provided them. 
  - Increasingly, permission from ethics committees is placed in the materials and methods but do check with the journal instructions to authors.
  - People who supplied you with samples, images or other elements of your work or presentation of your manuscript.
 
 Many journals have specific ways in which they want people's names to be written. You will need to follow the guidelines. For example, authors are often referred to by their initials in the acknowledgements. This is useful when some people in your paper need to thank particular funding bodies who didn't fund others.
 Thank anyone who gave you a photograph that you used in the paper.
 
-### Who not to thank (in your manuscript acknowledgements)
+## Who not to thank (in your manuscript acknowledgements)
  - You do not need to thank anyone who is an author. The exception is in your thesis acknowledgements, where you should mention them and their support.
  - Personally, I tend not to thank people who were paid to do a specific job and only did that job. The acknowledgements is a section to name people who have gone out of their way to help you.
   - Your family for getting you to grad school (unless they really helped you do the work). However, in your thesis acknowledgements, you should absolutely include your family.
 
-If in doubt it's probably a good idea to be as inclusive as you can in the acknowledgements.
+If in doubt, it's probably a good idea to be as inclusive as you can in the acknowledgements.
 
 If in doubt with the acknowledgements refer to other acknowledgement sections in the same journal and see how they are formatted and written. Remember that if your journal is conducting double-blind review, they may ask for the acknowledgements (and the title page) to be removed from the main manuscript and uploaded separately.

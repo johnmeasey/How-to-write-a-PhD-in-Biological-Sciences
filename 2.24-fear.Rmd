@@ -1,8 +1,8 @@
-## Fear of submitting written work {#fear}
+# Fear of submitting written work {#fear}
 
-Many people feel nervous of handing in their written work, and feeling a little nervous is good. It shows that you care deeply about your work. However, when it gets so bad that you can't hand work in any more, then something has gone wrong. It is possible that you are suffering from **impostor syndrome**. This chapter is to help you overcome your fear of handing in your written work.
+Many people feel nervous of handing in their written work, and feeling a little nervous is good. It shows that you care deeply about your work. However, when it gets so bad that you can't hand work in any more, then something has gone wrong. It is possible that you are suffering from **impostor syndrome**. 
 
-### What is impostor syndrome? {#impostorsyndrome}
+## What is impostor syndrome? {#impostorsyndrome}
 
 Impostor syndrome is an experience you have when you believe that you are not as competent as you think others perceive you to be. It is not uncommon in many professions, and especially prevalent in academia [@clance1978imposter]. This is now widely recognised and there are lots of useful shared experience out there to read [e.g. @dickerson2019how].
 
@@ -13,7 +13,7 @@ Impostor syndrome is an experience you have when you believe that you are not as
 ```
  
 
-- Are you fearful that your work won’t be well received? 
+- Are you fearful that your work won’t be well received (Figure \@ref(fig:conflicted))? 
 - Is it really up to the standards that are required?
 - Could you do better if you just spent some more time?
 
@@ -25,29 +25,33 @@ These are all really common thoughts, and they go along with ‘imposter syndrom
 1. If you never hand anything in, you won’t get your post-graduate degree
 
 
-### Think of it this way
+## Think of it this way
 
 The process of writing is part of your learning process, and you aren’t learning alone. That’s why you have an advisor. While you think that there may be a great intellectual gap between you and your advisor, I can promise you that there isn’t. But your advisor is an experienced reader. Hopefully, there have been many students who have benefited from learning with your advisor (talk to them about their experience). They already work with a lot of students and help those people to bring their writing to a level where it can be accepted by an academic community.
 
 Like other members of the academic community, your advisor also has experience of receiving critical feedback about their written work. Sometimes it is painful and sometimes it feels personal. But getting feedback (or peer review) is a fundamental part of the publishing process. Talk to your advisor and other lab members about this process. Ask people how they overcame their fear of submitting written work.
 
-### What can you do to help yourself overcome the fear of submitting written work?
+## What can you do to help yourself overcome the fear of submitting written work?
 
-1. Give it to a friend or colleague to read
-1. Remember that most of what you write should be understandable to the majority of people who can read (think of articles in The Conversation as a reasonable reading/understanding level). This means that you can give your written work to fellow postgraduates and postdocs and ask for feedback. 
-1. Annotate your text with places where you are particularly unsure.
-If there’s a certain part that you are struggling with, annotate it (add comment in word) and point out that you are struggling with this particular section
-1. Ask for a meeting with your advisor
-You can sit down together with your advisor and discuss the points where you are uncertain before handing in the work. Or, after you’ve written it you can ask for a session when you are given verbal feedback
-1. Produce a checklist
-If you specifically worry that there may be errors in what you write (grammatical, spelling, plagiarism), then make a checklist that you can tick off prior to submitting. Once your check list is done, don’t mess with the written work again (or you could add more errors), just hand it in!
-1. Set a deadline for yourself
-If you don’t already have one, having a set of deadlines that you give yourself to give your writing to work to colleagues and hand in to your advisor. If you know that you aren’t good with deadlines, share them with as many people as you can!
-1. Provide yourself with a reward for submitting your work. Rewards are a really simple way of helping you to do things. They help simplify otherwise apparently complex fears. 
-1. Tell your advisor about your fears
-There’s nothing like honesty. Your advisor may be able to cut you some slack, or might sit down with you and look at how the two of you can overcome this difficulty.
-If you have more than one advisor, there may be one who you are more confident to read your work, and you can suggest that reading is done in series (instead of in parallel - actually I’d advise this).
-1. Talk to your advisor about what really gets you the most upset. If you can’t do this face to face, then you could annotate it in a reply to their comment. The chance is that your advisor doesn’t know how upsetting it is and you’ll be helping them in their future interactions with students. 
-1. Ask your advisor about their fear of handing in and get them (and others in your lab) to share their stories. You might find that you have common ground to start sharing how these problems can be overcome.
+1. **Give it to a friend or colleague to read**
+1. **Remember that most of what you write should be understandable to the majority of people** around you. This means that you can give your written work to fellow postgraduates and postdocs and ask for feedback. 
+1. **Annotate your text with places where you are particularly unsure**.
+If there’s a certain part that you are struggling with, annotate it (add comment) and point out that you are struggling with this particular section
+1. **Ask for a meeting with your advisor**. You can sit down together with your advisor and discuss the points where you are uncertain before handing in the work. Or, after you’ve written it you can ask for a session when you are given verbal feedback
+1. **Produce a checklist**. If you specifically worry that there may be errors in what you write (grammatical, spelling, plagiarism), then make a checklist that you can tick off prior to submitting. Once your check list is done, don’t mess with the written work again (or you could add more errors), just hand it in!
+1. **Set a deadline for yourself**. If you don’t already have one, having a set of deadlines that you give yourself to give your writing to colleagues and hand in to your advisor. If you know that you aren’t good with deadlines, share them with as many people as you can!
+1. **Provide yourself with a reward for submitting your work**. Rewards are a really simple way of helping you to do things. They help simplify otherwise apparently complex fears. 
+1. **Tell your advisor about your fears**. There’s nothing like honesty. Your advisor may be able to cut you some slack, or might sit down with you and look at how the two of you can overcome this difficulty.
+If you have more than one advisor, there may be one who you are more confident to read your work, and you can suggest that reading is done in series (instead of in parallel - actually, I’d advise this).
+1. **Talk to your advisor about what really gets you the most upset**. In case it's something that your advisor does that makes you anxious. If you can’t do this face to face, then you could annotate it in a reply to their comment. The chance is that your advisor doesn’t know how upsetting it is and you’ll be helping them in their future interactions with students. 
+1. **Ask your advisor about their fear of handing in** and get them (and others in your lab) to share their stories (for example at a lab meeting). You might find that you have common ground to start sharing how these problems can be overcome.
 
 At the end of the day, this is teamwork. Either you and your advisor are a team, or there are a bunch of advisors helping you. It is in everybody’s interest that the job gets done. Getting a line of dialogue moving with your advisor is essential, even if you have to arrange a meeting about a different subject and then introduce the problem later in the meeting. There are deadlines that need to be kept. You need to find a way of getting through the fear, and if it’s going to be a persistent problem, you’ll need to work out what works best for you.
+
+## When is it good enough to submit to my advisor? {#goodenough}
+
+Once you've read and revised the draft text three times yourself, and you feel that you can't really improve it any more, hand it over. Personally, I need to wait a day or more between drafts when I work on something else, or do some reading. I find that it really helps to think about writing while not writing. Run through the arguments in your head when you are doing something else. That could be time in the gym, out running, cycling or swimming. Or talk through the logic of your argument with a friend or colleague while having coffee. You’ll find that spending time thinking away from sitting in front of your word-processor will be really valuable in promoting productivity once you sit down again. 
+
+If you are [fearful of handing in](#fear) your work, share it with others to give you confidence. Hand it to an office mate or other friend first. Your reader shouldn't have to be an expert in your field, but only needs to have a loose grasp on scientific writing to follow any paper. As a guide, any recent graduate of a biological sciences degree (BSc) should be able to understand. This makes it easy to find lots of potential readers for your manuscript before handing it in.
+
+

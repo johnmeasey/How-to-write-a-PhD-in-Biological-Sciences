@@ -1,36 +1,36 @@
 # The References {#references}
 
-Having the references at the end of your chapter or publication is actually very important because in-text citations are not sufficient to determine exactly which paper you are referring to. Once you become very familiar with your own specific field you will find that you do glance at the references to make sure that the authors are citing the papers you think they are. It's also a great place to learn about literature that you don't know about already, and for this you need the full citation in order to look up the paper.
+Having the references at the end of your chapter or publication is actually very important because in-text citations often are not sufficient to determine exactly which paper you are referring to. Once you become very familiar with your own specific field you will find that you do glance at the references to make sure that the authors are citing the papers you think they are. It's also a great place to learn about literature that you don't know about already, and for this, you need the full citation in order to look up the paper.
 
-The right time to make sure that references are in the document is when you are writing the document. Do not leave this until the end. It has happened to me many times that I have written an in-text citation, did not paste the citation of the end of the document, and by the time I had finished writing, had forgotten what I had read and where I had read it. This then leads to a lot more time wasting trying to find that or another relevant citation. 
+The right time to make sure that references are in the document is when you are writing the document. Do not leave this until the end. It has happened to me many times that I have written an in-text citation, did not paste the citation at the end of the document, and by the time I had finished writing, had forgotten what I had read and where I had read it. This then leads to a lot more time wasting trying to find that or another relevant citation. 
 
-[Earlier in this book](citations.html), I provided a guide to the differences between Vancouver and Harvard referencing styles. Here I provide the output for the references that were given in that section to demonstrate the way in which these different referencing styles take up very different amounts of space. In that section, I provided some quotes from a published paper that had 9 citations. Below, you can see what these 9 citations look like in the two different generic outputs: Vancouver and Harvard.
+[Earlier in this book](#citations), I provided a guide to the differences between Vancouver and Harvard referencing styles. Here I provide the output for the references that were given in that section to demonstrate the way in which these different referencing styles take up very different amounts of space. In that section, I provided some quotes from a published paper that had 9 citations. Below, you can see what these 9 citations look like in the two different generic outputs: Vancouver and Harvard.
 
 ## Vancouver style {#vancouver}
-The following references follow the text written in [Vancouver style](citations.html) in the section on citations. Note that the order of citations here corresponds to the order in which they are cited.
+The following references follow the text written in [Vancouver style](#citations) in the section on citations. Note that the order of citations here corresponds to the order in which they are cited.
 
->^1^Wake DB, Vredenburg VT. Are we in the midst of the sixth mass extinction? A view from the world of amphibians. _Proceedings of the National Academy of Sciences_. 2008;105(Supplement 1):11466–73.
+>^1^Wake DB, Vredenburg VT. (2008) Are we in the midst of the sixth mass extinction? A view from the world of amphibians. _Proceedings of the National Academy of Sciences_. 105(Supplement 1):11466–73.
 >
->^2^Collins JP, Crump ML, Lovejoy III TE. _Extinction in our times: global amphibian decline_. Oxford University Press; 2009.
+>^2^Collins JP, Crump ML, Lovejoy III TE. (2009) _Extinction in our times: global amphibian decline_. Oxford University Press.
 >
->^3^Pimm SL, Jenkins CN, Abell R, Brooks TM, Gittleman JL, Joppa LN, et al. The biodiversity of species and their rates of extinction, distribution, and protection. _Science_. 2014;344(6187):1246752.
+>^3^Pimm SL, Jenkins CN, Abell R, Brooks TM, Gittleman JL, Joppa LN, et al. (2014) The biodiversity of species and their rates of extinction, distribution, and protection. _Science_. 344(6187):1246752.
 >
->^4^Kupferberg SJ. Bullfrog (*Rana catesbeiana*) invasion of a California river: the role of larval competition. _Ecology_. 1997;78(6):1736–51.
+>^4^Kupferberg SJ. (1997) Bullfrog (*Rana catesbeiana*) invasion of a California river: the role of larval competition. _Ecology_. 78(6):1736–51.
 >
->^5^Dufresnes C, Dubey S, Ghali K, Canestrelli D, Perrin N. Introgressive hybridization of threatened European tree frogs (*Hyla arborea*) by introduced _H. intermedia_ in Western Switzerland. _Conservation Genetics_. 2015;16(6):1507–13.
+>^5^Dufresnes C, Dubey S, Ghali K, Canestrelli D, Perrin N. (2015) Introgressive hybridization of threatened European tree frogs (*Hyla arborea*) by introduced _H. intermedia_ in Western Switzerland. _Conservation Genetics_. 16(6):1507–13.
 >
->^6^Berger L, Speare R, Hyatt A. _Chytrid fungi and amphibian declines: overview, implications and future directions. Declines and disappearances of Australian frogs_ Environment Australia, Canberra. 1999;1999:23–33.
+>^6^Berger L, Speare R, Hyatt A. (1999) _Chytrid fungi and amphibian declines: overview, implications and future directions. Declines and disappearances of Australian frogs_ Environment Australia, Canberra. 1999:23–33.
 >
->^7^Daszak P, Cunningham AA, Hyatt AD. Infectious disease and amphibian population declines. _Diversity and Distributions_. 2003;9(2):141–50.
+>^7^Daszak P, Cunningham AA, Hyatt AD. (2003) Infectious disease and amphibian population declines. _Diversity and Distributions_. 9(2):141–50.
 >
->^8^La Marca E, Lips KR, Lotters S, Puschendorf R, Ibanez R, Rueda-Almonacid JV, et al. Catastrophic population declines and extinctions in Neotropical harlequin frogs (Bufonidae: *Atelopus*) _Biotropica: The Journal of Biology and Conservation_. 2005;37(2):190–201.
+>^8^La Marca E, Lips KR, Lötters S, Puschendorf R, Ibanez R, Rueda-Almonacid JV, et al. (2005) Catastrophic population declines and extinctions in Neotropical harlequin frogs (Bufonidae: *Atelopus*) _Biotropica: The Journal of Biology and Conservation_. 37(2):190–201.
 >
->^9^Martel A, Spitzen-van der Sluijs A, Blooi M, Bert W, Ducatelle R, Fisher MC, et al. *Batrachochytrium salamandrivorans* sp. nov. causes lethal chytridiomycosis in amphibians. _Proceedings of the National Academy of Sciences_. 2013;110(38):15325–9.
+>^9^Martel A, Spitzen-van der Sluijs A, Blooi M, Bert W, Ducatelle R, Fisher MC, et al. (2013) *Batrachochytrium salamandrivorans* sp. nov. causes lethal chytridiomycosis in amphibians. _Proceedings of the National Academy of Sciences_. 110(38):15325–9.
 >
 >
 
 ## Harvard style {#harvard}
-The references below are exactly the same as those above, but follow the [Harvard](citations.html) referencing format. The order of these references is alphabetical. If a paper has the same authors the oldest one usually comes before subsequent papers. 
+The references below are exactly the same as those above, but follow the [Harvard](citations.html) referencing format. The order of these references is alphabetical. If a paper has the same authors the oldest paper usually comes before subsequent papers. 
 
 >Berger, L., Speare, R., Hyatt, A., 1999. _Chytrid fungi and amphibian declines: overview, implications and future directions. Declines and disappearances of Australian frogs_. Environment Australia, Canberra 1999, 23–33.
 >
@@ -52,13 +52,13 @@ The references below are exactly the same as those above, but follow the [Harvar
 >
 >
 
-Be aware that these styles (Vancouver and Harvard) represent two broad approaches, every publisher has their own variation on these, and that they can vary substantially between different journals. Full details are always provided by the journal (in their **Instructions to Authors**), and you can refer to these to see how your references need to be formatted. I also provide some pointers towards using [reference managers](referencesoftware.html). These can save you a lot of time, if you've already invested time in setting them up. Alternatively, they can be very frustrating.  
+Be aware that these styles (Vancouver and Harvard) represent two broad approaches, every publisher has their own variation on these, and that they can vary substantially between different journals. Full details are always provided by the journal (in their **Instructions to Authors**), and you can refer to these to see how your references need to be formatted. I also provide some pointers towards using [reference managers](#referencesoftware). These can save you a lot of time, if you've already invested time in setting them up. Alternatively, they can be very frustrating.  
 
 Lots of journals (or perhap's it's their editors) are very fussy about the way that citations are given in their publications. If you have used a decent reference manager then you won't care, and it'll just be a case of finding the appropriate format from their repository (or making it yourself). 
 
-There are lots of better things that you could be doing with your time instead of formatting references. And so I'm not going to spend a long time here telling you that you must do it right. I really believe that on first submission of your manuscript you should be able to submit your references in any format. it really only makes sense for you to do all the work formatting them if you aren't going to pay to have published the paper. An increasing number of journals do allow you to use any referencing style (within the generic Vancouver or Harvard format) when you first submit. You are only then required to format them if your ms is likely to be accepted.
+There are lots of better things that you could be doing with your time instead of formatting references. And so I'm not going to spend a long time here telling you that you must do it right. I really believe that on first submission of your manuscript you should be able to submit your references in any format. it really only makes sense for you to do all the work formatting them if you aren't going to pay to publish the paper. An increasing number of journals do allow you to use any referencing style (within the generic Vancouver or Harvard format) when you first submit. You are only then required to format them if your ms is likely to be accepted.
 
-There are lots of anal academics out there who will delight in looking for every missing full-stop, comma and capital-letter missing from your references. Perhaps it's because they feel secure pointing out these errors, but are incapable of knowing whether or not you've written good or bad science. Please don't join them and if you can look for a better world where you spend your valuable time doing more important things. 
+There are lots of anal academics out there who will delight in looking for every missing full-stop, comma and capital letter missing from your references. Perhaps it's because they feel secure pointing out these errors, but are incapable of knowing whether or not you've written good or bad science. Please don't join them and, if you can, look for a better world where you spend your valuable time doing more important things. 
 
 
 ## Digital Object Identifiers (DOIs) {#DOI}
@@ -66,9 +66,9 @@ A [DOI](https://www.doi.org/) is an international standard ([ISO](https://www.is
 
 DOIs are extremely useful as you can usually click on an active link DOI and go straight to the article in question. Therefore it is well worth adding the DOI to your references if you can. Some journals will allow this (and even demand it), while others have yet to come around to how useful they are.
 
-However, DOIs cannot replace references, otherwise we'd need to be able to click on every link all the time, and couldn't read any paper without a connection to the internet. It's still really useful to be able to read a formatted reference at the end of a paper.
+However, DOIs cannot replace references, otherwise, we'd need to be able to click on every link all the time, and couldn't read any paper without a connection to the internet. It's still really useful to be able to read a formatted reference at the end of a paper.
 
-### DOI Tools
+### DOI tools
 
 If you are writing your references by hand and need a DOI for every reference then there is this very useful online software that will provide the DOI if there is one for every reference you enter:
 [doi.crossref.org](https://doi.crossref.org/simpleTextQuery)

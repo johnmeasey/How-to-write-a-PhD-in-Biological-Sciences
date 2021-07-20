@@ -1,13 +1,13 @@
 # What is needed for your research proposal? {#proposal}
 
-In my institution, you need to have your PhD or MSc approved by a group of 3 independent staff members (i.e. not including advisors) in your department. The department requires that your written proposal is publicly available to everyone in the department to look at (normally deposited in the secretary’s office) at least 7 days prior to the oral presentation of your proposal. This is not unique to my university, many institutions require that you formally propose the work that you plan to do in a PhD. They may all have very different requirements. It is well worth checking out what your institution requires and by when. Talk to your adviser about this. 
+In my institution, you need to have your PhD or MSc approved by a group of 3 independent staff members (i.e. not including advisors) in your department. The department requires that your written proposal is publicly available to everyone in the department to look at prior to the oral presentation of your proposal. This is not unique to my university, many institutions require that you formally propose the work that you plan to do in a PhD. They may all have very different requirements. It is well worth checking out what your institution requires and by when. Talk to your advisor about this. 
 
-Your proposal is a collection of documents, where each document is a chapter of the thesis, and is roughly equivalent to a published paper. Ideally, these should be bounded by an introduction, which gives the bigger picture of how the thesis is placed, and a time-line at the end that demonstrates how you can complete the thesis within the two or three years for your MSc or PhD, respectively. Note that your project proposal is placed on your permanent file within the department.
+Your proposal is a collection of documents, where each document is a chapter of the thesis. Ideally, these should be bounded by an introduction, which gives the bigger picture of how the thesis is placed, and a time-line at the end that demonstrates how you can complete the thesis within the two or three years for your MSc or PhD, respectively.
 
 
 ## Structure
 
-We expect that your final thesis will be a set of papers (data chapters sandwiched between an [introduction and discussion](PhDintro.html)), and so we ask you to prepare the proposal in the same way. That is, you will normally have two (MSc) or five (PhD) data chapters. In the proposal, each chapter will consist of three parts:
+Your final thesis will be a set of papers (data chapters sandwiched between an [introduction and discussion](PhDintro.html)), and so prepare the proposal in the same way. That is, you will normally have two (MSc) or five (PhD) data chapters. In the proposal, each chapter will consist of three parts.
 
 ## Proposal introduction
 
@@ -27,13 +27,13 @@ What’s in the [Methods and Materials](methods.html) section is also covered he
 
 It’s a very useful exercise to imagine how results will show that you have (or have not) accepted your hypothesis. You can’t show results that would cover every eventuality, but give some typical scenarios that you think may happen if you accept and reject each hypothesis. This could be a bar chart, a map, a scatter-graph, etc.
 
-## Your Proposal - what is it good for?
+## Your proposal - what is it good for?
 
 Once you’re done with your proposal, you might feel that you’ve done an awful lot of work without having added anything towards achieving your PhD or MSc. However, it’s actually a really useful document that you can use in a number of ways:
 
 ### Copy and paste directly into your thesis
 
-One PhD student estimated that she pasted 60-70% of her proposal text directly into her thesis. This included nearly all of the methods and materials section verbatim. Note that this **is not** plagiarism. You wrote the original proposal as a single author and it was not published, so you are at liberty to use the text again.
+One PhD student estimated that she pasted 60-70% of her proposal text directly into her thesis. This included nearly all of the methods and materials section verbatim. Note that this **is not** plagiarism, but [developmental recycling](#develop). 
 
 ### Use it to raise money to do your studies. 
 

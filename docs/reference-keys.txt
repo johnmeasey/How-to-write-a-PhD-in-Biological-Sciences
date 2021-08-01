@@ -1,4 +1,3 @@
-tab:iris
 fig:PhDMap
 fig:THEreseasrchcountry
 fig:Rlogo

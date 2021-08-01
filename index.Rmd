@@ -12,17 +12,7 @@ colorlinks: yes
 lot: yes
 lof: yes
 site: bookdown::bookdown_site
-description: You don’t have to be a genius to write a PhD. It will always involve
-  a lot of hard work and dedication, but the process of writing up is a whole lot
-  easier if you understand the basic ground rules. This book is a guide specifically
-  for writing a PhD in the biological sciences. It will guide you from deciding
-  whether or not you should actually do a PhD, provide practical, up-to-the-minute
-  guides to getting started with planning and writing, and consolidate this with the
-  nuts and bolts of writing for the biological sciences. The book guides you through
-  the do’s and don’ts of writing a thesis, and taking your thesis chapters to publication
-  in peer-reviewed journals. Whether you are a student just starting your studies,
-  or a supervisor struggling to cope, this book will provide the insider information
-  you need to get ahead.
+description: "You don’t have to be a genius to write a PhD. It will always involve a lot of hard work and dedication, but the process of writing up is a whole lot easier if you understand the basic ground rules. This book is a guide specifically for writing a PhD in the biological sciences. It will guide you from deciding  whether or not you should actually do a PhD, provide practical, up-to-the-minute guides to getting started with planning and writing, and consolidate this with the nuts and bolts of writing for the biological sciences. The book guides you through the do’s and don’ts of writing a thesis, and taking your thesis chapters to publication in peer-reviewed journals. Whether you are a student just starting your studies, or a supervisor struggling to cope, this book will provide the insider information you need to get ahead."
 github-repo: yihui/bookdown-crc
 graphics: yes
 ---
@@ -37,6 +27,16 @@ lapply(c('xfun'), function(pkg) {
   if (system.file(package = pkg) == '') install.packages(pkg)
 })
 ```
+# In Press {-}
+This book is _in press_ with CRC Press. 
+
+
+```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://john.measey.com/'}
+knitr::include_graphics('figures/cover.jpg', dpi = NA)
+```
+
+
+You can pre-order your own copy on the [CRC Press website](https://www.routledge.com/How-to-Write-a-PhD-in-Biological-Sciences-A-Guide-for-the-Uninitiated/Measey/p/book/9781032080208), on [Amazon](https://www.amazon.com/How-Write-PhD-Biological-Sciences/dp/1032080205), at [Barns & Noble](https://www.barnesandnoble.com/w/how-to-write-a-phd-in-biological-sciences-john-measey/1139436164), and at other good book sellers.
 
 
 # Welcome {-}
@@ -62,16 +62,16 @@ None of the topics is explored in any great depth. This is deliberate as this gu
 
 **The book is divided into four main parts:**
 
-[**Part 1**](part1.html)
+[**Part 1**](#part1)
 -	Part one is written as something that you should read early on in the process, once you’ve committed to doing your PhD. This section of the book deals with what a PhD is, how it’s examined, with whom, where and when to do it. Perversely, it asks you what you want to do after you’ve finished, pointing out that you will have opportunities to open doors during the process. At the start of your PhD is the time to be thinking of the bigger questions both in your study area, and your life, and this section provides some pointers and things to consider. Working within academia is particularly stressful environment, and students should be aware of the state of their mental health, how to watch become aware if it is deteriorating, and what you can do to help yourself. I also encourage you to participate in the **scientific project**, and become aware of your role as a scientist within society.
 
-[**Part 2**](part2.html)
--	Part two of the book sets out a practical guide to getting started with writing. The approach I've taken here is describing the production of a PhD in biological sciences which is made up of data chapters, and where each chapter is essentially a potential publication in a science journal. If you didn't want to do a PhD but just wanted to write a publication, then most of what is here (and in [Part 3](part3.html)) will be of use as you could take the same formulaic approach as given in this book. Similarly, if you were undertaking a MSc by research, this section would also be useful. The approach taken is ‘hypothesis-centric’, and how the entire chapter will be built around answering the hypothesis posed. This section explains how the hypothesis and all logical arguments that you make in the text are constructed from existing literature - **standing on the shoulders of giants** - with a practical guide on how to use citations. In addition to some nuts and bolts of how to write paragraphs, construct arguments, remain concise and avoid plagiarising, this section attempts to cover a lot of technical aspects of writing for the biological sciences. 
+[**Part 2**](#part2)
+-	Part two of the book sets out a practical guide to getting started with writing. The approach I've taken here is describing the production of a PhD in biological sciences which is made up of data chapters, and where each chapter is essentially a potential publication in a science journal. If you didn't want to do a PhD but just wanted to write a publication, then most of what is here (and in [Part 3](#part3)) will be of use as you could take the same formulaic approach as given in this book. Similarly, if you were undertaking a MSc by research, this section would also be useful. The approach taken is ‘hypothesis-centric’, and how the entire chapter will be built around answering the hypothesis posed. This section explains how the hypothesis and all logical arguments that you make in the text are constructed from existing literature - **standing on the shoulders of giants** - with a practical guide on how to use citations. In addition to some nuts and bolts of how to write paragraphs, construct arguments, remain concise and avoid plagiarising, this section attempts to cover a lot of technical aspects of writing for the biological sciences. 
 
-[**Part 3**](part3.html)
--	A typical PhD will consist of five data chapters where each data chapter is a publication. The standard formula is to write this is in sections consisting of an introduction, methods and materials, results and a discussion. Together with the title, abstract, references and supplementary information, all of these parts also make up most scientific publications. In this section of the book, I go through each of these components using a formulaic approach. To get you started writing, I suggest how you can build each section from an outline that is fleshed out with literature and works around a hypothesis (from [Part 2](part2.html)). In addition to the sections needed for your thesis, I also cover parts needed to submit a paper, including the title page, writing the abstract, supplementary material, authorship, and acknowledgements. Therefore, this part of the book will be relevant for anyone setting out to write a scientific paper in the biological sciences, especially if you are having trouble getting started.  
+[**Part 3**](#part3)
+-	A typical PhD will consist of five data chapters where each data chapter is a publication. The standard formula is to write this is in sections consisting of an introduction, methods and materials, results and a discussion. Together with the title, abstract, references and supplementary information, all of these parts also make up most scientific publications. In this section of the book, I go through each of these components using a formulaic approach. To get you started writing, I suggest how you can build each section from an outline that is fleshed out with literature and works around a hypothesis (from [Part 2](#part2)). In addition to the sections needed for your thesis, I also cover parts needed to submit a paper, including the title page, writing the abstract, supplementary material, authorship, and acknowledgements. Therefore, this part of the book will be relevant for anyone setting out to write a scientific paper in the biological sciences, especially if you are having trouble getting started.  
 
-[**Part 4**](part4.html)
+[**Part 4**](#part4)
 -	The last and shortest section of this book talks about what you still need to do once your data chapters are written. For most PhD theses, you will need to write a short introductory chapter (sometimes a literature review) that comes before these data chapters, and a concluding synthesis chapter at the end. These chapters make your thesis into a 'body of work', and allow you space to reflect on what you have achieved in your PhD studies. I have framed their content at the bare minimum required, as many students will find themselves under a great deal of pressure to submit their thesis to a prescribed deadline. I also provide some alternative approaches for those who have the luxury of more time to attack these sections in more detail. The very end of the book sets out some reasons for why you need to publish your thesis chapters. 
 
 Throughout this guide you will find links and references of things to read elsewhere. The reality is that there is a lot out there for you to read. I am not the only person to write a guide, and I can't pretend that all the answers are here in this book. You will find that in your particular situation you need to look around. What I aim to do in this book is provide you with enough background information to help in your onward search, and provide you with enough inside knowledge to do a PhD. 
@@ -87,7 +87,7 @@ You should be aware from the outset that doing a PhD is a major undertaking. It 
 
 ## Acknowledgments {- #acknowledge}
 
-Before I go on, there are a great many people that I need to thank. First and foremost are my students, past and present, who have inspired me to put together first the blog posts and then the book. It is because you wanted more that I put this together. I have also been a student, and have been inspired by colleagues around the world who have been exemplary advisors. This book contains lots of links to blogs and articles written and posted freely on the internet by others who also aim to demystify and help. I thank this greater academic community (especially #academicTwitter) for sharing and inspiring. Thanks go to the many reviewers and editors who have taken their time to improve my writing. I am still learning. Lots of the text in this book has been improved by feedback from my students and postdocs. A special mention must go to my brother, Richard, who has hosted my lab website for more than a decade, and especially for saving blog posts from hacking attacks. Thanks also to my wife, Thalassa, who proofread many of the blog posts after I had published them late at night, so that I could correct them over breakfast in the morning. James Baxter-Gilbert, Jack Dougherty, Anthony Herrel, Allan Ellis, Andrea Melotto, Lisa and Mark O'Connell, James Vonesh, Carla Wagener all read or commented on different aspects of the book. Thanks are also due to my colleagues at the Centre for Invasion Biology, the Department of Botany and Zoology, and Stellenbosch University. A special thanks to the librarians who have supported many of my more extreme rantings about publishers.
+Before I go on, there are a great many people that I need to thank. First and foremost are my students, past and present, who have inspired me to put together first the blog posts and then the book. It is because you wanted more that I put this together. I have also been a student, and have been inspired by colleagues around the world who are exemplary advisors. This book contains lots of links to blogs and articles written and posted freely on the internet by others who also aim to demystify and help. I thank this greater academic community (especially #academicTwitter) for sharing and inspiring. Thanks go to the many reviewers and editors who have taken their time to improve my writing. I am still learning. Lots of the text in this book has been improved by feedback from my students and postdocs. A special mention must go to my brother, Richard, who has hosted my lab website for more than a decade, and especially for saving blog posts from hacking attacks. Thanks also to my wife, Thalassa, who proofread many of the blog posts after I had published them late at night, so that I could correct them over breakfast in the morning. James Baxter-Gilbert, Jack Dougherty, Anthony Herrel, Allan Ellis, Andrea Melotto, Lisa and Mark O'Connell, Claire Riss, Pat Schloss, James Vonesh, Carla Wagener all read or commented on different aspects of the book. Thanks are also due to my colleagues at the Centre for Invasion Biology, the Department of Botany and Zoology, and in the library at Stellenbosch University.
 
 ```{block2, type='flushright', html.tag='p'}
 John Measey  

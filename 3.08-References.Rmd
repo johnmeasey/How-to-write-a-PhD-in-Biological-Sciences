@@ -30,7 +30,7 @@ The following references follow the text written in [Vancouver style](#citations
 >
 
 ## Harvard style {#harvard}
-The references below are exactly the same as those above, but follow the [Harvard](citations.html) referencing format. The order of these references is alphabetical. If a paper has the same authors the oldest paper usually comes before subsequent papers. 
+The references below are exactly the same as those above, but follow the [Harvard](#citations) referencing format. The order of these references is alphabetical. If a paper has the same authors the oldest paper usually comes before subsequent papers. 
 
 >Berger, L., Speare, R., Hyatt, A., 1999. _Chytrid fungi and amphibian declines: overview, implications and future directions. Declines and disappearances of Australian frogs_. Environment Australia, Canberra 1999, 23–33.
 >

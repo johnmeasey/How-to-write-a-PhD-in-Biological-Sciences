@@ -7,21 +7,21 @@ Your proposal is a collection of documents, where each document is a chapter of 
 
 ## Structure
 
-Your final thesis will be a set of papers (data chapters sandwiched between an [introduction and discussion](PhDintro.html)), and so prepare the proposal in the same way. That is, you will normally have two (MSc) or five (PhD) data chapters. In the proposal, each chapter will consist of three parts.
+Your final thesis will be a set of papers (data chapters sandwiched between an [introduction and discussion](#PhDintro)), and so prepare the proposal in the same way. That is, you will normally have two (MSc) or five (PhD) data chapters. In the proposal, each chapter will consist of three parts.
 
 ## Proposal introduction
 
-I’m not going to go into what’s inside the introduction here, as it’s already been done in other chapters on formulaic writing (see later in this [part](formula.html)) and specifically about the introduction (see [part 3](introduction.html)). Although you may feel that there's no point putting a lot of effort into this introduction it serves as a literature review for your upcoming PhD study, and is well worth the time and effort. 
+I’m not going to go into what’s inside the introduction here, as it’s already been done in other chapters on formulaic writing (see later in this [part](#formula)) and specifically about the introduction (see [part 3](#introduction)). Although you may feel that there's no point putting a lot of effort into this introduction it serves as a literature review for your upcoming PhD study, and is well worth the time and effort. 
 
 ## Methods and Materials
 
-What’s in the [Methods and Materials](methods.html) section is also covered here. Essentially you need to:
+What’s in the [Methods and Materials](#methods) section is also covered here. Essentially you need to:
 
 - Introduce important aspects of your study organism and/or study site
 - Describe exactly how you’ll set up your experiment and/or collect your samples
-- You must explicitly state how each of the variables (introduced in the [introduction](introduction.html)) is collected
+- You must explicitly state how each of the variables (introduced in the [introduction](#introduction)) is collected
 - (If necessary) Describe how you’ll turn your collected data into the variables needed for your analyses
-- Data analyses (how you’ll test your [hypotheses](hypothesis.html)). This should include a description of the statistical or analytical techniques. It’s useful to structure this section by each of the questions/hypotheses that you are posing
+- Data analyses (how you’ll test your [hypotheses](#hypothesis)). This should include a description of the statistical or analytical techniques. It’s useful to structure this section by each of the questions/hypotheses that you are posing
 
 ## Hypothetical Results
 
@@ -37,8 +37,8 @@ One PhD student estimated that she pasted 60-70% of her proposal text directly i
 
 ### Use it to raise money to do your studies. 
 
-Writing grant proposals is essentially the same as your thesis proposal, and so you can use this document (with some modifications to tailor it to the grant objectives) to [raise money](funding.html) for your work. 
+Writing grant proposals is essentially the same as your thesis proposal, and so you can use this document (with some modifications to tailor it to the grant objectives) to [raise money](#funding) for your work. 
 
 ### Deposit the proposal to conform to Design and Analysis Transparency
 
-This is the subject of another chapter (see [part 3](transparency.html)).
+This is the subject of another chapter (see [part 3](#transparency)).

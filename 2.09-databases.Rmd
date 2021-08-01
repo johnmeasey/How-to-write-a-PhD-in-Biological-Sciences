@@ -6,11 +6,11 @@ Before you start using a literature database, you will need to have some key lit
 
 ## Searching the literature using a database
 
-There are two typical ways in which you can search for literature about your area of interest. The first is to use keywords and the second is to use citations of key references. I suggest that you use both of these tactics when doing your initial literature search. Further, I’d suggest that it’s worth your time keeping a record of what you have searched for, how and when and then download the results. This is called a systematic literature review. Using this tactic from the outset of your interactions with literature databases will give you a good idea of what proportion of the literature you are reading, and you might then be able to convert your finding into an objective literature review - making a great first [introductory chapter](PhDintro.html) for your thesis.
+There are two typical ways in which you can search for literature about your area of interest. The first is to use keywords and the second is to use citations of key references. I suggest that you use both of these tactics when doing your initial literature search. Further, I’d suggest that it’s worth your time keeping a record of what you have searched for, how and when and then download the results. This is called a systematic literature review. Using this tactic from the outset of your interactions with literature databases will give you a good idea of what proportion of the literature you are reading, and you might then be able to convert your finding into an objective literature review - making a great first [introductory chapter](#PhDintro) for your thesis.
 
 ## Keywords {#keywords}
 
-While searching for keywords sounds easy, picking the keywords that you should use is more difficult and requires a lot of practice with the databases and your key references. Remember that keywords are often not single words, but also include short phrases. Look at all of the key references and the keywords that they contain. Any keywords that they share are going to be important for you. Make a note of all relevant keywords for your searches, as ultimately, this will help you when you need to determine the keywords for [your own chapters](title.html).
+While searching for keywords sounds easy, picking the keywords that you should use is more difficult and requires a lot of practice with the databases and your key references. Remember that keywords are often not single words, but also include short phrases. Look at all of the key references and the keywords that they contain. Any keywords that they share are going to be important for you. Make a note of all relevant keywords for your searches, as ultimately, this will help you when you need to determine the keywords for [your own chapters](#title).
 
 Most literature databases have the option of using just keywords, or keywords and words in the title and abstract. I would start with the broader search term and see how well they work. However, these searches alone may return such a large amount of literature that you can’t possibly read it all. In this case, you will need to use more than a single keyword. The trick is to find the correct combination of keywords that will deliver all (or most) of your key references, while not delivering returns of thousands of papers that are not relevant to your study. Ideally, you want a search term that will deliver around one hundred papers at most, where the majority have relevance to your study area. Luckily, literature databases have some tricks for you to add to combine your keywords in ways that you can include or exclude certain topics.
 
@@ -50,7 +50,7 @@ Your specific search term may end up having a long list of terms. Remember to sa
 
 ## Moving items into your reference manager
 
-An invaluable way in which databases have become extremely useful is the ability to move items that you have found during your search directly into your [reference manager](referencesoftware.html). Beware that these regularly come with errors, and that the amount of errors is related to your database source (Scopus and WoS are much better than Google Scholar). This means that after importing the references, you will need to go back to your reference manager and edit them or they will come out incorrectly when you use them. Of particular note to biologists is the need to have all species names in [italics](taxonomy.html), and you'll need to do this yourself. 
+An invaluable way in which databases have become extremely useful is the ability to move items that you have found during your search directly into your [reference manager](#referencesoftware). Beware that these regularly come with errors, and that the amount of errors is related to your database source (Scopus and WoS are much better than Google Scholar). This means that after importing the references, you will need to go back to your reference manager and edit them or they will come out incorrectly when you use them. Of particular note to biologists is the need to have all species names in [italics](#taxonomy), and you'll need to do this yourself. 
 
 
 ## Citations
@@ -84,7 +84,7 @@ Once you have found a scientist who works within your field and produces influen
 
 While Dave Thompson could always add his middle initial to specify his work, as time went by there were more and more scientists publishing as D J Thompson. This made it more difficult for administrators and scientists alike. This has begun to be a bigger global problem, such that the databases have begun to use profiles of particular scientists that individuals can 'own' and curate. Each database has its own way of doing this, and it can become rather a chore so that not many scientists have their own profiles, which makes it a problem, particularly for those with common names. 
 
-The [ORCID](orcid.html) number has been erected to provide a common platform for [authors to curate](title.html), and now some journals and funding authorities won't allow you to submit or apply without one. 
+The [ORCID](#orcid) number has been erected to provide a common platform for [authors to curate](#title), and now some journals and funding authorities won't allow you to submit or apply without one. 
 
 ## Google Scholar, Web of Science or Scopus?
 

@@ -22,15 +22,9 @@ One of the amazing potentials for [bookdown books](https://bookdown.org/) is tha
 
 
 ## Creative Commons License {-}
-How to write a PhD in Biological Sciences: a guide for the uninitiated is copyright to John Measey and distributed under a Creative Commons BY-NC-ND 4.0 International License. You may freely share this content for non-commercial purposes, with a source credit to [www.HowToWriteAPhD.org](www.HowToWriteAPhD.org).
+How to write a PhD in Biological Sciences: a guide for the uninitiated is copyright to John Measey and distributed under a [Creative Commons BY-NC-ND 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). You may freely share this content for non-commercial purposes, with a source credit to [www.HowToWriteAPhD.org](www.HowToWriteAPhD.org).
 
 ## Disclaimer {-}
 
 Although I have tried to make the information is this book as accurate as possible, it is provided without any warranty. The author and publisher have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this book.
 
-```{r iris}
-knitr::kable(
-  head(iris), caption = 'We must have the iris data and some R code, otherwise it would not seem right',
-  booktabs = TRUE
-)
-```

@@ -23,4 +23,6 @@ Taking your work to the next level is not a trivial step, even though you alread
 knitr::include_graphics('figures/cover2.png')
 ```
 
-**The follow-up to this book, How to Publish in Biological Sciences: A Guide for the Uninitiated**  is available at [www.routledge.com/9781032116419](www.routledge.com/9781032116419).
+**The follow-up to this book, How to Publish in Biological Sciences: A Guide for the Uninitiated** is available at [www.routledge.com/9781032116419](www.routledge.com/9781032116419). 
+
+You can [read this book now and contribute on GitHub](https://johnmeasey.github.io/How-to-publish-in-Biological-Sciences/).

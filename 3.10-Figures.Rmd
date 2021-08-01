@@ -62,7 +62,7 @@ knitr::include_graphics('figures/fancy-map.png')
 Conceptual diagrams or figures are very useful in the introduction or methods when you have undertaken a complex study design. There are many different ways of doing this, but essentially the information needs to be conveyed in a way that is more simple in the figure than writing it out. Boxes and arrows are sufficient for most purposes. If the figure gets too complicated to understand, it's probably of little use. 
 
 
-I encourage my students to draw conceptual diagrams of how the thesis chapters relate to one another (Figure \@ref(fig:thesis-construction)), and then to include this diagram in the introduction to the thesis to help examiners and any other readers to understand how the chapters are interrelated (see [Part IV](PhDintro.html)). 
+I encourage my students to draw conceptual diagrams of how the thesis chapters relate to one another (Figure \@ref(fig:thesis-construction)), and then to include this diagram in the introduction to the thesis to help examiners and any other readers to understand how the chapters are interrelated (see [Part IV](#PhDintro)). 
 
 I suggest that it is also very useful when you're undertaking a review to draw a conceptual diagram for yourself of what you were trying to achieve. This may or may not then be included in the review when it comes to publishing. 
 

@@ -21,7 +21,7 @@ knitr::include_graphics('figures/results.png')
 ## When to have a table or graph?
 Most journals will allow you to have as many tables or graphs as you need to give your results. There are a few important things to consider. First, that data shouldn’t be repeated. So don’t have a table of results where the same results are also in a graph (or even two graphs that show the same data). Also, don’t repeat data from a figure or table in your text. You need to decide how best to present your data. If you can’t decide then discuss it with your advisor by presenting them with the alternatives. Good results should convey your findings clearly, and consulting with others should quickly help you decide which approach is effective.
 
-See sections on [tables](tables.html) and [figures](figures.html) below.
+See sections on [tables](#tables) and [figures](#figures) below.
 
 ## Descriptive results
 Some studies have a set of descriptive results that, by convention, are placed without a section header at the start of the results. These normally convey the size of the dataset that entered into the rest of the analyses. If the size of the dataset varies by design in the methods, then you don’t need it here. But you can’t always control the sample size, so it needs to be established before moving on to the rest of the results. In genetic studies, for example, this might include the number of samples that were collected and successfully sequenced, and thus entered into the rest of the analyses. Your text can then be broken into sections that correspond with your questions, unless you only have one, in which case further sections are not warranted.

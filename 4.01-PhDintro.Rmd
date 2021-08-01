@@ -19,7 +19,7 @@ The way in which to cite your chapters is most straightforward here by using the
 
 ### Formulate the objectives of your study?
 
-At this point in your thesis writing, it is worth looking back to the [criteria used to judge a PhD at your institution](beforeyoustart.html). Yours may differ from those stated in this book, but it is clear that you should be able to formulate the objectives of your study, and that this includes not only the objectives of the individual data chapters, but of the study overall (here in the introductory chapter). 
+At this point in your thesis writing, it is worth looking back to the [criteria used to judge a PhD at your institution](#beforeyoustart). Yours may differ from those stated in this book, but it is clear that you should be able to formulate the objectives of your study, and that this includes not only the objectives of the individual data chapters, but of the study overall (here in the introductory chapter). 
 
 By the end of the introductory chapter, anyone reading should know what the thesis is about, and what it is that you aim to find out. This doesn't mean that they know what you found in each of the data chapters, but that they know the topics explored within the thesis and what was done to address them. 
 

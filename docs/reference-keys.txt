@@ -29,6 +29,7 @@ fig:formula
 fig:outline
 fig:outline-fleshed
 fig:Data-management
+fig:key-word-selection
 fig:introduction
 tab:introparagraphs
 fig:methods
@@ -198,6 +199,7 @@ so-if-not-a-native-english-speaker-who-should-do-it
 but-surely-my-native-tongue-can-be-used-for-something
 plagiarise
 how-to-know-if-you-have-plagiarised
+free-online-plagiarism-tools
 what-to-do-if-plagiarism-is-detected-in-your-work
 how-can-you-make-sure-that-you-never-plagiarise
 what-is-autoplagiarism
@@ -265,6 +267,7 @@ the-title
 some-title-ideas-to-start-you-off
 things-to-avoid-in-your-title
 key-words
+selecting-appropriate-key-words
 abstract
 what-is-the-abstract
 so-what-would-a-good-abstract-contain

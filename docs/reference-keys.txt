@@ -18,6 +18,7 @@ fig:Googlescholar
 fig:Boyle
 tab:taxonomy
 tab:plantrank
+tab:derivative
 fig:develop-writing-style
 fig:moss
 fig:editor
@@ -41,7 +42,7 @@ fig:not-fancy
 fig:fancy-map
 tab:CRediT
 fig:thesis-construction
-intro
+part1
 beforeyoustart
 what-is-a-phd
 is-a-phd-more-than-a-thesis
@@ -172,8 +173,9 @@ peculiarities-of-plant-taxonomy
 other-times-to-use-italics
 common-names
 should-common-names-have-capitals
-view-1
-view-2
+view-1---yes-use-capitals-for-common-names
+view-2---no-dont-use-capitals-for-common-names
+changing-scientific-names-to-english-names
 style
 develop-your-writing-style
 bamboozle
@@ -332,7 +334,7 @@ suppinfo
 what-can-go-into-supplementary-material
 toward-transparency-and-repeatability-of-scientific-studies
 why-stop-with-just-depositing-your-data-and-analyses-online
-now-that-you-have-finished-your-data-chapters
+part4
 PhDintro
 citing-your-chapters
 formulate-the-objectives-of-your-study

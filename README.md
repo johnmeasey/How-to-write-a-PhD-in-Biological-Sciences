@@ -1,14 +1,16 @@
 # How to write a PhD in Biological Sciences: A guide for the uninitiated 
 
-This is an Open Access book by John Measey, under contract with CRC Press
-
-<a href="http://www.howtowriteaphd.org/"><img src="https://github.com/johnmeasey/How-to-write-a-PhD-in-Biological-Sciences/tree/main/figures/Cover.png" alt="CRC cover" align="right" /></a>
+This is an Open Access book by John Measey, <b>in press</b> with CRC Press
 
 You can read this book for free online at http://www.howtowriteaphd.org/, or purchase print or ebook edition from CRC (at some point in the future).
 
 View open-source code for source text and templates at [here](https://github.com/johnmeasey/How-to-write-a-PhD-in-Biological-Sciences)
 
 Please send corrections or suggestions for this book-in-progress to john@howtowriteaphd.org, or open an issue or submit a pull request on the [GitHub repository](https://github.com/johnmeasey/How-to-write-a-PhD-in-Biological-Sciences). If you submit a GitHub pull request, in your commit message, please add the sentence “I assign the copyright of this contribution to John Measey” so that I retain the option of publishing this book in other forms.
+
+![cover](https://user-images.githubusercontent.com/25199650/132136607-ee08db4e-0ea7-4d42-8ca3-30d2935043f8.jpg)
+
+
 
 
 # About the book

@@ -17,3 +17,8 @@ Please send corrections or suggestions for this book-in-progress to john@howtowr
 You don’t have to be a genius to write a PhD. It will always involve a lot of hard work and dedication, but the process of writing up is a whole lot easier if you understand the basic ground rules. This book is a guide specifically for writing a PhD in the *biological sciences*. It will guide you from deciding whether or not you should actually do a PhD, provide practical, up-to-the-minute guides to getting started with planning and writing, and consolidate this with the nuts and bolts of writing for the biological sciences. The book guides you through the do’s and don’ts of writing a thesis, and taking your thesis chapters to publication in peer-reviewed journals. Whether you are a student just starting your studies, or a supervisor struggling to cope, this book will provide the insider information you need to get ahead.
 
 This book was written with http://bookdown.org and https://www.rstudio.com
+
+
+## Disclaimer
+
+This open-source repository is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. No installation or technical support will be provided.

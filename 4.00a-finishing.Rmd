@@ -1,4 +1,4 @@
-# Now that you have finished your data chapters
+# Now that you have finished your data chapters {#part4}
 
 In this last part of the book, I am going to presume that you have done all of the work for the data chapters, and written them up as distinct chapters of your thesis. When you look at PhDs that are stored in your institution's libraries, or those that you’ve referred to in the course of your study, you will notice that they have two additional chapters in addition to data chapters. These are often quite short (although lengths vary), and serve to introduce and conclude the PhD thesis (Figure \@ref(fig:thesis-construction). While these are not usually considered to be the ‘meat’ of the PhD itself, they are important sections to reflect on and carefully consider, as they attempt to pull together data chapters that are written as stand-alone documents into a [cohesive thesis](#criteria). To this end, they require the same careful planning that any other section in your thesis deserves, with one important condition: that they should not impede the timely submission of your thesis.
 

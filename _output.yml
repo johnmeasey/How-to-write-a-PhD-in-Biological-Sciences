@@ -1,19 +1,22 @@
 bookdown::gitbook:
   css: css/style.css
   config:
-    search:
-        engine: fuse
     toc:
-      collapse: none
+      collapse: subsection
       before: |
-        <li><a href="./">How to publish in Biological Sciences</a></li>
+        <li><a href="./">A guide for the uninitiated</a></li>
         <li><a href="...">John Measey</a></li>
       after: |
-        <li><a href="https://john.measey.com" target="blank">Published with bookdown</a></li>
+        <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
         <li><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="blank">Creative Commons BY-NC-SA 4.0</a></li>
+    download: false
+    edit: https://github.com/johnmeasey/How-to-write-a-PhD/edit/%s
     sharing:
       github: true
+      twitter: true
+      whatsapp: true
       facebook: true
+      linkedin: true
 bookdown::pdf_book:
   includes:
     in_header: latex/preamble.tex

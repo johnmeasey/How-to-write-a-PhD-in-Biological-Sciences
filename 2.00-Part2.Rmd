@@ -1,1 +1,13 @@
 # (PART) Part 2: Get writing {-}
+
+# How to get started with writing  {#part2}
+
+__Before you start writing__
+
+The writing part of the PhD is often the most difficult for many students. I think that there are several reasons for this. Writing well comes with practice, and most PhD students have had little experience with academic writing even if they have already completed an MSc. The same could be said of most early-career scientists (even after their PhDs), because practice is measured in completed pieces, it usually takes many years rather than weeks or months. You shouldn't expect that scientific writing will come automatically or immediately. In order to get this practice, you need to get started, and (again) many students find starting to write challenging. This guide was written to help you get started. 
+
+However, before you start writing, it's a good idea to understand some of the ways in which academic writing differs from other writing styles. Good planning is the key here, along with knowing exactly what it is that you'll be writing about. That sounds facile, but at the foundation of each scientific study lies the hypothesis, which is central to being able to build the rest of the chapter.
+
+In this part of the book, I start with an explanation of the hypothesis. As you will see, the hypothesis is central to all of the writing in each chapter or paper, and you need to have a very good idea of how to formulate your research question into a hypothesis before you begin. Then I build on helping you think through lots of different aspects of writing in science: style, citations, writing concisely, scientific names, and lots more. Finally, I introduce you to the idea of using a formula to structure your writing. 
+
+Before you start writing in earnest, it’d be good to read this part of the book and make sure that you are familiar with the ideas herein. Later, you may need to refer back to sections once you’ve started writing.

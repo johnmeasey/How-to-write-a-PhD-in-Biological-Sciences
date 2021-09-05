@@ -19,10 +19,10 @@ This is by no means an exhaustive list, but I hope it will give you some insight
 
 Taking your work to the next level is not a trivial step, even though you already have your chapters written in the style of manuscripts. The challenges of publishing work, like other challenges in academia, are much easier if you possess inside knowledge of the system. The demystification of the next steps along the road in academia is the subject of another book.
 
-```{r cover2, echo=FALSE, fig.align='centre', out.width='60%', fig.link='www.routledge.com/9781032116419'}
+```{r cover2, echo=FALSE, fig.align='centre', out.width='60%', fig.link='http://www.howtopublishscience.org/'}
 knitr::include_graphics('figures/cover2.png')
 ```
 
 **The follow-up to this book, How to Publish in Biological Sciences: A Guide for the Uninitiated** is available at [www.routledge.com/9781032116419](www.routledge.com/9781032116419). 
 
-You can [read this book now and contribute on GitHub](https://johnmeasey.github.io/How-to-publish-in-Biological-Sciences/).
+You can read this book now and contribute on GitHub at [www.howtopublishscience.org](http://www.howtopublishscience.org/).

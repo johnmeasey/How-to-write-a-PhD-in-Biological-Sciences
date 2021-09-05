@@ -28,6 +28,13 @@ knitr::include_graphics('figures/plagiarism.png')
 
 This is not to say that no 5 or more words can ever be the same as someone else's. There are situations in which this happens. Think of addresses, quotes, certain laboratory equipment or protocols, and certainly references at the end of your paper. So there are many times when TurnItIn will come back with matching text. This is not what we're looking for in plagiarism.
 
+## Free online plagiarism tools
+
+If your institution doesn't subscribe to a plagiarism tool, then you can check your work online free using one of a number of tools available. There are advantages and disadvantages to each, so I suggest that you try them out, and see which suits your needs best. 
+
+- **Grammerly** ([www.grammarly.com](www.grammarly.com)) Checks your work for plagiarism for free, but you need to create an account (even for the free version) and you have to pay if you want it to check your grammar. 
+- **Plagiarisma** ([plagiarisma.net](plagiarisma.net)) You'll need to create an account (to see where your copied text came from) and paste your text into a box, but you'll get a good sense of whether or not there is plagiarism in your text.
+- **PaperRater** ([www.paperrater.com](www.paperrater.com)) No need to create an account to paste text into a box (but it didn't recognise my content which is also on my blog and so doesn't get top marks from me). Some nice different output with suggestions on readability and grammar.
 
 
 ##  What to do if plagiarism is detected in your work

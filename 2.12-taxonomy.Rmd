@@ -104,12 +104,44 @@ I eventually decided to use 'African Clawed Frog' as this is the most widely rec
 **Warning: lots of people get very upset about this point and there are two views:**
 
 
-### View 1
+### View 1 - Yes, use capitals for common names
 
-Common names are proper nouns and proper nouns start with capitals. The Western Leopard Toad is not any toad, and the African Clawed Frog isn't any frog. The Cape platanna is any platanna living in the Cape, but the Cape Platanna is *Xenopus gilli*! In this last example, you can see how capitalisation reduces ambiguity and differentiates between adjectives and nouns.
+Common names are proper nouns and proper nouns start with capitals. The Western Leopard Toad is not any toad, and the African Clawed Frog isn't any frog. The Cape platanna is any platanna living in the Cape, but the Cape Platanna is *Xenopus gilli*. In this last example, you can see how capitalisation reduces ambiguity and differentiates between adjectives and nouns.
 
-### View 2
+Personally, I find that capitalising common names helps them stand out in the text, and as a reader it helps me immediately recognise that a word is a name, and not a regular adjective. As many common names contain strings of words including adjectives, I find that I might need to re-read a section when I realise that a common name is being used, and that the author is not describing an attribute of the species.
 
-Common names are not formal names (like scientific names) so why does it matter? Many journals do not capitalise common names and insist on lower case unless they are proper nouns, like African in African clawed frogs. This seems to have arisen from editors who dislike superfluous capitalisation.
+Note that many common names are hyphenated, and if this is the case then you should only capitalise the first part of two in a hyphenation: i.e. **White-throated Sparrow** (_Zonotrichia albicollis_), not White-Throated Sparrow.
+
+### View 2 - No, don't use capitals for common names
+
+Common names are not proper nouns (like scientific names) and so should not be capitalised. Many journals do not capitalise common names and insist on lower case unless they are proper nouns, like African in African clawed frogs. This seems to have arisen from editors who dislike superfluous capitalisation.
+
+Other reasons why capitalisation might not be implemented for common names include: 
+
+- They are not proper nouns, and so (according to traditional English grammar rules) should not be capitalised
+  - Countries publish style manuals for what is acceptable (e.g. see [here](https://www.stylemanual.gov.au/)), and these often state that common names should not be capitalised
+  - I suspect that many publishers follow these official national guidelines when making decisions about scientific journals
+  - Many publishers and their editors hate superfluous capitalisation and attempt to eliminate it. This simply comes from sloppy writers who tend to overcapitalise. 
+- The capitalisation of common names implies some sort of official recognition: that it is **the** common name, and not **any** common name. Some groups, such as ornithologists, have only one common name for each species that they officially recognise. They take this to absurd lengths when they insist that all common bird names **must** be capitalised while common names for other taxonomic groups must not be capitalised (see [here](https://www.worldbirdnames.org/new/english-names/spelling-rules/capitalization/)).
+  - Even when ornithologists get their own way, and bird names get capital letters, these are changed to lower case when they are in a list with other animals and plants that carry lower-case (see [here](https://www.stylemanual.gov.au/style-rules-and-conventions/names-and-terms/plants-and-animals#write_common_names_in_lower_case_and_roman_type))
+- You may notice that Wikipedia does not use capitalisation for common names (see [here](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Capital_letters#Common_names)). They state that this is because they avoid superfluous capitalisation in English (much as editors do - see above). 
 
 On balance, I'd say that it's likely that your usage will be dictated by the policies of your faculty, advisor or journal.
+
+### Changing scientific names to English names
+
+There are many examples of names of scientific taxa that are changed to English derivatives of the original Latin names (see Table \@ref(tab:derivative)). While the official Latin version of the scientific name almost always carries a capital letter (see [above](#taxonomy)), these anglicised versions do not.
+
+Table: (\#tab:derivative) **Latin names can be changed into English versions.** You may not realise it, but many English names have been derived from scientific names. While the Latin names usually carry capital letters (see [above](#taxonomy)), these anglicised versions do not.
+
+| Taxonomic rank | Latin name | English derivative |
+| ---- | -- | --- |
+| Kingdom | Animalia | animal |
+| Phylum | Arthropoda | arthropod |
+| Order | Carnivora | carnivore |
+| Superfamily | Vespoidea | vespoids |
+| Family | Bufonidae | bufonid |
+| Subfamily | Felinae | feline |
+| Genus | _Eucalyptus_ | eucalypt |
+
+Turning a Latin taxonomic rank into an English derivative is a useful mechanism in which to bring variation into your writing. While there are distinct rules about the use of taxonomic ranks (see [above](#taxonomy)), there are not with these anglicised derivatives, and you can use them as you want. Even if they haven't been used before for your study group, there is no reason why you should not erect an English derivative for your own purposes - as long as this enhances readability and does not cause more confusion.

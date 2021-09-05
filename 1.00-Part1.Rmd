@@ -1,0 +1,8 @@
+# (PART) Part 1: Right from the very start {-}
+
+
+\mainmatter
+
+# Introduction  {#part1}
+
+Right from the very start of your PhD, it is important for you to become familiar with the goal of what you are trying to achieve, how you plan to achieve it, and (believe it or not) what you plan to do afterwards. There are a lot of things to think about as you start your PhD, and for many of these it is far easier to make informed decisions from the outset. For example, reconciling yourself to using the [statistical package R](#useR) will be much easier from the start, rather than only realising under pressure at the end of your PhD that there is no way that you can finish unless you take it on. Preparing yourself into the right mental framework will also be very important for your ability to work under pressure. Getting into good habits at the beginning will put you in a commanding position later. The aim of this first part of the book is to help you assess your current position, and realign yourself toward an optimum mindset.

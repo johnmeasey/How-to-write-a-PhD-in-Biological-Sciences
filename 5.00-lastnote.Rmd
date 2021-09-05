@@ -1,0 +1,11 @@
+# Last note {- #lastnote}
+
+I really hope that this book has been helpful and that it has achieved what I set out to do: provide you with the guide on how to publish in biological sciences. If you feel that this book has important items missing, is out-of-date or simply wrong, then please [contribute](#contribute). Any good guide relies upon the people that use it to keep it viable. My special plea to those of you who are Early Career Scientists is to become part of the solution for shifting from the [closed to open models](#openscience) of scientific publishing. In doing so, you will make science more transparent, open and equitable. While there is much that is currently wrong in the system, the vast majority of the actors in it are working for the good of science. While I conceded that publishing science is a [wicked problem](#wicked) which is not easily solved, there are some simple steps that we can all make toward a resolution that benefits science.
+
+When seeking a solution to publishing science, and publishing in other academic disciplines, we cannot compromise on the cornerstones of the scientific method: **rigour, independence, transparency and reproducibility**. This book should have highlighted aspects of scientific publishing that currently violate these cornerstones and so need to be changed. When you can, select those journals and publishers that maintain the [highest standards](#transparent). Join your disciplinary [academic society](#societies) and stand for election to a position. Issue your clarion call for change. Join the [gatekeepers](#gatekeepers) of the society's journals, and use your soft power to help bring about change.
+
+1. Make more use of archiving services: [preprints](#preprints2), data and proposals
+1. Make use of independent peer review services: peer community in, and  peer commons
+1. Persuade your society to move to a [Diamond Open Access](#diamond) [overlay](#overlay) journal model
+1. Become part of the solution
+ 

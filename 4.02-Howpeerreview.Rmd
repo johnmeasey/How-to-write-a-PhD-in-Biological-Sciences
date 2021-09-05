@@ -1,0 +1,88 @@
+# How to conduct peer review {#howpeerreview}
+
+Here I will assume that you have been given a peer review assignment. If you aren't getting asked to do any reviews, there are some suggestions on how to get started in [Part I](#reviewit).
+
+Most modern journals provide reviewers with a guideline for the expected to do. I encourage you to read the specific instructions that are given by journals on how to conduct peer review for them. There are also a number of excellent blogs to read about peer review [including this on @raff2013how]. A systematic assessment of these requirements in biomedical journals has been undertaken by Glonti et al. [-@glonti2019scoping] and Eve et al. [-@eve2021reading]. These accounts are worth dipping into for an overview on the different sorts of statements that peer reviewers come up with. You can see, in this quantitative analysis of Eve et al. [-@eve2021reading], that the overwhelming number of comments are those of skilled critics. This paper also makes it clear that the role of peer reviewer is often ambiguous and that reviews are not consistent in what they deliver.
+
+Essentially peer reviewers are tasked with determining whether or not the manuscript is credible. 
+
+- Could the study be repeated?
+- Are the methods legitimate in order to produce the results provided
+- Are the results sufficient to respond to the hypothesis posed?
+- Can it be improved?
+- Is the content of the manuscript appropriate to the journal?
+- Does the experimental design contain sufficient controls?
+- Did the authors try and stretch the implications of their results beyond the credibility of the manuscript?
+
+Once you have conducted your peer review, you can log it [publons](https://publons.com) in order to get credit later on. Publons also carries your publication output and citations (tied to Web of Science), so can be a useful way of keep track of your own productivity for reporting purposes ([but see this section on Impact Factor](#impactfactor)).
+
+## Novelty or repeatability?
+At the heart of scientific enquiry is that studies done should be repeatable, with the presumption that if they have been done in the same way they should achieve the same results [given the bounds of significance testing - see @forstmeier2017detecting]. Hence, you must examine and report on whether or not the study's materials and methods are sufficient for someone else to repeat the study. This appears to be surprisingly rare in peer review [at ~4% according to @eve2021reading] For some [no impact journals](#noif), this technical soundness will be enough to allow them to pass peer review.
+
+Many journals that aspire to increase their [Impact Factor](#impactfactor), ask for a comment on how novel the study is. This is a somewhat subjective question, as individuals have biased opinions of what constitutes something novel, noteworthy, of significance or of relevance to the audience of a particular journal. Hence, this is really going to be a point that you can decide based on your own understanding of the literature (remembering that you have been chosen because your opinion counts). 
+
+You can gain important insight into what is relevant, and what not, in peer review from the analysis of PLOS ONE reviews by Eve et al. [-@eve2021reading].
+
+## Parts of your review
+Just as we discussed the different parts of a review when thinking about [writing a rebuttal](#rebuttal), here we discuss the same parts from the view of writing the review. I think that, in addition to reading this section, it is worth refreshing your memory about receiving a [peer review](#rebuttal), when thinking about writing one.
+
+### A positive appraisal of the study
+Summarising the study in your own words, to the tune of a single paragraph, is a useful way to start a review. 
+
+- It is usually positive being skewed towards what you understood, and what was well communicated
+- Concentrates the minds of reviewers, making them think about the whole manuscript (and not simply focussing on minutiae)
+- Lets authors know exactly what came across (and by omission what didn't)
+- Allows editors to contrast your understanding with what other reviewers contributed, as well as their own interpretation. Usually different people find different issues, but overall the impression should be broadly congruent
+
+If you have not understood everything, then you should concentrate on what you have understood to be reported in this section. Although this might set you up to produce a ['shit sandwich'](#shit), this is not necessarily a bad thing.
+
+### Major comments
+The next section concerns major positive and negative comments. Try to be even handed here. This is a place to point out any major short-falls of the manuscript, but it should also be used to point out where the authors have done a good job. You may need to resort to a list, where each major item gets it's own paragraph, but these may turn into sections if your reasoning takes longer. 
+
+For each major comment, give an example of what you mean with line numbers. These should be tangible points that you can tie down to things that are present in (or even missing from) the text. In this section, I would urge you to keep away from providing subjective statements (like "I think..." or "I feel..." or "It seems to me..."). If you need to voice these feelings, then keep them for a final paragraph where you make it clear that these are impressions given by the manuscript to the reader. 
+
+### Minor concerns
+List these out under a new heading **Minor Comments** starting each one with a line number where it occurs. Figures and tables should receive their own comments (no line numbers required, but give the Figure or Table number).
+
+## The spirit of peer review {#spirit}
+In their heart, a peer reviewer should be trying their best to improve the manuscript they read as much as they possibly can. This may simply represent an improvement in the way the text is worded. But it may also mean adding extra analyses or even experiments (within the bounds of reason).
+
+As McPeek et al. [-@mcpeek2009golden] put it, the golden rule of reviewing is to do unto others as you would have them do unto you. You could also read Baglini and Parsons [-@baglini2020if], who provide some useful insight into how to remain neutral when making reviewer comments. Again, the emphasis is on being professional.
+
+## There are ethical considerations for reviewers
+- Reviews may not share manuscripts with other scientists unless specific permission is given by the editor
+- Similarly reviews should not discuss the content of manuscripts that they are reviewing
+- Reviewers should not try to take the work presented in the manuscript and copy it for publication (i.e. do not steal the ideas)
+- Reviews should be conducted within a reasonable time frame. No reviewer should hold on to a manuscript especially if they have a vested interest (like a rival study) in not seeing it published. This should have been declared as conflict of interest
+- Any other potential conflicts of interest, including those that might make you positively predisposed to the authors, should be declared
+- Reviewers should be aware of their own prejudices and biases and not bring them through to the review process 
+- You must decide whether or not to sign your review. Given the opportunity ~43% of reviewers will provide published open reviews [@wang2016open]. Would you want your reviewer to sign?
+
+In essence these ethical issues are overcome when reviewers conform to [transparency](#transparent). In order to facilitate transparency in peer review, Parker et al. [-@parker2018empowering] have produced a checklist that I encourage you to use if and when you are asked to conduct a review. 
+
+## Remain objective and rational
+Your job as a reviewer will be to remain objective about the manuscript that you are reading, point out its merits and problems without succumbing to bias. Forming your own world view of your topic within the biological sciences does mean that you likely need a form of directionally motivated reasoning. For example, this is why you decide to investigate one hypothesis before another, or feel that one line of investigation is more salient to your area than another. These could be made through observations or experiences that you have had during your research, or they may come from schools of thought within your discipline. But it is important that you remain **intellectually honest**, to allow others to hold alternative, valid arguments. Just as it is important in your own work that you are always prepared to accept the null hypothesis as readily as you do the alternative hypothesis. One lesson revealed from reading lots of peer reviews is that reviewers find it hard to remain centred using accuracy motivated reasoning, all too often resorting to attacking the authors or their experiment [@eve2021reading]. Your principle task it to remain intellectually honest in your review, such that you can point out faulty arguments without perverting the direction that the authors planned to take. Equally, it is important that the authors acknowledge alternative viewpoints, but not to the extent that they should be made to abandon their own interpretation. 
+
+Psychologists have argued that as humans we cannot be expected to be rational, and that we are not particularly good at being objective. But this doesn't mean that we shouldn't try, and it also means that by being aware of the [potential problems in peer review](#problempeerreview), we are in a better position to learn how to avoid them. 
+
+**Write every review as if it will be public.** Ask yourself whether every statement that you make can be backed up either by other references in the literature, or with line numbers corresponding to erroneous logic on the part of the authors. Although this strategy is not guaranteed to produce an unbiased review, it will be an intellectually honest way to approach the manuscript. If you have the choice, then do make your review public to hold with the Open Communication ethos of [Open Science](#openscience).
+
+## Remember to accentuate the positive
+Peer review is often thought of as being brutal, where anonymous reviewers have the opportunity to vent their darkest thoughts. Certainly, there are plenty of reviewers who are unprofessional in what they say [@eve2021reading; @hyland2020this]. When conducting peer review, you have the opportunity to be one of the goodies. You can point out where the authors have done due diligence, in their experimental design, reporting, analyses, etc. This is likely to benefit the authors far more than pointing out only the problems - especially those that cannot be fixed. 
+
+## How long should your review be?
+Quite simply, you need to write enough until you have reviewed the manuscript. The length of peer review varies wildly, from 200 characters to 43000 (likely more than the article itself), according to Eve et al. [-@eve2021reading]. The distribution peaks between 2000 to 4000 characters, and this should be a good guide. 
+
+If you submit your review to a service like [publons](https://publons.com), you can compare the lengths of your reviews get charted against those of the 'average reviewer', and I would suggest that you should aim to keep your reviews above average length when the extra words are used to help the authors. There's no point in just writing extra words to increase your character count!
+
+## What to do if you suspect fraud?
+The [Committee on Publication Ethics](https://publicationethics.org/) (COPE) has published some useful flowcharts to guide reviewers who suspect fraud in manuscripts they are reading. A list of these is provided [in Part IV](#fraud).
+
+## Further help with conducting peer review {#onlinecourse}
+A number of publishers and academic institutes have provided online resources to help train those undertaking peer review. I provide links to some of these here: 
+
+ - [ACS Reviewer Lab](https://www.acsreviewerlab.org/)
+ - [Publons Academy](https://webofscienceacademy.clarivate.com/learn/signin)
+ - [Nature Masterclass](https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550). 
+ 
+Remember that these are suggestions, and should provide sufficient instruction to get you started. Not all journals ask the same of their reviewers, and so instructions may vary. Your review should follow the recommendations provided by the journal that you are providing the review for. 

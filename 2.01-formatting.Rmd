@@ -1,0 +1,42 @@
+# Formatting your submission  {#formatting}
+
+Let’s face it, after spending so much time writing your manuscript, it's worth making sure that you don't make silly mistakes in finalising the manuscript. 
+
+
+## Must do check-list before submitting your manuscript:
+I am very fond of check lists, in part because their utility has already been proven many times [@haynes2009surgical]. I have developed this check list of things to go through before submitting a manuscript. The journal that you submit to is likely to have their own, so you should add that onto the end of this one. Plus, in your subdiscipline there are likely to be some extra points that you can add, so I suggest that you add to this list when making your own. 
+
+- **Spell check** - yes, it sounds obvious but doing a final spell check is a good idea. Not only this, but take the time to have your word processor ignore or add all of the special words (e.g. species or site names) that it doesn’t otherwise recognise. This will ensure their consistency throughout (within and between chapters)
+  - **Language settings** - Make sure that your language settings are set to ‘UK English’ (or the English setting for where you are based). Remember that the journal that you submit to may well be in a different region to your own (so you might need to change your spelling settings) 
+  - Look out especially for words that have different accepted spellings like those ending in -ise or -ize. Decide which you want and be consistent. Consistency is king!
+  - **Capitalisation** - of place names and common names, place names and not adjectives. For example, ‘South Africa’ has two capitals, but ‘southern Africa’ only has one
+  - **Species names** - will useually come up as spelling errors in a word processor,  but a good idea to add them to your dictionary so that you can check they are uniform throughout the manuscript
+  - **Grammar check** - always good to take a final look, especially for chapters that you wrote some time ago
+    + Use the word processor automated options to help you
+  - **Listen to the text** - Have your computer or another device read the text so that you can hear anything obviously wrong
+  - **Pronouns** - Pay attention if you have used “we” or “I” and make sure they are consistent in your manuscript. You are likely to have used “I” in your thesis, in which case you will need to change to “we” if there are multiple authors
+- **Page layout** - Really very important to get this right in your template. Make sure that your template has:
+  + Correct paper size (A4 and not US letter - or visa versa!)
+  + Margins
+  + Line spacing
+  + Page numbers
+  + Line numbers (really helps your reviewers - add these even if the journal adds their own)
+- **Headers and Footers** - If you can manage a chapter specific header, it’s useful to show your name and a short chapter title
+- **Sections and subheadings** - Check with the journal instructions to authors about what sections they allow and where
+- **Figures** - many journals charge for printing colour figures. This does not mean that you have to reformat your figures to be in monochrome. You will have an option of submitting colour figures for online use only (in pdf and online), while the limited print run will have them in monochrome. You should make sure that your figure is still understandable when printed in monochrome
+- **Acknowledgements** - this is your time to say thank you to all the special people that have helped during your study. There are probably more than you realise, but in addition to your friends and family (who most people don’t forget), think about the people who administered the work, lab mates (past and present) who were always there to help, and people who gave permission at study sites
+- **References** - probably one of the most dreaded sections of any manuscript preparation, but they do have to be done. If you’re one of these people that has everything in a database, then you’ll be laughing or cursing your database throughout. While it might be tempting to only look through the data within the database, spend some time to see how it’s displayed in the manuscript. A mistake in the reference database will be multiplied many times in the manuscript. Remember that examiners love to take a random look through the reference section to make sure that it’s all good. After years of painfully entering references themselves, they know just what to look for
+- **Journal checklist** - Now go to the website of the journal where you want to submit your manuscript and check to see their submission guidelines and whether or not they have a checklist
+
+
+## Mistakes people make:
+Other than the obvious things, all mentioned above, here are some of the mistakes I’ve seen.
+
+- Submitting the wrong version (yes this does happen!). Probably worse if having a mixture of right and wrong versions
+- Last minute additions to text with incorrect spelling and or grammar
+- Two correctly spelled synonyms sitting next to each other when only one is desired (probably came about when editing)
+- Forgetting to check for plagiarism
+- Comments and or edited text (especially when it’s marked as being by someone other than you)
+- Page numbers that start again and again at different sections
+- Lots of blank pages or spaces (avoid blank pages if you can, and try to limit the amount of blank space (never >half a page)
+- Leaving important people out of the acknowledgements, especially your funders!

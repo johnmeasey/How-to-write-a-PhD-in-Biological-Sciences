@@ -1,0 +1,62 @@
+# Expectations of peer review? {#peerreview2}
+
+Once your manuscript is submitted and has passed the initial rounds of checks (A to C in Figure \@ref(fig:Editorial-work-flow)), you can expect that you will receive a written review of your manuscript. Sometimes, you may also receive an annotated manuscript back, but you can interpret this in your own way - most likely as minor comments. 
+
+It is widely acknowledged that peer reviews are [likely to be biased in some way](#problempeerreview), and so you should expect this of every review that you get. Try to look over these biases and aim to receive the wisdom that they likely also contain.
+
+## What are peer reviewers asked to do?
+The peer review report consists of three major parts: the review, confidential comments to the editor, and the reviewer's opinion of what decision should be made. You will only have access to the first of these three. Understanding peer review is greatly aided by conducting peer review, which is covered by a section in [Part IV](#howpeerreview). Reading about [how to conduct peer review](#howpeerreview) may help with your interpretation of the reviews that you receive.
+
+### The review
+Peer reviewers should sum up the manuscripts in their own words to demonstrate that they have understood the contents. This is important because being able to summarise what you have read demonstrates the reviewer’s comprehension. If the reviewer gets this summary wrong, then it is either a flag to the editor that they lacked the necessary comprehension to make their review meaningful. Or, because there are two sides to comprehension, a flag to the authors that they failed to write their manuscript in a way that made it easy for the reader to comprehend. 
+
+The reviewer should then provide a general critique including positive and any negative aspects of the manuscript. They should provide detailed information on exactly how the manuscript should be improved, including any significant literature that might be missing from the manuscript. Lastly, they can provide a list of minor comments along the length of the manuscript that require further attention from the authors. When I undertake this last part, I tend to do it with page and line numbers (which is one reason why submitting a manuscript with line numbers is so important. If the minor comments get too numerous, then I tend to stick with major comments.
+
+### Reviewer's confidential comments to the editor
+The reviewers are provided with a box where they can write to the editor without text being seen by the authors. It is worth bearing in mind that the editor can act on these (unseen) comments. I'm not a big fan of confidential comments but sometimes they are warranted. Many reviewers avoid making comments in these boxes, in accordance with trends for [transparency](#transparent). 
+
+### Reviewer's opinion and the editorial decision {#AKP}
+In many journals, the reviewers are directly asked whether the manuscript should be rejected or resubmitted (major or minor revisions). This opinion is given in a set of 'radio buttons' in the editorial management software. Depending on the journal, a number of additional qualitative questions are asked of reviewers that may be pivotal to the progress of a manuscript. These questions are set by the gatekeepers for the journal in question, and may ask whether the manuscript is worthy of publication in that journal, in the top 5% of important findings, or similar. Bornmann and Marx [-@bornmann2012anna] found that some journals require that all reviewers respond with a positive criterion on these questions, or the manuscript will not be considered further. They term this the 'Anna Karenina Principle' (AKP) of peer review because it requires 'positive selection' on all criteria, whereas previously papers were selected by meeting minimum standards; 'negative selection', which is now the overriding principle for '[no impact factor](#noIF)' journals.
+
+Unless you know someone who can tell you the editorial practice of the journal you submitted to, you will not know whether or not your manuscript has been judged on the answers to these questions. However, if you receive all positive reviews and a rejection, it may well be that one or more of the positive reviewers did not select a criterion high enough on one of these questions. Personally, I don't think that reviewers should be asked these subjective questions, as this potentially trivialises decision making for gatekeepers. [Editors must read](#editors) the manuscript and all reviewer comments in order to reach decisions. Certainly, all journals need to provide [transparent criteria](#transparent) for selection of manuscripts, without which the black box nature via AKP workings of peer review will only perpetuate.
+
+## What do good reviews look like?
+Good reviews are those where authors improve their manuscript. It may be that the good review doesn't immediately show the way on the first reading (although clearly the best ones should), but it may be that the authors require some work rethinking their manuscript before they understand the comments of a reviewer. I would say that usually on first reading, even a good review might not sound that good. 
+
+### The myth of the 'shit sandwich' {#shit}
+The shit sandwich is where a review where the beginning and end are generally positive, while the very critical appraisal happens in the middle. Although the shit sandwich might be seen as a way for a reviewer to sugar coat their negative message, an analysis of PLOS ONE reviews by Eve et al. [-@eve2021reading] suggests that some of the best reviews (think Minor Revisions) actually have this format. Here the reviewer will be positive in the outset and the summing up, but then in the middle have a set of issues that need correcting. Hence, they found that the shit in the shit sandwich wasn't that bad. In the same analysis, Eve et al. [-@eve2021reading] found that truly bad (i.e. Reject) reviews could be bad at any point in their length. 
+
+
+## What are reviewers not asked to do?
+In their analysis of PLOS ONE reviews, Eve et al. [-@eve2021reading] found that reviewers are good at ignoring the directions that are provided to them by the journal. It is therefore necessary to be aware of what reviewers are not asked to do, because sometimes they do it anyway!
+
+### Peer review is not a trial by committee
+Those of you who have experienced manuscripts being critiqued at a book journal club will know that there are very few published papers that leave a journal club without having many negative, critical comments. Instead peer review is conducted by an individual, on their own and with their own personal limitations. Peer reviewers are forbidden from sharing the contents of a manuscript with others, without express permission from the editor.
+
+### Correct English grammar
+It's not the job of a reviewer to correct any faulty grammar on a manuscript. similarly it is not up to the reviewer to correct stylistic aspects of the manuscript. However, as English is such a subjective language, it is important that ambiguity is removed, and grammatical aspects can be important for this. 
+
+I have noted that some reviewers have become quite obsessive about things like the Oxford comma - insisting that the Oxford comma should be inserted at every possible juncture. Eve et al. [-@eve2021reading] call these reviewers ‘peer copyeditors’. They are likely to comment on your split infinitives and may be pedants for all grammatical concerns. 
+
+I would say that it is up to you as an author to decide whether the suggestions from these 'peer copyeditors' are warranted. At the same time, the comments from these same people might drastically improve the readability of your manuscript.
+
+### Tell the authors to cite their papers
+Sadly, this is something that a lot of peer reviewers do, and are part of a suite of not so legitimate ways in which people [manipulate citations](#notlegitimate). The reviewers’ own work can be cited, but only when relevant, and the authors should be able to choose whether or not they want to make any additional citations.
+
+### Tell them to cite other papers from the journal
+This also happens [see section on Impact Factor](#increaseIF) often at the request of the editor. It is part of IF manipulation, and you should not act on this.
+
+### Justify comments with their own beliefs and opinions 
+Peer review should always be an objective critique of a manuscript. It's not really the place of the reviewer to express their opinion or their beliefs about a particular study that they are reviewing. Watch out for statements that begin with "I believe..." or "In my opinion...".
+
+Reviewers should stick to the evidence that they're provided with. If they are not provided with sufficient evidence then they should draw attention to the lack of information rather than extrapolate to what they believe might be the case. 
+
+Authors should be provided the benefit of the doubt and opportunity to respond to such criticisms especially when information is missing. It's unfair for reviewers to act as judge and jury. This is the job of the editor. 
+
+### Assess aspects of the manuscript that are beyond their competence
+Some manuscripts are cross-cutting across several subjects or may contain analyses outside it with the experience of a reviewer. In these cases reviewers should not attempt to review areas that are beyond their competence. Instead they should bring these aspects to the attention of the editor when they are submitting their review.
+
+### Ignore what is good
+Is often thought that peer review provides only negative criticism [see @eve2021reading]. This should not be the case as peer reviewers should also be able to accentuate the positive aspects of manuscripts that they read. Even if a manuscript is not considered publishable the positive attributes should be bought the attention of the editors as well as those that are negative.
+
+It is important for authors to understand what aspects of their manuscript are good. This kind of feedback from peer review will likely influence future versions of this manuscript as well as future studies from these research groups.

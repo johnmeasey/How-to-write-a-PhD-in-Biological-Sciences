@@ -19,10 +19,21 @@ This book is written in bookdown [@xie2016bookdown] specifically to make it a 'l
 
 One of the amazing potentials for [bookdown books](https://bookdown.org/) is that all the files for this book are hosted in a repository on [Github](https://github.com/johnmeasey/How-to-write-a-PhD-in-Biological-Sciences/tree/main). You have the opportunity to fork this repository and write your own version for a different discipline, a different language or for a different region of the world. It is also my hope that this guide can grow to become a community of practice for those conducting PhDs in Biological Sciences. It will not be possible to cover every aspect of writing a PhD in Biological Sciences, but it may be that I have missed out ones that are very important to you. Equally, parts of what is currently written will become obsolete as new initiatives begin, and old problems are resolved. For this reason, this guide needs to be a 'living document', and anyone who wants to provide feedback or contribute new sections is more than welcome. Please feel free to open an issue, or make a Pull Request if you spot a typo. 
 
+## If you haven't already, read the other book {- #otherbook}
 
+**[How to write a PhD in Biological Sciences: a guide for the uninitiated](http://www.howtowriteaphd.org/)** by John Measey 
+
+```{r fig.align='left', out.width = '45%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.howtowriteaphd.org'}
+knitr::include_graphics('figures/Cover1.jpg', dpi = NA)
+```
+
+Embarking on a PhD is intimidating as, for most students, it will be their first experience working within the academic system. The voyage of discovery is often made very frustrating as much of what goes on in academia is assumed knowledge. Academics accumulate knowledge throughout their careers, but what can be done for those who are uninitiated? What is needed is a guide that postgraduate students can refer to before, during and while making decisions about their time within academia. Note that this is not a rulebook. There are times when the guide will be accurate and others when it will be vague, but providing some insight to point you in directions where you can explore more. The intention then is to provide you with a starting point from which you can establish your confidence in the academic writing process, and build your own creativity.
+
+## How to cite {-}
+Measey, J. (in press) _How to publish in Biological Sciences: a guide for the uninitiated_. CRC Press, Boca Raton. ISBN: 9781032116419        
 
 ## Creative Commons License {-}
-How to write a PhD in Biological Sciences: a guide for the uninitiated is copyright to John Measey and distributed under a [Creative Commons BY-NC-ND 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). You may freely share this content for non-commercial purposes, with a source credit to [www.HowToWriteAPhD.org](www.HowToWriteAPhD.org).
+"**How to publish in Biological Sciences: A guide for the uninitiated**" is copyright to John Measey and distributed under a Creative Commons BY-NC-ND 4.0 International License. You may freely share this content for non-commercial purposes, with a source credit to www.john.measey.com
 
 ## Disclaimer {-}
 

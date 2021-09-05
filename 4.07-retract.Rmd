@@ -1,0 +1,140 @@
+# When should you correct or retract your paper? {#retract}
+
+Once your [Version of Record](#VoR) is published, any changes that you may wish to make will result in a separate correction publication. In extreme cases, you may even need to retract the paper. The different options available in many journals to correct your paper are shown in  Table \@ref(tab:retract). If you are in doubt about exactly what kind of correction you need, read the guidelines from the [Council of Science Editors](https://www.councilscienceeditors.org/resource-library/editorial-policies/retraction-resources/) and the [Committee on Publication Ethics](https://publicationethics.org/) (COPE) [@barbour2009guidelines].
+
+Table: (\#tab:retract) **Journals have a number of different ways in which to correct the published Version of Record.** You many not need a full retraction to set your study straight. Source: Council of Science Editors.
+
+| Action | Example | Conclusions impacted | Issued by |
+| --- | ------- | --- | --- |
+| Corrigendum / erratum / correction | Important typos / incorrect figure legends or tables / author name or address issues | Not | Author |
+| Expression of concern | Data appear unreliable / misconduct suspected | Undetermined | Editor (perhaps through information received) |
+| Partial retraction | One aspect of the study is corrupted / Inappropriate analysis | Overall findings remain | Author or Editor |
+| Full retraction | Majority of the study is corrupted / Evidence of misconduct / Work is invalidated | Yes | Author or Editor |
+
+
+
+## Making a correction to a published paper {#corrigendum}
+
+It is very unlikely that you will be in a position where you will need to think about retracting your paper. If you notice a mistake, especially one that results in a difference to how the results are presented, then you should approach the editor about publishing a correction (also termed a _corrigendum_ or erratum - plural errata). 
+
+Because a _corrigendum_ is a change to the [VoR](#VoR), it will result in what is in effect an additional separate publication (with its own [DOI](#DOI)). This will succinctly point out the error and how this should be rectified. In the journal, this will only be a few lines. In addition, on the site of the original publication, the journal will place a notice that there has been a correction, and provide a permalink to the correction. However, it results in a lot of extra administrative work for everyone, so it's best avoided if at all possible. This is another reason why it's worth taking your time when checking your [proofs](#proofs).
+
+Another way to avoid having to make a _corrigendum_ is to ensure that all co-authors are happy with the [original submission](#submit), the [resubmission](#rebuttal) and the [proofs](#proofs) (i.e. get it right before you submit it). 
+
+Mistakes do occur, and it is likely to be some time after the publication that you might find that there was an error. Errors such as typos, or mistakes in the introduction or discussion are unlikely to warrant a _corrigendum_. However, if the error is in the way that the results were calculated, or causes a change in the significance, then you should consider making a _corrigendum_. If you feel that it is necessary, do consult your co-authors before taking it to the editor. It is well worth having someone else check your new calculation, as the last thing you want is a compounded error. 
+
+If the mistake is systemic, and changes all of the results, their significance and/or the validity of the conclusion, then you need to consider a full retraction.
+
+## Expression of concern
+
+An expression of concern lies between a correction and a retraction. An expression of concern can precede a retraction, but suggests that the editors are seriously worried about something being wrong with the publication. For example, a paper published in _Proceedings of the National Academy of Sciences_ that used an unusual mutant strain of _Chlamydomonas_ (a genus of green algae) was placed under an official 'Editorial Expression of Concern' when the editors learned that the authors would not share their strain with any other researchers [@berenbaum2021editorial]. Clearly, this notice could be removed if, for example, the authors agreed to share their strain and their findings were replicated. However, if they continue to refuse, the editors could also fully retract the paper. 
+
+This is an unusual case, but shows how the editors are prepared to take their journal's policy seriously, as a requirement of submission is that authors must be prepared to share any unique reagents described in their papers, or declare restrictions up front. Failure of these authors to follow through with the [transparency](#transparency2) declared on submission could mean that these authors have their paper retracted. Finding out this sort of information takes time, and so there is often a lag in the retraction window (Figure \@ref(fig:life-sciences-retractions)).
+
+## A retraction is unusual
+
+> “A person who has committed a mistake, and doesn't correct it, is committing another mistake.”
+>
+>  --- Confucius
+
+
+
+A retraction of a paper is when your paper is effectively 'unpublished'. This happens at the discretion of the editor (and often the entire editorial board), and is a very serious issue. Retractions are rare. Reasons for retractions vary. It could be that a piece of equipment was later found to have malfunctioned or was calibrated incorrectly [@anon2018retraction]. A cell line was misidentified. Or they can be through no fault of the authors. For example, Toro et al. [-@toro2019retraction] had their manuscript rejected by _Journal of Biosciences_, but due to an administrative error, the article was printed in an issue, and later retracted. However, the top reason for retraction is now misconduct [@fang2012misconduct; @brainard2018what], and this is hardly surprising given the crazy incentives that many scientists received to publish in journals with top impact factors. Another important factor with retractions is that they appear to be more common in journals with higher [impact factors](#impactfactor) [@brembs2013deep], and this should not surprise us as these journals are prone to publishing studies with [confirmation bias](http://www.howtowriteaphd.org/TypeI.html) [@forstmeier2017detecting; @measey2021how].
+
+Although retractions are so rare in life sciences, 0.06% of all papers published between 1990 and 2020, they appear to be on the increase in the last 30 years: from around 0.5 to over 15 papers per 10 000 published (see Figure \@ref(fig:life-sciences-retractions)). It takes a mean time of nearly 2 years between notification of problems with a paper, and issuing a correction or retraction [@grey2021timeliness], but this belies a bimodal distribution in retraction times with the first hump coming from self-correcting authors, or clerical errors from journals coming within months of the original date of publication. The second hump is usually associated with [fraud](#preittdata), and comes after several years of investigations by institutions often with added legal frustrations.
+
+
+(ref:life-sciences-retractions) **The growth of retractions in life sciences journals over time.** The three lines show when the original paper is published (blue line) and when a correction, expression of concern or retraction are made (black line). Articles that are finally retracted (green line) are only a part of those with other issues after 2008. While the number of papers published that are later retracted appears to take turn downward from 2014, this may simply represent the lag before they are later retracted. This data came from the Retraction Watch database, selecting only data from  Basic Life Sciences and Environment. The data is normalised by dividing the total number of publications (as taken from SCOPUS) in this area for the year by 10 000, and multiplying this by numbers of Original or Retracted papers. 
+
+```{r life-sciences-retractions, echo=FALSE, fig.cap="(ref:life-sciences-retractions)"}
+if(knitr::is_html_output(excludes="markdown")) knitr::include_url("https://johnmeasey.github.io/Life-sciences-retractions/index.html", height="450px") else knitr::include_graphics("figures/life-sciences-retractions/life-sciences-retractions.png")
+```
+
+Retractions showed a steep uptake in 2011, when a number of laboratories that made multiple retractions in 2011 [see @fang2011retracted; @brainard2018what]. A single publisher was responsible for pulling a great many of the retracted papers in 2011, and this spike in retractions isn't seen in the life sciences [@oransky2011year; @brainard2018what]. What is clear from Figure \@ref(fig:life-sciences-retractions) is that the rising trend in retractions (black line) appears to have been unaffected by the 2011 spike in other subject areas. Claims that retractions are levelling off [@brainard2018what], are not matched by the data.
+
+### How do you know if a paper you cited is later retracted?
+Citations to retracted papers are not uncommon, and often positively cite the paper even when the retraction has been made for misconduct [@bar-ilan2017post]. This suggests that most authors are simply not aware of the retracted status of many publications. Of course, if you visit the publisher's website, you should see a clear notification at the [Version of Record](#VoR) (e.g. Figure \@ref(fig:retraction1)), that points to the retraction notice (see Figure \@ref(fig:retraction2)), but this is not always the case. In general, publishers seem very shy about their retractions, and it can be difficult to track down retractions that should be clear for everyone to see. Indeed, if publishers did their due diligence on notifications on retractions, and this were entered into CrossRef, we wouldn't need an independent database like the [Retraction Watch database](https://retractionwatch.com).
+ 
+(ref:retraction1) **You should not cite a retracted paper.** Once papers are retracted they don’t disappear. They continue to be available at the publishers' website, but with a clear notice that they have been retracted (see below). In addition, a separate publication is made announcing the retraction of the work, as shown in Figure \@ref(fig:retraction2). 
+
+```{r retraction1, echo=FALSE, out.width = '50%',  fig.cap="(ref:retraction1)"}
+knitr::include_graphics('figures/retracted1.png')
+```
+
+
+If you downloaded the article before it was retracted, then you will not be aware of what has happened unless you are following that particular publication. Similarly, if you get your search results from Google Scholar, there is no indication that a paper has been retracted. Scopus and Web of Science clearly indicate some articles that have been retracted, but the vast majority go unrecorded even on these databases. Perhaps this is why even highly publicised retractions continue to be cited by articles that follow [@piller2021disgraced]. Clearly, the community is still responsible for watching what happens to the literature, even once a paper is cited. Of course, the publishers could be using items such as [DOIs](#DOI) to track retracted papers and query their citations. So why don't they?
+
+Publishers are bad at sending through the correct metadata with their content. For example, for the same 30 year period as Figure \@ref(fig:life-sciences-retractions), Web of Science lists only 133 retractions. Really what this means that if you aren't using Zotero, and you want to be sure that there hasn't been a retraction in any of your source material, you need to run a search on the [Retraction Watch database](https://retractionwatch.com) - better to use Zotero says Ivan Oransky. Right now, the chance that any paper published in the last 30 years that you have cited will get retracted is still low (one in 1750), but if it was published in 2020 this rises to one in 650.
+
+Some literature databases will notify you if a paper that you have in your database is retracted - but don't count on this unless you use [Zotero](https://www.zotero.org/). Zotero takes [DOIs](#DOI) from the [retraction watch database](#retractionwatch), and uses them to notify uses of any retractions of articles that have occurred. A large red bar (that's hard to ignore) is shown across the top of the citation window. This is a strong and very positive reason for using Zotero, leaving you to get on with your research. 
+
+
+### Notification of retraction
+The notification of retraction is supposed to explain exactly why a paper has been retracted. For example, if you have cited or used this work you should know whether it is because data has been fabricated, or more innocently there was a mistake with the equipment or another aspect of the investigation. However, it seems that some journals are issuing retraction notices that fall short of the guidelines required by COPE [@barbour2009guidelines], and that these delays are not in the interest of anyone involved [see @grey2021timeliness; @teixeiradasilva2021abuse]. Clearly, there is need for improvement here on the part of the journals.
+
+But we must be cautious about playing a blame game when it comes to journal retractions [@smith2021reimagining]. We already know that peer review has shortcomings (see [Part IV](#problempeerreview)), and even the best of peer reviewers and/or editors cannot be expected to spot potentially fatal errors, especially when these come about from deliberate deceit on the part of the authors. Retraction will remain a necessary part of the scientific publishing process, and as retractions become more commonplace among journals, we can hope that guidelines will be followed in a timely manor [@grey2021timeliness].
+
+(ref:retraction2) **You can however, cite the retraction which is published under a separate citation string.** You might want to do this as an example of the type of work that is retracted, like the one shown [@costa-pereira2020retraction]. This retraction notice refers the the Version of Record seen in Figure \@ref(fig:retraction1).
+
+```{r retraction2, echo=FALSE, out.width = '50%', fig.cap="(ref:retraction2)"}
+knitr::include_graphics('figures/retracted2.png')
+```
+
+
+## Retraction Watch {#retractionwatch}
+To learn more about retractions in science, I encourage you to read the blog at Retraction Watch (https://retractionwatch.com/). This will give you an idea of the reasons why retractions are made, and give you some perspectives about the practices (and malpractices) that go on in the scientific environment. 
+
+## Fabrication of data {#fabrication}
+The fabrication of data does happen. A growing body of retractions and alleged evidence on the tampering of data in spreadsheets has led to the suspension of a top Canadian researcher, [Jonathan Pruitt](#Pruittdata). The detection of fraudulent (usually duplicated) data in spreadsheets is not too difficult to spot (e.g. by application of Benford's law - the last digits of naturally occurring numbers should approach uniformity), and has become the subject of some contract data scientists who specialise in finding such instances of fraud. To some extent, the automated assessment of fraudulent practices has been or could be implemented for many infringements [@bordewijk2021methods].
+
+The existence of [paper mills](#papermills) should also be mentioned at this point. Papers, produced commercially and to order, are entirely fabricated by third parties to improve the CVs of real paying scientists [@teixeiradasilva2021abuse]. Hundreds of these papers have been discovered that appear to come from the same source [@bik2020tadpole], but the true size of such additions to the scientific literature is unknown. 
+
+Some have suggested that the pressure to obtain a permanent academic position is enough to drive some scientists to commit fraud [@husemann2017publicationism; @kun2018publish; @fanelli2015misconduct]. The idiom ‘[publish or perish](#publishmore)’, and the importance of publishing is made elsewhere. However, I hope that by shedding some light on unethical practices, this book equips you to avoid these together with those that may espouse them, and instead show you that there is a better path to success.
+
+[Pruitt’s case](#PruittData) highlights a good reason for increased transparency in the publication process. A blog post from someone caught up in the Pruitt retractions makes the point that journals that insisted on full data deposits for publication were well ahead of those that hadn't [@bolnick202117]. Of growing concern in many areas of Biological Sciences is the potential to manipulate results that are essentially images of results, for example blots on a gel. However, it turns out that manipulated images are also not too hard to discern.
+
+Images are increasingly being used in journals to demonstrate results, and the manipulation of images in published papers appears to be rife. In a study of more than 20000 papers from 40 journals (1995 to 2014), Bik et al. [-@bik2016prevalence] found that nearly 2% had features suggesting deliberate manipulation. These could include simple duplication of an image from supposedly different experiments, duplication with manipulation (e.g. rotation, reversal, etc.) and duplication with alteration (including adding and subtracting parts of the copied image). The authors suggested that as they only considered these types of manipulations from certain image types, the actual level of image fraud in scientific papers is likely much higher [@bik2016prevalence]. An R package (FraudDetTools) is now available for checking manipulation of images [@koppers2017systematic], but there are other steps that reviewers and editors can take themselves [@byrne2020digital].
+
+### Who is responsible?
+In the case of fraud, retraction statements should indicate who the perpetrator is in order to exonerate the other researchers. Some research into the likely source of the fraud has been conducted. There are clearly [serial fraudsters](#PruittData), and the presence of their names in the author list is a red flag for those investigating fraud. Data from papers that are known to be fraudulent suggest that the first author is the most likely to be responsible for the fraud committed, and middle authors the least [@hussinger2019scientific]. This suggests that in a collaboration, you should be very careful who you collaborate with. While you might not be responsible, the discovery of (particularly large scale) fraud might well harm your career.
+
+In a study looking for patterns about types of authors involved in retractions (all reasons), suggested that Early Career Researchers were particularly likely to be involved in retractions [@fanelli2015misconduct], although the exact reason why remains obscure.
+
+It is worth noting that while the journals (and ultimately the [journal editor](#gatekeepers)) are responsible for retractions from journals, this is not the same as punishing individuals who have committed fraud. As we have already seen, there can be many reasons for a retraction, and it is not up to editors or journals to punish researchers as there will be innocent researchers who may also need to make retractions. Moreover, it should never be the role of the journal to have any punitive action over a researcher. There are other mechanisms for this with the employer and (where applicable) the academic society involved. Different institutions and governments will have different rules when it comes to fraud being committed by their employees. These processes may be legal and take some time to finish. As we saw with the case of [Pruitt](#Pruittdata), once lawyers get involved, the process may become mired in a lot more beaurocracy. 
+
+Whilst you may consider that your employers are not a group that you are particularly concerned about, you should consider the possibility that any scientific fraud could penetrate deeper than you are aware. For example, if you used fraudulently obtained data in order to make a grant application look better, then this would be deemed very serious by the (probably) government that you were applying to. Essentially, this becomes financial fraud as you are using false data in order to obtain money. While your employers may simply remove you from your position (and their employment), the government might prosecute and you could find yourself in prison. This does happen in some countries, and so (obviously) it is a really bad idea to commit fraud.
+
+## What to do if you suspect others {#fraud}
+If you suspect that someone in a lab in your department, faculty or university is fabricating data, find out whether your university has a research integrity officer (RIO); most universities in the US have one. Document your evidence if you can and approach the RIO or person in the equivalent position. If you can't find such a person, then ask at you university library for the most relevant person. Libraries are usually neutral places where you can find out information without arousing suspicion. You do need to be careful that you do not place yourself in harm's way when reporting, so be prudent about sharing until you are assured protection from any potential retaliation. It isn't easy to be a whistleblower - but it is the right thing to do. 
+
+If the research is published, and you think it is fraudulent, approach the editor directly. If there is some conflict of interest (like the person is at your institution), then you can try to sort it out internally (as described above). Otherwise, you can approach the editor directly yourself, anonymously or by using a third party. 
+
+The [Committee on Publication Ethics](https://publicationethics.org/) (COPE) has published some useful flowcharts to guide researchers who suspect fraud in manuscripts or published articles: 
+
+ -  ['Image manipulation in a published article'](https://publicationethics.org/resources/flowcharts/image-manipulation-published-article) [@cope2018what]
+ -  ['How to recognise potential authorship problems'](https://publicationethics.org/resources/flowcharts/how-recognise-potential-authorship-problems) [@cope2018how]
+ -  ['Systematic manipulation of the publication process'](https://publicationethics.org/resources/flowcharts/systematic-manipulation-publication-process) [@cope2018systematic]
+ - ['How to recognise potential manipulation of the peer review process'](https://publicationethics.org/resources/flowcharts/how-recognise-potential-manipulation-peer-review-process) [@cope2017how]
+ - ['If you suspect fabricated data in a submitted manuscript'](https://publicationethics.org/resources/flowcharts-new/what-do-if-you-suspect-fabricated-data-0) [@wager2006suspecteda]
+ - ['Ghost, guest, or gift authorship in a submitted manuscript'](https://publicationethics.org/resources/flowcharts-new/changes-authorship) [@wager2006suspectedb]
+ - Undisclosed conflict of interest 
+   + [in a submitted manuscript](https://publicationethics.org/resources/flowcharts-new/conflict-interest)
+   + [in a published article](https://publicationethics.org/resources/flowcharts/undisclosed-conflict-interest-published-article)
+ - ['Plagiarism in a submitted manuscript'](https://publicationethics.org/node/19701) [@wager2006suspected]
+ 
+ 
+## Confirmation Bias and the paradox of high-flying academic careers {#PruittData}
+Jonathan Pruitt had it all going for him. His studies of spider sociality were producing novel and significant results that opened the door to publications in high impact journals. In turn, this opened the door to getting prizes and funding. The funding allowed him to conduct more studies and soon a prestigious chair in Canada with more funding to pursue his rocketing career. Things started to unravel for Pruitt when colleagues raised concern about the data in some of his publications. Things gathered pace very quickly, and doubt gathered around more and more of his publications. Although there is much written about the Pruitt debacle on the internet, the blog by *American Naturalist* editor and former Pruitt fan and friend, Dan Bolnick, is particularly enlightening [@bolnick202117]. Pruitt's case is becoming increasingly untenable as more editors backed by co-authors are retracting papers where he contributed data [see @marcus2020spider]. For Pruitt, this has become a threat to his career and livelihood [@pennisi2020embattled]. Similarly, his university is facing the possibility that they hired a fraud. Consequently, this whole debacle has slipped into the legal world. Bolnick has clearly suffered personally from the affair, but has set out to provide as transparent an account as possible.
+
+The harrowing part of Bolnick's account is when he, co-authors and other editors started to receive letters from Pruitt's Lawyer (see one example on [Bolnick's blog](https://ecoevoevoeco.blogspot.com/2021/05/17-months.html)). At the point that the lawyer steps in, the functioning academic community that had raised itself to meet the demands of the concerns began to get muted. Bolnick then makes an important point that the legal threats from Pruitt's Lawyer were stifling the freedom for academics (in this case the co-authors and editors) to publish, and therefore their [academic freedom](#tenure).
+
+Another example of a rising star with high profile papers, allegedly making a habit of fabricating data, comes in the world of marine biology [@clark2020ocean]. The researchers in question, Danielle Dixson under the supervision of Philip Munday, made counter-claims that the detractors were unimaginative or that they are attempting to make a career from criticism. Meanwhile, students from their own labs continue to raise concern about the culture of fraud [see @enserink2021does]. In this case, the tide of evidence against the marine biologists appears to have turned, with forensic data specialists finding multiple examples of suspect data. 
+
+Neither case is fully resolved as the cases against these scientists still rest with their institutions. The lives of co-authors, former students and colleagues are put on hold, until some unforeseen point in the future. 
+
+It is clear from these reports that there are systemic problems when high profile scientists are accused of fraud. Journals say that it's the responsibility of the institutions, and the institutions have no impetus to find fraud as that might lose them a very productive (think research income) and high profile scientist. What university would want to have its name dragged through the mud, and on top of this lose a large amount of grant income? Top researchers become untouchables in many institutions because they are essentially cash cows that no-one wants to disturb. Allegations against such individuals also include [bullying](#bullying) and sexual misconduct. For those interested in reading more high profile misdemeaners in science Stuart Ritchie [-@ritchie2020science] has put together a popular book on the subject. 
+
+Another important issue that arises from (alleged) scientific fraud is that it creates a [culture of research](#badscience) that pushes towards an extremely unlikely hypothesis, in the misbelief that the hypothesis is likely given the nature of the publications [also see @fanelli2017meta-assessment]. Indeed, this natural selection of '[bad science](#badscience)' has permeated the hiring system so that researchers like this are more likely to be hired [@smaldino2016natural]. Forsmeier et al [-@forstmeier2017detecting] have an excellent review that outlines the problems with a culture that pushes towards increasingly unlikely hypotheses [see also @measey2021how on [Type I errors](http://www.howtowriteaphd.org/TypeI.html)]. 
+
+At the heart of all of this is the cult of the [Impact Factor](#impactfactor) and the research mentality that it generates. 
+

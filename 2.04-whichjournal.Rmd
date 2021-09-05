@@ -1,0 +1,116 @@
+# Choosing the right journal {#whichjournal}
+
+In this section I provide steps to go from a potentially very long list of journals where you might publish, to choosing the one where you will submit your manuscript first. As you work through the steps, keep notes on why you exclude journals at each step. You may want to revisit these criteria later, or explain to your coauthors why a particular journal was not considered.
+
+Although your article can be found from anyone outside of the normal journal readership, it is important to publish your paper in the correct journal for your study for the following reasons:
+
+- The editor will [desk reject](#desk) your manuscript if it is not appropriate (and you'll waste their time)
+- Many reviewers give feedback tailored to the journal, and this will not be appropriate in the wrong journal
+- Perhaps most importantly, you are likely to get additional readers in the correct journal that might not find your paper otherwise
+- Note that there are no-Impact Factor journals for which this above is not relevant, and these are [discussed separately](#noif)
+
+This section is geared toward the 'current' model in the life sciences of journal title as a measure of quality. The reality is that this model is shifting, and we may well end up with another (better) [open model](#closedtoopen) in the future based around [preprint servers](#preprints2) and [overlay journals](#overlay). The current reliance on journal titles is driving a [toxic culture](#PruittData) in biological sciences that is becoming increasingly recognised, even by those who are [gatekeepers](#gatekeepers) for this model (see [Part IV](#retract)). To reflect this viewpoint, and help drive a culture of change, I have placed [Impact Factor](#impactfactor) outside of this list of steps. In doing so, I acknowledge that you and your co-authors may well be operating inside the current publisher driven model advocating for Impact Factor as a step with high priority. Even if this is your reality, I hope that you will acknowledge and appreciate that this is not the way that journals should be chosen.
+
+I'm going to suggest that you keep a spreadsheet with the answers to the steps below as columns, and different journals as rows. If your submission is rejected from the first journal choice, you can then use this spreadsheet so that you know where to submit next (i.e. just do the work once). This spreadsheet may well come in handy for future similar submissions.
+
+
+### Indexing
+
+You want other people to be able to find the work that you publish, and so selecting a journal that is already indexed in one of the major literature databases (Web of Science or Scopus) is important. Be aware that when new journals are indexed, they are usually done with their entire back catalogue. Thus, if a journal advertises that it will be listed by one of major literature databases, your submission will likely be listed eventually, even if not immediately.
+
+
+### The Subject Area
+
+No matter what your paper is about it will fall within an existing subject area. A good way of determining your subject area is to look at those listed by literature database like Web of Science or Scopus. These databases have subject areas which contain groups of journals. You can look through the journals that you cite in your references, then check with Web of Science or Scopus to see which subject area the majority of them are grouped into.
+
+Journals have different hierarchies of scope. Some journals attempt to take on the full gambit of science (e.g. Science and Nature) while others are only interested in a particular taxonomic group. In general, the impact factor of the journal is likely to be linked to the diversity of the scope. This is not always the case. There are some taxonomically specific journals with high impact factors, and there are some general journals with low impact factors.
+
+Once you have determined your subject area make a list of the journals within this area. Based on your reading of literature pertinent to your manuscript, try to decide whether your manuscript is likely to be accepted by a journal with a high ranking impact factor, a medium ranking journal, or a low-ranking journal. Note that in your discipline it may be more appropriate to use a five or ten year impact factor to rank your journals, instead of the normal two. Sort the list of journals within the subject area by impact factor and then select the ones that are either high (>10), medium (>4), or low (<4). 
+
+### The Journal Scope {#scope}
+
+Every journal has a scope that is stated on their website. Your manuscript must fit into the scope of the journal that you select. In order to get your candidate list of journals you now need to visit their websites to look at their scope in detail. Ill fitting scope is the most common cause of a [desk rejection](#desk) [@schimel2014editors; @teixeiradasilva2018establishing].
+
+If your potential journal list is long, I suggest that you lead with the journals whose articles you have already cited in your manuscript. In the journals that you enter into your spreadsheet, quickly summarise the scopes of your choice journals and make some notes on how your manuscript fits them. This will help when writing your [cover letter](#letter).
+
+
+### Ownership of the content {#copyright}
+
+In this book, I have made a plea for the movement to an [Open publishing model](#openscience). Note that your choice of journal will dictate who ends up owning the content: i.e. copyright. Most for-profit publishers insist on owning the content of the journals that they publish. This means that if you ever want to use the content that you created (such as a figure in a book), then you will need to approach those publishers for permission. Traditionally, for-profit publishers have retained copyright on their content as this makes for another potential [income stream](#money) for the future (think text books that use graphs from journal papers). In the case of society owned journals, the copyright can be retained by the society. Most Open Access publishers have been forced into a Rights Retention Strategy by [cOAlition S](https://www.coalition-s.org/the-rrs-and-publisher-equivocation-an-open-letter-to-researchers/), and consequently, this should be a general trend in all journals: copyright is retained by the authors with a Creative Commons licence. If you want to know more about what the different Creative Commons licences mean, they have a very good explanation on their website: https://creativecommons.org/
+
+Although I've listed ownership of content as Step 4 in this scheme, I would suggest to you that it is not incompatible with any journal. As owner of your content, you have the right to archiving your [Green OA](#green) wherever you please. Wherever you publish, make sure that you retain ownership of your content, and if this is not the case, then insist that you want to retain the right to your own content once your article is accepted. Think of it from the other side of the desk: if the author wrote to you as editor and said that they want to retain ownership of their content - on what grounds do you (as editor) have to refuse them? Owning your own content seems like a trivial step in the massive movement from [closed to open science](#openscience), but it is a very significant step forwards that all scientists should own their content.
+
+
+### Current Contents
+
+Now that you have a shorter list, it's time for you to look at the current contents of the journals that are on their website. The contents for the last two years should reflect the policy of the current editor for accepting manuscripts. You should be looking for papers that look similar to your manuscript in their scope. 
+
+If you see papers that look directly comparable to your own then make a note of what they are. Your list of journals should now be less than ten.
+
+
+### Society journals {#society}
+
+Academic publishing started with society journals, and I think that they are still worth supporting if you can. Your mentor or co-authors may be members of particular academic societies, and may have a preference therefore to publish in their society's journal. See below for other potential advantages in publishing in a society journal. 
+
+
+### Transparent credibility
+
+[Transparency](#transparency2) in science is very important and should be part and parcel of your own work. When you have made a real effort to be transparent, you should look for journals that do the same. There is a badge system used for transparency in science. See or @kidwell2016badges, or see @marshall2021make for an example of how this can be applied. 
+
+
+### Knowing the journal from the inside
+Your mentor or co-authors could be an Editor or Associate Editor (past or present) of one of your target journals. Or there may be someone in your department or institute that you could consult. I am not suggesting that you use their influence to help you get published, this conflict of interest strictly prohibited by most journals. Instead, these people can help you decide whether or not your submission will be welcomed or [desk rejected](#desk). 
+
+Reject without review is typical for manuscripts whose authors have not followed steps 2 to 4. It can still happen, even if you have. Reject without review is such a waste of everybody’s time that you should avoid it if at all possible.
+
+
+### Is there a specail issue?
+Special issues are a great way for your work to get better exposure, both to others that are participating in the special issue, and to those who come across the entire issue later (see [Part I](#citations)).
+
+
+### Avoiding the predators
+You must make sure that the journal you plan to submit to is not a predatory journal. Follow the check list in [Part IV](#predatory).
+
+
+### Financial considerations to publishing
+
+In an ideal world, there wouldn’t be any more barriers to you publishing your contribution to the collective of scientific knowledge. Not only is it not an ideal world, but I would argue that there has never been a less ideal time for publishing science. Greedy publishers have taken publicly funded science and made the public pay for it time and again. Read more on this [later in the book](#paywall).
+
+### Type of peer review
+Another factor that may influence your choice of where to publish is the type of reviewing done by each journal. These [reviewer flavours](#flavours) are discussed in detail elsewhere. See a full description of these types of peer review in [part 1](#flavours).
+
+### Time to first decision
+Sometimes you will be in a hurry to publish, and journals have different mean times to first decision. In general, this is driven by the responsiveness of the editorial team. Some journals, with fast turnaround times, advertise their time to first decision and so this may influence your decision about whether or not to publish there. Remember that if you are desperate to get a manuscript out into the public domain, you can always submit a [preprint](#preprint).
+
+
+### Open access
+
+Some journals are exclusively [Open Access (OA)](#openaccess1) meaning that you will need to pay (unless they are [Diamond OA](#diamond)) in order to publish your accepted manuscript (author pays). Different types of OA are covered in a subsequent chapter (see [Part II](#openaccess1)). More information on OA is provided in [Part IV](#openaccess), and I encourage you to read this before you decide to pay any research money toward OA publishing Article Processing Charges (APCs).
+
+Your university may have a deal with some OA publishers (especially if you are based at a European institution) so it's well worth making a note of this. If in doubt, talk to your librarian. However, watch out for [manipulative publisher deals](#deals) that make you more likely to publish OA when your institution has a “read-and-publish” deal. Remember to ask yourself your motivation for why you are choosing your journal. Morally, choice by publishing company should never be high up on anyone’s list.
+
+
+### Page charges
+
+Note that some journals that remain behind paywalls still demand page charges. These can be quite substantial if you come from a lab with no money for publishing charges. In my experience American society journals regularly have page charges. These may well be reduced for members, or you may be eligible for a page charge fee waiver.
+
+### Fee Waiver
+
+Note that with all of the above you may be eligible for a waiver to page charges or Open Access fees. Who gets a waiver will be discussed [later in the book](#waiver).
+
+
+### Impact factor
+
+The impact factor of the journal may be an important motivation in your choice, or that of your advisor. I’ve left it off my list of stepwise criteria as I hope that it’s not going to influence you according to the San Francisco Declaration on Research Assessment (known as [DORA](#DORA)). If [Impact Factor](#impactfactor) is important to you, include it in the list that you produce and make a note of the most recent impact factor for each journal. There's more about the impact factor in another [chapter](#impactfactor). 
+
+### No impact factor journal #NOif
+
+In this book I refer to journals that have no interest in their [Impact Factor](#impactfactor) as 'no impact factor'. Of course, if these journals are listed by impact factor providing databases (and most are), then they will have an impact factor and this can be high - even higher than other journals that attempt to inflate their impact factors (see [Part IV](#PLOS)). Instead, what I mean is that these journals are operating at minimum standards of technical soundness (so called '[negative selection](#AKP)'), instead of the AKP selection of only papers that are thought by their gatekeepers to uphold or increase the journal IF.
+
+There's no problem to publish in a journal that has no interest in impact factor. Indeed, it can be seen as 'the right thing to do', with respect to confirmation bias. This is the way that all science was published prior to the dominance of [citation metrics](#citations). If you are submitting to a 'no impact factor journal' then you should be aware that this is what their speciality is: an emphasis on the technical soundness, rather than whether or not a significant result was found. You need to be aware as this is how inclusion of such publications in your CV will be regarded by peers. The list of 'no impact factor journals' is growing, and they tend to be online only, [Gold OA](#gold) and carry substantial [article processing charges](#gold). 
+
+
+## Shortlist
+Once you have your shortlist of journals to consider, take it to your mentor. Together with your coauthors rework your list into something that you both all agree with. Rank your list by journals that you want to try first and those that are your last options at the end. 
+
+Keep the list so that if you are rejected by the first journal on your list you know where you're going to next.

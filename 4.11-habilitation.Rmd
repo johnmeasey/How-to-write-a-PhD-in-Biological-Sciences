@@ -1,0 +1,36 @@
+# Habilitation, DSc and Tenure {#habilitation}
+
+These are qualifications post-PhD that exist in some countries and might be prerequisites to getting some positions within academia. I do not go into these in detail here because they are country specific, and you are likely to learn much more about them at your own institution. The brief inclusion here serves as a guide to their existence, and for you to be aware that different rules apply in different countries, and that if you are mobile in your career there may be additional steps that are required of you before you can apply for a job or certain promotions.
+
+## Habilitation 
+Habilitation from the Latin _habilitare_, "to make fit", started in Germany first as part of the PhD process, and later as a separate post-doctoral qualification in the 1800s. This process has been adopted by a number of (mostly European) countries as a requisite step in teaching or directing research. In countries where this qualification exists, it is usually a prerequisite before being able to apply as a candidate for a professorship. In some countries, most notably Germany, the habilitation comes after having already held a job as a researcher and lecturer, and comes with a serious expectation that this will lead to a promotion to become a professor. In this way, it could be seen as a similar process to going for tenure in the US. 
+
+In France, the related qualification is the Habilitation à Diriger des Recherches (Accreditation to Direct Research or HDR). Like the German system, the HDR is applied for by someone who already holds a position as a lecturer (Maître de Conférences) for several years, when they hold sufficient research to put together a portfolio. You need to be accredited with HDR before you can advise PhD students. Ironically, this portfolio should include the supervision of at least one PhD student. Thus, you’ll need to arrange to be a co-advisor when you are actually the main advisor, before moving forwards with your HDR portfolio. Given that your first PhD student may take some years to finish, it would be worth finding a sympathetic person with an HDR sooner rather than later, once you are in your Maître de Conférences post.
+
+In the biological sciences, most requirements for habilitation are cumulative, meaning that you can assemble a set of published research papers that you have written or led. The number and quality of such publications will depend on where you are submitting this thesis, meaning that in some places it may take as long as 10 years. Importantly, the habilitation is not advised. 
+
+## Doctor of Science (DSc)
+In the absence of any requirement for habilitation, there is the possibility (at many universities) of compiling published papers, that you have written or directed, into a thesis that can be examined for a Doctor of Science (DSc). Like the PhD, the DSc allows you to call yourself Doctor (although you likely already can) and put the letters DSc after your name. The DSc is touted as an advanced doctoral degree. You will need to register as you would for a PhD, but in most cases your thesis will not be advised. 
+
+One interesting point to note is that registration for a DSc need not have possession of a PhD as a prerequisite. If you are in a position where you have never done a PhD, but have worked within or alongside academia, including publishing papers, for a considerable period, you might be in a position to register for a DSc.
+
+## Tenure {#tenure}
+Obtaining tenure (in the USA and Canada and some other countries) gives you a special kind of academic freedom such that it is very hard for you to be removed from your post. In some states this means that you are not required to retire (a job for life - although there are [increasingly attractive offers for professors](https://www.theatlantic.com/business/archive/2016/06/colleges-offer-retirement-buyouts-to-professors/487400/#:~:text=Since%20about%2090%20percent%20of,traditional%20retirement%20age%20of%2065.&text=They%20were%20able%20to%20impose,past%20the%20age%20of%2070.) to [retire](https://www.thecrimson.com/article/2018/5/23/yir-aging-faculty/)). Tenure exists around the need for independent academic freedom: that as an academic scholar you are free to hold your own, scholarly views, and as such cannot be censured by the state. Getting tenure, therefore, at the university where you are employed is an important step, vital if you want to move from contract to permanent employment. In practice, if you don’t get tenure it will most likely mean that you won’t get to continue at that university: tenure or bust. 
+
+In order to obtain tenure in most US universities you will need to provide:
+
+- A portfolio of peer-reviewed published research
+- The proven ability to attract grant funding
+  + A significant amount of which goes to the university
+- Teaching excellence
+  + As assessed by undergraduate and postgraduate students
+- Academic visibility
+  + The recognition of your research by peers through inclusion in conferences, invitations to give seminars, etc.
+- Administrative and/or community service
+  + This includes roles such as being an editor for a journal
+  + Peer review for journals and grant awarding bodies
+  + Serving on your university’s committees and panels
+
+The relative importance to each of the above aspects will depend on the type of college where you are trying to get tenure. Unsurprisingly, a teaching college will require you to have excellence in teaching, while a research university will place more emphasis on your research portfolio and your standing as an academic in the international community. If you aren’t from North America, it is important that you know what the priorities of your institution are before you apply for a position there, or even before you try to do a postgraduate degree.
+
+Once you are in an untenured post at a US university, you will have a limited amount of time to achieve the above portfolio in order to achieve tenure. Getting tenure often comes together with promotion (to professor) and a reduction in (undergraduate) teaching load. The time limited nature of getting tenure is such that even after you have received your PhD, this is a much higher hurdle to attain.

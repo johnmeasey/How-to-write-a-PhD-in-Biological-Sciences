@@ -1,0 +1,194 @@
+# Preprints {#preprints2}
+
+## What are Preprints?
+
+So far in this book, I have explained about the process of [peer review](#peerreview) how important this is and later I explain why it's the [silver](#fixing) (and not gold) standard in science. Preprints came to us from the world of physics. An academic world that is moving so quickly that many inside it don't want to wait for peer review before making their work public. They date back to 1991, and were the brainchild of Paul Ginsparg with his preprint server, *arXiv*. Today, *arXiv* hosts nearly 2 million articles in 8 subject areas: Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science and Economics.
+
+In addition to making your work open access, it allows anyone to read and review it. This is unlike the traditional publishing model where editors invite selected reviewers. Many consider preprints as a kind of open peer-review system. 
+
+> "The life science community needs to return to a culture of evaluating scientific merit from reading manuscripts, rather than basing judgment on where papers are published."
+>
+> ---@vale2015accelerating
+
+In biological sciences the most prominent preprint server is called [bioRxiv](https://www.biorxiv.org/). 
+
+## Who posts preprints on bioRxiv? {#bioRxiv}
+
+In an analysis by Abdill and Blekhman [-@abdill2019tracking] back in 2018, there were 37648 preprints uploaded to *bioRxiv*. But in the world of preprints, this information is quite dated as back then there were only \~2000 uploads each month. Luckily, these same authors regularly scrape data regarding submissions to *bioRxiv* and I'm able to reproduce these live data below. It is interesting to look back at the concern back in 2015 that preprint servers like *bioRxiv* might not catch on in the biological sciences [@vale2015accelerating], and it is still true to say that the number of preprints in the life sciences is still dwarfed by the annual number of publications, whereas physics has seen the opposite trend. 
+
+(ref:bioRxiv-line-annotated) **The growth of bioRxiv submissions in time.** Note how the rate of submission rocketed at the beginning of the pandemic lockdown, and has remained high ever since. 
+
+
+```{r bioRxiv-line-annotated, echo=FALSE, fig.cap="(ref:bioRxiv-line-annotated)"}
+if(knitr::is_html_output(excludes="markdown")) knitr::include_url("https://johnmeasey.github.io/bioRxiv-line-annotated/index.html", height="350px") else knitr::include_graphics("figures/bioRxiv-line-annotated/annotated-line-example.png")
+```
+
+
+What you see is a doubling of bioRxiv submissions dating back to May 2020 (Figure \@ref(fig:bioRxiv-line-annotated)), a few months after the start of the global COVID pandemic. (Go to the [RXivist website](https://rxivist.org/stats) to see the incredible spike in [medRxiv](https://www.medrxiv.org/) data at the same point in time.) Many scientists had spent a few months working from home. Some had been productive, and many decided to move this productivity for the first time onto bioRxiv. 
+
+In answer to the question above, **just about everyone now posts preprints on bioRxiv**. Those that don't likely use other preprint servers, or are not moving with the times. 
+
+The preprint revolution has not gone unnoticed by the tech giants. Back in 2017 the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) made an undisclosed donation to bioRxiv. The advisory board also hoata the architect for Google Scholar, Anurag Acharya.
+
+
+
+## Why might you want to post a preprint?
+
+One of the advantages of posting a preprint is that it gets a [DOI](#DOI) [(digital object identifier)](https://www.doi.org/). You can then use this DOI to refer to your work even though it is not published in a peer review journal. 
+
+For example imagine that you've just finished your thesis and only one of your chapters is published. How can you show to prospective employers how good your work is? Or if you are applying for money how can you refer to your work even though it's not published? A preprint is a simple solution to this problem.
+
+Other benefits include having a wider scope of peer reviewers. If you know that in your subject area there are many people who may want to comment on your work constructively, then this would be an opportunity to give them access. Importantly, because a preprint has a DOI, your work is not vulnerable to theft. It also allows you to stake your claim on the work that you've already done even though there may be a lag time between this and it coming out in a journal with full peer review.
+
+If you do want feedback on a manuscript that you have posted as a preprint then you will need to tell people about it. A good example of this would be after providing a talk, or a poster, at a conference you might show a QR code where people can read your manuscript as a preprint. you can also publicise it to your community on social networks like Twitter. 
+
+If you get lots of feedback on your manuscript then you should expect to incorporate it. So be careful what you wish for, because you could be opening yourself up for a lot of comments.
+
+Posting a preprint on bioRxiv is also a shortcut to submission to a growing number of traditional journals. Manuscripts and Supplementary Information can be [transmitted directly](https://www.biorxiv.org/about-biorxiv) from the preprint server to many journals without the need to upload the files and metadata a second time. 
+
+## Upload newer versions
+
+If you, or others, spot errors in your preprint, or you find new literature to cite, you can update your manuscript with a new version. Indeed you should do this for as long as your preprint remains active. Once published, make sure that there is a pointer from your preprint to the published version. 
+
+## Will you have to post a preprint?
+
+This field is moving quickly. In December 2020, at least one journal (eLife ‘publish then review’) announced that they won’t accept a submission until a preprint has been registered. Thus all reviews are made on preprints. Other journals, like PLoS, are announcing in house preprint servers. You should expect this area to rapidly change in the coming years, so no matter when you are reading this, you are more likely than ever to need to submit a preprint. 
+
+At the time of writing, there are still some journals that make it a condition of submission that there is no preprint. Make sure you check within your target journal list.
+
+If you choose to publish in an [overlay journal](#overlay), then you'll have to deposit your submission onto a preprint server. 
+
+## Could these comments pages really replace peer review?
+
+Peer review is often regarded as a gold standard in scientific publishing (although a [silver standard](#fixing) would be a more realistic), and there’s certainly a lot to that. It ensures that published material has been read and its contents assessed independently. But peer review is fallible, because scientists are all humans. These problems are discussed at length in [Part IV](#problempeerreview).
+
+In 2003, Stefano Mizzaro proposed changing peer review to the format that we now see in preprint journals. Let every reader become a reviewer. Another take on this same theme is provided by Heesen and Bright [-@heesen2020peer] who argue for a more subtle change in the date of publication (prior to peer review as seen in preprints) instead of after peer review. Here their emphasis is on removing the wasted time spent reviewing and then rejecting manuscripts that will never be published. Their discourse is very persuasive, yet given that both models currently exist, we need more ideas on how we could drive a preprint model forwards. More ideas do exist, and I encourage you to explore those proposed in a special issue edited by Kriegeskorte et al. [-@kriegeskorte2012emerging].
+
+In the preprint model, [several peer review problems](#problempeerreview) might be overcome as no-one chooses the reviewers. Instead they choose themselves, and are motivated to do the work. Their competence to cover all aspects of the manuscript is not assured, but one assumes that independently motivated reviewers will only comment on parts that they are able to assess.
+
+All of this is very good, but will people actually read and comment?
+A quick look at the sites will tell you a lot about the level of reviewing that is currently going on in biosciences preprints. Looking at the top 10 articles on _BioRxiv_ (zoology section) confirmed my suspicions. Plenty of tweets about the articles, but none of them had any comments, let alone reviews. Indeed, a further trawl through PeerJ Preprints, also found no comments. 
+
+When reviewers aren't chosen, there's potential for manipulation. This could promote a culture for comments to preprints for well known labs, and (conceivably) a certain amount of trolling for labs with ongoing disputes or rivalries. This would make preprint peer review a sort of trial by popularity. But I don’t see a situation where potential reviewers will take time-out once a week (for example) and hunt for manuscripts that have received no comments. It seems far more likely that the authors will have reciprocal agreements with other groups to review each other’s manuscripts. This nepotistic tendency then puts us back into the area of [problems in peer review](#problempeerreview) that we’ve been working hard to overcome now for sometime. 
+
+## Preprints are here to stay
+
+It is clear that preprints are with us to stay. The year of the COVID-19 pandemic (2020) saw an explosion of preprint papers on the topic, but also saw the misunderstanding of what these articles mean by the press and general public alike. Rapid sharing of results via preprint servers has already been put in place following the outbreak of Zika virus in South America (back in 2015-16), but the global nature of the Covid public health crisis saw much larger numbers of preprints being placed online. 
+
+But the value of preprints will always be limited for as long as there is no peer review. Moreover, comments won't suffice for peer review as there is no editorial oversight. As you'll read elsewhere, the [role of the editor](#editors) is pivotal in publishing. 
+
+
+## When should evaluation end?
+
+One point raised many times in the special issue edited by Kriegeskorte et al. [-@kriegeskorte2012emerging] is that evaluation should be open ended: __ongoing evaluation__. There was a consensus to see reviewers continue to question the contents of papers long after publication. But these authors don’t appear to have a realistic perspective on the time taken by authors to rebutt their work. Imagine the effort that you currently put into a [rebuttal letter](#rebuttal). Now consider that your first rebuttal might come after a few months, and then you need to compose another after a few years. Perhaps you are the only author still working (especially if it is the work of your students). Perhaps all of your co-authors are dead! Suddenly you are called upon to defend your work, potentially decades after completion. Can you do it? Would you want to do it? What would be the consequences of not doing it? Would people start dismissing your contribution?
+
+While I am regularly the first in the queue to criticise the current peer review system. I am also very grateful that publication represents a line in the sand under which I won’t have to continue working on a project. In a world in which I had continually documented every step of every experiment, I can imagine that it is potentially possible to find a _post hoc_ defence for every step in a protocol. But the painstaking nature and time involved in going through old work would be an added burden that I cannot welcome with any enthusiasm. Personally, in a world when I have the option of working on a new project or endlessly and repeatedly defending old ones, I’d pick the new project every time. 
+
+## Are preprints published?
+
+As they each have a DOI ([Digital Object Identifier](#DOI)), they are in their own way already published.
+
+Another point is that these articles are picking up citations. And there is a new concern that these articles are being cited, even when they are subsequently available through a published journal. This is one of my personal concerns with using a preprint service. I’m happy to put the paper out there for public comment, but the idea that it’ll remain there and that readers won’t necessarily be redirected to the peer-reviewed version does concern me.
+
+Another question is what happens to manuscripts that are placed on preprint servers, are then sent out for review but not published because they are fundamentally flawed? It’s not as if the reviews are not made, but there is no automatic link to the reviews by the journal that conducted them.
+
+There are certainly a lot of manuscripts out there with fundamental flaws. These are often sent for peer review, but those reviews pointing out the errors won’t necessarily make it back to the comments page on the preprint server. I think that this is a serious problem. The reviewers have spent time and effort and the very reason they do this is so that manuscripts with fundamental flaws don’t find their way into the literature. However, preprint servers have, perhaps unwittingly, found a loophole that allows manuscripts that are not scientifically robust a backdoor to citations. 
+
+**If preprints are fundamentally flawed, can’t everyone spot it?**
+
+No. Reviewers are chosen by an editor with great care because of their speciality area is in their particular domain. They have insights that not everyone will be aware of and these are an important aspect of the purpose of peer review.
+
+I edit for the journal [PeerJ](www.peerj.com). Although there can be various reasons to be rejected from PeerJ, normally it means that your paper is not scientifically sound. As PeerJ has no selection for impact, rejection does not normally mean that it can be simply submitted to another journal. I have noticed that manuscripts that I have rejected from PeerJ are still available as preprints without any comment on their failure during peer review. In my opinion, this is not good as it essentially ignores the input given by both reviewers and editors. The article appears as if it has had no comments or attention, when this is not the case. In a system where we move to relying more on preprints, why would we want to ignore chosen peer reviewers for whom this article was within their specialist area? According to Google Scholar, the rejected article is gaining citations, again raising concerns that rejection by peer review is not a hurdle to entering the scientific literature. All of this calls for reviews to be linked more directly to preprints, no matter where they are published. A model that deals directly with this is [overlay journals](#overlay).
+
+
+## The exciting new world of Overlay Journals {#overlay}
+
+Having said that preprints won't replace the role of peer review, what if we did have good, editorially coordinated peer review of preprints? What if, instead of these manuscripts effectively leaving the preprint system, they were updated together with the reviews that prompted the updates, each with their own linked [DOI](#DOI)? What if the journals themselves were simply pointing to collections of papers that had been curated in this way? Simply a website that throws a veneer of a journal as waypoints to peer reviewed journals. This world has already been imagined and is functioning in mathematics, where Overlay Journals have begun to prosper. 
+
+According to Brown [-@brown2010introduction], the idea of overlaying has been with us for some time, and exists as websites that offer a series of links to other papers. In this way, a review article could be considered an 'overlay paper', the contents of Web of Science as an 'overlay database'. But, for me at least, this is not where the real potential lies. Instead, imagine the overlay journal as a way in which academics entirely remove the need for publishers. The need for this is increasingly evident as we become more familiar with the ways in which we rely on traditional publishing models to pervade our scientific project with confirmation bias. Overlay journals no longer require a publisher to store the publication. This is done at the preprint server. The reviews are housed at the same arXiv site (or would be in an ideal and transparent version)[@rittman2020fast], as is the manuscript in its final form after being accepted by the overlay journal editor. The authors themselves are responsible for the final layout. The Overlay Journal co-ordinates the reviews and conducts the editorial work, and then simply acts as a pointer to the finished product: no papers, no publishers, no editorial management software, no costs and all papers are [Diamond OA](#diamond)!
+
+The journal [_Discrete Analysis_](https://discreteanalysisjournal.com/) (indexed in both Web of Science and Scopus) was the first of these new 'arXiv overlay journals' (since 2017), and following this link will allow you to quickly appreciate what an Overlay Journal is. Each 'published' paper still sits on its original preprint server. The overlay journal itself offers a brief editorial summary of what you'll find if you click through to the paper. This is a fantastic idea in that it pitches editors back into being responsible content curators. As an editor I'd want to be motivated to publish a paper that I liked in order to write an editorial summary about it.
+
+Because the only the accepted version is provided with an 'article number' and the style file of the journal layout, the author then produces the final version of record (VoR) of the accepted manuscript by running the style file with LaTeX. All of this is possible with free software, for example by using R Markdown [@xie2018r]. 
+
+Using preprint servers also allows the entire process to be [transparent](#transparency2), very quickly becoming associated with other great initiatives like the Centre for Open Science - [OSF](https://www.cos.io/).
+
+### What do traditional publishers think of 'Overlay Journals'?
+
+Surely, the onset of 'Overlay Journals' should have publishers quaking in their boots? Strangley not. But their response should really be enough to wake us up. 
+
+> They're probably only going to succeed in disciplines where a no-frills approach to publishing is acceptable... 
+> I think that the real threat to our traditional model... is if Overlay Journals have **Impact Factors** and can provide the same services, and they are free... then I think that that does pose a threat.
+>
+> ---[Anonymous from Highwire Press Inc. 2017](https://youtu.be/ADecAXLrKoA)
+
+As this has already happened (for the journal _Discrete Analysis_), it would be interesting to know how traditional publishers are going to prevent an Overlay Journal take-over. 
+
+### What is happening in biological sciences? {#PCI-EvolBiol}
+
+One of the original electronic journals, [Journal of Medical Internet Research (JMIR)](https://www.jmir.org/), announced in 2019 that it will launch an overlay journal covering biology, a so called 'superjournal', JMIRx [@eysenbach2019celebrating]. This overlay journal operates by editors choosing preprints that they want to publish ('editorial prospecting'), and then approaching authors and reviewers, and also by authors pitching their preprints to the editors. Today [JMIRx|Bio](https://bio.jmirx.org/) accepts any preprint published on [bioRxiv](#bioRxiv). Although JMRIx|Bio, and sister journal [JMRIx|Psy](https://psy.jmirx.org/), were launched in 2020, I cannot find any articles submitted (by mid-2021). The sister journal [JMIRx|Med](https://med.jmirx.org/), launched at the same time and in the same area as other JMIR journals, and has a rapidly expanding publication base.
+
+Another preprint led service is _F1000Research_ (f1000research.com), which grew (via a buy out by Taylor & Francis) from the peer recommendation site Faculty Opinions (facultyopinions.com). _F1000Research_ requires preprint submission on their server, and then co-ordinates postprint peer review which is all accessible online in the same location. Like other [Gold OA](#gold) journals, _F1000Research_ charges an impressive Article Processing Charge, and does not aspire to an [Impact Factor](#noIF).
+
+There's an excellent tie-in here with [transparency](#transparency). Because preprints are [Diamond OA](#diamond), and reviews are OA, the process is all transparent. 
+
+A nearly 'overlay' model is [Peer Community in Evolutionary Biology](https://evolbiol.peercommunityin.org/), launched in January 2017. This comes very close to the 'arXiv Overlay Journal' model described above. These preprints are submitted to PCI-Evol Biol, and are reviewed and (if they aren't rejected), a recommendation is given. The site then publishes the recommendation from peers as well as pointing to the preprint. However, unlike _Discrete Analysis_, the preprint remains 'unpublished' despite the peer review and can then be taken onto a traditional journal. There is a  growing [list of journals](https://evolbiol.peercommunityin.org/about/about) whose editors will accept recommendations from PCI-EvolBiol, and may use the reviews when appropriate. However, it's also worth noting that there are a small number of journals that will not accept preprints recommended by PCI-EvolBiol. While Peer Community in Evolutionary Biology does not publish their peer reviewed articles, another initiative from Peer Community In takes a step backwards to get a step closer ([see below](#commitment)). 
+
+The journal [eLife](https://elifesciences.org/) is also taking steps toward becoming an Overlay Journal, with their implementation of a **preprint only** submission route [@eisen2020implementing]. Although eLife appears to embrace all the advantages of transparency in their use of preprints, there is still a significant barrier that has recently jumped from $2500 to $3000 for the privilege to publish (eLife has an APC waiver system which is not seen by editors). Again the question of what exactly scholars are paying such high fees for comes to the forefront. 
+
+
+### Preregistration and a commitment to publish {#commitment}
+Registering your proposal (or any research plan), means that you can present a historical document to a journal (probably four to five years later) to show that you have tested the hypotheses that you originally intended to. This is simply a way of being transparent in your science, and enables you to demonstrate that you have not been [p-hacking or HARKing](#transparency). Similarly, you can demonstrate that you are not '[salami-slicing](#salami)' your results.
+
+Another initiative from Peer Community In is the possibility of submitting to their [Registered Reports](https://rr.peercommunityin.org/), which goes much further towards removing the confirmation bias. The Registered Report (RR) is in effect the registration of a proposal (i.e. preregistration) with review. If the RR is approved by reviewers then the study is, in principle, given the green light for publication whether or not the hypothesis posed is accepted or rejected. I say “in principle” because those same reviewers are shown the manuscript again once the results are in. They need to check that the methods proposed were followed, the analyses were conducted in the same way they were proposed, and that the conclusions are justified by the results. Peer Community In are offering to organise the two sets of peer review. In addition, there are a bunch of journals that have already signed up to accept RRs that are signed off after completion (notable among these is PeerJ). To me, this represents an important step in the right direction toward [transparency](#transparency2), and the elimination of confirmation bias. What would be great to see is the number of conventional journals sign up with RRs based on the quality of the study design and execution, and the concomitant abandonment of [Impact Factor](#impactfactor) as a driving force in publishing.
+
+### Beware of publishers' preprint servers
+Publishers have a lot to be worried about preprint servers as they have the potential to take away their business. For this reason, you will see that some publishers have launched their own preprint services. Don't be lulled into submitting to the preprint server of a publisher. There are plenty of preprint servers that have nothing to do with publishers, including the most ubiquitous. These are non-profit transparent organisations, and we all have an interest in them staying that way. Simply put, there's no need to use a publishers' preprint server (this is the same principle as your data, [see here](#suppmat)).
+
+
+## Peeriodicals - another twist on the idea of an Overlay Journal
+
+The launch in 2018 of [Peeriodicals](https://peeriodicals.com/) puts another twist on the idea of an Overlay Journal. This time, the Peeriodical is a site where anyone puts together a collection of any published papers or pre-prints that they curate themselves on a topic. They don't pass them out for any further review, but they are in effect another kind of curated Overlay. 
+
+
+## Should you submit your manuscript as a preprint? {#preprint}
+
+Here are some reasons for and against submitting your manuscript as a preprint:
+
+### For:
+
+- Your manuscript needs to be cited by another that you are submitting and you are worried that the peer review process will take too long.
+  + This is especially appropriate in the need to be [transparent](#transparency2) to demonstrate that you are not '[salami slicing](#salami)' your work.
+- You are applying for a scholarship, a grant or job and want to be able to show that you have a body of work that is ready to be published, even if it is not formally published yet. Using preprints, you can allow the hiring committee or potential employer access to your work. This is really much more impressive than claiming manuscripts are 'in preparation' on your CV.
+- You are presenting some unpublished work at a [conference](#conference) and you want people to be able to access it (e.g. through scanning a QR code)
+- You are submitting a grant application and want to demonstrate that you have sufficient data, although it isn't yet published
+- You are aware that another lab is working on a similar project and are worried that submitting to peer review will scoop your findings. 
+- Your work has immediacy that it might not have after (potentially) 3 months of peer review. It may be that by releasing your preprint you can contribute to an ongoing debate that otherwise you’ll potentially miss.
+- It's free. No APC or other fees are involved with depositing your preprint
+- You have the potential to increase your network when people you have never met read your work.
+- You are concerned that you’ve missed something important or perhaps analysed something in a novel way that others might be able to help with. You want this chance at feedback before submitting to peer review.
+- Your manuscript crashed out of peer review with comments that you felt were unfair or unsubstantiated. You are looking for more balanced comments.
+- In the above case, you might be able to use your preprint as leverage to persuade an editor that your contribution should be fast tracked into their journal.
+- If you can generate enough buzz and positive feedback, you might be able to get leverage on an editor for submission to a journal with a higher impact factor.
+- You have a working group that you actively want to share your publication with, even before it is published
+- This is the only submission route for 'Overlay Journals'
+  + [PCI-Evol Biol](##PCI-EvolBiol) in Biological Sciences
+  + [JMIRx|Bio](https://bio.jmirx.org/) accepts any preprint published on [bioRxiv](#bioRxiv) since 2020
+- This is the only submission route for some other journals [e.g. _eLife_ @eisen2020implementing]
+
+### Against:
+
+- Any of your co-authors don’t want the manuscript submitted as a preprint before peer review
+- You feel that public access might mean that your results are misinterpreted
+ + this should be on you to get it right before you submit it
+- There is a real chance that others can use the access to your work and publish it before you
+ + It's worth adding here that while you might believe that there are lots of people out there who might want to steal your work, this is a general paranoia that is very common in early career researchers. Few fields in biological sciences really have valid examples of data theft or idea theft. 
+ - Preprints are another example of how everything is too rushed these days.
+  + I've heard this opinion, but wonder why these authors wouldn't simply hold onto their manuscript until they feel that it's ready. 
+
+I can’t really come up with a lot of reasons against submitting a preprint (I've had to add some I have heard other people saying). This is possibly because I’m broadly in favour of preprints and see that there is value there. However, I’ve done it with only a fraction of papers submitted in the last 5 years. Why? 
+
+My experience of preprints, in terms of feedback and reviews, is disappointing. Although these get widely shared on social media, and garner a large number of downloads, they don’t generate comments from colleagues. Even when we have sent links of preprints to colleagues asking directly for feedback, we’ve received little to nothing. This does not mean that preprints are worthless. I think that they have great potential, and they may work better for you in your field than for me in mine. Moreover, preprint servers now hold the potential to free academics from the tyranny of [profit hungry publishing houses](#overlay).
+
+At this point, I should say that I have not (yet) made any public comments on a preprint. When I have looked at preprints, I (generally) have downloaded them in order to look at some of the details (often the methods or analyses), when there’s a dearth of peer reviewed (published) material. There are a few references to preprints in this book. I’ll replace them if I find that they have been published. But what should I do if the published version doesn’t contain the point that I’m citing on? In this case, I’ll delete the citation and no longer make the claim because there is the chance that the result did not stand up to the rigours of peer review.
+

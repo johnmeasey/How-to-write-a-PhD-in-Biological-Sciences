@@ -34,6 +34,7 @@ fig:key-word-selection
 fig:introduction
 tab:introparagraphs
 fig:methods
+fig:replace-significance
 fig:results
 fig:discussion
 tab:discuss
@@ -159,6 +160,7 @@ look-for-links-from-google-scholar
 google-the-title-in-quotes
 go-to-the-author-websites-and-look-for-links
 go-to-the-intitutional-repository-of-the-author
+try-an-open-source-oa-tool
 write-to-the-author-and-request-a-pdf
 go-to-an-academic-social-media-site
 go-into-the-black-open-access
@@ -293,6 +295,7 @@ data-analysis
 did-you-leave-anything-out
 results
 the-correct-approach---responding-to-your-hypotheses
+moving-away-from-significance
 when-to-have-a-table-or-graph
 descriptive-results
 responding-to-hypotheses

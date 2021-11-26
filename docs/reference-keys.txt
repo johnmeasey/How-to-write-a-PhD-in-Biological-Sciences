@@ -86,6 +86,7 @@ evolutionary-causal-explanations
 teleological-versus-causal-hypotheses
 how-to-evaluate-your-hypothesis
 TypeI
+type-i-and-type-ii-errors
 changing-the-likelihood-of-a-hypothesis
 increasing-the-statistical-power
 nohypothesis

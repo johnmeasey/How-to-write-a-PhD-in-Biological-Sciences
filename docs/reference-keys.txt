@@ -34,8 +34,8 @@ fig:key-word-selection
 fig:introduction
 tab:introparagraphs
 fig:methods
-fig:replace-significance
 fig:results
+fig:replace-significance
 fig:discussion
 tab:discuss
 tab:tables
@@ -295,10 +295,10 @@ equipment
 data-analysis
 did-you-leave-anything-out
 results
-the-correct-approach---responding-to-your-hypotheses
-moving-away-from-significance
+description-of-your-data
+responding-to-your-hypotheses
+moving-away-from-binary-significance
 when-to-have-a-table-or-graph
-descriptive-results
 responding-to-hypotheses
 common-mistakes
 discussion

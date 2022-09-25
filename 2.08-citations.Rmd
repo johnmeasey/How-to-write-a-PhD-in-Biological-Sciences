@@ -94,22 +94,62 @@ There are a number of different styles, and this is likely to depend on the jour
 
 >The impact of all invasive amphibians is similar to that of invasive birds and mammals [@measey2016global].
 
+But there may be a lot of papers that have found the same result, and you might want to only cite one as an example.
+
+>Invasive amphibians have some serious impacts on their recipient environments [e.g. @measey2016global].
+
 You’ll see that sometimes the names are brought into the sentence and become the central agents of the text.
 
 Sometimes, instead of 'et al.' you can write 'and colleagues' or 'and others'. This is something to do occasionally when you are looking to diversify some text. Don't over do it though.
 
->Measey et al. [-@measey2016global] found that the impact of invasive amphibians is comparable to that of birds and mammals.
+>Measey and others [-@measey2016global] found that the impact of invasive amphibians is comparable to that of birds and mammals.
 
 This technique is very useful when you then want to add another sentence or two about this same study.
 
->Measey et al. [-@measey2016global] found that the impact of invasive amphibians is comparable to that of birds and mammals. They did this by constructing GISS scores for all individuals in all groups.
+>Measey and colleagues [-@measey2016global] found that the impact of invasive amphibians is comparable to that of birds and mammals. They did this by constructing GISS scores for all individuals in all groups.
 
 Because the authors are the subjects of the first sentence, the citation becomes implicit in the second sentence. Then you don’t need to use the same citation again within the paragraph.
 
-What about page numbers?
+### What about page numbers?
 Sometimes you'll see a citation with a colon and page number after. This really only needs to be used if you are quoting specific text on a particular page:
 
 >Measey et al. [-@measey2016global: 976] proposed that using GISS scores could show that "some amphibians can have devastating impacts to the environment".
+
+## The problems with brackets {#brackets}
+Citations use brackets, and brackets are also used for other parts in writing. The problems with brackets often come when trying to combine citations that have brackets with the other parts of writing that also need the brackets. This is compounded when trying to do all this in [citation software](#referencesoftware) when you don't have complete control over it. 
+
+Most [citation software](#referencesoftware) allows for flexibility of how you will use your citation. In the above examples we have seen the full citation, a version where just the year is included in the brackets, some text occurs before (prefix) or after (suffix) the citation within the brackets, or even a combination of these: 
+
+ - The classic: [@measey2016global]
+ - Omitting the authors: Measey et al. [-@measey2016global]
+ - Using a prefix: [e.g. @measey2016global]
+ - Using a suffix: [@measey2016global: 976]
+ - A combination of the above: Measey et al. [-@measey2016global: 976]
+
+[Citation software](#referencesoftware) handles producing these different ways by omitting the author, adding a prefix, or adding a suffix, respectively. However, the default will be to use the classic version, and you will need to alter this to one of the others in the software as you are citing it (i.e. as you add it to the document).
+
+It is very common that people simply don't know how to do these different ways of citing within their [citation software](#referencesoftware). The easiest is to look up "how to add suffix" or whatever it is that you want to do in the respective manual or in your search engine. The result of not being sufficiently skilled in your [citation software](#referencesoftware), is that you end up with confused text - and usually a surfeit of brackets. The examples below are all mistakes that I regularly see in theses and manuscripts:
+
+>Measey et al. [@measey2016global] found that the impact of invasive amphibians is comparable to that of birds and mammals.
+
+>Invasive amphibians have some serious impacts on their recipient environments (e.g. Measey et al. [-@measey2016global]).
+
+>Invasive amphibians have some serious impacts on their recipient environments (e.g. [@measey2016global]).
+
+The above examples are obviously wrong (i.e. obvious to an examiner or reviewer), and immediately suggest that the writer hasn't invested enough time in mastering the [citation software](#referencesoftware), or isn't aware that what they have produced is incorrect. I'd encourage you to take the time to correct these kinds of errors in a timely manor, or at least before submitting your thesis or manuscript. 
+
+### Avoid back to back bracketing
+
+It is better to combine information into one set of continuous brackets instead of having back to back sets of brackets. You can do this by using a prefix or a suffix as below:
+
+>Some invasive amphibians have been investigated insufficiently compared to their impact [e.g. Asian common toads:   @measey2016global].
+
+Instead of back to back bracketing as follows:
+
+>Some invasive amphibians have been investigated insufficiently compared to their impact (e.g. Asian common toads)[@measey2016global].
+
+If you must have brackets nested within each other (and I would argue that this is very unusual), then rather use different types of brackets, such as square brackets inside round brackets. But make sure that you do this consistently throughout your thesis or manuscript.
+
 
 ## What about the order of the citations in a string?
 
@@ -124,7 +164,9 @@ Taxonomists have special rules for this, and this will be explained in another c
 
 Yes. One of the most common ways in which students mis-cite a paper is to use statements made in the introduction (or discussion) which were not the subject of the study. For example, in the introduction of their paper, Measey et al. [-@measey2016global] make comments on amphibian decline (see [above](#Hstyle)).
 
-However, it would be wrong to give a statement on amphibian decline and cite Measey et al. [-@measey2016global]. They did not study amphibian decline. Instead, you should read the papers that they cite [e.g. @wake2008are; @collins2009extinction; @pimm2014biodiversity], and read around those to find studies on amphibian decline that are appropriate for your context. This underlines one important aspect of choosing citations where the statement that you make relates directly to the study carried out in the citation.
+However, it would be wrong to give a statement on amphibian decline and cite Measey et al. [-@measey2016global]. They did not study amphibian decline. Instead, you should read the papers that they cite [e.g. @wake2008are; @collins2009extinction; @pimm2014biodiversity], and read around those to find studies on amphibian decline that are appropriate for your context. This kind of mis-citation has been called an 'empty citation' [@todd2007citing], and underlines one important aspect of choosing citations where the statement that you make relates directly to the study carried out in the citation.
+
+Todd et al. [-@todd2007citing] looked at mis-citation rates in ecology, concluding that only around three quarters of papers were correctly cited. They found that 11% of citations were ambiguous, and 7% had citations that did not support the statement. Around 5% of citations were classed as empty - citing works that cite works with relevance - also known as 'lazy author syndrome'. 
 
 Another common mistake is to forget which paper has which information. You can try to make sure that you don’t do this by taking better notes or write a more accurate plan. And do the citations before or as you write, not afterwards!
 
@@ -146,7 +188,7 @@ You should not cite papers that have been retracted.
 
 ## Do I cite the review or the primary literature?
 
-The primary literature consists of studies or experiments that are done in order to test a hypothesis. Secondary literature includes reviews, syntheses or meta-analyses. Primacy (see below) is important, but this depends on the space you have and whether the review contains all the information you need to cite. Sometimes reviews (especially meta-analyses) provide more information. It’s preferable to use primary literature, but sometimes reviews (or meta-analyses) are actually more expedient to use, especially if they are not the focus of your study. You can even cite both when relevant.
+The primary literature consists of studies or experiments that are done in order to test a hypothesis. Secondary literature includes reviews, syntheses or meta-analyses. Primacy (see below) is important, but this depends on the space you have and whether the review contains all the information you need to cite. Sometimes reviews (especially meta-analyses) provide more information. It’s preferable to use primary literature, but sometimes reviews (or meta-analyses) are actually more expedient to use, especially if they are not the focus of your study. You can even cite both when relevant. Todd et al. [-@todd2007citing] suggested that citing review articles might occur when postgraduate students do not have access to sufficient literature because of [pay-walls](#paywall).
 
 ## What is rule of priority and why does it matter?
 

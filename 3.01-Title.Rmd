@@ -13,13 +13,25 @@ Indicate clearly who is the corresponding author. Normally, if you have done all
 
 ## The title
 
-The title of your paper, chapter or book is the first thing that any reader will read, and so should be well considered. If your reader
-cannot quickly understand your title, the chances are that they won't bother reading any further. Your title will be your selling point, and your aim is to use it to draw your readership in. Once you've managed to inveigle your readers to download your paper, your title is also their hook for remembering your paper in their database of thousands of others. Having their key-word in your title will help here, and as ever with writing your challenge is to think like your reader. The best titles are those that sum up the entire study in five to seven words. This is best done in a narrative that tells the story ([see part 2](#storytelling)) of your manuscript in its entirety. This may sound daunting, but you should get into the habit of summing up your story quickly (for friends, relatives and work colleagues). Then it's a question of refining this story into the short single sentence that makes up the title. While the narrative approach may not work for you, you do want the title to provide enough information so that the potential reader knows what they will find before they open it. Your title doesn't just have to work for you, it needs to work for a wide audience.
+The title of your paper, chapter or book is the first thing that any reader will read, and so should be well considered. If your reader cannot quickly understand your title, the chances are that they won't bother reading any further. Your title will be your selling point, and your aim is to use it to draw your readership in. Once you've managed to inveigle your readers to download your paper, your title is also their hook for remembering your paper in their database of thousands of others. Having their key-word in your title will help here, and as ever with writing your challenge is to think like your reader. The best titles are those that sum up the entire study in five to seven words. This is best done in a narrative that tells the story ([see part 2](#storytelling)) of your manuscript in its entirety. This may sound daunting, but you should get into the habit of summing up your story quickly (for friends, relatives and work colleagues). Then it's a question of refining this story into the short single sentence that makes up the title. While the narrative approach may not work for you, you do want the title to provide enough information so that the potential reader knows what they will find before they open it. Your title doesn't just have to work for you, it needs to work for a wide audience.
 
-Some people are excellent at writing titles that contain puns of well-known phrases or sayings. These can be brilliant, working both to
-inform what's in the paper as well as providing some familiar input that helps retain them in memory. However, many fail to do either and are simply a waste of space. If you are tempted to use a pun as your title, make sure that it is widely appreciated, and not just among your co-authors and lab.
+Some people are excellent at writing titles that contain puns of well-known phrases or sayings. These can be brilliant, working both to inform what's in the paper as well as providing some familiar input that helps retain them in memory. However, many fail to do either and are simply a waste of space. If you are tempted to use a pun as your title, make sure that it is widely appreciated, and not just among your co-authors and lab.
 
-You don't have to come up with a killer title from day one. Most of my manuscripts have a working title that gets revised as I write, and is always open for change before submission. If you have great ideas for a title, do note them down. I find that the more options I have, the more likely I am to come up with something that works for everyone. It also helps to mix and match from a set of candidate titles. Once you have come up with something that looks good to you and your colleagues, test it by entering it into your database of choice (with the default being Google Scholar). Your first 10 results should include a set of papers that you have likely cited in the upper area of your introduction. If you don't recognise any out of the top 10, it's time to look at another of your candidate titles.
+
+In general, there are three types of title: 
+
+-   Declarative - indicating the results of the work.
+
+-   Descriptive - stating the research topic.
+
+-   Interrogative - Asking a question.
+
+Each title type has its pros and cons, but it might be worth starting by knowing which title type you want to achieve. 
+
+You don't have to come up with a killer title from day one. Most of my manuscripts have a working title that gets revised as I write, and is always open for change before submission. If you have great ideas for a title, do note them down. I find that the more options I have, the more likely I am to come up with something that works for everyone. It also helps to mix and match from a set of candidate titles. Once you have come up with something that looks good to you and your colleagues, test it by entering it into your database of choice (with the default being Google Scholar). Your first 10 results should include a set of papers that you have likely cited in the upper area of your introduction. If you don't recognise any out of the top 10, it's time to look at another of your candidate titles. 
+
+
+If you are interested in reading more about titles and how people use them, there is some interesting analysis out there to get you started [e.g. @soler2007writing, @jamali2011article, @cook2016scholars, @krausman2020writing]. Remember that title type and use does vary by discipline, so it would be worth being aware of what is generally used in the journals that you intend to target.
 
 ### Some title ideas to start you off
 
@@ -29,7 +41,9 @@ You don't have to come up with a killer title from day one. Most of my manuscrip
 
 -   The shorter and catchier your title can be the better: 6 words (±1) is an ideal.
 
-    -   Allow yourself a longer subtitle if needed, but don't go over 20 words total (some journals may limit your total to less).
+    -   Allow yourself a longer subtitle if needed, but don't go over 20 words total (some journals may limit your total to less). 
+        -   Titles is a colon are downloaded and cited less [@jamali2011article].
+    -   Artiles with longer titles are downloaded less [@jamali2011article].
     -   Consider the (former) 120 character limit of a Tweet as an upper limit
 
 -   Do include your principal finding if possible
@@ -39,14 +53,14 @@ You don't have to come up with a killer title from day one. Most of my manuscrip
 ### Things to avoid in your title
 
 -   Don't feel obliged to include [taxonomic terms](#taxonomy) unless it
-    is relevant or compulsory
+    is relevant or compulsory [see @krausman2020writing]
 
     -   Some (taxonomically minded) journals will insist on the species
         name followed by the taxonomic authority, and/or the family and
         order, in your title
 
 -   Avoid obscure or specialist words that won't be understood by your
-    readership
+    readership [@krausman2020writing]
 
     -   There are times when key words are necessarily specialised and
         your readership will expect this, but simpler words in your
@@ -55,8 +69,25 @@ You don't have to come up with a killer title from day one. Most of my manuscrip
 
 -   Don't simply define the scope of your work without including your
     content.
+    
+-   Don't use an implicit words in the title: a study of..., the effect of..., factors affecting..., etc. [@krausman2020writing].  
 
--   Don't have your title as a question. Rather provide the answer!
+-   Don't imply a series of works (e.g. Part I) [@krausman2020writing].
+
+-   Don't be too funny. Sagi and Yechiam [-@sagi2008amusing] found that highly amusing titles got less citations.
+
+-   Don't capitalise every word, the title is a sentence.
+    
+    -   Some journals will have a house style that may change your title to capitals, all caps or some other format. However, the title is a sentence, and sentence case makes it easier to read.
+
+### Should your title have a question?
+
+[Betteridge's Law](https://web.archive.org/web/20090226202006/http://www.technovia.co.uk/2009/02/techcrunch-irresponsible-journalism.html) relates to newspaper headlines and the idea that any headline that is a question is most simply answered by a single word "No" even though the writer has written the question with the expectation that readers will be interested in their explanation of why the answer is "Yes". In academic circles, this same idea is known as Hinchcliffe’s Rule: “If the title of a scholarly article is a yes–no question, the answer is ‘no’” [@shieber2015this]. The concern in both studies is that simple questions are being used as 'click-bait' to encourage potential readers to discover the simple answer. Indeed, there is some evidence that using a question in the title results in more downloads but less citations [@jamali2011article].
+
+Ball [-@ball2009scholarly] found that the use of question marks in titles has been steadily rising in the life-sciences over 40 years. His assumption is that, like a newspaper headline, using a question in the title is a way of the authors trying to market the contents of their article. Cook and Plourde [-@cook2016scholars] analysed nearly 8000 titles (although not in the Biological Sciences) for Betteridge’s Law and Hinchcliffe’s Rule, but found that academics in the disciplines they analysed did not conform to either. 
+
+In summary, avoid having a simple question as your title.
+
 
 ## Key-words
 

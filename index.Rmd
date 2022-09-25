@@ -14,9 +14,10 @@ lot: yes
 lof: yes
 site: bookdown::bookdown_site
 description: "You don’t have to be a genius to write a PhD. It will always involve a lot of hard work and dedication, but the process of writing up is a whole lot easier if you understand the basic ground rules. This book is a guide specifically for writing a PhD in the biological sciences. It will guide you from deciding  whether or not you should actually do a PhD, provide practical, up-to-the-minute guides to getting started with planning and writing, and consolidate this with the nuts and bolts of writing for the biological sciences. The book guides you through the do’s and don’ts of writing a thesis, and taking your thesis chapters to publication in peer-reviewed journals. Whether you are a student just starting your studies, or a supervisor struggling to cope, this book will provide the insider information you need to get ahead."
-github-repo: yihui/bookdown-crc
+url: howtowriteaphd.org
+github-repo: How-to-write-a-PhD-in-Biological-Sciences/docs
 graphics: yes
-cover-image: figures/Cover.png
+cover-image: figures/Cover-400wide.png
 favicon: figures/favicon.png
 ---
 
@@ -30,16 +31,19 @@ lapply(c('xfun'), function(pkg) {
   if (system.file(package = pkg) == '') install.packages(pkg)
 })
 ```
-# In Press {-}
-This book is _in press_ with CRC Press. 
 
+# Preface {-}
+
+*Published by CRC Press, Bota Raton, USA.*
 
 ```{r fig.align='centre', out.width = '80%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://john.measey.com/'}
 knitr::include_graphics('figures/cover.jpg', dpi = NA)
 ```
 
+**Cover illustration**: Saint George and the Dragon was adapted by the author from an original work by Paolo Uccello (~1470). While the student (St George), supported by their laboratory (White Horse), is attempting to bring about
+the end of their PhD (Dragon) using this Fool’s Guide (lance), the advisor (Princess) is leading the PhD by a leash from the darkness into the community towards the Scientific Project (town).
 
-You can pre-order your own copy on the [CRC Press website](https://www.routledge.com/How-to-Write-a-PhD-in-Biological-Sciences-A-Guide-for-the-Uninitiated/Measey/p/book/9781032080208), on [Amazon](https://www.amazon.com/How-Write-PhD-Biological-Sciences/dp/1032080205), at [Barns & Noble](https://www.barnesandnoble.com/w/how-to-write-a-phd-in-biological-sciences-john-measey/1139436164), and at other good book sellers.
+You can order your own copy on the [CRC Press website](https://www.routledge.com/How-to-Write-a-PhD-in-Biological-Sciences-A-Guide-for-the-Uninitiated/Measey/p/book/9781032080208), on [Amazon](https://www.amazon.com/How-Write-PhD-Biological-Sciences/dp/1032080205), at [Barns & Noble](https://www.barnesandnoble.com/w/how-to-write-a-phd-in-biological-sciences-john-measey/1139436164), and at other good book sellers.
 
 
 # Welcome {-}
@@ -90,7 +94,7 @@ You should be aware from the outset that doing a PhD is a major undertaking. It 
 
 ## Acknowledgments {- #acknowledge}
 
-Before I go on, there are a great many people that I need to thank. First and foremost are my students, past and present, who have inspired me to put together first the blog posts and then the book. It is because you wanted more that I put this together. I have also been a student, and have been inspired by colleagues around the world who are exemplary advisors. This book contains lots of links to blogs and articles written and posted freely on the internet by others who also aim to demystify and help. I thank this greater academic community (especially #academicTwitter) for sharing and inspiring. Thanks go to the many reviewers and editors who have taken their time to improve my writing. I am still learning. Lots of the text in this book has been improved by feedback from my students and postdocs. A special mention must go to my brother, Richard, who has hosted my lab website for more than a decade, and especially for saving blog posts from hacking attacks. Thanks also to my wife, Thalassa, who proofread many of the blog posts after I had published them late at night, so that I could correct them over breakfast in the morning. James Baxter-Gilbert, Ellie Brown, Jack Dougherty, Anthony Herrel, Allan Ellis, Andrea Melotto, Lisa and Mark O'Connell, Claire Riss, Pat Schloss, James Vonesh, Carla Wagener all read or commented on different aspects of the book. Thanks are also due to my colleagues at the Centre for Invasion Biology, the Department of Botany and Zoology, and in the library at Stellenbosch University.
+Before I go on, there are a great many people that I need to thank. First and foremost are my students, past and present, who have inspired me to put together first the blog posts and then the book. It is because you wanted more that I put this together. I have also been a student, and have been inspired by colleagues around the world who are exemplary advisors. This book contains lots of links to blogs and articles written and posted freely on the internet by others who also aim to demystify and help. I thank this greater academic community (especially #academicTwitter) for sharing and inspiring. Thanks go to the many reviewers and editors who have taken their time to improve my writing. I am still learning. Lots of the text in this book has been improved by feedback from my students and postdocs. A special mention must go to my brother, Richard, who has hosted my lab website for more than a decade, and especially for saving blog posts from hacking attacks. Thanks also to my wife, Thalassa, who proofread many of the blog posts after I had published them late at night, so that I could correct them over breakfast in the morning. James Baxter-Gilbert, Ellie Brown, Jack Dougherty, Anthony Herrel, Andrea Hurst, Allan Ellis, Joe McArthur, Andrea Melotto, Max Mühlenhaupt, Lisa and Mark O'Connell, Claire Riss, Pat Schloss, Ben Stevenson, James Vonesh, Carla Wagener all read or commented on different aspects of the book. Thanks are also due to my colleagues at the Centre for Invasion Biology, the Department of Botany and Zoology, and in the library at Stellenbosch University.
 
 ```{block2, type='flushright', html.tag='p'}
 John Measey  

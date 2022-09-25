@@ -1,8 +1,8 @@
 # How to write a PhD in Biological Sciences: A guide for the uninitiated 
 
-This is an Open Access book by John Measey, <b>in press</b> with CRC Press
+This is an Open Access book by John Measey, and published in <b>2022</b> by CRC Press, Boca Raton.
 
-You can read this book for free online at http://www.howtowriteaphd.org/, or purchase print or ebook edition from CRC (at some point in the future).
+You can read this book for free online at http://www.howtowriteaphd.org/, or [purchase print or ebook edition](https://www.routledge.com/How-to-Write-a-PhD-in-Biological-Sciences-A-Guide-for-the-Uninitiated/Measey/p/book/9781032080208) from CRC Press.
 
 View open-source code for source text and templates at [here](https://github.com/johnmeasey/How-to-write-a-PhD-in-Biological-Sciences)
 
@@ -22,3 +22,6 @@ This book was written with http://bookdown.org and https://www.rstudio.com
 ## Disclaimer
 
 This open-source repository is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. No installation or technical support will be provided.
+
+## Citation:
+Measey, J. (2021). How to Write a PhD in Biological Sciences: A Guide for the Uninitiated (1st ed.). CRC Press. https://doi.org/10.1201/9781003212560

@@ -134,6 +134,21 @@ how-does-the-paragraph-fit-into-the-flow
 seeding-ideas
 breaking-the-rules
 some-common-paragraph-mistakes
+AI
+what-is-chatgpt
+large-language-platforms-have-been-around-for-a-while
+output-from-chatgpt-cannot-be-trusted
+plagiarism-by-ai
+ethics
+positive-aspects-of-using-ai
+use-ai-as-a-tool
+using-chatgpt-as-an-example-of-getting-started-with-writing
+will-others-detect-chatgpt-if-i-use-it
+chatgpt-or-other-ai-platforms-cannot-be-an-author
+AItrans
+cope-have-already-provided-guidelines
+publishers-using-ai-bots
+last-note
 argument
 arguments-in-latin
 other-arguments-in-english
@@ -141,7 +156,6 @@ storytelling
 the-danger-of-a-teleological-argument
 science-is-the-very-opposite-of-storytelling.-or-is-it
 can-storytelling-help-memory-of-science
-of-babies-werewolves-and-silver-bullets
 citations
 research-is-built-on-existing-work-and-ideas
 your-citations-say-a-lot-about-you
@@ -151,9 +165,6 @@ vancouver-style
 Hstyle
 moving-from-harvard-to-vancouver
 where-within-a-sentence-should-the-citation-come
-what-about-page-numbers
-brackets
-avoid-back-to-back-bracketing
 what-about-the-order-of-the-citations-in-a-string
 what-about-citations-as-taxonomic-authorities
 is-it-possible-to-mis-cite
@@ -182,7 +193,6 @@ google-scholar-web-of-science-or-scopus
 whats-the-difference-between-indices
 referencesoftware
 other-points-to-consider
-its-worth-putting-in-the-time-to-learn-relevant-parts-of-the-package-you-choose
 software
 alternatives-to-conventional-word-processors
 naming-versions-of-files
@@ -307,7 +317,6 @@ ORCID
 the-title
 some-title-ideas-to-start-you-off
 things-to-avoid-in-your-title
-should-your-title-have-a-question
 key-words
 selecting-appropriate-key-words
 abstract

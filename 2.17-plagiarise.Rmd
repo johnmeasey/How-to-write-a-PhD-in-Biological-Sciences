@@ -53,6 +53,9 @@ __Here's what not to do:__
 - Take the sentence swap out some of the words for synonyms and pass it off as your own. 
 - The sentence will still have the same structure that you copied and, essentially, this is still somebody else's work. Moreover, TurnItIn will still recognise this as plagiarism.
 
+## Is it plagiarism if an AI bot writes it?
+Currently, we are moving into the new territory of AI generated text. Whether or not you can use AI generated text (e.g. ChatGPT or Bard) in your PhD or in manuscripts submitted to journals is an open question. You can read more on this topic in another chapter [here](#AI).
+
 ## How can you make sure that you never plagiarise?
 Quite simply, if you never cut and paste, you won’t plagiarise. It’s that easy. I understand why people copy and paste as a way to get started, or because someone else has written something so well, it’s hard to believe that you could ever write it any better. But actually, you can write it just as well, and writing it in your own words is worth so much more.
 

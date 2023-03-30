@@ -135,14 +135,18 @@ seeding-ideas
 breaking-the-rules
 some-common-paragraph-mistakes
 AI
-what-is-chatgpt
-large-language-platforms-have-been-around-for-a-while
+what-is-a-large-language-model-llm
+large-language-models-have-been-around-for-a-while
 output-from-chatgpt-cannot-be-trusted
 plagiarism-by-ai
 ethics
 positive-aspects-of-using-ai
 use-ai-as-a-tool
-using-chatgpt-as-an-example-of-getting-started-with-writing
+using-chatgpt-to-get-started-an-example
+AIfail
+were-the-bots-a-complete-fail
+can-i-use-ai-to-create-a-first-draft
+did-the-ai-pass-the-plagiarism-checker
 will-others-detect-chatgpt-if-i-use-it
 chatgpt-or-other-ai-platforms-cannot-be-an-author
 AItrans
@@ -252,6 +256,7 @@ plagiarise
 how-to-know-if-you-have-plagiarised
 free-online-plagiarism-tools
 what-to-do-if-plagiarism-is-detected-in-your-work
+is-it-plagiarism-if-an-ai-bot-writes-it
 how-can-you-make-sure-that-you-never-plagiarise
 what-is-autoplagiarism
 develop
@@ -400,4 +405,3 @@ concluding-section
 formatting
 must-do-check-list-before-submitting-your-thesis
 mistakes-people-make
-using-chatgpt-to-get-started-an-example

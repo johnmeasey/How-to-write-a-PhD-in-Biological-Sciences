@@ -13,6 +13,8 @@ Your final thesis will be a set of papers (data chapters sandwiched between an [
 
 I’m not going to go into what’s inside the introduction here, as it’s already been done in other chapters on formulaic writing (see later in this [part](#formula)) and specifically about the introduction (see [part 3](#introduction)). Although you may feel that there's no point putting a lot of effort into this introduction it serves as a literature review for your upcoming PhD study, and is well worth the time and effort. 
 
+A key part of the introduction will be your [conceptual framework](#concept) that will explain how your thesis chapters fit together, and crucially, add up to more than a sum of their parts.
+
 ## Methods and Materials
 
 What’s in the [Methods and Materials](#methods) section is also covered here. Essentially you need to:
@@ -26,6 +28,10 @@ What’s in the [Methods and Materials](#methods) section is also covered here. 
 ## Hypothetical Results
 
 It’s a very useful exercise to imagine how results will show that you have (or have not) accepted your hypothesis. You can’t show results that would cover every eventuality, but give some typical scenarios that you think may happen if you accept and reject each hypothesis. This could be a bar chart, a map, a scatter-graph, etc.
+
+## Thesis timeline
+
+You should be able to state from the outset when you are going to find the time to fit in all of the components of your thesis. Being able to plan when and how you will do the work is a key aspect of your proposal. I discuss how to construct a [timeline](#Gendt) in the form of a Gendt diagram in another chapter (see [Part II](#Gendt)).
 
 ## Your proposal - what is it good for?
 

@@ -37,6 +37,7 @@ Essentially, you have a story to tell, but that does not mean you are [story tel
   + explain variables in the context of existing literature
   + explain the relevance of your study organisms
   + give the context of your own study
+  + provide your [conceptual framework](#concept) for your thesis
 3. Your aims and hypotheses
 4. Methods and Materials
   + Images of apparatus or diagrams of how apparatus are supposed to work. If you can’t find anything, draw it simply yourself.
@@ -45,7 +46,7 @@ Essentially, you have a story to tell, but that does not mean you are [story tel
 5. Expected results
 6 like to see what the results might look like, even if you have to draw graphs with your own lines on it. Use arrows to show predictions under different assumptions.
 7. Budget
-8. Timeline
+8. Show your [timeline](#Gendt)
 
 
 ## Know your story first, and then make your presentation

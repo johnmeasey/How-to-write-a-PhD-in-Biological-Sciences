@@ -26,7 +26,7 @@ fig:editor
 fig:plagiarism
 fig:Criticalreading
 fig:concept
-fig:Gendt
+fig:Gantt
 fig:preregistration
 fig:conflicted
 fig:formula
@@ -280,8 +280,8 @@ dependencies
 your-thesis-must-add-up-to-more-than-the-sum-of-its-parts
 using-your-conceptual-thesis-plan
 evolving-your-thesis-concept-plan
-Gendt
-producing-a-gendt-diagram
+Gantt
+producing-a-gantt-chart
 set-yourself-goals
 map-on-significant-events
 contingency-planning

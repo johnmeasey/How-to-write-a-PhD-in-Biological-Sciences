@@ -420,3 +420,9 @@ concluding-section
 formatting
 must-do-check-list-before-submitting-your-thesis
 mistakes-people-make
+the-importance-of-being-productively-stupid
+fig:life-force
+citations-in-the-abstract
+tinbergens--tinbergen1963aims-four-questions
+a-hierarchy-of-hypotheses
+tab:Tinbergen

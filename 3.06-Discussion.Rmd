@@ -92,3 +92,5 @@ The last paragraph of the discussion is your take-home message. It’s a summary
 Please remember that while this might sound similar to your first paragraph, it is not the same. This final paragraph should not replicate any text that appears elsewhere in your chapter or manuscript (not even the abstract). Never repeat or copy text generally, even within your own chapter (or between chapters). For the reader, it’s very easy to spot and it gives the impression that you have nothing to say and are simply filling space. This is not the kind of impression that you want to give your reader, especially if they are examining your work!
 
 As always, there are a number of other places to look for more advice to write your discussion, and I’d encourage you to read as widely as possible. For example, try Hess [-@hess2004how], Jenicek [-@jenicek2006how] and Şanlı [-@sanli2013how].
+
+**Still struggling with your discussion?** Take advantage of a new workshop that specifically aims to help you write the discussion to your own thesis chapter (click [here](https://johnmeasey.github.io/Thesis-Writing-Guide/discuss.html)).

@@ -29,7 +29,7 @@ Table: (\#tab:introparagraphs) **Here is a guide to the contents of each paragra
 
 | **Paragraph** | **Description of contents** |
 |--------|---------|
-| Paragraph 1 | Overview of the major theme. |
+| Paragraph 1 | Overview of the relevance of the major theme  |
 | Paragraph 2 | Identify knowledge gaps in the field. |
 | Paragraph 3 | Identify the problem and the gaps you intend to fill. Introduce the important variables that your hypothesis includes. It’s not impossible to mention others, just don’t get distracted. |
 | Paragraph 4 | Introduce the approach that you are using, and the organism of choice. |
@@ -40,3 +40,6 @@ Note that you can shuffle your paragraphs in Table \@ref(tab:introparagraphs) to
 Now that you’ve fleshed out your outline with relevant citations, it’ll be time to pass it by your advisor to check that you are moving in the right direction before you start writing. My suggestion is always to use your advisor to get the advice that you need – that’s what they’re there for!
 
 Remember that while this section on writing the introduction is short, much of [Part II](#part2) concerns writing style that is applicable to your introduction. In particular, sections on composing your [hypothesis](#hypothesis), writing a [paragraph](#paragraph), and an [argument](#argument) should be referred to when you are writing your introduction. 
+
+
+**Still struggling with your introduction?** Take advantage of a new workshop that specifically aims to help you write the introduction to your own thesis chapter (click [here](https://johnmeasey.github.io/Thesis-Writing-Guide/formula1.html)).

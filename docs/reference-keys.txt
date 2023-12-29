@@ -1,5 +1,6 @@
 fig:PhDMap
 fig:THEreseasrchcountry
+fig:plan
 fig:Rlogo
 tab:GHQ
 fig:Mental-health
@@ -56,8 +57,8 @@ criteria
 who-are-the-examiners
 what-will-you-do-after-your-phd
 doing-a-phd-actually-reduces-your-chance-of-employment-and-lowers-your-pay
-think-about-your-career-before-you-start-your-phd
-dont-rely-on-becoming-an-academic
+career
+relyacademic
 doing-a-phd-is-really-hard-work
 the-importance-of-being-productively-stupid
 your-mental-health-will-likely-suffer
@@ -69,6 +70,15 @@ what-makes-a-good-project
 funding-your-phd-studies
 the-funding-that-you-need-to-live
 the-cost-associated-with-your-studies.
+Plan
+what-is-a-long-term-plan
+long-term-plans-need-medium--and-short-term-goals
+teaching-example
+research-example
+other-additions-to-your-cv
+consider-the-letter-of-reference-that-your-advisor-will-write
+changing-your-long-term-plans
+share-your-plans
 useR
 and-learning-lots-of-other-stuff
 email

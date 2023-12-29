@@ -6,7 +6,7 @@ output:
 ---
 # About the Author {- #author}
 
-John Measey is Associate Professor of Biological Sciences at Stellenbosch University. He has authored or co-authored more than 200 peer reviewed scientific papers and book chapters, and five books. He has been the Editor-in-Chief of an ISI journal for 9 years, and currently serves as Associate Editor for 4 other journals. He has graduated more than 20 postgraduate students, and his blog on writing and publishing in biological sciences is read by thousands globally. British born and educated, he lives and works in the beautiful Western Cape, South Africa.
+John Measey is Professor at the Institute of Biodiversity, Yunnan University, and Professor Extraordinary at Stellenbosch University. He has authored or co-authored [more than 250](https://orcid.org/0000-0001-9939-7615) peer reviewed scientific papers and book chapters, and six books. He has been the Editor-in-Chief of an ISI journal for 9 years, and currently serves as Associate Editor for three other journals. He has graduated [more than 25 postgraduate students](http://john.measey.com/About-Me/Measey-Mini-CV), and [his blog](john.measey.com/blog) on writing and publishing in biological sciences is read by thousands globally. British born and educated, he lives and works in the Spring City, Kunming in Yunnan Province, China and in Cape Town, South Africa.
 
 ```{r fig.align='right', out.width = '15%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://john.measey.com/About-Me'}
 knitr::include_graphics('figures/john.jpg', dpi = NA)
@@ -20,7 +20,7 @@ This book is written in bookdown [@xie2016bookdown] specifically to make it a 'l
 One of the amazing potentials for [bookdown books](https://bookdown.org/) is that all the files for this book are hosted in a repository on [Github](https://github.com/johnmeasey/How-to-write-a-PhD-in-Biological-Sciences/tree/main). You have the opportunity to fork this repository and write your own version for a different discipline, a different language or for a different region of the world. It is also my hope that this guide can grow to become a community of practice for those conducting PhDs in Biological Sciences. It will not be possible to cover every aspect of writing a PhD in Biological Sciences, but it may be that I have missed out ones that are very important to you. Equally, parts of what is currently written will become obsolete as new initiatives begin, and old problems are resolved. For this reason, this guide needs to be a 'living document', and anyone who wants to provide feedback or contribute new sections is more than welcome. Please feel free to open an issue, or make a Pull Request if you spot a typo. 
 
 ## How to cite {-}
-Measey, J. (in press) *How to write a PhD in Biological Sciences: a guide for the uninitiated*. CRC Press, Boca Raton.  ISBN: 9781032080208
+Measey, J. (2022) *How to write a PhD in Biological Sciences: a guide for the uninitiated*. CRC Press, Boca Raton. Online Version: **`r Sys.Date()`**  ISBN: 9781032080208
 
 ## Creative Commons License {-}
 How to write a PhD in Biological Sciences: a guide for the uninitiated is copyright to John Measey and distributed under a [Creative Commons BY-NC-ND 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). You may freely share this content for non-commercial purposes, with a source credit to [www.HowToWriteAPhD.org](www.HowToWriteAPhD.org).

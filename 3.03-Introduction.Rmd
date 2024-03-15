@@ -15,6 +15,30 @@ However, this is where I think many people get side tracked. Researchers love re
 
 Consider this analogy: You can think of the introduction as being a highway to your hypothesis. As you drive the highway, it's fine to see signposts that lead to other places, but don't be tempted to turn off the highway to visit them. You do need to take your reader to your question as efficiently as you can. Point out the relevant sites on the way, but don't stop until you get where you're going.
 
+### The hypothesis at the heart of the formula
+
+Having made the point that the formula is funnelling the readers' interest, the question arises: to what? What are we working towards? Why are we so interested in having the reader focus on a particular thing, and more importantly: what is that thing?
+
+> The Hypothesis
+
+Your hypothesis is the reason that you are conducting your study. You are trying to respond to it, trying to accept or reject it. Your hypothesis is why you are doing the study and you need your reader to get the context for this, and to understand exactly why it was that you posed this specific hypothesis. 
+
+The hypothesis is then at the heart of everything that you write in your chapter (Figure \@ref(fig:formula-concept)): 
+
+ - Your introduction explains why you posed the hypothesis
+ - Your methods & materials describe how you went about testing your hypothesis
+ - Your results provide the outcome of the tests of your hypothesis
+ - Your discussion responds to your hypothesis and provides the context
+
+
+(ref:formula-concept) **Your hypothesis lies at the heart of your PhD chapter.** Your hypothesis (red star) is at the heart of everything that you are writing about. The entire reason for providing the chapter is to test your idea. 
+
+```{r formula-concept, echo=FALSE, out.width = '95%', fig.cap="(ref:formula-concept)"}
+ knitr::include_graphics("figures/formula-concept.gif")
+```
+
+
+
 ## And the construction…?
 
 Previously, I’ve described the introduction like a funnel (Figure \@ref(fig:introduction)), where we channel the reader into our hypothesis by starting broad and ending up narrow ([see the formula](#formula)). This can draw criticism that journal articles are expected to fit a certain style, that this style is boring, and that what we really need is for people to write in a more exciting and varied way. Although I do not disagree with this, my objective here, is to try to demystify writing and enable you to get started. The easiest way to get started is, I believe, through a formula. But it is important to say that the funnel isn’t the only way, and I’ve read some great papers where the first sentence of the introduction is the hypothesis. However you do it, the hypothesis is at the heart of your introduction because it is the reason for your work.
@@ -37,9 +61,37 @@ Table: (\#tab:introparagraphs) **Here is a guide to the contents of each paragra
 
 Note that you can shuffle your paragraphs in Table \@ref(tab:introparagraphs) to the point where it still makes sense to the reader. Don’t be overly strict or dogmatic with this (or any) advice. For example, there may be more than 5 paragraphs, but use the framework to get started. Do what works for you in your situation. But beware of making any introduction too long. 
 
+I suggest that you keep your outline with you as you write and develop the introduction. It is important that you remember the objective of each paragraph. Sometimes, you can put it away, then when you bring it out again and start working on it you find that it changes into something else. At this point, you need to make a judgement on whether it has changed into something better. You can only really make this judgement if you remember what your original objective was. When you think that it has become a better paragraph, you need to check that it still meets your original objectives. If it doesn't, then you'll need to decide whether or not that objective was met elsewhere. 
+
 Now that you’ve fleshed out your outline with relevant citations, it’ll be time to pass it by your advisor to check that you are moving in the right direction before you start writing. My suggestion is always to use your advisor to get the advice that you need – that’s what they’re there for!
 
-Remember that while this section on writing the introduction is short, much of [Part II](#part2) concerns writing style that is applicable to your introduction. In particular, sections on composing your [hypothesis](#hypothesis), writing a [paragraph](#paragraph), and an [argument](#argument) should be referred to when you are writing your introduction. 
+
+### Should you include the results when introducing your study?
+
+> How do you keep an idiot in suspense? I'll tell you later...
+
+Increasingly, more scientists are including a concise statement during the last paragraph that responds to the hypothesis and states what the major outcome of the study is. The arguments for and against this have been made elsewhere [@heard2024scientific], and I will attempt to summarise them here:
+
+**Against:**
+
+ - This is not the convention in science 
+ - Results do not appear in the introduction
+ - You are giving away the result
+ 
+**For:**
+
+ - Science writing is not like writing a murder mystery novel
+ - If it helps readers then we should do it
+ - Convention is not a good reason for adherence
+ 
+In this guide, I have emphasised that the [formulaic approach](#formula) to writing advocated here is to help you get started as a writer. One of your goals should be to experiment with your writing and if you think that moving away from the formula is going to improve clarity and readability, then I think you should go for it. Next, I think that you should elicit feedback from peers and your advisor. The formula I have presented is conventional, and that's deliberate. I am not going to tell you that it is the best way of writing your particular thesis chapter, and I would go so far as to say that shaking up convention is a very positive thing to do.
+
+But if you are struggling with getting started, then I am going to continue to advise you to stick to the conventional way. As it's tried and tested you can be confident that this way is going to advance you towards your goal of writing your PhD.
+
+
+## Summing up
+
+The aim of your introduction is to provide the reader with all of the background information necessary to understand your study. Although the contents of this section on writing the introduction are somewhat brief, much of [Part II](#part2) concerns writing style that is applicable to your introduction. In particular, sections on composing your [hypothesis](#hypothesis) ([or not](#nohypothesis)), writing a [paragraph](#paragraph), and an [argument](#argument) should be referred to when you are writing your introduction. 
 
 
 **Still struggling with your introduction?** Take advantage of a new workshop that specifically aims to help you write the introduction to your own thesis chapter (click [here](https://johnmeasey.github.io/Thesis-Writing-Guide/formula1.html)).

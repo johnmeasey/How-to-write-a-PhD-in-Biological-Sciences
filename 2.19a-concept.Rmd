@@ -19,7 +19,7 @@ An important phase at the outset of your PhD project is to plan the chapters tha
 
 - What techniques will you use?
 
-- Do you have hypotheses?
+- Do you have hypotheses, or do you have another approach?
 
 
 All these ideas (and more) are going to be swirling around your mind at the beginning of your PhD and you're going to need to commit them to paper, and doing this right now at the start is the best time. If you haven’t done so already, write them all down. If you can do a [mind map](https://www.mindmaps.com/how-to-make-a-mind-map/) or some kind of graphical representation, this will be good for you if it suits the way that your mind works. Otherwise, you can use a series of lists and bullet points, if that is more your style. The important point here is be able to move from a jumble of ideas and thoughts into a formal plan for your thesis.
@@ -62,45 +62,46 @@ Don’t be afraid of making changes to your plan during the course of your thesi
 
 
 
-## Your thesis timeline {#Gendt}
+## Your thesis timeline {#Gantt}
 
 Whether or not you are used to managing your own time, you are going to need to learn how to plan your time during your PhD. This is not only because you will need to know what you must do on a month to month basis, but more that you will need to plan what you need (materials, chemicals, equipment, etc.) and when you will need it. If you plan to do a lot of fieldwork, then you may also need other people to help you with this. Thus you will need to know when to train and organise this group.
 
 
-### Producing a Gendt diagram
-The timeline of your thesis will be an important guide throughout the 3 years that you are conducting your PhD. This means that it is worth getting this onto the record as soon as you are able. One of the standard ways of doing this is to produce a Gendt diagram. This takes each of the chapters along the entire timeline of your PhD and shows when you will work on each one. It may be that you want to break down each of these chapters into sub areas such as literature review, data collection, data analysis, write-up. 
+### Producing a Gantt chart
+The timeline of your thesis will be an important guide throughout the 3+ years that you are conducting your PhD. This means that it is worth getting this onto the record as soon as you are able. One of the standard ways of doing this is to produce a Gantt chart. This takes each of the chapters along the entire timeline of your PhD and shows when you will work on each one. It may be that you want to break down each of these chapters into sub areas such as literature review, data collection, data analysis, write-up. 
+
+Remember that [planning  your time](#Plan) is empowering and something that you should be considering not only during your PhD (short-term), but also mid-term and long-term (see [Part I](#Plan)). To achieve your goals, you need to (a) know what they are, and (b) actively pursue them.
+
+Below you will find a very simple version of a Gantt chart (Figure \@ref(fig:Gantt)) that I put together for a fictional PhD. Note how the colours used for each chapter are the same as the thesis concept diagram (Figure \@ref(fig:concept)). It's always useful to follow such colour conventions once you've started them. Maintaining consistency throughout your thesis will help you when you explain it to others, such as during your proposal or whenever you present to your thesis committee.
 
 
-Below you will find a very simple version of a Gendt diagram (Figure \@ref(fig:Gendt)) that I put together for a fictional PhD. Note how the colours used for each chapter are the same as the thesis concept diagram (Figure \@ref(fig:concept)). It's always useful to follow such colour conventions once you've started them. Maintaining consistency throughout your thesis will help you when you explain it to others, such as during your proposal or whenever you present to your thesis committee.
+(ref:Gantt) **A Gantt chart used to help thesis plan how you will use your time during your PhD**. In this (fictional) example, I show how how the different chapters (Q1, T1, Q3, Q4, Q5) will take up different time during the three years of a PhD. Each year (1 to 3) is divided into four quarters (Q1 to Q4). This example is set out to show the need for seasonal sampling (in the second quarter of each year). Stars represent goals that you have set. 
 
-
-(ref:Gendt) **A Gendt diagram used to help thesis plan how you will use your time during your PhD**. In this (fictional) example, I show how how the different chapters (Q1, T1, Q3, Q4, Q5) will take up different time during the three years of a PhD. Each year (1 to 3) is divided into four quarters (Q1 to Q4). This example is set out to show the need for seasonal sampling (in the second quarter of each year). Stars represent goals that you have set. 
-
-```{r Gendt, echo=FALSE, out.width = '95%',  fig.cap="(ref:Gendt)"}
-knitr::include_graphics('figures/Gendt.png')
+```{r Gantt, echo=FALSE, out.width = '95%',  fig.cap="(ref:Gantt)"}
+knitr::include_graphics('figures/Gantt.png')
 ```
 
 
-As you're doing your thesis in the biological sciences, you're much more likely to have some kind of seasonal quotient that constrains the work that you're doing. So in Figure \@ref(fig:Gendt) I've used the second quarter of each year as the key field period that is needed for all of the chapters. 
+As you're doing your thesis in the biological sciences, you're much more likely to have some kind of seasonal quotient that constrains the work that you're doing. So in Figure \@ref(fig:Gantt) I've used the second quarter of each year as the key field period that is needed for all of the chapters. 
 
 You will note that as soon as you build in a seasonal aspect to your timeline, your life will get much more complicated, especially if you have more than one chapter that depends on the results from a field season. This should help you know when you need to plan each field campaign well in advance of actually going to do it. 
 
 ### Set yourself goals
 
-It's really useful to set down goals that you want to achieve on the Gendt plan, and to share these with your advisor. Milestones in your PhD are really useful when planning, and psychologically enhance your ability to finish different components. 
+It's really useful to set down goals that you want to achieve on the Gantt chart plan, and to share these with your advisor. Milestones in your PhD are really useful when planning, and psychologically enhance your ability to finish different components. 
 
 Note that none of the goals occur in the same quarter as any other goal. This is important as it enables you to know where to concentrate your time and when. Note also that the goals don't occur in the same order as the chapters. Part of this is the need to be realistic about what you need to achieve and the time that it will take to do this. 
 
 ### Map on significant events
 
-If you plan to attend workshops or conferences during your PhD (or even plan to organise these yourself), you should plan such significant events onto your timeline. For example, If you are presenting the results of your first chapter at a conference, you need to make sure that you have the necessary results well in advance of needing to write the abstract. In Figure \@ref(fig:Gendt), the first conference is in the third quarter of the second year and you should have already achieved your main goal for this chapter well in advance to write the abstract. You might also be able to add in the results of the second year's seasonal field work to present at the conference. Similarly, for the second conference, you should have all the results from the third chapter well in advance to write the abstract.
+If you plan to attend workshops or conferences during your PhD (or even plan to organise these yourself), you should plan such significant events onto your timeline. For example, If you are presenting the results of your first chapter at a conference, you need to make sure that you have the necessary results well in advance of needing to write the abstract. In Figure \@ref(fig:Gantt), the first conference is in the third quarter of the second year and you should have already achieved your main goal for this chapter well in advance to write the abstract. You might also be able to add in the results of the second year's seasonal field work to present at the conference. Similarly, for the second conference, you should have all the results from the third chapter well in advance to write the abstract.
 
 
 ### Contingency planning
 
 If you can, it's a good idea to build in some contingency planning during this planning stage so that you know where you have options, and especially if your thesis relies on weather or having a particular set of results to continue. 
 
-In Figure \@ref(fig:Gendt) I have shown how a contingency might be mapped onto Chapters Q1, Q3 and Q4 with the potential addition of another field season in the second quarter of the third year in case one of the previous field seasons fails.
+In Figure \@ref(fig:Gantt) I have shown how a contingency might be mapped onto Chapters Q1, Q3 and Q4 with the potential addition of another field season in the second quarter of the third year in case one of the previous field seasons fails.
 
 ### Dynamic timeline
 

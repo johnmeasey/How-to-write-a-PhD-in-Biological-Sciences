@@ -37,6 +37,7 @@ fig:outline
 fig:outline-fleshed
 fig:Data-management
 fig:key-word-selection
+fig:formula-concept
 fig:introduction
 tab:introparagraphs
 fig:methods
@@ -132,6 +133,8 @@ type-i-and-type-ii-errors
 changing-the-likelihood-of-a-hypothesis
 increasing-the-statistical-power
 nohypothesis
+is-having-a-hypothesis-the-gold-standard
+why-am-i-always-banging-on-about-hypotheses
 central-problematic
 does-it-matter-that-you-dont-have-a-hypothesis
 avoid-harking
@@ -157,6 +160,7 @@ large-language-models-have-been-around-for-a-while
 output-from-chatgpt-cannot-be-trusted
 plagiarism-by-ai
 ethics
+failure-to-learn
 positive-aspects-of-using-ai
 use-ai-as-a-tool
 using-chatgpt-to-get-started-an-example
@@ -167,7 +171,9 @@ did-the-ai-pass-the-plagiarism-checker
 will-others-detect-chatgpt-if-i-use-it
 chatgpt-or-other-ai-platforms-cannot-be-an-author
 AItrans
+universities-are-asking-you-to-declare-that-text-in-your-thesis-is-not-ai-generated
 cope-have-already-provided-guidelines
+publishers-now-make-it-a-requirement-that-you-declare-no-text-was-ai-generated
 publishers-using-ai-bots
 last-note
 argument
@@ -282,6 +288,14 @@ generative
 adaptive-recycling
 duplicate-recycling
 overall---just-dont-plagiarise
+choosing-your-courses
+how-to-choose-your-courses
+attending-a-postgraduate-course-at-another-institution
+due-diligence-during-courses
+getting-the-most-our-of-your-courses
+building-your-network
+time-off-from-courses
+make-the-most-out-of-learning
 phrasebank
 how-to-find-the-phrase-that-you-need
 getting-started
@@ -366,7 +380,10 @@ where-do-people-go-wrong-in-writing-the-abstract
 introduction
 why-do-we-need-an-introduction
 so-what-do-we-put-into-the-introduction
+the-hypothesis-at-the-heart-of-the-formula
 and-the-construction
+should-you-include-the-results-when-introducing-your-study
+summing-up
 methods
 sections-or-subheadings
 study-organism-or-study-system
@@ -382,7 +399,7 @@ be-careful-when-editing
 results
 description-of-your-data
 responding-to-your-hypotheses
-moving-away-from-binary-significance
+binary
 when-to-have-a-table-or-graph
 responding-to-hypotheses
 common-mistakes

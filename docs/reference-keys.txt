@@ -58,7 +58,7 @@ is-a-phd-more-than-a-thesis
 criteria
 who-are-the-examiners
 what-will-you-do-after-your-phd
-doing-a-phd-actually-reduces-your-chance-of-employment-and-lowers-your-pay
+lowpay
 career
 relyacademic
 doing-a-phd-is-really-hard-work
@@ -90,9 +90,10 @@ power-imbalance
 relationships-between-advisors-and-their-students
 CoI
 communication
+cultural-differences
 advisor-meet
 responsibilities
-time-management
+Time-management
 respect-and-professionalism
 take-advice
 personal-problems
@@ -122,6 +123,7 @@ who-else-should-your-email-be-sent-to
 when-to-cc-someone
 use-of-bcc
 replyall
+institutional-or-personal-email-addresses
 high-importance
 urgent
 sending-emails-outside-office-hours
@@ -308,6 +310,7 @@ rule-9-simplify-your-language
 rule-10-seek-and-embrace-feedback
 rule-11-read-it-yourself
 foreign
+do-i-need-to-write-in-perfect-english
 message-from-an-editor
 must-a-native-english-speaker-check-your-work
 so-if-not-a-native-english-speaker-who-should-do-it
@@ -498,3 +501,8 @@ concluding-section
 formatting
 must-do-check-list-before-submitting-your-thesis
 mistakes-people-make
+the-history-of-the-thesis
+the-oldest-theses
+a-modern-definition
+regional-peculiarities
+final-submission

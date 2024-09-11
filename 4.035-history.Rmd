@@ -1,0 +1,49 @@
+
+# The history of the thesis
+
+In this guide on how to write a PhD, I often refer to your thesis as a product that is more than the sum of its parts. The modern thesis is usually made up of a series of studies, each of which can be submitted for publication in a scientific journal, but that are related through a logical framework. Later, in Part III, I will discuss the importance of your thesis conceptualisation and how this can be used to pull your chapters together into a coherent argument. 
+
+This idea of a 'coherent argument' is at the heart of the history of the term thesis, which was defined by Aristotle in his treatise: Topica (384–322 BCE).
+
+> **Thesis** comes from the Greek word "θέσις", meaning to put forwards, and referred to laying out an intellectual proposition. Aristotle being the first philosopher to define the word.
+
+We have other words that we use for the way in which Aristotle used the word thesis, such as supposition, conjecture or hypothesis. But Aristotle's use of the word was specifically for the use of a contrary viewpoint to another that was held by the general populous or by another philosopher.
+
+Although this historical context appears far from our use of the term 'thesis' today, you can still see how a modern thesis is used to test previous general assumptions or specific viewpoints. In the same way that the original thesis argued the case against these views, a modern thesis holds them up to greater scrutiny, and then through a set of inductive reasoning, discusses the veracity of their validity. Perhaps more importantly, the history of the term stresses how the thesis needs to come together into a conherent synthesis that can be presented to an audience. From the origin then, a thesis was a coherent concept, and not a set of related ideas or findings. In the same way, your thesis needs to be pulled together to produce a sum that is greater than the constituent parts.
+
+Another word that is commonly used is dissertation, and today the terms thesis and dissertation are used interchangeably. However, the origin of the term dissertation is later than that of thesis:
+
+> **Dissertation** comes from the Latin word "dissertātiō", meaning "discussion". 
+
+Hence, from the origin of the two terms we learn that the thesis puts forward an concept that may challenge a commonly held viewpoint, while a dissertation is more focussed on discussion of the concept. Perhaps this later term allows for a more balanced and less biased view from the author where the outcome of the study is logically considered against the background of previous findings and thought. Either way, the history of these terms is helpful for you as the author of a thesis in that it helps you see how what you are producing is a synergistic synthesis of studies which produce a coherent and discursive viewpoint gained from your years of scholarly work, and presented to an audience for consideration.
+
+### The oldest theses
+
+Although we should expect that the libraries at the oldest universities should hold theses from their students dating back to medieval times when the majority of oldest currently extant universities began, this is not the case. 
+
+For example, at the University of Oxford (established around 1200 but teaching since 1096), the library informs us that they have only been requiring PhD theses to be deposited since 1920, and this did not become compulsary for some subjects until 1953 (see [here](https://www.bodleian.ox.ac.uk/collections-and-resources/theses-and-dissertations/oxford-theses)). Hence, the tradition of keeping theses, and maintaining a resource of the knowledge gained during years of academic study, is relatively modern and certainly within the last 100 years. 
+
+Prior to these times, PhD theses were submitted to publishers for publication as books, a tradition that continues to this day in some subject areas. Hence, you might be able to find the published version of a university thesis that dates back beyond 100 years, but you won't know what students worked on what theses where and when. 
+
+The university thesis as we know it today, is a relatively new concept and does not have the ancient history that we might expect of our oldest scholarly institutions. I find this quite surprising, but perhaps this is just naivety on my part. After all, peer review has only been in existence for for a similar amount of time. Digital (and hence available online) theses have only become a requirement for less than 20 years, and so even my PhD only exists as a paper copy on a shelf in a university library (although I'll admit that I've never looked for it).
+
+Perhaps the take home message here is that you should not be too caught up in the pomp that your institution (likely) holds around their great tradition of theses submission. And there is no great reason why we should not evolve and update the PhD thesis that is something more worthy of the 21st Century. 
+
+## A modern definition
+
+The ISO (the International Organization for Standardization) defines a thesis / dissertation in ISO 7144 as: 
+
+> Document which presents the author's research and findings and submitted by him in support of his candidature for a degree or professional qualification. [@iso1986iso]
+
+The document looks very interesting and has the potential to be of great use especially if you feel that your institution is not giving sufficient guidance in the preparation of your thesis. Most countries adhere to ISO standard (look for your country [here](https://www.iso.org/about/members)). ISO 7144 is, however, secured behind a paywall and therefore not free for you to access unless you want to pay for the privaledge. Yet another example of why paywalls are never a good idea (see Part II).
+
+## Regional peculiarities
+
+Wikipedia has a list of how theses differ depending on which country you are in, and even which region of which country (see [here](https://en.wikipedia.org/wiki/Thesis)). Although this may help you to see how different countries treat the thesis, the best place to look for information on your thesis is the faculty in which you are registered at your own university. Because universities confer the degree of PhD to those who pass their requirements, it is up to each university to provide their particular standards, which are likely to differ between faculties. You should be able to request a guidebook for your own institution from the faculty office or your library. This document should trump any other opinions given to you from others, and you should definitely be using it when it comes to the final preparation of the thesis that you are going to submit for your PhD. 
+
+## Final submission
+
+It is important to note that your thesis is not finished until you have made the final submission to your institution. This process is normally handled by the library, but you can only receive permission to submit a final thesis after you have undergone the examination process and your faculty's dean is happy for your final submission. 
+
+Your university library is the final resting place for your thesis, where it can **rest in peace**. 
+

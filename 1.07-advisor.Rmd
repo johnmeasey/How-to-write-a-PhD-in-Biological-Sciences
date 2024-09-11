@@ -1,0 +1,195 @@
+# Navigating the student-advisor relationship {#advisor}
+
+
+It is widely acknowledged that a good relationship between a PhD student and their advisor is pivotal to the success of the student's research and to successfully obtain their PhD timeously [@gill2008student; @masek2017establishing; @abdullah2012relationships; @mainhard2009model]. Note that here and elsewhere I refer to this person as an advisor and not a supervisor ([see here](#advisor)). If this person were your supervisor, then it would be their project and you would be under their supervision. Instead, the reality is that [your PhD is your project](#Responsibilities) and they are [providing you with advice](#Take-advice). 
+
+This chapter aims to provide you with advice on navigating the student-advisor relationship. Over the course of your PhD, you will likely work closely with this person. You may well see them every day. I hope that you will share the [ups and downs](#celebrate) of your project together, and ultimately the success of getting your PhD, and [publishing your results](https://howtopublishscience.org/index.html). Because there is so much importance wrapped up in this relationship, you do need to approach it with some care and professionalism. Of particular note is the inherent [power imbalance](#power-imbalance) in your relationship, making it different from many other types of relationships. Hopefully, there will be no problems for you at all, but it is worth making provision for problems from the outset because problems between advisors and their PhD students are not uncommon. I hope that this chapter will provide you with enough information to start and continue your relationship with your advisor on the best terms possible.
+
+In this chapter, I am going to assume that you have already chosen your advisor. Earlier, in [Part 1](#what-to-look-for-in-an-advisor), I explained what to look for in an advisor. Once you have started your PhD studies, it is unlikely that you will have the option to change advisors easily, so this chapter will focus on the dynamics of the relationship with this particular person.
+
+
+## Expectations {#expectations}
+
+One of the most important aspects of the student-advisor relationship is the expectations that each has about what the relationship should be like. For example, if you have already had an advisor for your MSc or undergraduate research project, then as a student, you likely have some experience of what this relationship can be like. However, it is important to remember that, just like elsewhere in life, the relationship you have with your new PhD advisor may not be like the relationship you had with your previous advisor. These expectations are particularly important at the outset of the relationship, as it is during this time that you will make the impressions that guide your advisor onwards. Similarly, your initial impression of your advisor will likely be important for your view of them. 
+
+From the outset, you need to understand what your expectations should be, and perhaps equally important what they should not be. These ideas are loosely based on several papers on this topic, each of which might be worth your reading if you are looking for different viewpoints and perspectives [@gill2008student; @masek2017establishing; @abdullah2012relationships; @mainhard2009model], and you can find them listed under responsibilities. 
+
+**Your advisor should:**
+
+ - Support and advise you with your project 
+ - Have time and space to meet with you to discuss your project. At the start, I would try to make such meetings regularly (e.g. every week or two weeks), so that you can both have some regular regime with clear deliverables
+ - Provide a critical appraisal of your ideas and plans: these are both positive and negative, but more important is that they are reasoned feedback with explanations that allow you to understand each comment. At the start of your PhD, many of your meetings are going to be about planning and the practical side of doing the work ahead. Your advisor should have experience in these aspects, or be able to point you where to go, and you will be on a steep learning curve to catch up.
+ - Read and comment on written work that you produce. Although this will likely come later in your relationship, you should expect that your advisor is willing to read and comment on what you have written and that this is done within an agreed time frame. If you have regular meetings, then the time between meetings is a logical period for this kind of feedback. There will be lots of caveats here because academics are busy people and some times of the year are especially busy. You will nearly always be the person who needs to remain flexible on timelines, but planning will go a long way toward managing your own expectations here. If you know that there is a deadline for comments a particular piece of written work, like a grant application, then be explicit about this before you hand it in and work with your advisor and their schedule. In my experience, the time taken to read a piece of written work, be it a literature review or a chapter draft, is a common reason for the upset of PhD students. Some difficulties can be ameliorated through meeting notes (see [below](#s-a-agreement)).
+
+**As a student you should:**
+
+ - [**Take ownership of your PhD**](#Responsibilities)
+ - [Adhere to the scientific ethic](#Respect-and-Professionalism)
+ - [Practice good time-management](#Time-management)
+ - [Communicate effectively](#Communication) 
+ - [Take advice seriously](#Take-advice)
+ 
+Each of these ideas is discussed in more detail below.
+
+
+### Keep your expectations real
+
+Don't expect that you are going to be best friends with your advisor. It is known that student-advisor relationships that become too friendly are less productive [@hockey1995getting]. One of the reasons why advisors don't become best friends with their students is that often they simply don't have the time [@mccallin2012postgraduate]. The demands on the time of a typical academic are so great that they likely don't have much time or energy to take their relationship with you beyond anything professional, even if they wanted to. It may well be that you do form a great friendship, but this will likely only happen if you start with a professional relationship and mutual respect. Relationships take time, and it is important to start professionally. This does not mean that you should be cold, unkind or unfriendly. On the contrary, the best professional relationships include warmth, friendliness and kindness. If you have to have a single watchword for your relationship with your advisor be kind. Try reading the views of Howells et al. [-@howells2017role], the need-supportive relationships Of Janssen et al. [-@janssen2021sensemaking], and the impact of gratitude on the student-advisor relationship or that of Lundgren and Osika [-@lundgren2021cultivating] on gratitude. I prefer to ask people to concentrate on kindness, because all of us understand what it means to be kind, and we should all be able to bring kindness with us to our workplaces.
+
+
+### Student-advisor agreements {#s-a-agreement}
+
+Many departments or faculties have student-advisor agreements that are there to help both parties. They should be modified and signed at the beginning of your PhD time. Take this task seriously. Hopefully you will never need to go back and look at this agreement as your relationship with your advisor will be professional and productive. [But in the case of difficulties](#advisor-go-wrong), you can go back to this and know exactly what was agreed to by both parties, and this may help you judge on whose side the relationship has failed. 
+
+Having a student-advisor agreement at the start of your PhD can be very useful in future, and if this is not practised in your department, then you may want to suggest adopting a generic one. Even if they don't like your idea, it might be worth you finding one that you can use with your advisor. This becomes especially important if you think that there could be a potential [Conflict of Interest](#CoI) in future.
+
+### Other students and postdocs in the group
+
+While it is a very good idea for you to have good relationship with everyone in the group, I suggest that it is not a good idea to immediately start asking the opinion of different group members about your shared advisor(usually the group PI). The reason is that each member of the lab will have their own relationship with this person, and this may have little bearing on yours. You will likely hear if there are general observations that people share, but these may not be constructive. 
+
+Consider how this situation would be in any other relationship forming experience that you have in your life. When you first meet someone that you expect to spend constructive time with, discussing this person with other people that they know is less of a priority than making good impressions and spending time as constructively as possible with that person. For example, if I have a new doubles partner in a tennis competition, I should be most interested in spending time training with them to learn about their strengths, than going to other people in the tennis club and discussing their weaknesses. This is not to say that you should not form a relationship with other people in the group, this will also be an important part of your work dynamic. Just like other relationships in life, you will have individual relationships with others in the group, and then you will have a relationship with the group as a whole. Group dynamics are often very different from relationships you have with individuals in the group.
+
+
+
+## Power imbalance {#power-imbalance}
+
+Your advisor holds the power to influence your career progress. Navigating the power dynamic between PhD students and their advisors can be challenging, as supervisors typically hold more authority and experience in academia. Many academic institutions still have a hierarchical ethos that the most senior academics should never be questioned. This is clearly problematic from the outset, and if your advisor is a senior academic who has become habituated to this kind of high-power status, then the results for many of their students can be disastrous [see @malaga2004meyer;@abbott2004junior; but also see @vences2004meyer for alternative viewpoints]. Essentially, the situation is very similar to that of [bullying](https://howtopublishscience.org/bullying.html), which is quite prevalent in academia [see @measey2022how]. 
+
+One particular outcome, that is not unique to this situation, is the divide and conquer tactics that are used by some academics whereby they have favoured and non-favoured lab members. My PhD advisor used this against all of the people in his lab so that individuals could be in favour one week, and condemned the next. It was a toxic workplace environment in which this PI was not only our PhD advisor, but also Head of Department and he used this additional power to quash any dissent. Suffice it to say that I am more than aware of what can happen when student-advisor relationships turn bad, and our purpose here is to try to ensure that it never gets that bad.
+
+
+### Relationships between advisors and their students
+Many institutions forbid any of their staff to have consensual relationships between their staff and students. This is especially true for advisors and their students due to the power imbalance inherent in this relationship. Where these do occur, they can lead directly to conflict within the relationship [see @gunnarsson2013experience] and the workplace [@secunda2004getting]. According to Gossett and Bellas [-@gossett2002you], when prohibitions on relationships do occur, there are three principle reasons given: 
+
+ 1. The power asymmetry between professor and student
+ 1. The potential for favouritism or nepotism
+ 1. The negative effect on the scholarly environment
+
+But the matter remains controversial as noncoercive relationships between professors and students do happen [@gossett2002you]. 
+
+### Conflicts of interest {#CoI}
+
+In certain situations, a conflict of interest (CoI) may arise between the student and advisor [see @macdonald2009supervisor]. Measey [-@measey2022how] has covered the issue of CoIs in academic publishing in some detail, and it would be worth reading these examples to get an idea of the potential problems. Several of these examples include conflicts of interest between advisors and students. This is a potentially very serious issue, and I have heard of some truly terrible examples. Sadly, because of the power imbalance inherent in the relationship, it is almost always the student that comes off worst in these situations. The arbitrators in any such disagreement are usually the institution, and they may also be within the same CoI - especially if money is involved. 
+
+Each situation is likely to be individual, and so it will be difficult to hand out any general advice. However, if you have a signed student-advisor agreement, which includes the issue of a CoI, then you may be able to use this to bolster your case with your institution in the occasion of a disagreement. If your advisor is involved in fraud, then there should be a mechanism within your institution whereby you can report them. You may need to seek advice both inside and outside of your institution before taking this step.
+
+
+## Communication
+
+Communication breakdowns are not unusual between individuals, especially if both parties are under a lot of pressure and stress. You have a responsibility to make your communication as effective as possible. If you are experiencing difficulties in communicating with your advisor, try for [more regular meetings](#advisor-meet) with more formal note taking and agreements on deliverables. Make notes at the meeting, deliver these afterwards in the form of an email with the agreed deliverables listed. Bring this with you at the start of the next meeting. 
+
+Be open and honest about the challenges you're facing, including difficulties with meeting agreed deliverables. Most advisors will be more than happy to accommodate you if you are clear about what you need in order to finish the task. Remember that your requests have to be realistic, and that you need to be considerate with other demands that your advisor may have on their time.
+
+
+### Cultural differences
+
+It is possible, and perhaps even likely, that you and your advisor come from different cultures. Academics are famously mobile and often work in countries and cultures that are not their own. Similarly, students often go overseas to study and so can end up with an advisor that is not from their own culture. Although it is difficult to provide specific guidance here, both parties need to be aware of potential cultural differences. For example, if your culture as a student means that it is inappropriate for you to say "no" to your advisor, if they are from another culture they may not be sensitive to this and think that you are agreeing to everything they suggest. The key will be communication. Communicate as honestly as you can and ask for clarification if you feel that your advisor has been unclear.
+
+## Meetings {#advisor-meet}
+I suggested above that you arrange to have regular meetings with your advisor, but it is important that you are proactive on what these meetings are about and follow up with notes. Always take your lab notebook (or a special meeting book) with you to the meeting so that you can make notes on the advice given, as well as being able to go back to look at what was agreed last time. As an advisor, I often get frustrated that students come with no notebook to a meeting and instantly forget all the advice they are given, only to return with the same set of issues the following meeting. 
+
+You should also think about having an agenda for your meeting (a list of points that you need to discuss). I like the idea of having a set meeting agenda where the topics inside it change, but the format is similar from meeting to meeting. You can see an example of this in Table \@ref(tab:advisor-agenda)
+
+Table: (\#tab:advisor-agenda) **A typical agenda for a regular meeting with your advisor.** Although the subject of each topic may change for each meeting, the items are likely to follow a standard pattern. 
+
+| Agenda item | Examples of what this could consist of |
+| - | ----- |
+| Catch up | Provide a quick summary of what you have been up to since the last meeting, be sure to emphasise any key realisations (e.g. from your reading) or results (e.g. from experiments). By discussing these insights, it will help you both to align your current thinking on a topic, and quickly get to a more insightful level. This should also be the most lively part of the meeting where you can exchange ideas and get enthusiastic. |
+| Tasks agreed during the last meeting | Using your notebook, go through the tasks that were agreed (on both sides) and report back on any deliverables. |
+| Feedback on work submitted | Although feedback will often be given as comments on a piece of writing, it is helpful to get some verbal feedback that might give you a much better overall feeling. It will also allow your advisor to highlight points that they think are particularly important and gloss over others that are less significant. |
+| Problems and possible solutions | Never put this item first. As an advisor, there's nothing worse than someone starting a meeting with all their problems. It sets the tone for the meeting and tends to drag it down. Remember that this is your project (and they are only advising) so the problems are yours (not theirs) and they are there to provide advice. Whenever you discuss a problem try to come up with a possible solution, or more than one. It is much easier to provide advice to someone who has already started to think about how to solve it than being expected to come up with a solution. For your part, it will be much more satisfying if your proposed solution turns out to coincide with the best advice. | 
+| Tasks before the next meeting | Remember to make notes on any deliverables that are agreed upon during the meeting. At the end of the meeting, read these out and make sure that you have it right. You are looking for agreement on each of these. Also, ask your advisor if there's anything extra that they think you've missed. In the case that you are struggling with getting feedback on deliverables from your advisor, you may want to write them an email summary of the meeting with the agreed deliverables so that there is a record. You don't need to start doing this at the outset of your relationship, but after 4 to 6 months you should know if this is needed. |
+
+Having regular meetings with your advisor will also help you to avoid any competition that there may be for their time. As we saw in the last chapter, there are only a certain number of hours in the day and your advisor is going to want to free themselves from most meeting commitments as possible. This means that you need to keep your meetings, short, productive and enjoyable. 
+
+
+
+## Responsibilities
+
+Knowing who has what responsibilities in your student-advisor relationship is key to avoiding potential troubles. Certainly, in my experience the most misunderstood responsibility is that the student believes (wrongly) that the project that they are doing belongs to their advisor. This failure to take ownership of their work has a snowballing effect and tends to enter into every part of the student-advisor interactions. From the student side, they see every difficulty and problem with the research as something that they give to the advisor to solve. From the advisor's side, the student appears to take the role of a child and appears incapable of doing anything for themselves. Once this negative spiral starts, it will not end well for either party. No matter how many times the student is told that they need to take ownership of their work, they never appear to understand and, speaking for myself, this has resulted in the worst student-advisor interactions I have experienced. For this reason, the number one responsibility must be for the student to:
+
+**Take ownership of your PhD**
+
+Once this has happened, everything else follows without much difficulty. 
+
+Advisor responsibilities are:
+
+ - To give advice and feedback in a timely manner
+ - Provide the resources needed to complete the project (or at least guide towards resource provision in the case where students are raising their project funding)
+ - See that all necessary administrative details are carried out. Nobody likes this aspect, and this does not mean that the advisor does all of this work - they may ask the student to help, or there may be an administrative assistant. In many institutions, timing is very important and forms must be completed and submitted by certain dates otherwise penalties may well be incurred. It is better if the student is also aware of these dates so that they can place them in their calendar. 
+ - Not to burden the student with duties that are beyond their role. This can be complicated if the student is employed by the advisor (e.g., as a demonstrator or as a research assistant on a project), but I hear of nightmares where advisors effectively have students take over the running of their laboratories and the other personnel within them. Either party should be able to ask for help with things that are outside the purview of the project, but there are real examples of abuses that I find distressing. 
+ - Help build a network for their students. Networks are extremely important for students when they move on from their PhDs, and even within this time [see @measey2022how](https://howtopublishscience.org/advisorless.html). The more your advisor understands your [plan](#Plan), the more likely they are to help you build an appropriate network. 
+ - Professional development is very similar to building a network, but this may include training in particular skills. As above, your advisor can only do this if they understand your [plan](#Plan) and what your future needs will be.
+
+Additional student responsibilities:
+
+ - Be sufficiently well-organised and manage their own time (in meetings and other areas)
+ - Communicate effectively
+ - Be pro-active with [time-management](#time), finding solutions, and 
+ - Carry out their project to their satisfaction. 
+ - **The most important point will always be for you to: Take ownership of your PhD**
+ 
+### Time management {#Time-management}
+
+Time management is perhaps one of the most important skills that you will learn during the course of your PhD (see [Part I](#time)). For much of your PhD period, your time will be your own to do with as you see fit. But in order to complete your PhD project on time, you will need to work in an efficient manner. There is a separate chapter on [time management](#time) and a lot of advice on the internet, but the most important point will be to find a style that works for you. Different people will swear by what works for them, but time management is an individual relevant skill that is not necessarily transferable. Find what works for you best as soon as possible, and then plan [the total duration of your PhD studies](#whole-period) and [day-to-day calendar](#day-plan) accordingly.
+
+With respect to your advisor, remember that they will also be managing their time and that they are likely to have a lot of additional commitments. They also only have a certain number of hours in the week to fulfil all of these commitments. This means that you will need to be flexible in accommodating them and fitting into their times. Then, when you do [meet with them](#advisor-meet), you need to make sure that you make the most of the time available. 
+
+
+## Respect and Professionalism
+
+Your relationship with your advisor is a professional one. They are a professional, and they have many more duties than advising you and you should respect this. At the same time, they have a professional duty to your supervision. I suggest that you maintain a professional relationship with them whenever possible. This relationship should be built on the respect that you have for one another. The more that you display a professional relationship with your advisor, the more likely it is that they will treat you back with mutual respect and professionalism.
+
+Both advisor and student should share the same goals which adhere to the four tenets of the scientific method: rigour, independence, transparency and reproducibility. 
+
+
+### Take advice {#Take-advice}
+
+The key responsibility of your advisor is to advise you. They are in that role because they have experience, and they will bring this experience into play when they give you advice. If you are given advice, please consider it. Don't simply reject the advice immediately after it is given. If you think carefully about the advice and decide to act against it, bring this up as a discussion point in a meeting and be ready to defend your decision. 
+
+There are plenty of times when you are safe to not take advice that you are given by your advisor, but you should always carefully consider it. This is most common towards the end of your studies when you know far more about the project than your advisor does. When your advisor cannot accept a disagreement on their advice, this can lead to serious problems [see @gunnarsson2013experience] and you may need to go back to your student-advisor agreement. Most advisors should be sufficiently wise to allow you to not follow their advice. But there will be some occasions when you cannot go against the advice. For example, if the funds for your project have been raised by your advisor and they are responsible to the funder, then you do not have the freedom to decide how they will be spent. Similarly, if deadlines are in play for your advisor then you need to respect their professional responsibilities to others. 
+
+In general, your student-advisor relationship exists because your advisor is there to give you advice on how to achieve your project goals. If you never have any intention of following any of the advice that they give you, then you misunderstood the relationship.
+
+
+### Personal problems
+
+Everyone has their own personal problems, but it is not fair to bring all of them to the workplace unless they are likely to impact your work. I have started with this as a statement as students often find it hard to decide what personal problems they need to bring to their advisor. Simply ask yourself, is this problem likely to affect my work? If the answer is yes, then inform your advisor. When you inform them, be aware that it is your problem (and not theirs), and make sure to point out to them as precisely as you can how you think it will affect your work. Advisors are also human, and they are likely to understand. But you shouldn't be hoping for more than understanding. You can't look to your advisor to help solve your personal problem. 
+
+**Of course, this goes both ways.** 
+
+Advisors are people too. They make mistakes. They have limited hours in the day. They have lives outside of academia that can influence their lives inside (feeling sick, family issues, holidays, etc.). There will be days when your advisor might be in a bad mood; maybe it's a day when they didn't get the research funding they had applied for. There will be many external frustrations for them, and this is unlikely to be a reflection on you. Be kind and considerate. It is worth taking time to share their down times, if they are willing to, at the very least so that you can understand them a little better.
+
+
+There will be times when the home life of your advisor may impinge on their responsibilities to you. When they tell you, they are looking for your understanding. Be kind to your advisor as you would want them to be kind to you.
+
+## When things do go wrong {#advisor-go-wrong}
+
+There are many possible courses of action open to you, but my best advice is to know what these are before anything bad happens. Just like protecting your [mental-health](#healthy), you can be proactive to know what your options are in the case of your student-advisor relationship going bad. The best is to have a signed [student-advisor agreement](#s-a-agreement). In addition, you can find out what provision your institution has made in such eventualities. If they have no formal schema (which seems unlikely these days), then you can try to have one instigated by taking a template from another institution. 
+
+Advice for when things go wrong with your advisor is very similar to that of [academic bullying](https://howtopublishscience.org/bullying.html) [@measey2022how; @mahmoudi2021filling; @mahmoudi2020survivor; @malaga2004meyer]:
+
+1. Increase your level of professionalism.
+1. Ask for your institutional rules.
+1. Document your case.
+1. Share your burden with a trusted friend or colleague.
+1. Follow your university’s rules with your complaint.
+
+I want to emphasise point 1 on the above list. While you may not be the cause of this problem, the best way of tackling it will be to become extra-professional. This means becoming meticulous about documenting [your interactions](#advisor-meet), and maintaining a high level of professionalism as you do so. The more you increase your level of professionalism, the less likely your badly behaved advisor will be able to get away with abusing their power.
+
+
+## Having more than one advisor
+
+This happens with increasing frequency, and disputes between advisors can leave the students in the middle with serious problems [see @gunnarsson2013experience]. I have experienced these kinds of issues with students who are co-supervised by another academic. When the academics disagree about the way forward, I tell the student that they have had advice from both advisors and that it is now up to the student to decide which advice (if either) to follow. I don't see this as a problem. But not all academics are the same!
+
+In the case that you do find yourself in a position with two advisors then I suggest that you make sure that you have [an agreement](#s-a-agreement) with both of them that includes what to do in these situations. 
+
+
+## Celebrations
+
+I hope that there will be lots of reasons for you to celebrate with your advisor and the rest of your team. Celebrating achievements is a really important part of working together, even if the achievement is simply that you have survived another year. If there is no existing tradition of celebrating in your lab, then it's time for you to start one.
+
+### Share the down times
+
+While I hope that there will be lots of reasons for you to celebrate, we should not pretend that there will not be down times when things don't work and people get frustrated, upset and disappointed. It is important to share these times too so that people understand why you might not be at your best on any particular day. Don't keep it to yourself. If you and your advisor can be kind to each other, and take the time to commiserate the down times as well as share the successes, then you will likely have a good productive relationship.
+

@@ -1,0 +1,86 @@
+# Keeping track of your mental health {#healthy}
+
+Stress is a natural part of life and many people are at their most productive when they are under some degree of pressure, such as a deadline. Although deadlines don’t work for everyone. 
+
+>Douglas Adams famously claimed: 
+>
+>“I love deadlines. I like the whooshing sound they make as they fly by.” 
+
+Problems arise when we become overwhelmed by stress and are unable to fully respond. When this occurs, productivity can drop off and survival responses can be triggered as if responding to an actual physical attack. These responses include fight, flight or freeze responses. Anxiety and panic can be triggered. In this state, additional demands on your time may also push your life off balance, so that you start to neglect your personal well-being which can negatively impact on relationships, exercise regime, or even nutrition and personal hygiene. Some people can find that the additional stress can cause physical symptoms that may even need medical treatment [see @zhong2019depressive]. Your sense of competence and mastery can be negatively impacted such that you may even suffer from feelings of inadequacy or imposter syndrome ([see part 2](#fear)). These types of pressure tend to be low at the start, and increase during your time as a postgraduate student [@cheng2020suicide].
+
+Although there are not many studies on mental health for PhD students, those that exist (as well as surveys: [Nature 2019](https://www.nature.com/articles/d41586-019-03459-7)) all suggest that there is a significant toll, which is proportionately higher than for others in society [@levecque2017work]. Whatever your prior experience of stress in a working environment, academia is known to be particularly stressful, and as a PhD student, you are likely to absorb a significant amount of this stress into your own life [@stubb2011balancing; @cheng2020suicide]. 
+
+The General Health Questionnaire (see GHQ-12 in Table \@ref(tab:GHQ)) is an instrument used to measure psychological distress. It is quick, reliable and simple to score, so you can use it at any time during your PhD studies as an indicator of whether you need to reach out to personal, occupational or professional support networks. 
+
+Right now, I suggest you complete the GHQ-12 (Table \@ref(tab:GHQ)) and record your answers as a baseline. Keep the scores somewhere safe. During the course of your PhD, if you feel that your scores may have changed, take the test again and compare them with your baseline scores. Although there are no hard rules, if three or more of your scores have moved by two or more points it could be worth discussing with your [support network](#support) to help you decide whether or not to seek professional help.  
+
+Table: (\#tab:GHQ) **A General Health Questionnaire with 12 questions (GHQ-12) that you can use to keep track of your mental health.** Answer the questions in this table now, and compare your answers to answers in your future when you are feeling more under strain. Write down any explanations you have for your choice of answers.
+
+| General Health Questionnaire: Have you recently... | 0 | 1 | 2 | 3 |
+|-|-|-|-|-|
+| been feeling reasonably happy, all things considered? | Better than usual | Same as usual | Less than usual | Much less than usual |
+| lost much sleep over worry? | Not at all | No more than usual | More than usual | Much more than usual | 
+| been feeling unhappy and depressed? | Not at all | No more than usual | More than usual | Much more than usual |
+| felt you couldn’t overcome your difficulties? | Not at all | No more than usual | More than usual | Much more than usual |
+| felt under constant strain? | Not at all | No more than usual | More than usual | Much more than usual | 
+| felt capable of making decisions about things? | Better than usual | Same as usual | Less than usual | Much less than usual |
+| been able to face up to your problems? | Better than usual | Same as usual | Less than usual | Much less than usual | 
+| been thinking of yourself as a worthless person? | Not at all | No more than usual | More than usual | Much more than usual |
+| been losing confidence in yourself? | Not at all | No more than usual | More than usual | Much more than usual | 
+| been able to enjoy your normal day-to-day activities? | Better than usual | Same as usual | Less than usual | Much less than usual |
+| been able to concentrate on whatever you are doing? | Better than usual | Same as usual | Less than usual | Much less than usual |
+| felt that you are playing a useful part in things? | Better than usual | Same as usual | Less than usual | Much less than usual |
+
+  
+
+Even if you don't feel you need the support of your institution now, it is worth finding out how they can support your mental health in the future if needed. Although there has been some stigma attached to difficulties with mental health in the past, most institutions accept that pressures are mounting on postgraduate students and that they may require support. Most institutions have experienced councillors available to support you if needed. Importantly, you should realise that none of these symptoms are unusual and that there is a high probability that many of your colleagues may also be struggling. Knowing that your problems are shared and reaching out to support networks early is an excellent way to prevent them from escalating beyond your control. 
+
+A study into the mental health of PhD students in Belgium exemplifies the kinds of difficulties that they face when compared with other similar groups (@levecque2017work; Figure \@ref(fig:Mental-health)). 
+
+(ref:Mental-health) **How does the mental health of people in different sectors compare?** A comparison of the mental health of PhD students [data from @levecque2017work] with highly educated general population, highly educated employees and higher education students using the General Health Questionnaire. The Risk Ratio (RR: adjusted for age and gender) in PhD students in Flanders, Belgium, is consistently higher (>1) when compared to any of the other surveyed groups.
+
+```{r Mental-health, echo=FALSE, out.width='80%', fig.cap="(ref:Mental-health)"}
+ knitr::include_graphics("figures/Mental-health.png")
+```
+
+
+No matter how well you think of your own abilities to cope with mental health issues, doing a PhD will cause you additional stress and can trigger maladaptive coping mechanisms. Learning how to cope with additional stress early in your career can be beneficial for future personal development.
+
+Academia is recognised as a particularly stressful environment; you will likely take on some of this environmental stress in addition to any stress associated with your studies. Additional stressors come from home and family situations. Your best means of coping will be to try and develop a [support network](#support) and to understand where and with whom you can discuss any difficulties as they arise. Knowing who this is and how and when to approach them will put you in a stronger position if you need them in future.
+
+## Support network {#support}
+
+The people in your life make up your support network. Each person will have a different role, and not everyone in your support network will be able to support your mental wellbeing. For example, some of your colleagues at work might be in your support network for using equipment or doing statistics, but you may find that these sample people do not necessarily understand you as a person. People in your support network for your mental wellbeing are likely to consist of your close friends, family and those colleagues at work that you find a special connection with (i.e. new friends). 
+
+You should identify your support network, and even place a tag next to their name in your contacts. Once you know who they are, you should also let them know that they are important to you, and that you may in future come to them to discuss issues around your mental wellbeing during your PhD studies in the future. It is important that they know that they have this role for you, and more often than not you can offer to fulfil this role for them in a reciprocal manor. 
+
+During the course of your PhD, you should make sure that you take the time to check-in with your support network and let them know how things are going. This means sharing the good times as well as the bad times with them. If the only contact you make with them is when things get really bad, you are likely to find that they don't have a sufficient connection with you to help get you back on track. When you make contact with people in your support network, don't forget that they also require support from you. Inquire about how they are doing and be prepared to spend time sharing your respective highs and lows. Each time you invest time in your support network it will grow that relationship and deepen the level of support that you can hope to receive when you need it.
+
+## Being physically active improves mental wellbeing
+
+The positive relationship between the amount of physical activity and higher mental well-being is well established [e.g. @grasdalsmoen2020physical; @gerber2014increased], but the kind of exercise required to achieve this improved result is varied. For example, a study of college students showed that an hour of Thai Chi twice a week for 3 months was enough to have significantly improved physical and mental health scores [@wang2004effects]. Increased levels of physical activity were also found to be associated with improved sleep quality in another study [@ghrouz2019physical; @gerber2014increased]. There are plenty of studies out there that suggest there are multiple benefits from physical activity. 
+
+If you don’t do it already, then when you start your PhD start regular exercise. Getting fit was the best thing I ever did to improve my work. The first thing I found was that I could sit and concentrate on work for longer. Before I got fit, I was constantly distracted and needed to take lots of breaks. Now I find that my concentration is much better and that as my fitness stamina increases, so too does my ability to concentrate. 
+
+It is important to note that exercise is not about creating some perfect body image that you might see on social media. A useful tool to help think about the importance of exercise for your body came from from Stutz and Michels' [-@stutz2022tools] Life Force model in which they proposed that your life force is equivalent to a pyramid. The bottom of the pyramid represents your relationship with your body which is equivalent to 85% of the life force pyramid area (Figure \@ref(fig:life-force)). Working on this component consists of sleep, diet and exercise. The second part of this pyramid has your relationships with other people, both personal and in your work context. Lastly, your mental health (your relationship with yourself) sits atop these other components and is supported by them. Working on the lower components of the pyramid will support your mental health, but you can also work directly on your mental health through, for example, mindfulness and meditation. Stutz goes on to explain that writing is a way to enhance your relationship with yourself. This might explain why some people find writing their thesis a very positive experience, but also gives us another way in which we can think about writing and ourselves.
+
+(ref:life-force) **A model to understand the importance of your body in connection to your mental health.** In this model from Stutz and Michels [-@stutz2022tools] you see the body taking up 85% of the area of the pyramid, on which rests your relationships with other people and finally your mental health on top. Maintaining your mental health therefore rests on your body receiving enough sleep, a good diet and exercise.  
+
+```{r life-force, echo=FALSE, out.width='50%', fig.cap="(ref:life-force)"}
+ knitr::include_graphics("figures/life-force.png")
+```
+
+
+## Time to think
+
+I used to think that the time I spent exercising was unproductive with respect to work. Now I have begun to realise that this represents some of my best thinking time. I use the time I spend trail running to turn ideas over in my head and especially to [think](#thinking) through the logic in arguments, and potential flaws in experimental design. This isn’t to say that I don’t need to put time in at the computer writing it all down, or talking through ideas with colleagues. But I find the meditative time I spend exercising to be especially productive. Don't take my word for it, see this great book by Caroline Williams [-@williams2021move]. In this book it is emphasised that exercise might not mean sport, but simply taking a walk or another aspect of self propelled movement. Actively seek out the activities that work best for you in order to [think](#thinking) or [reflect](#reflection). Once you know what they are, [plan](#time) to use them to optimise your thinking time.
+
+## Balancing work with life
+
+Having already told you that doing a PhD might unbalance you mentally, regular exercise is a really good way to make sure that you retain that balance with life [see @hotaling2018publishing]. By life, I'm referring to everything away from your academic work. This might include family, friends, sport, hobbies (even fishing). If you don't have friends outside your academic life, then it would be a good idea to find some so that you can keep in contact with the 'real world'.
+
+Non-working time (e.g., holiday time) is also important in order to keep you productive during your PhD. You should not be working every day from beginning to end. Try to save at least one day every week work-free so that you can rest and spend time with friends and/or relatives. During busy times you might have to sacrifice this day, especially when you are working in the field or attending a conference. But you should make up this shortfall when times are less busy. You also need a real holiday when you take a break from your PhD work altogether at least twice every year. 
+
+If you already exercise, then you likely know how important this is. But if you don’t then, my best advice (above anything else that you might read in this book) is to start as soon as you can. Do whatever is right for you. If you don’t already know, then try out different clubs or activities at your institution. There are normally lots to choose from. Make sure that you schedule regular time for your activity, even if that means that you run in the mornings before field work starts, or you spend your evenings doing tai-chi on the beach after a day at sea doing research on dolphins. Take your exercise with you wherever you go for your studies. Take it as seriously as you do your studies and you’ll find that both will benefit. 
+
+Once you have a healthy body, I found that there are all sorts of things that go along with this. The desire to fill it with healthy food resulted, and this later tied in with my interest in the gut microbiome. I now have many fermented foods in my kitchen, and the consequent improvement of my digestive system. I could go on, but I’ll spare you. Instead, I just want to emphasise that I consider that not only will your quality of life improve, but so will your work if you include regular exercise as part of your PhD regimen.

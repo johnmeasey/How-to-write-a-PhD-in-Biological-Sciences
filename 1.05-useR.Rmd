@@ -1,0 +1,31 @@
+# Upskilling {#useR}
+
+Some 30 odd years ago, as an undergraduate, I was told that I would have to use computers in one of my 2nd year courses. The thought filled me with dread and I remember putting off going into the computer room for as long as I could. It was a steep learning curve, and I struggled. As my only previous experience had been with a typewriter, each time the cursor got to the end of the screen I hit the 'carriage-return' button. And each machine had an odd white device attached called a mouse, and I had no idea what that did. All this seems quite preposterous now, but imagine embarking on a PhD in biological sciences without reconciling yourself to using a computer. 
+
+It is obvious now that in order to conduct your work you are going to need skills in lots of tools. Some of these tools will be niche, but others will be universal and extend beyond your thesis into your world after graduating. The message of this chapter is that you may well find that there are skills that you need to learn during your PhD studies that you feel some initial aversion to. You may have a physical aversion to, for example, using a pipette in a lab or dissecting a euthanised animal. Or this could be some kind of skill such as programming in R or Python. 
+
+Reconciling yourself to learning new skills, even when you have an aversion, will be something that you come across time and again in life, and not just while you are doing a PhD. Because doing a PhD is a time-limited goal orientated process, you will need to quickly overcome your aversion and ulimtately this will help you in future life.
+
+
+
+## When to invest your time in learning a new skill {#upskilling}
+
+ Early adopters can either end up putting in a lot of effort and then finding that their effort is misplaced, or finding that they are ahead of the curve and that everyone else needs to catch up. 
+
+Knowing whether or not to invest your time in learning a new skill is difficult. I suggest that you try to find out more about exactly how much time you might need to invest, and exactly how wide or narrow this new skill might be of use in the future. 
+
+If your advisor tells you that you must learn this particular tool or skill, then you need to reconcile yourself to doing it. Remember that learning a new skill gives you more than that particular talent. Learning skills helps your brain become more flexible and adaptable to learning in the future [@chang2014reorganization]. 
+
+Whatever aversion you may have to learning this new skill, you will need to approach it with professionalism, and put aside any prejudice that you may have. Use your [time management](##Time-management) skills to carve a small piece out of every day to learning your new skill. This starts with being aware when in the day you learn best, and being aware of all the other commitments you have together with how this one will rank. 
+
+### Example: Learning to write code in R
+In the early 2000s, R (@rcoreteam2024language) was relatively unknown, but a few pioneering individuals had spotted the advantage to using it in their own work (especially to help with repeatability). For those early adopters I am sure that their investment in learning R has paid off.
+
+If you are not already aware of the prominence that R now has in conducting statistical analyses in biological sciences, then you’ve missed out on a great deal. The real point here is not that you can use R, but that R represents a platform on which analyses can be easily repeated, and by saving and making the code available together with your data, you are making your data analyses reproducible. We will see elsewhere the importance of reproducibility in sciences [@baker20161500], and the critical role this has in transparency and, therefore, best practice. 
+
+What is perhaps most remarkable about learning R is the freedom it gives you away from large amounts of commercial software. As a basic programming language it can be used for statistical analysis, drawing figures, conducting geographic information system (GIS) level work, and even as a word processor on which to write your thesis [and indeed this book @xie2016bookdown]. 
+
+If you already know all of the above, then you won’t face any major barriers, and you will fit into the new and more transparent world of science with great ease. If the thought of using R fills you with dread, in the same way that using a computer did for me some 30 years ago, then you should reconcile yourself now before you go any further. Learning R will be a steep learning curve, but it will be made easier by the large amount of excellent video tutorials and online courses that are available. 
+
+## And learning lots of other stuff
+The same principle that I’ve written about above can be extended to all sorts of other aspects of your PhD project. You will have to learn new skills, and some of these will be things that you have previously resisted having to do. Allow yourself to be open to all aspects of learning, and all skills. The act of learning opens new pathways in your brain, and using this ‘muscle’ will facilitate future learning exercises. 

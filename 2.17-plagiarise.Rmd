@@ -1,8 +1,110 @@
 # Making sure that you don’t plagiarise {#plagiarise}
 
-Plagiarism is when you copy somebody else's work. We're most familiar with plagiarism of writing and these days this is especially easy with the copy and paste function. Most people are not even aware that they have plagiarised because sometime in the past they copied and pasted the work of somebody else into a document and this later became incorporated into their text without them being aware of it. 
+Plagiarism is when you copy somebody else's work. We're most familiar with plagiarism of writing and these days this is especially easy with the copy and paste function. Whether the source is the internet, a published (or unpublished) paper, or a translation of something written in another language, if you copy someone else's work and paste it into your own this is blatant plagiarism.
 
-Plagiarism is a problem because, essentially, you are taking somebody else's work without attributing it to them. 
+When finding that there is plagiarism, I find that most people are not even aware that they have plagiarised. I think that this is because at some point in the past they copied and pasted the work of somebody else into a document and this later became incorporated into their text without them being aware of it. If this is your style of writing, then I suggest that you move away from copy and paste mistakes as it can land you in a lot of trouble. Rather make your own notes. 
+
+Plagiarism is a problem because, essentially, you are taking somebody else's work without attributing it to them. However, blatant plagiarism is only one of several kinds of plagiarism, and it is important that you know all of the different kinds of plagiarism so that you know how to avoid it. Studies of postgraduate students have found that although all are familiar with blatant plagiarism, more subtle plagiarism is not understood by all [@shen2021chinese].
+
+It is really easy to avoid plagiarism. Follow these three easy steps (Table \@ref(tab:plagiarise)).
+
+Table: (\#tab:plagiarise) **Three simple steps to avoid plagiarism.** Follow these three simple steps to avoid plagiarism in your work. 
+
+
+|  Step 1 | Step 2 | Step 3 |
+| ----- | ---- | ---- |
+| Read the text written by someone else from which you want to draw inspiration from | Make basic (not detailed) notes on this written work | Put the original work out of sight, and using only your notes write out your own work |
+
+There is one final **Step 4** to the above Table \@ref(tab:plagiarise), and that is whether or not to [cite](#citations) the work that you have just used. Citations are the topic of another chapter (see [here](#citations)), and you should be familiar with what constitutes a citation and what doesn't. If you are taking an idea that is first provided in this specific text, and you are re-writing that concept, then you will need to cite the original work. If you are using someone else's writing as an inspiration for your own work, then it may or may not require a citation, and you will need to read the chapter on citations (see [here](#citations)) in order to judge. 
+
+Let's try looking at an example:
+
+**Example: Darwin's survival of the fittest**
+
+> "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change, that lives within the means available and works co-operatively against common threats." ~ Charles Darwin [-@darwin1859origin]
+
+If you want to use Darwin's idea, then you could re-write the concept above, but then you would need to cite Darwin for this idea. As follows:
+
+**My text:** Darwin [-@darwin1859origin] stressed that it is individuals that are most adaptable to change who will survive, rather than the strongest or most intelligent of the species.
+
+But let us suppose that you came across this idea not from reading the original text of Darwin [-@darwin1859origin], but from another author who was writing about the same concept.
+
+> "Darwin proposed that the capacity of organisms to produce more offspring that can be supported by the environment would lead to a struggle for existence, and individuals that are most fit for survival and reproduction would be selected through natural selection."  ~ Samuel A. Cushman [-@cushman2023entropy]
+
+If this was the text that inspired you to use the concept, you should not cite Cushman [-@cushman2023entropy] for the idea, nor should you use any of his text. Instead, I'd suggest that you go back to Darwin [-@darwin1859origin], and take your inspiration from there.
+
+To take this to another step, I asked [ChatGPT](https://chat.openai.com/) to rewrite the text of Chushman [-@cushman2023entropy]. 
+
+**ChatGPT text:** Darwin suggested that when organisms produce more offspring than their environment can sustain, it triggers a competition for survival. Through natural selection, the individuals best adapted for survival and reproduction are favored.
+
+While the text provided by ChatGPT is not wholly incorrect, there are some subtleties that are worth inspecting. For example, the term "survival of the fittest" was coined by Herbert Spencer [-@spencer1882principles], not Charles Darwin and there is some consensus that Spencer's [-@spencer1882principles] use of this term was not completely aligned with that given by Darwin [@offer2014natural]. It appears that Chushman [-@cushman2023entropy] linked Spencer's term to Darwin's [-@darwin1859origin] concept by using the word "fit", which is commonly the case. However, ChatGPT uses "best adapted for survival and reproduction" which is our modern definition for fitness, but not what Darwin [-@darwin1859origin] originally wrote: "the strongest... [and] ...the most intelligent". The point here is that when you cite the original text, you should go back to this text, and seek out what the author wrote and intended, not a later citation or interpretation. 
+
+Next, when you are wanting to cite an original text, you are often interested in the variables that have been investigated in that written work (see [Part II](#hypothesis)). In the example of Darwin (above) this would be the variables strength and intelligence, and if your variable was reproductive fitness you would need to explain how this was derived from Darwin's [-@darwin1859origin] original concept. Of course, you could opt to use the original text in quotation marks and cite the text (and page) where this was from. However, this is not always appropriate, so you should get used to writing your own text about other people's findings, concepts and ideas.
+
+The other point about the ChatGPT text is that while it does not plagiarise Darwin [-@darwin1859origin] or Chushman [-@cushman2023entropy], we do not know if it has plagiarised other text from its input data: text from the internet which is mostly derived from original input by human authors (see chapter on AI [here](#AI)). Moreover, as increasing amounts of text on the internet will be derived from AI, we have no idea how skewed and misrepresentative AI generated text will become. 
+
+
+There is more to plagiarism than meets the eye, and it is important that you have a good understanding of what plagiarism is as many postgraduate students only appear to understand the most blatant kind of plagarism when making a verbatim copy of someone else's text [@shen2021chinese].
+
+## The different kinds of plagiarism
+
+It is important to know what plagiarism is, so that you know how to avoid it. While almost everyone understands that they must not use other people's work verbatim, it is also important to know that other more subtle forms of plagiarism. 
+
+### Blatant or verbatim plagiarism
+
+This is when you 'copy and paste' someone else's work and pretend that it is your own. Note that even if you didn't use the copy/paste functions, if you have incorporated someone else's written work into your own text, then this is plagiarism. This includes using a translated version of work in another language. 
+
+### Paraphrasing
+
+Some students will copy an entire sentence and then change one or two words; this is known as paraphrasing and is also plagiarism. Subtle variations on this including switching the order of the clauses in a sentence and substituting some words with synonyms. The essence of paraphrasing is that you start with the verbatim form of plagiarism, and you are then attempting to engineer some differences by remixing this content. Instead you should take the three easy steps (Table \@ref(tab:plagiarise)) and write it yourself. Remember that you may need a citation (see above).
+
+
+
+
+**What follows are more subtle forms of plagiarism:**
+
+
+### Failure to attribute 
+
+If someone else wrote pieces of your thesis and you do not attribute their input, this is plagiarism. There are many people that could help with your writing, such as friends, lab mates, or your advisor. But if you then pass this work off as your own, it is plagiarism. 
+
+With failure to attribute plagiarism, it is not as simple as stating that some text was written by your friend or lab mate. This is not an option. When you submit your PhD, you will declare that the work is your own and that you have written all of it. 
+
+There is another form of failure to attribute plagiarism when you employ a third party to write your thesis for you. This process is often referred to as a "[paper mill](https://howtopublishscience.org/authors.html#papermills)" [@measey2022how]. Even if you paid this person and they gave you permission to use the text in your thesis, it is still plagiarism. 
+
+#### Is it plagiarism if an AI bot writes it?
+I would also place the use of AI as a form of failure to attribute plagiarism. Currently, we are moving into the new territory of AI generated text. You can not use AI generated text (e.g. ChatGPT or Bard) in your PhD or in manuscripts submitted to journals as it is prohibited. Most institutions make you sign a declaration that you will never do this. You can read more on this topic in another chapter [here](#AI).
+
+#### Avoiding failure to attribute plagairism
+
+Avoiding failure to attribute plagiarism is just the same as avoiding blatant plagiarism (see [below](#anitplagiarise)). Don't copy and paste their work. Do read it, do make notes, but then put it out of sight and write your own work (see Table \@ref(tab:plagiarise)). 
+
+#### What is co-authored work makes up part of your thesis?
+Many theses are made up of multi-authored papers. The reason for this is that different people in the author line contribute different aspects of the paper. If you are in the situation where one of your chapters is partly written by your co-author, what should you do?
+
+The reality is that when you submit such multi-authored work as part of your thesis, you should also have an opportunity to declare who did what in the manuscript (see the CREDIT Contributor Checklist [here](#credit)). You should have written the original draft, including all of the text. While other members of the author line have have read and reviewed your work, they should not have written any of the sections themselves. If they did, then you should take follow the three easy steps (Table \@ref(tab:plagiarise)) and turn it into your own writing. 
+
+### Autoplagiarism
+
+I would maintain that there is not really any grey area in plagiarism. So what are people talking about when they refer to a grey zone? The nominal grey zone within plagiarism comes when you copy your own text, this is sometimes referred to as 'text-recycling', 'self-plagiarism' or 'autoplagiarism'. A new guideline from Hall et al. [-@hall2021understanding] sets out the different types of grey plagiarism, or text recycling:
+
+#### Developmental recycling {#develop}
+
+Developmental recycling is when you are reusing text that you have written for example between your proposal and something you intend for publication or in an ethics application that you also want to use in your thesis. All of this sort of developmental recycling is permitted and actually encouraged. I would further encourage you to use the opportunity of recycling this text to develop it and refine it further, condensing and improving where you can. 
+
+#### Generative recycling {#generative}
+
+Generative recycling is where you take pieces of already published text for example from the methods when it does not make sense to change the text or actually makes it more obscure to reword it in order to avoid plagiarism. In my experience this doesn't amount to more than a few sentences describing technical settings on equipment. However this will depend strongly on your own subject area and may amount to larger chunks of text. I suggest that it is usually possible to reword most of the methods sections of papers. You should really only be generatively recycling material if you cannot avoid it: i.e. when the text becomes more obscure by your attempts to reword it. 
+
+#### Adaptive recycling
+
+Adaptive recycling is where you are using published text as the basis for a different type of content (e.g. a popular article online, a magazine, or op-ed). I think that this kind of text recycling is quite unnecessary because you almost certainly need to reword your text for a different audience. There maybe times such as figure legends where you need to reuse text that was already published. If you do find yourself in such a position then check with the copyright owner of the material that you are able to reuse the text that you want without legal issues.
+
+#### Duplicate recycling
+
+Duplicate recycling (also known as 'manuscript recycling') is where large tracts of texts are essentially the same for the same message and audience. This is never likely to be sanctioned as it suggests that you are attempting to publish the same work twice. It will not be legal or ethical. Manuscript recycling is a bigger problem in other subject areas, notably economics [@geraldi2021self-plagiarism], publishing issues in economics appear to need a lot more professionalism. 
+
+
 
 ## How to know if you have plagiarised
 
@@ -28,7 +130,7 @@ knitr::include_graphics('figures/plagiarism.png')
 
 This is not to say that no 5 or more words can ever be the same as someone else's. There are situations in which this happens. Think of addresses, quotes, certain laboratory equipment or protocols, and certainly references at the end of your paper. So there are many times when TurnItIn will come back with matching text. This is not what we're looking for in plagiarism.
 
-## Free online plagiarism tools
+## Free online plagiarism detection tools
 
 If your institution doesn't subscribe to a plagiarism tool, then you can check your work online free using one of a number of tools available. There are advantages and disadvantages to each, so I suggest that you try them out, and see which suits your needs best. 
 
@@ -45,48 +147,33 @@ It's remarkably easy to remove plagiarism from your work.
 __Here's what you do:__
 
 - Read the sentence that has been plagiarised several times to yourself. 
+- Make a few notes about the meaning of the text, so that you don't need to look back at it (avoid using the same words)
+- Move the original text away so that you cannot see it
 - Now without looking at that sentence, write another sentence that has the same meaning. Because it's very hard to replicate somebody else's words without copying them, what you should find is that you've written a fresh unplagiarised sentence. 
 - This can now be added to your text, changed as appropriate to fit your existing text. And that should be the end of your plagiarism worries.
+
+This can be summarised into three easy steps (see Table \@ref(tab:plagiarise)).
 
 __Here's what not to do:__
 
 - Take the sentence swap out some of the words for synonyms and pass it off as your own. 
 - The sentence will still have the same structure that you copied and, essentially, this is still somebody else's work. Moreover, TurnItIn will still recognise this as plagiarism.
 
-## Is it plagiarism if an AI bot writes it?
-Currently, we are moving into the new territory of AI generated text. Whether or not you can use AI generated text (e.g. ChatGPT or Bard) in your PhD or in manuscripts submitted to journals is an open question. You can read more on this topic in another chapter [here](#AI).
 
-## How can you make sure that you never plagiarise?
+
+## How can you make sure that you never plagiarise? {#anitplagiarise}
+
 Quite simply, if you never cut and paste, you won’t plagiarise. It’s that easy. I understand why people copy and paste as a way to get started, or because someone else has written something so well, it’s hard to believe that you could ever write it any better. But actually, you can write it just as well, and writing it in your own words is worth so much more.
 
-Don’t forget that the penalty for plagiarism in your thesis might well be that you fail.
+Don’t forget that the penalty for plagiarism in your thesis might well be that you fail. More than that, you could lose your place at the university or even your job [@ruiperez2016plagiarism; @tatalovic2017croatia]. 
 
 It still seems amazing to me when I submit a student manuscript to TurnItIn and see that it is completely free of any plagiarism. There are so many words in English, and so many different ways of putting them that you really can have your own writing style. Your writing style will be as unique to you as a fingerprint, and it will be entirely free of plagiarism. It's something you can celebrate.
 
-Want to read more about plagiarism to understand what it is: see Louw [-@louw2017defining] 
 
-## What is autoplagiarism?
 
-I would maintain that there is not really any grey area in plagiarism. So what are people talking about when they refer to a grey zone? The nominal grey zone within plagiarism comes when you copy your own text, this is sometimes referred to as 'text-recycling', 'self-plagiarism' or 'autoplagiarism'. A new guideline from Hall et al. [-@hall2021understanding] sets out the different types of grey plagiarism, or text recycling:
+## In summary - just don’t plagiarise
 
-### Developmental recycling {#develop}
+Plagiarism is the unattributed use of other people's work. It is not simply the copying of other people's text verbatim. There are many forms, and you need to be aware of the extent of that which is considered to be plagiarism in order to avoid it.
 
-Developmental recycling is when you are reusing text that you have written for example between your proposal and something you intend for publication or in an ethics application that you also want to use in your thesis. All of this sort of developmental recycling is permitted and actually encouraged. I would further encourage you to use the opportunity of recycling this text to develop it and refine it further, condensing and improving where you can. 
+The simple way around plagiarism is not to copy any of your own text (self-plagiarism) or any of anybody else's. This is, as I've explained above (see Table \@ref(tab:plagiarise)), relatively easy because as long as you use your own words, you should be plagiarism free. The temptation will always be great to go and copy the text that has been used before. But be aware that, however grey, this is plagiarism and you should not do it.
 
-### Generative recycling {#generative}
-
-Generative recycling is where you take pieces of already published text for example from the methods when it does not make sense to change the text or actually makes it more obscure to reword it in order to avoid plagiarism. In my experience this doesn't amount to more than a few sentences describing technical settings on equipment. However this will depend strongly on your own subject area and may amount to larger chunks of text. I suggest that it is usually possible to reword most of the methods sections of papers. You should really only be generatively recycling material if you cannot avoid it: i.e. when the text becomes more obscure by your attempts to reword it. 
-
-### Adaptive recycling
-
-Adaptive recycling is where you are using published text as the basis for a different type of content (e.g. a popular article online, a magazine, or op-ed). I think that this kind of text recycling is quite unnecessary because you almost certainly need to reword your text for a different audience. There maybe times such as figure legends where you need to reuse text that was already published. If you do find yourself in such a position then check with the copyright owner of the material that you are able to reuse the text that you want without legal issues.
-
-### Duplicate recycling
-
-Duplicate recycling (also known as 'manuscript recycling') is where large tracts of texts are essentially the same for the same message and audience. This is never likely to be sanctioned as it suggests that you are attempting to publish the same work twice. It will not be legal or ethical. Manuscript recycling is a bigger problem in other subject areas, notably economics [@geraldi2021self-plagiarism], publishing issues in economics appear to need a lot more professionalism. 
-
-## Overall - just don’t plagiarise
-
-The simple way around this problem is not to plagiarise any of your own text (self-plagiarism) or any of anybody else's. This is, as I've explained above, relatively easy because as long as you don't copy and paste any text you'll find it very hard to actually use somebody else's words. However it can get a little bit tricky when you are writing the materials and methods section of a paper, and especially when that paper uses exactly the same materials and methods as a previous paper. The temptation is great to go and copy the text that you've written before. But be aware that, however grey, this is plagiarism and you should not do it.
-
-The likelihood is that because you're using the same names and their relationship is staying fixed as shown in the example above in materials and methods you are more likely to come up with text that a piece of software like turn it in will show is plagiarised even when it isn't.

@@ -9,6 +9,7 @@ fig:Mental-health
 fig:life-force
 tab:advisor-agenda
 fig:Criticalreading
+fig:regular-writing
 fig:Hypothesis
 fig:TypeITypeII
 fig:HighlyUnlikely
@@ -18,6 +19,8 @@ fig:20PowerHyp
 fig:Introfunnel
 tab:Tinbergen
 fig:JeschkeHagar61
+fig:outline
+fig:outline-fleshed
 fig:synonym
 tab:argument
 fig:Storytelling
@@ -37,8 +40,6 @@ fig:Gantt
 fig:preregistration
 fig:conflicted
 fig:formula
-fig:outline
-fig:outline-fleshed
 fig:Data-management
 fig:key-word-selection
 fig:formula-concept
@@ -85,7 +86,7 @@ remember-to-include-time-to-be-healthy
 thinking
 displacement
 to-do-lists
-multitasking-is-a-myth
+multitasking
 priority-activities
 academic-writing
 critical-reading
@@ -189,7 +190,11 @@ write-every-day
 remember-your-critical-reading
 reflection
 use-one-of-the-best-time-slots
+the-space-in-which-you-write
 when-you-havent-read-enough
+dont-allow-yourself-to-get-stuck
+aims-and-outlines
+polising
 be-disciplined
 lifescientific
 example-invasive-species
@@ -221,6 +226,12 @@ bigidea
 so-where-would-we-find-these-big-ideas
 tinbergens--tinbergen1963aims-four-questions
 a-hierarchy-of-hypotheses
+outline
+modifyoutline
+next-flesh-out-the-outline-with-citations
+an-outline-for-your-paragraph
+lastly-its-time-to-write-the-text
+keep-your-outline
 paragraph
 topic-sentence
 supporting-sentences
@@ -437,9 +448,6 @@ goodenough
 formula
 so-what-is-the-formula
 my-take-on-how-to-write-a-formula-paper
-start-with-an-outline
-next-flesh-out-the-outline-with-citations
-lastly-its-time-to-write-the-text
 data
 should-the-cloud-be-the-only-copy-of-your-data
 backing-up-in-the-field

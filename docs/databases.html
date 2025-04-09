@@ -423,10 +423,9 @@ div.csl-indent {
 <li class="chapter" data-level="23.2" data-path="databases.html"><a href="databases.html#keywords"><i class="fa fa-check"></i><b>23.2</b> Keywords</a>
 <ul>
 <li class="chapter" data-level="23.2.1" data-path="databases.html"><a href="databases.html#boolean-terms-or-operators"><i class="fa fa-check"></i><b>23.2.1</b> Boolean terms or operators</a></li>
-<li class="chapter" data-level="23.2.2" data-path="databases.html"><a href="databases.html#example-of-shiny-app-for-boolean-logic"><i class="fa fa-check"></i><b>23.2.2</b> Example of Shiny App for Boolean Logic</a></li>
-<li class="chapter" data-level="23.2.3" data-path="databases.html"><a href="databases.html#proximity-operators-and-parentheses"><i class="fa fa-check"></i><b>23.2.3</b> Proximity operators and parentheses</a></li>
-<li class="chapter" data-level="23.2.4" data-path="databases.html"><a href="databases.html#wildcards"><i class="fa fa-check"></i><b>23.2.4</b> Wildcards</a></li>
-<li class="chapter" data-level="23.2.5" data-path="databases.html"><a href="databases.html#combining-searches"><i class="fa fa-check"></i><b>23.2.5</b> Combining searches</a></li>
+<li class="chapter" data-level="23.2.2" data-path="databases.html"><a href="databases.html#proximity-operators-and-parentheses"><i class="fa fa-check"></i><b>23.2.2</b> Proximity operators and parentheses</a></li>
+<li class="chapter" data-level="23.2.3" data-path="databases.html"><a href="databases.html#wildcards"><i class="fa fa-check"></i><b>23.2.3</b> Wildcards</a></li>
+<li class="chapter" data-level="23.2.4" data-path="databases.html"><a href="databases.html#combining-searches"><i class="fa fa-check"></i><b>23.2.4</b> Combining searches</a></li>
 </ul></li>
 <li class="chapter" data-level="23.3" data-path="databases.html"><a href="databases.html#moving-items-into-your-reference-manager"><i class="fa fa-check"></i><b>23.3</b> Moving items into your reference manager</a></li>
 <li class="chapter" data-level="23.4" data-path="databases.html"><a href="databases.html#citations-1"><i class="fa fa-check"></i><b>23.4</b> Citations</a>
@@ -837,13 +836,13 @@ div.csl-indent {
 <p><strong>Struggling to define your own keywords?</strong> Help is at hand with a new workshop designed specifically to enable you to determine your own keywords specific to your study, and set up a citation alert from your favourite database (click <a href="https://johnmeasey.github.io/Thesis-Writing-Guide/keywords.html">here</a>).</p>
 <div id="boolean-terms-or-operators" class="section level3 hasAnchor" number="23.2.1">
 <h3><span class="header-section-number">23.2.1</span> Boolean terms or operators<a href="databases.html#boolean-terms-or-operators" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>There are three principle Boolean operators: AND, OR and NOT.</p>
-</div>
-<div id="example-of-shiny-app-for-boolean-logic" class="section level3 hasAnchor" number="23.2.2">
-<h3><span class="header-section-number">23.2.2</span> Example of Shiny App for Boolean Logic<a href="databases.html#example-of-shiny-app-for-boolean-logic" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Below is a Shiny app that visualizes the Boolean logic between sets. Use this to better understand how the AND, OR, and NOT operators work in practice (See Figure <a href="#fig:shinyapp"><strong>??</strong></a> for the interactive model):</p>
+<p>There are three principle Boolean operators: AND, OR and NOT.
+### Example of Shiny App for Boolean Logic</p>
+<p>Below is a Shiny app that visualizes the Boolean logic between sets. Use this to better understand how the AND, OR, and NOT operators work in practice (see below):</p>
 
-<pre><code>## [1] &quot;&lt;iframe src=\&quot;https://johnmeasey.shinyapps.io/shiny_app/\&quot; width=\&quot;100%\&quot; height=\&quot;800px\&quot; style=\&quot;border:none;\&quot;&gt;&lt;/iframe&gt;&quot;</code></pre>
+<div class="figure" style="text-align: center;">
+<p><iframe src="https://johnmeasey.shinyapps.io/shiny_app/" width="100%" height="800px" style="border:none;"></iframe></p>
+</div>
 <p>You should use these to combine a string of keywords. They are relatively straightforward to use:</p>
 <ul>
 <li>Use AND when you want both terms included. For example, <em>performance AND lizards</em>. In this example, all papers that mention performance AND lizards in the title, abstract or keywords are returned.</li>
@@ -851,14 +850,14 @@ div.csl-indent {
 <li>Use NOT when you specifically want to exclude a keyword. Following our example above, the search term <em>performance AND reptiles NOT snakes</em> should give you all performance papers on lizards, but you may want to exclude turtles and crocodilians as well if they have a lot of hits. <em>NOT</em> is a powerful operator and needs to be used with caution, as it could exclude some relevant hits. In our example here, an item about interactions between snakes and lizards would be excluded.</li>
 </ul>
 </div>
-<div id="proximity-operators-and-parentheses" class="section level3 hasAnchor" number="23.2.3">
-<h3><span class="header-section-number">23.2.3</span> Proximity operators and parentheses<a href="databases.html#proximity-operators-and-parentheses" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="proximity-operators-and-parentheses" class="section level3 hasAnchor" number="23.2.2">
+<h3><span class="header-section-number">23.2.2</span> Proximity operators and parentheses<a href="databases.html#proximity-operators-and-parentheses" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>You can also use the term NEAR to indicate that two terms need to occur within a specified number of words. For example, <em>performance</em> NEAR/5 <em>reptile</em> will capture items where these terms occur within 5 words of each other, but no greater. This might be useful to exclude some papers that mention performance and reptiles in the abstract but are not about reptile performance.</p>
 <p>Once you start putting together search strings you will need to use brackets to make sure that the correct terms are grouped. For example, <em>performance</em> AND (<em>lizards</em> OR <em>geckos</em>) will get what we described above, whereas (<em>performance</em> AND <em>lizards</em>) OR <em>geckos</em> will give you all papers on lizards and performance plus all papers on geckos (not what we wanted).</p>
 <p>Explore the advanced search options of the specific database that you are using to see the correct semantics needed for a search.</p>
 </div>
-<div id="wildcards" class="section level3 hasAnchor" number="23.2.4">
-<h3><span class="header-section-number">23.2.4</span> Wildcards<a href="databases.html#wildcards" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="wildcards" class="section level3 hasAnchor" number="23.2.3">
+<h3><span class="header-section-number">23.2.3</span> Wildcards<a href="databases.html#wildcards" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Most literature databases allow you to search using different wildcards. These are *, $ and ?. These can be placed at any point within a search term and help overcome differences in spelling, or families of words that you may want to capture or exclude in your search.</p>
 <ul>
 <li>Use * when you want to replace a set of letters at the end of a word. For example, _reptil*_ will return all terms including Reptilia, reptile and reptiles.</li>
@@ -866,8 +865,8 @@ div.csl-indent {
 <li>Use $ when there is more than a single letter that might change within a word, or the omission of a letter. For example, <em>colo$r</em> will return both US and UK spelling, color and colour, respectively. Note that Scopus doesn’t use the $ symbol as a wildcard: for this example you can use ? instead.</li>
 </ul>
 </div>
-<div id="combining-searches" class="section level3 hasAnchor" number="23.2.5">
-<h3><span class="header-section-number">23.2.5</span> Combining searches<a href="databases.html#combining-searches" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="combining-searches" class="section level3 hasAnchor" number="23.2.4">
+<h3><span class="header-section-number">23.2.4</span> Combining searches<a href="databases.html#combining-searches" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Lastly, there is the option of combining searches, so that you can add search strings together or keep them apart. You will need to use the advanced search options in your database to do this.</p>
 <p>You will need to carefully check your database for their precise semantics when using these Boolean operators in a search string. They are all slightly different, often using quotes around the keywords, and your search won’t work as you intend unless you are using the Boolean operators in the way the database dictates.</p>
 <p>Your specific search term may end up having a long list of terms. Remember to save this whenever you make a search, especially if you refine it during your studies. Most literature databases will provide the search string that you used together with the results. Check your search string carefully for possible spelling errors that could influence your search.</p>
